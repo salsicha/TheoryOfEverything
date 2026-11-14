@@ -1,22 +1,98 @@
 # Prologue — The Machine Waiting for Electricity
 
-**Status:** scene and argument outline. **Target:** 1,500–2,500 words.
+*The machine begins long before the switch is thrown.*
 
-## Opening and movement
+Imagine a data center whose computers have arrived before the electrical connection needed to run them.
 
-1. Begin with an explicitly illustrative data center waiting for power or another necessary connection. If a real location is later used, verify the situation, chronology, people, and physical details before reporting it. Do not invent an eyewitness visit.
-2. Move outward from a computational operation to chips, cooling, electricity, transmission, construction, maintenance, and labor. Avoid unverified energy figures. The point is the organized dependency behind the apparently self-contained machine.
-3. Ask what allows that network to continue tomorrow. Include contracts, permissions, skilled work, investment, and ownership alongside equipment. The computer belongs to a social organization as well as a physical circuit.
-4. Reverse the direction: could computation improve the design and operation of its supporting energy and productive systems? Introduce this as the book's AI hypothesis, to be evaluated in chapter 11. Do not let the prologue become a forecast of inevitable recursive acceleration.
-5. Show the missing steps between design and material achievement: testing, manufacture, installation, operation, and repair. A possible improvement must pass through all of them before it can support the next round of computation.
-6. Pull back into the book's question. What history connects physical structure, living organization, social production, and a machine able to assist in designing other machines?
+The racks stand in rows. Cables run between them. Equipment has been delivered, placed, and connected within the building. The software intended for these machines is ready to be loaded. There is a purpose for the hall, a plan for its operation, and a business expecting it to begin. Yet the connection for the planned load remains unfinished.
 
-## Function in the book
+The computers are waiting for something outside the computers.
 
-Give the reader a concrete reason to care about the whole argument. Establish the resource that exists but cannot yet be used as a recurring motif. Save technical assembly theory for chapter 3, detailed social theory for chapter 9, and capability assessment for chapter 11.
+We need no particular company or location for this scene. Its unfinished connection makes visible a dependence that remains just as real when everything works. A completed installation can hide the history of its completion. A delay exposes the pieces that have yet to come together.
 
-Use ideas I01, I07, I09, and I43. The organizing image is dependency, not intelligence floating free of matter. Research a reported scene only if it adds something an honest illustrative example cannot.
+Stand in the aisle and follow a cable away from the equipment. The route eventually leaves the building. It joins a system of transformers, lines, generating equipment, controls, and work. The electricity required by the processors must be produced and delivered under conditions the installation can use. Once the machines operate, heat must be carried away. Computing equipment, power distribution, and cooling belong to the same practical problem.[1]
 
-## Last movement
+A purchase order can bring a server to the site. Bringing usable power requires a different chain of events. Equipment must be manufactured. Routes must be established. Connections must be designed, built, and tested. People with different responsibilities must make decisions that fit together closely enough for the whole arrangement to function.
 
-Turn from the enormous productive system to a small puzzle on a screen. Before asking whether machines can help build their own supports, ask what makes a difficult search tractable. Chapter 1 begins with the square whose possibilities have already been narrowed by the world around it.
+Energy may be available somewhere while remaining unavailable here. The missing thing is a pathway.
+
+That pathway is made partly of physical equipment and partly of organized commitments. A crew needs a schedule, access to the site, and the materials required for its work. A manufacturer needs specifications and an order it can fulfill. Someone must decide which costs will be paid and who will bear them. A signature does not conduct electricity, but a missing agreement can prevent a conductor from being installed.
+
+The building draws our attention because its boundaries are easy to see. The productive system crosses them. It reaches into workshops, mines, classrooms, households, and other workplaces. Its participants need food, rest, training, and the labor of other people. What looks like a collection of computers is one concentrated expression of a much larger organization.
+
+We can keep widening the view. The equipment used to manufacture a processor had to be manufactured. Its operators had to learn their work. The knowledge they use had to survive the people who first acquired it. At every step, the apparent starting point turns out to be an inheritance.
+
+No one standing in the aisle could build the entire system alone. That does not make the system mysterious. It makes its organization the thing we need to understand.
+
+Now let the imagined connection be completed. The equipment passes its checks, power reaches the installation, and the intended work can begin. Somewhere else, a person sends a request. A computation runs. An answer appears on a screen.
+
+For that person, the event may seem to occupy only the interval between asking and receiving. The physical preparation has disappeared from view. The interface offers a result without requiring its user to confront the material history of every operation behind it.
+
+But the history remains active. The machine can answer again because power continues to arrive, equipment continues to work, and people continue the tasks that keep the service available. The installation has not escaped its dependencies by beginning to operate. It has entered a new phase of them.
+
+To build a capability is to establish the conditions under which it can be exercised. To keep it is to reproduce enough of those conditions tomorrow.
+
+At this point, the obvious question concerns consumption. How much energy does the computation require? What equipment must be built? What resources and labor sustain it? Those questions matter. Yet if we stop with them, we miss the possibility that makes this particular machine interesting to a history of production.
+
+What if the request sent to the system concerns the infrastructure on which the system itself depends?
+
+An engineer might ask for help examining a design. A team might use computational tools to compare materials, identify a fault, forecast a load, or explore how a generating system could be operated more effectively. AI is being investigated and used across such energy and industrial tasks, with outcomes that depend on the application and the conditions of deployment.[2]
+
+The important possibility reaches beyond a machine consuming electricity to produce an answer. An answer might contribute to changing how electricity is generated, delivered, or used. Computation could help improve the productive organization that makes further computation possible.
+
+That is the loop this book asks us to investigate.
+
+Suppose, within our imagined example, a design team uses an AI system to propose a component for equipment serving an electrical network. The proposal appears promising. It could improve reliability, reduce a loss, or make some capability less expensive to provide. At this stage, however, it is a candidate in a design process. Its physical consequences remain to be established.
+
+A simulation can examine the proposal under specified assumptions. A prototype can expose difficulties the simulation omitted. Manufacturing can reveal that a theoretically useful shape is expensive to produce or that a material cannot be obtained with the required properties. Installation can introduce conditions absent from the model. Operation can reveal what repair will cost.
+
+Each stage supplies information and imposes constraints. A failure may end the proposal, or it may become part of the knowledge used to revise it. The productive achievement consists in getting a workable arrangement through that sequence and making its operation dependable.
+
+If the improvement succeeds, it could support additional activity. Some of the resulting capacity might be used for computation. That computation might contribute to another improvement. The loop becomes material when its results change what the next round of work can actually do.
+
+Its strength cannot be read from the speed of the first answer. A design may arrive quickly while a required component takes much longer to manufacture. A calculation may be repeated cheaply while a physical trial remains expensive. An organization can possess a workable proposal and still be unable to coordinate its adoption.
+
+The fastest operation does not set the pace of the whole process.
+
+Nor does additional computation automatically produce a net gain. The equipment and energy used to obtain an improvement belong in the accounting. So do failures, maintenance, and the other resources needed to put the result to work. A useful comparison asks what capability the whole arrangement creates and what it takes to sustain it.
+
+This is a conditional prospect with considerable stakes. If computational systems become more effective at helping build and operate energy and industrial systems, they could help enlarge the material basis of their own activity. If the necessary pathways remain blocked, impressive answers may accumulate without corresponding changes in production. The difference has to be investigated where designs encounter the world.
+
+People already use tools to make tools and knowledge to improve the production of knowledge. The proposed loop extends that history. What may change is the scale, speed, and organization of the modeling and search that can be reproduced through machinery. Whether that change becomes a major productive transformation will depend on more than the machines considered separately.
+
+It will also depend on who can use them and for what.
+
+Return to the unfinished connection. The proposed load is one claim on a system that serves other claims. Someone has to decide what will be built, how it will be financed, and which activities will receive the resulting capacity. The answers are organized through ownership, public authority, contracts, and bargaining. They do not emerge from the circuitry alone.
+
+The same is true of a successful improvement. Its physical capacity does not specify who receives its benefits. A cheaper operation can support wider access, increase an owner's income, or make a previously secure worker's position less secure. Several consequences can occur together. Their distribution belongs to the relationships through which production is organized.
+
+These relationships are part of the material world we are investigating. They shape where equipment is placed, whose labor is directed, and which possibilities receive the resources needed to become real. A history that follows only the devices will repeatedly arrive at a decisive event and discover that its explanation is outside the frame.
+
+This is why historical materialism belongs at the center of the book. Human beings produce and reproduce their lives through relationships with one another and through the powers they develop in the physical world. Understanding a productive system requires following both. The machine's dependencies lead us into society, and society's continuation leads us back into material work.
+
+Successful arrangements can also make their own replacement difficult. Skills become specialized around them. Investments depend on their continuation. Institutions learn to protect the activities they know how to organize. A capability that once opened a new path can become part of the structure closing other paths.
+
+The data center could participate in either movement. It could help develop alternatives or make an established organization more effective at preserving itself. Its sophistication cannot decide that question in advance. We will need a history of stability and conflict as well as a history of invention.
+
+The larger question begins to appear behind the equipment. How does an arrangement of matter acquire a capacity that changes the possibilities available to later arrangements? How can those new capacities become dependable enough to support further construction? And when does the organization sustaining them become an obstacle to change?
+
+These questions reach beyond computers. They invite us to examine a resource that exists before a living system can use it, a method of production that needs a particular social setting to spread, and an institution that repeatedly creates the conditions of its own survival. In each case, what has already happened changes what can happen next.
+
+The book will follow that relation through physics, life, technology, and society. The mechanisms differ, and those differences matter. A star does not persist as a factory does. An organism does not inherit its capacities in the same way that an institution preserves a practice. We will look for connections strong enough to explain something while keeping those distinctions intact.
+
+At the furthest edge lies a more speculative question. Could some of the physical conditions we take as given also be outcomes of development? Could a history of assembly illuminate more than the objects formed within the universe? Those questions cannot be settled by the existence of a computer. They require arguments and evidence of their own.
+
+For now, the waiting machine gives us a concrete place to begin. It contains capacities that will become effective only when other conditions are assembled around it. Once working, it may help change some of those conditions. It is a result of a material history and a possible participant in what comes next.
+
+We should not mistake the unfinished connection for the whole story. It is the point at which the story has become visible.
+
+Before following the cable farther, I want to turn to a much smaller problem: a Sudoku puzzle on a screen. It involved no new source of energy and no ambitious machine. I was trying to write a program that could fill the empty squares under a few simple rules.
+
+The problem forced me to reconsider what makes a possibility discoverable. An immense collection of imaginable arrangements can conceal a much narrower set of useful next steps. Understanding the difference changes how we see the work of finding an answer.
+
+The first question was where to look next.
+
+## Prologue notes
+
+1. The data center is an explicitly imagined scene, not a report about a particular installation. For its physical background, see Arman Shehabi et al., [2024 United States Data Center Energy Usage Report](https://eta-publications.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report), Lawrence Berkeley National Laboratory; and the International Energy Agency, [Energy and AI, executive summary](https://www.iea.org/reports/energy-and-ai/executive-summary) (2025), on electricity supply and grid connections. No consumption estimate or project forecast is used here.
+2. International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation), in Energy and AI (2025). The proposed component and subsequent productive loop are illustrative arguments of this book. They are not a claim that a particular AI system has completed that sequence or that sector-wide gains are guaranteed.

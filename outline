@@ -12,7 +12,7 @@
 
 **Reader and voice:** Write for a curious general reader who wants a connected argument and can follow technical distinctions when they are explained through examples. Use short original aphorisms as moments of compression. Build the surrounding narrative through scenes, mechanisms, objections, and consequences. Avoid invented dialogue, hindsight inevitability, and the lone-genius account of invention.
 
-**Working length:** approximately 65,000–80,000 words when fully drafted. Chapters 1 and 2 are complete first drafts; later scene development and revision can alter individual lengths. Chapters 3–12 contain writing plans rather than completed prose.
+**Working length:** approximately 65,000–80,000 words when fully drafted. The prologue and chapters 1 and 2 are complete first drafts; later scene development and revision can alter individual lengths. Chapters 3–12 and the epilogue contain writing plans rather than completed prose.
 
 ## Recurring questions
 
@@ -24,13 +24,13 @@ Three motifs carry the book: the constrained square, the resource that exists bu
 
 ## Prologue — The Machine Waiting for Electricity
 
-**File:** `prologue`. **Target:** 1,500–2,500 words. **Status:** outline.
+**File:** `prologue`. **Target:** 1,500–2,500 words. **Status:** complete first draft. **Ideas:** I01, I07, I09, I43. **Research:** S30–S31.
 
-Begin with an explicitly illustrative data-center scene unless a reported location can be verified. The visible computer depends on an extensive and unevenly visible system: generation, transmission, cooling, chips, construction, labor, and institutional decisions. Follow one computational operation outward into its material supports, without asserting unverified capacity or consumption figures.
+Begin with an explicitly imagined data center awaiting the electrical connection for its planned load. The visible computer depends on an extensive and unevenly visible system: generation, transmission, cooling, chips, construction, labor, and institutional decisions. Follow one computational operation outward into its material supports, without asserting capacity or consumption figures.
 
 Then reverse the direction of the question. Could modeling and design improve those supporting systems? Establish the proposed productive feedback without announcing an inevitable intelligence explosion. A drawing of a better machine is not yet a manufactured machine.
 
-End by asking what kind of history can explain matter becoming able to participate in designing the conditions of its own continuation. Chapter 1 supplies the method of inquiry. Keep the full ownership analysis for Part III and the actual AI capability assessment for chapter 11.
+Ask what kind of history can explain matter becoming able to participate in designing the conditions of its own continuation, then turn to the author's Sudoku programming problem. Chapter 1 supplies the method of inquiry. Keep the full ownership analysis for Part III and the actual AI capability assessment for chapter 11.
 
 ## Part I — The Assembly of Reality
 
@@ -228,6 +228,6 @@ End with a human-scale choice about inheritance and continuation. The book has a
 
 ## Editorial boundaries and next drafting order
 
-The full idea inventory and note coverage are in `ideas`; verified links and unresolved research are in `sources.md`. Draft chapters 3–4 next to extend the technical foundation established in chapter 2, then 5–8 to test the historical mechanism, then 9–12 to develop the synthesis. Draft the prologue and epilogue in full after the central argument has survived that process.
+The full idea inventory and note coverage are in `ideas`; verified links and unresolved research are in `sources.md`. Draft chapters 3–4 next to extend the technical foundation established in chapter 2, then 5–8 to test the historical mechanism, then 9–12 to develop the synthesis. Draft the epilogue in full after the central argument has survived that process, and revisit the prologue to reflect the completed argument.
 
 Keep historical scenes connected across chapters but avoid retelling them. Steam is previewed in chapter 1 and narrated in chapter 6; the factory is narrated in chapter 8 and interpreted socially in chapter 9; AI is posed in the prologue and evaluated in chapter 11. Preserve the source notes verbatim, and revise developed claims when evidence requires it.

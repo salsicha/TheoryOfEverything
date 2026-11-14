@@ -13,7 +13,7 @@ The original extensionless filenames are retained. They contain UTF-8 text with 
 | [notes](notes) | Original source notes, including unresolved and contradictory propositions | Preserved verbatim |
 | [ideas](ideas) | Expanded arguments, distinctions, objections, and note-to-chapter coverage | Development draft |
 | [outline](outline) | Full book architecture, chapter arguments, and narrative transitions | Expanded outline |
-| [prologue](prologue) | The Machine Waiting for Electricity | Scene and argument outline |
+| [prologue](prologue) | The Machine Waiting for Electricity | Complete first draft |
 | [chapter1](chapter1) | The Square with One Answer | Complete first draft |
 | [chapter2](chapter2) | The Universe That Tuned Itself | Complete first draft |
 | [chapter3](chapter3) | The Signature of Life | Detailed outline |

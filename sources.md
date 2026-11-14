@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during preparation and chapter 2 drafting on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for chapter 2, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas` and the chapter outlines; chapter 2 also has its own numbered notes.
+Sources checked during preparation and drafting of chapter 2 and the prologue on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for chapter 2, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas` and the chapter outlines; the prologue and drafted chapters also have their own numbered notes.
 
 ## S01
 
@@ -175,6 +175,18 @@ Supports the specific bound concerning gravitationally bound structures. The cha
 **A dynamical proposal.** Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551), *Physical Review Letters* 115 (2015), 221801; [full text consulted](https://arxiv.org/pdf/1504.07551).
 
 Chapter 2 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
+
+## S30
+
+**Data-center infrastructure and electricity connections.** Arman Shehabi et al., [2024 United States Data Center Energy Usage Report](https://eta-publications.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report), Lawrence Berkeley National Laboratory, report LBNL-2001637; [report PDF](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf). International Energy Agency, [Energy and AI, executive summary](https://www.iea.org/reports/energy-and-ai/executive-summary) (2025).
+
+Supports the prologue's limited background about computing equipment, power distribution, cooling, and dependence on electrical connections. The opening is an explicitly imagined installation, not a reported site or a composite presented as eyewitness experience. No numerical estimate or project forecast from these reports is asserted in the prologue.
+
+## S31
+
+**AI and productive energy capabilities.** International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation), in Energy and AI (2025).
+
+Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Detailed case evaluation remains part of chapter 11's research.
 
 ## Outstanding research and attribution
 
