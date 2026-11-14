@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during preparation and drafting of the complete first manuscript on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for chapter 2, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue and all twelve chapters have their own numbered notes. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
+Sources checked during drafting and structural revision on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological afterword, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue, twelve chapters, and afterword have their own numbered notes. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
 
 ## S01
 
@@ -24,7 +24,7 @@ Supports the example of aerobic citrate use in the long-term evolution experimen
 
 **Steam and economic constraints.** Robert C. Allen, [“Why the industrial revolution was British: commerce, induced invention, and the scientific revolution”](https://doi.org/10.1111/j.1468-0289.2010.00532.x), *Economic History Review* 64 (2011), 357–384; [author's explanation of the argument](https://cepr.org/voxeu/columns/why-was-industrial-revolution-british).
 
-Supports a specific high-wage, cheap-energy interpretation. It is an interpretation to compare with competing accounts, not a settled single-cause explanation. Chapter 6 adds Humphries's critique, engineering sources, and the Song comparison under S36–S38. Detailed regional and colonial comparisons remain worthwhile for a longer revision.
+Supports a specific high-wage, cheap-energy interpretation. It is an interpretation to compare with competing accounts, not a settled single-cause explanation. Chapter 5 adds Humphries's critique, engineering sources, and the Song comparison under S36–S38. Detailed regional and colonial comparisons remain worthwhile for a longer revision.
 
 ## S05
 
@@ -54,13 +54,13 @@ Research lead for comparing energy flow per unit mass across systems. A proposed
 
 **Commodity relations.** Karl Marx, *Capital*, volume I, [chapter 1, especially section 4](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm).
 
-Primary text for commodity fetishism. Chapters 9 and 11 also consult [chapter 6 on labor-power](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm), [chapter 23 on simple reproduction](https://www.marxists.org/archive/marx/works/1867-c1/ch23.htm), and the *Grundrisse* passage under S53. The book's phrase about relationships between people appearing as relationships between things is a paraphrase, not a newly verified quotation. The proposed energy-and-assembly synthesis belongs to this manuscript.
+Primary text for commodity fetishism. Chapters 8 and 10 also consult [chapter 6 on labor-power](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm), [chapter 23 on simple reproduction](https://www.marxists.org/archive/marx/works/1867-c1/ch23.htm), and the *Grundrisse* passage under S53. The book's phrase about relationships between people appearing as relationships between things is a paraphrase, not a newly verified quotation. The proposed energy-and-assembly synthesis belongs to this manuscript.
 
 ## S10
 
 **Social systems.** Niklas Luhmann, *Social Systems*, English translation by John Bednarz Jr. with Dirk Baecker (Stanford University Press, 1995), [digitized text](https://uberty.org/wp-content/uploads/2015/08/Niklas_Luhmann_Social_Systems.pdf).
 
-Relevant full-text passages on communication and action were consulted for chapter 9, especially printed pages 137–142; system/environment and interpenetration sections supply the boundary distinctions. No direct quotation is used. Luhmann's communication-centered account should not be silently equated with Marx's class analysis or biological autopoiesis. The original Varela–Maturana–Uribe paper and Ashby's text are now linked under S33 and S45. The larger *Autopoiesis and Cognition* volume remains a further reading lead, not a book reviewed in full here.
+Relevant full-text passages on communication and action were consulted for chapter 8, especially printed pages 137–142; system/environment and interpenetration sections supply the boundary distinctions. No direct quotation is used. Luhmann's communication-centered account should not be silently equated with Marx's class analysis or biological autopoiesis. The original Varela–Maturana–Uribe paper and Ashby's text are now linked under S33 and S45. The larger *Autopoiesis and Cognition* volume remains a further reading lead, not a book reviewed in full here.
 
 ## S11
 
@@ -72,7 +72,7 @@ Supports distinguishing commercial-bank deposit creation from the claim that all
 
 **Cumulative culture.** Michael Muthukrishna and Joseph Henrich, [“Innovation in the collective brain”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4780534/), *Philosophical Transactions of the Royal Society B* (2016).
 
-Supports investigating how social learning, connectivity, and accumulated knowledge affect innovation. Population size is not a complete causal explanation. A detailed cassava-processing scene is not used; chapters 5 and 11 retain the general transmission mechanism without inventing ethnographic details.
+Supports investigating how social learning, connectivity, and accumulated knowledge affect innovation. Population size is not a complete causal explanation. A detailed cassava-processing scene is not used; chapters 4 and 10 retain the general transmission mechanism without inventing ethnographic details.
 
 ## S13
 
@@ -90,7 +90,7 @@ Experimental evidence against the categorical assertion that chimpanzees cannot 
 
 **Domestication hypothesis.** Adam S. Wilkins, Richard W. Wrangham, and W. Tecumseh Fitch, [“The ‘Domestication Syndrome’ in Mammals: A Unified Explanation Based on Neural Crest Cell Behavior and Genetics”](https://academic.oup.com/genetics/article/197/3/795/5935921), *Genetics* 197 (2014), 795–808.
 
-This is a proposed developmental explanation, not proof of a general human-domestication mechanism. It supplies no basis for racial rankings of intelligence, equating compliance with intelligence, or interpreting modern IQ trends as rapid genetic change. Chapter 11 pairs the proposal with the Lord et al. critique under S51 and does not assert a demonstrated human mechanism.
+This is a proposed developmental explanation, not proof of a general human-domestication mechanism. It supplies no basis for racial rankings of intelligence, equating compliance with intelligence, or interpreting modern IQ trends as rapid genetic change. The parked development essay pairs the proposal with the Lord et al. critique under S51 and does not assert a demonstrated human mechanism.
 
 ## S16
 
@@ -114,19 +114,19 @@ The trial concerns a defined population with established cardiovascular disease.
 
 **Stellar context.** NASA Science, [stars](https://science.nasa.gov/universe/stars/).
 
-Orientation to stellar life cycles. Chapter 4 adds primary nucleosynthesis evidence under S55 and oxygenation evidence under S34; its opening remains a concise material history rather than a complete account of planet formation. Do not describe the Sun as demonstrably among the first stars able to support life.
+Orientation to stellar life cycles. Chapter 3 adds primary nucleosynthesis evidence under S55 and oxygenation evidence under S34; its opening remains a concise material history rather than a complete account of planet formation. Do not describe the Sun as demonstrably among the first stars able to support life.
 
 ## S20
 
 **Quantum uncertainty and interpretation.** H. P. Robertson, [“The Uncertainty Principle”](https://doi.org/10.1103/PhysRev.34.163) (1929); David Bohm, [“A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I”](https://doi.org/10.1103/PhysRev.85.166) (1952).
 
-Chapter 2 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
+The afterword distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
 
 ## S21
 
 **The quantum vacuum.** David Tong, [Quantum Field Theory, section 2, “Free Fields”](https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html), especially section 2.3.
 
-Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 2 explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
+Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. The afterword explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
 
 ## S22
 
@@ -150,7 +150,7 @@ Supports the statistical explanation and the need to account for low-entropy ini
 
 **Effective theories.** Joseph Polchinski, [“Effective Field Theory and the Fermi Surface”](https://arxiv.org/abs/hep-th/9210046), TASI 1992 lectures, revised 1999; [HTML text](https://arxiv.org/html/hep-th/9210046).
 
-Supports descriptions organized by energy scale. Chapter 2 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
+Supports descriptions organized by energy scale. The afterword distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
 
 ## S26
 
@@ -174,7 +174,7 @@ Supports the specific bound concerning gravitationally bound structures. The cha
 
 **A dynamical proposal.** Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551), *Physical Review Letters* 115 (2015), 221801; [full text consulted](https://arxiv.org/pdf/1504.07551).
 
-Chapter 2 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
+The afterword uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
 
 ## S30
 
@@ -192,25 +192,25 @@ Supports the broad description of energy applications and the distinction betwee
 
 **Assembly-theory criticism.** Abicumaran Uthamacumaran et al., [“On the salient limitations of the methods of assembly theory and their classification of molecular biosignatures”](https://www.nature.com/articles/s41540-024-00403-y), *npj Systems Biology and Applications* 10, 82 (2024).
 
-Chapter 3 reports the compression, novelty, and classification objections as the authors' criticisms. It does not claim to have independently reproduced their mathematical analysis or settled the controversy. Its tile game and sampling tests are original illustrations and proposed evaluations.
+Chapter 3 reports the compression, novelty, and classification objections as the authors' criticisms. It does not claim to have independently reproduced their mathematical analysis or settled the controversy. The compact tile game is an illustration; extended methodological tests remain in the parked development material.
 
 ## S33
 
 **Biological autopoiesis.** Francisco G. Varela, Humberto R. Maturana, and R. Uribe, [“Autopoiesis: The Organization of Living Systems, Its Characterization and a Model”](https://reflexus.org/wp-content/uploads/Varela_Maturana_Uribe_1974_Autopoiesis.pdf), *BioSystems* 5 (1974), 187–196, DOI 10.1016/0303-2647(74)90031-8.
 
-The introduction and characterization distinguish maintaining a living organization from producing offspring. Chapters 4 and 9 use this limited conceptual comparison; neither treats a thermostat, firm, or planet as automatically equivalent to a cell.
+The introduction and characterization distinguish maintaining a living organization from producing offspring. Chapters 3 and 8 use this limited conceptual comparison; neither treats a thermostat, firm, or planet as automatically equivalent to a cell.
 
 ## S34
 
 **Early atmospheric chemistry and oxygenation.** James Farquhar, Huiming Bao, and Mark Thiemens, [“Atmospheric Influence of Earth's Earliest Sulfur Cycle”](https://pubmed.ncbi.nlm.nih.gov/10926533/), *Science* (2000). Ashley P. Gumsley et al., [“Timing and tempo of the Great Oxidation Event”](https://doi.org/10.1073/pnas.1608824114), *PNAS* 114 (2017), 1811–1816; [full-text location](https://pmc.ncbi.nlm.nih.gov/articles/PMC5338422/).
 
-Supports sulfur-isotope evidence and the rounded timing of a major atmospheric transition around 2.4 billion years ago. Chapter 4 distinguishes oxygen production, chemical sinks, accumulation, and different biological consequences. It does not reconstruct a precise globally synchronous event.
+Supports sulfur-isotope evidence and the rounded timing of a major atmospheric transition around 2.4 billion years ago. Chapter 3 distinguishes oxygen production, chemical sinks, accumulation, and different biological consequences. It does not reconstruct a precise globally synchronous event.
 
 ## S35
 
 **Storage before domestication and Holocene chronology.** Ian Kuijt and Bill Finlayson, [“Evidence for food storage and predomestication granaries 11,000 years ago in the Jordan Valley”](https://doi.org/10.1073/pnas.0812764106), *PNAS* (2009); [paper PDF](https://naturedocumentaries.org/wp-content/uploads/2014/07/Kujit-Finlayson_2009_Granaries.pdf). Sune O. Rasmussen et al., [“A new Greenland ice core chronology for the last glacial termination”](https://doi.org/10.1029/2005JD006079), *Journal of Geophysical Research* (2006).
 
-The Dhraʿ case supports purpose-built storage and raised floors in a predomestication context. The climate source supports a chronology referenced to 2000; it is not a universal causal explanation of farming. Chapter 5's households and irrigation project are illustrative. Detailed cassava preparation and an alleged single human dispersal are omitted.
+The Dhraʿ case supports purpose-built storage and raised floors in a predomestication context. The climate source supports a chronology referenced to 2000; it is not a universal causal explanation of farming. Chapter 4's households and irrigation project are illustrative. Detailed cassava preparation and an alleged single human dispersal are omitted.
 
 ## S36
 
@@ -222,49 +222,49 @@ Supports the atmospheric-engine cycle, repeated heating and cooling, and the sep
 
 **Competing industrial histories.** Jane Humphries, [“The lure of aggregates and the pitfalls of the patriarchal perspective”](https://doi.org/10.1111/j.1468-0289.2012.00663.x), *Economic History Review* 66 (2013), 693–714; [author working paper](https://www.nuff.ox.ac.uk/economics/history/Paper91/humphries91.pdf). Compare Allen's [“The high wage economy and the industrial revolution: a restatement”](https://doi.org/10.1111/ehr.12079) (2015). Robert Hartwell, [“A Revolution in the Chinese Iron and Coal Industries During the Northern Sung, 960–1126 A.D.”](https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/revolution-in-the-chinese-iron-and-coal-industries-during-the-northern-sung-9601126-ad/C4ED428E19B0A04C7225BB57822C89DF), *Journal of Asian Studies* 21 (1962), 153–162.
 
-Chapter 6 uses Humphries's gender and household critique and Hartwell's evidence of earlier Chinese industrial development. It does not settle the high-wage debate, reproduce contested production totals, or conflate Song and Qing economies.
+Chapter 5 uses Humphries's gender and household critique and Hartwell's evidence of earlier Chinese industrial development. It does not settle the high-wage debate, reproduce contested production totals, or conflate Song and Qing economies.
 
 ## S38
 
 **The Nemesis and the First Opium War.** W. D. Bernard, from Commander W. H. Hall's notes, [*Narrative of the Voyages and Services of the Nemesis from 1840 to 1843*](https://www.gutenberg.org/cache/epub/43669/pg43669-images.html), second edition (1845). U.S. Department of State, Office of the Historian, [“The Opening to China, Part I: the First Opium War, the United States, and the Treaty of Wangxia, 1839–1844”](https://history.state.gov/milestones/1830-1860/china-1).
 
-The participant narrative supplies vessel and campaign details, including the January 7, 1841 attack at Chuenpi/Chuenpee; its imperial judgments are not adopted. The diplomatic account supports the coercive treaty context and 1842 chronology. Chapter 6 gives no claim that one ship or steam alone explains the war's outcome. A fuller revision should add Chinese primary accounts.
+The participant narrative supplies vessel and campaign details, including the January 7, 1841 attack at Chuenpi/Chuenpee; its imperial judgments are not adopted. The diplomatic account supports the coercive treaty context and 1842 chronology. Chapter 5 gives no claim that one ship or steam alone explains the war's outcome. A fuller revision should add Chinese primary accounts.
 
 ## S39
 
 **Ammonia synthesis and industrial engineering.** Fritz Haber, [“The synthesis of ammonia from its elements,” Nobel lecture](https://www.nobelprize.org/uploads/2018/06/haber-lecture.pdf) (1920). Carl Bosch, [“The development of the chemical high pressure method during the establishment of the new ammonia industry,” Nobel lecture](https://www.nobelprize.org/uploads/2018/06/bosch-lecture.pdf) (1932).
 
-Supports equilibrium, pressure, temperature, catalysis, and the need for industrial apparatus. Search-indexed passages were accessible when direct PDF retrieval was restricted. These retrospective participant accounts are not treated as comprehensive industrial or labor histories. Chapter 7 specifies no unsourced population-support estimate or operating recipe.
+Supports equilibrium, pressure, temperature, catalysis, and the need for industrial apparatus. Search-indexed passages were accessible when direct PDF retrieval was restricted. These retrospective participant accounts are not treated as comprehensive industrial or labor histories. Chapter 6 specifies no unsourced population-support estimate or operating recipe.
 
 ## S40
 
 **Nitrogen beyond the intended crop.** U.S. Environmental Protection Agency, [“Basic Information on Nutrient Pollution”](https://www.epa.gov/nutrientpollution/basic-information-nutrient-pollution) and [“Nitrous Oxide Emissions”](https://www.epa.gov/ghgemissions/nitrous-oxide-emissions).
 
-Supports the pathways connecting excess nutrients, aquatic effects, fertilizer management, and nitrous oxide. Chapter 7 supplies no universal damage coefficient or claim that every application has identical effects.
+Supports the pathways connecting excess nutrients, aquatic effects, fertilizer management, and nitrous oxide. Chapter 6 supplies no universal damage coefficient or claim that every application has identical effects.
 
 ## S41
 
 **Cromford and factory labor.** Arkwright Society, [Cromford Mills history](https://www.cromfordmills.org.uk/about/our-history/); Derwent Valley Mills World Heritage Site, [Cromford Mill Complex](https://www.derwentvalleymills.org/discover/derwent-valley-mills-history/derwent-valley-mills-key-sites/cromford-mill-complex/). The National Archives, [1833 Factory Act source collection](https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/) and [1836 factory inspector's report extract](https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/source-1/).
 
-Supports the 1771 mill, partnership and water-power context, and a documented case of abusive child labor after regulation. Chapter 8 does not generalize that report to every factory or claim the law was wholly ineffective. Its modern organizational examples are illustrative.
+Supports the 1771 mill, partnership and water-power context, and a documented case of abusive child labor after regulation. Chapter 7 does not generalize that report to every factory or claim the law was wholly ineffective. Its modern organizational examples are illustrative.
 
 ## S42
 
 **Electrification and organizational complements.** Paul A. David, [“The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox”](https://gwern.net/doc/economics/automation/1990-david.pdf), *American Economic Review* 80 (1990), 355–361. David, [“Understanding Digital Technology's Evolution and the Path of Measured Productivity Growth”](https://siepr.stanford.edu/publications/working-paper/understanding-digital-technologys-evolution-and-path-measured), SIEPR working paper (1999).
 
-Supports the interpretation that organizational complements can affect the realization of technical benefits. Chapter 8's factory example is hypothetical, not a newly documented installation; no fixed diffusion lag is projected onto AI.
+Supports the interpretation that organizational complements can affect the realization of technical benefits. Chapter 7's factory example is hypothetical, not a newly documented installation; no fixed diffusion lag is projected onto AI.
 
 ## S43
 
 **Changing land rights.** The National Archives, [enclosure awards and maps research guide](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/enclosure-awards/). UK Parliament, [“Enclosing the land”](https://www.parliament.uk/about/living-heritage/transformingsociety/towncountry/landscape/overview/enclosingland/).
 
-Supports the variety and long chronology of English enclosure and what awards recorded. Chapter 9 preserves disagreement about direct displacement into towns and supplies no invented local case.
+Supports the variety and long chronology of English enclosure and what awards recorded. Chapter 8 preserves disagreement about direct displacement into towns and supplies no invented local case.
 
 ## S44
 
 **Cotton, coercion, finance, and resistance.** U.S. National Archives, [Whitney's 1794 cotton-gin patent](https://www.archives.gov/milestone-documents/patent-for-cotton-gin) and [slavery and slave-trade records](https://www.archives.gov/research/african-americans/slavery-records.html). Library of Congress, [cotton and the plantation system research guide](https://guides.loc.gov/cotton/slavery-plantation) and [primary-source packet on antebellum slavery](https://www.loc.gov/static/programs/teachers/about-this-program/teaching-with-primary-sources-partner-program/documents/differentiated-instruction-secondary-activity.pdf), including a sale notice specifying credit and mortgage terms. National Humanities Center, [resistance accounts selected from WPA narratives](https://nationalhumanitiescenter.org/pds/maai/enslavement/text7/resistancewpa.pdf). PBS primary-source collection, [letter describing new cotton lands](https://cgi.pbs.org/wgbh/aia/part4/4h3136.html); Smithsonian National Museum of the American Indian, [*Americans*, removal and the cotton economy](https://americanindian.si.edu/americans/).
 
-Supports the narrow machine function and the wider institutional context. WPA recollections are retrospective interviews shaped by the circumstances of collection, not transparent verbatim access to every earlier event. Chapter 9 uses no reconstructed testimony, single-cause expansion claim, or quantitative estimate from these materials. Further archival work could develop specific lives and transactions in revision.
+Supports the narrow machine function and the wider institutional context. WPA recollections are retrospective interviews shaped by the circumstances of collection, not transparent verbatim access to every earlier event. Chapter 8 uses no reconstructed testimony, single-cause expansion claim, or quantitative estimate from these materials. Further archival work could develop specific lives and transactions in revision.
 
 ## S45
 
@@ -276,7 +276,7 @@ Supports the relation between regulatory capacity and disturbances. The wage cyc
 
 **The U.S. financial crisis.** Financial Crisis Inquiry Commission, [report and sections](https://fcic.law.stanford.edu/report), [complete official report with dissents](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_full.pdf) (2011), particularly the conclusions, shadow banking, securitization, and funding disruption sections.
 
-Supports the majority's principal causal categories and the existence of dissent. Chapter 10's house values and 100/95/5 balance sheet are invented arithmetic examples, not statistics drawn from the report. No contemporary market forecast is made.
+Supports the majority's principal causal categories and the existence of dissent. Chapter 9's house values and 100/95/5 balance sheet are invented arithmetic examples, not statistics drawn from the report. No contemporary market forecast is made.
 
 ## S47
 
@@ -288,7 +288,7 @@ These institutional histories support the comparison of banking failure, monetar
 
 **Debt instruments and equity-market distinctions.** U.S. Treasury, [Treasury bonds](https://www.treasurydirect.gov/marketable-securities/treasury-bonds/). U.S. Securities and Exchange Commission, [primary and secondary markets](https://www.investor.gov/introduction-investing/investing-basics/glossary/primary-and-secondary-markets) and [small-business glossary](https://www.sec.gov/resources-small-businesses/glossary).
 
-Supports fixed coupons versus changing market rates, and direct financing through new issues versus transactions in existing securities. The policy discussion in chapter 10 is conceptual and specifies no current yield, debt projection, or individual investment recommendation.
+Supports fixed coupons versus changing market rates, and direct financing through new issues versus transactions in existing securities. The policy discussion retained in the development material is conceptual and specifies no current yield, debt projection, or individual investment recommendation.
 
 ## S49
 
@@ -306,7 +306,7 @@ Provides a concrete example of learned word vectors. Chapter 11's map analogy an
 
 **Domestication critique.** Kathryn A. Lord, Greger Larson, Raymond P. Coppinger, and Elinor K. Karlsson, [“The History of Farm Foxes Undermines the Animal Domestication Syndrome”](https://pubmed.ncbi.nlm.nih.gov/31810775/), *Trends in Ecology & Evolution* 35 (2020), 125–136, DOI 10.1016/j.tree.2019.10.011; [author manuscript](https://repository.escholarship.umassmed.edu/bitstream/20.500.14038/25872/2/PIIS0169534719303027.pdf).
 
-Read alongside S15 as a substantive challenge to an overgeneralized domestication story. Chapter 11 does not claim a settled human neural-crest mechanism or infer intelligence from conformity, ancestry, or brain volume.
+Read alongside S15 as a substantive challenge to an overgeneralized domestication story. The parked development essay does not claim a settled human neural-crest mechanism or infer intelligence from conformity, ancestry, or brain volume.
 
 ## S52
 
@@ -318,7 +318,7 @@ Supports the robot's structure inference and revised locomotion after damage. It
 
 **General intellect.** Karl Marx, [*Grundrisse*, Notebook VII, fixed capital and general social knowledge](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm), especially the passage beginning with the development of fixed capital and general knowledge as a force of production.
 
-Chapter 11 paraphrases the relevant passage. Its connection to AI, industrial feedback, and present ownership questions is the book's interpretation, not a prediction attributed verbatim to Marx.
+Chapter 10 paraphrases the relevant passage. Its connection to collective competence and present ownership questions is the book's interpretation, not a prediction attributed verbatim to Marx.
 
 ## S54
 
@@ -330,13 +330,68 @@ Supports simulation-trained control deployed in TCV plasma experiments. Indexed 
 
 **Multiple nucleosynthetic pathways.** E. Margaret Burbidge, G. R. Burbidge, William A. Fowler, and Fred Hoyle, [“Synthesis of the Elements in Stars”](https://doi.org/10.1103/RevModPhys.29.547), *Reviews of Modern Physics* 29 (1957), 547–650; [Caltech repository record](https://authors.library.caltech.edu/records/bpgfm-dsq46). Elena Pian et al., [“Spectroscopic identification of r-process nucleosynthesis in a double neutron-star merger”](https://www.nature.com/articles/nature24298), *Nature* 551 (2017), 67–70.
 
-Supports separating stellar element production from the additional neutron-star-merger pathway. Chapter 4 makes no claim that all heavy elements came from one process or that the Sun was among the earliest possible homes for life.
+Supports separating stellar element production from the additional neutron-star-merger pathway. Chapter 3 makes no claim that all heavy elements came from one process or that the Sun was among the earliest possible homes for life.
+
+## S56
+
+**Infrastructure maintenance and interdependence.** FERC, NERC, and regional entities, [“Final Report on February 2021 Freeze Underscores Winterization Recommendations”](https://www.ferc.gov/news-events/news/final-report-february-2021-freeze-underscores-winterization-recommendations), November 16, 2021; [September 23 preliminary findings](https://www.ferc.gov/news-events/news/ferc-nerc-staff-review-2021-winter-freeze-recommend-standards-improvements) and [staff presentation](https://www.ferc.gov/sites/default/files/2021-09/February%202021%20Cold%20Weather%20Grid%20Operations_Preliminary%20Findings%20and%20Recommendations-09-23-21_Full%20Presentation.pdf); linked [full investigation](https://www.ferc.gov/sites/default/files/2021-11/Cold%20Weather%20Report_%20November%202021.pdf).
+
+Chapter 2 uses the agency’s published findings on freezing, fuel interruption, and gas-electric interdependence. The full final report exceeded the web reader’s size limit; the final announcement and preliminary staff presentation were accessible. Chapter 2 uses their shared findings without carrying preliminary numerical estimates into the narrative. No claim is made about the adequacy of later reforms. Illustrative pumps, contracts, and workshops are identified as examples, not reported details of the event.
+
+## S57
+
+**Closure of constraints.** Maël Montévil and Matteo Mossio, [“Biological organisation as closure of constraints”](https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/), *Journal of Theoretical Biology* 372 (2015), 179–191, DOI 10.1016/j.jtbi.2015.02.029.
+
+The author-hosted text distinguishes processes from relatively conserved constraints at a chosen timescale and describes mutual maintenance among constraints. Chapter 2 acknowledges this predecessor. Applying its questions to engineering does not establish that a grid satisfies the paper’s biological criteria.
+
+## S58
+
+**Niche construction.** Kevin N. Laland, John Odling-Smee, and Marcus W. Feldman, [“Niche construction, biological evolution, and cultural change”](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/niche-construction-biological-evolution-and-cultural-change/F724F02AC61EEF1294C676C1CC7C4F07), *Behavioral and Brain Sciences* 23 (2000), 131–146, DOI 10.1017/S0140525X00002417.
+
+The accessible abstract supports the bounded claim that organisms, including through cultural processes, modify sources of selection. The issue date is 2000; the publisher also lists a later online date. Chapter 3 acknowledges the established account and does not claim that feedback from organisms to environments originates with this book.
+
+## S59
+
+**Technological combination and lock-in.** W. Brian Arthur and Wolfgang Polak, [“The Evolution of Technology within a Simple Computer Model”](https://sites.santafe.edu/~wbarthur/Papers/AP-Complexity.pdf), Santa Fe Institute Working Paper 2004-12-042. W. Brian Arthur, [“Competing Technologies, Increasing Returns, and Lock-In by Historical Events”](https://sites.santafe.edu/~wbarthur/Papers/EJ.pdf), *The Economic Journal* 99 (1989), 116–131; author-hosted prepublication version.
+
+The first model retains useful circuit combinations for further construction. The second investigates path dependence under increasing returns to adoption. Chapter 7 distinguishes those mechanisms from the further empirical work needed to explain how a factory retains skills, equipment, and institutional supports. Neither simulation establishes the book’s whole historical synthesis.
+
+## S60
+
+**Prior encounters between Marx and Luhmann.** Bob Jessop, [“The relevance of Luhmann’s systems theory and of Laclau and Mouffe’s discourse analysis to the elaboration of Marx’s state theory”](https://bobjessop.wordpress.com/2014/02/09/the-relevance-of-luhmanns-systems-theory-and-of-laclau-and-mouffes-discourse-analysis-to-the-elaboration-of-marxs-state-theory/), author’s English preprint posted in 2014 of a chapter published in German in 2008.
+
+Chapter 8 acknowledges the precedent and retains disagreements about class, communication, and material coercion. Its wage-payment example is an analytical proposal; juxtaposing these traditions is not claimed as an unprecedented synthesis. This source is not a comprehensive review of critical systems theory.
+
+## S61
+
+**Ozone chemistry and observed depletion.** Mario J. Molina and F. Sherwood Rowland, [“Stratospheric sink for chlorofluoromethanes: chlorine atom-catalysed destruction of ozone”](https://www.nature.com/articles/249810a0), *Nature* 249 (1974), 810–812; [Molina center’s paper copy](https://centromariomolina.org/wp-content/uploads/2012/05/8.-Nature-1974_Stratospheric-sink-for-chlorofluoromethanes-chlorine-atome-catalysed-destruction-of-ozone.pdf). J. C. Farman, B. G. Gardiner, and J. D. Shanklin, [“Large losses of total ozone in Antarctica reveal seasonal ClOx/NOx interaction”](https://www.nature.com/articles/315207a0), *Nature* 315 (1985), 207–210; [British Antarctic Survey’s institutional account](https://www.bas.ac.uk/news/25th-anniversary-of-the-discovery-of-ozone-hole/).
+
+Chapter 12 uses the papers’ indexed findings and the BAS account for a narrow chronology. Direct publisher retrieval redirected to authentication. No laboratory scene, reconstructed dialogue, or claim that the 1974 paper supplied the complete Antarctic mechanism is made.
+
+## S62
+
+**Controls and recurring assessment.** Ozone Secretariat, [Montreal Protocol overview and treaty](https://ozone.unep.org/treaties/montreal-protocol); [Article 6: Assessment and review of control measures](https://ozone.unep.org/treaties/montreal-protocol/articles/article-6-assessment-and-review-control-measures).
+
+Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. Chapter 12 treats the treaty as an evolving regime. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
+
+## S63
+
+**Differentiated obligations and transition capacity.** Montreal Protocol, [Article 5](https://ozone.unep.org/treaties/montreal-protocol/articles/article-5-special-situation-developing-countries) and [Article 10](https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism). Multilateral Fund, [history](https://www.multilateralfund.org/about/history) and [about the fund](https://www.multilateralfund.org/about).
+
+Supports differentiated obligations for qualifying developing countries, financial and technical cooperation, agreed incremental costs, and the fund’s operation beginning in 1991. This does not establish that every project succeeded or every transition burden was equitably shared. The chapter’s account of changing practical feasibility is a causal interpretation, not an independent impact estimate.
+
+## S64
+
+**Observed effects and remaining correction.** WMO, [*Scientific Assessment of Ozone Depletion: 2022*, Executive Summary](https://csl.noaa.gov/assessments/ozone/2022/executivesummary/), GAW Report 278 (2022).
+
+Supports the dated findings of declining controlled ODS abundances, recovery with regional and vertical differences, and investigation of unexpected CFC-11 emissions. It also records uncertainty and monitoring gaps. Chapter 12 does not claim full recovery, the cessation of every unexpected emission, or a new assessment of conditions in 2026. No numerical future recovery date is projected as a certainty.
 
 ## Outstanding research and attribution
 
-- **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No dialogue, speaker attribution, or interpretation has been reconstructed from the inaccessible video.
-- **Longer historical revision:** deepen case-level evidence with Chinese accounts of the Opium War, industrial labor records, agricultural variation, and specific enclosure and cotton histories. The first draft uses bounded documented examples and explicitly illustrative scenarios. A stirrup-caused-feudalism story, a monetary cause of the Y-chromosome bottleneck, and unverified Norman-Conquest links are omitted.
-- **Theory and cosmology:** compare the synthesis with rival explanations, independent assembly-theory validation, and alternative physical models. Chapters 2 and 12 do not supply a quantitative solution to fine-tuning or derive physical constants from social or biological analogies.
-- **Economics and welfare:** chapter 10 chooses U.S. historical crises and separates monetary regimes. A policy edition would need jurisdiction-specific evidence and distributional estimates before recommending housing, debt, health, or ecological programs.
-- **Cognition and AI:** the chapter uses bounded language, representation, self-modeling, and control studies. Broader cognitive claims and industrial feedback require further experiments; benchmark gains, consciousness, deployment, and net productive benefits remain separate questions.
-- **Publication review:** the complete first draft is not a comprehensive literature review. Extend scenes and comparisons where they add explanatory value, verify any new quantitative claims, and consolidate the repeated conceptual qualifications without removing substantive limits.
+- **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No speaker, dialogue, or interpretation has been reconstructed from the inaccessible video.
+- **Historical depth:** further work could add Chinese accounts of the Opium War, labor records, agricultural comparisons, and specific enclosure and cotton histories. Existing cases remain bounded; illustrative scenes are marked. Discarded stirrup and monetary-genetic causal stories have not been restored.
+- **Theory:** the revision engages several important predecessors, not the entire literature. Test whether the proposed connection among capability, recurrence, and dependence adds explanatory value beyond specialist accounts. Assembly theory remains a limited lens within chapter 3, not the foundation of the book.
+- **Cosmology:** the afterword preserves the speculative question separately. It supplies no quantitative solution to fine-tuning and derives no physical constants from biological or institutional analogies.
+- **Institutions:** chapter 12 traces documented components of the Montreal regime without claiming to apportion their independent causal effects. A fuller political history would need evidence about negotiations, industry, campaigns, and conflicts. Chapter 9’s housing mechanisms are illustrative comparisons, not jurisdiction-specific policy advice.
+- **Cognition and AI:** chapter 10 concerns collective competence and chapter 11 a conditional productive loop. Domestication, infant-language experiments, self-modeling, debt, health, and other side discussions are retained in `ideas` and/or [development material](development/parked-material.md). No benchmark or control demonstration proves consciousness or an indefinitely accelerating industrial cycle.
+- **Publication review:** the structurally revised draft still needs specialist review and deeper evidence where new detail would strengthen the argument. Its notes distinguish sources, proposed tests, and illustrative reasoning rather than claiming a comprehensive literature review.

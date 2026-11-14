@@ -2,6 +2,8 @@
 
 ## Working thesis
 
+Organizations turn inherited conditions into new capabilities. Their success changes those conditions, creating both opportunities for further development and dependencies that can obstruct change. The narrative follows the formation of these relationships, their entrenchment, and the possibility of deliberate repair.
+
 Reality has a history because what happens changes what can happen next. A material structure can survive an encounter, open an energy pathway, become a component of another structure, or reorganize the conditions under which its successors emerge. In living and social systems, some structures also reproduce the arrangements that keep them in existence. The book proposes that assembly, constraint, energetic capability, and recursive reproduction together offer a language for connecting these histories.
 
 Historical materialism is central to this proposal. Human beings reproduce their lives through arrangements of labor, knowledge, property, care, and power. Those arrangements inherit physical conditions and transform them. A machine changes what people can do, while relationships among people determine what the machine will actually be made to do. The history of production is therefore also a history of the institutions that organize its continuation.
@@ -38,7 +40,7 @@ Fine-tuning arguments ask why certain parameters appear compatible with complex 
 
 This is a research program, not yet an answer. To explain a parameter developmentally requires a mechanism, a description of its possible states, and an account of why the observed outcome is reached. Merely saying that the universe selected stable configurations leaves open the dynamics and the distribution being selected from. Invoking self-maintenance also risks assuming the organized systems whose emergence needs explanation.
 
-The cosmological constant is an especially demanding case. It should appear as a specific unresolved problem, not as an ornament attached to a general argument about complexity. Stationary-action principles and symmetry breaking do not by themselves explain its value. Chapter 2 should compare fixed initial conditions, observer-selection arguments, and developmental proposals without claiming that one has been established. Chapter 12 can return with a sharper question: does the book supply a candidate physical mechanism, or only a reason to search for one?
+The cosmological constant is an especially demanding case. It should appear as a specific unresolved problem, not as an ornament attached to a general argument about complexity. Stationary-action principles and symmetry breaking do not by themselves explain its value. The afterword compares fixed initial conditions, observer selection, and developmental proposals without claiming that one has been established. It keeps the question distinct from the main historical argument: does the book supply a candidate physical mechanism, or only a reason to search for one?
 
 ## I05 — The square with one answer
 
@@ -118,7 +120,7 @@ The long-term E. coli experiment gives the book a compact example of historicall
 
 The broader inference belongs to the book: an environment is not a fixed list of resources independently useful to every organism. Usefulness depends on organization. A resource can become practically available when a transport mechanism, enzyme, tool, or institution changes. This is why material conditions include capabilities as well as inventories.
 
-The experiment should also discipline the criticism of evolution in the notes. Historical contingency is part of evolutionary explanation, not evidence against evolution. Selection can be investigated through differences in survival and reproduction; genetic changes and ecological conditions can be measured. The legitimate objection is to a thin story in which the word “pressure” substitutes for those mechanisms. Chapter 4 should show what a mechanistic account looks like, then ask what a wider assembly perspective adds beyond renaming what the experiment already explains.
+The experiment should also discipline the criticism of evolution in the notes. Historical contingency is part of evolutionary explanation, not evidence against evolution. Selection can be investigated through differences in survival and reproduction; genetic changes and ecological conditions can be measured. The legitimate objection is to a thin story in which the word “pressure” substitutes for those mechanisms. Chapter 3 should show what a mechanistic account looks like, then ask what a wider assembly perspective adds beyond renaming what the experiment already explains.
 
 ## I15 — Assembly theory and the signature of life
 
@@ -218,7 +220,7 @@ The claim that capitalism no longer needs unions is therefore an objection for t
 
 ## I27 — Housing and the stability trap
 
-A house serves as shelter, collateral, an investment, and sometimes a source of rent. These uses can come into conflict. A price increase may improve an owner's balance sheet while making entry harder for someone who needs a home. No additional room has to be built for these claims to change. This separation between physical service and financial valuation supplies chapter 10's opening problem.
+A house serves as shelter, collateral, an investment, and sometimes a source of rent. These uses can come into conflict. A price increase may improve an owner's balance sheet while making entry harder for someone who needs a home. No additional room has to be built for these claims to change. This separation between physical service and financial valuation supplies chapter 9's opening problem.
 
 The trap becomes systemic when mortgages, bank assets, household plans, and political commitments depend on the continuation of particular valuations. Lower prices can improve affordability and weaken balance sheets at the same time. Different groups then have materially grounded reasons to prefer incompatible changes. “The economy wants” is an inadequate description of their conflict.
 
@@ -238,7 +240,7 @@ The notes connect affordable universal provision with the physical conditions th
 
 GLP-1 medicines can enter as an example of an innovation whose clinical effects, manufacturing capacity, price, and access require separate analysis. Evidence from a defined trial population does not establish universal suitability or system-wide cost savings. [S18](sources.md#s18) The proposal that cheap treatment replaces costly downstream illness must be evaluated intervention by intervention, including ongoing costs and care still required.
 
-Universal healthcare does not logically require an already healthy population; supporting people when they are ill is part of its purpose. The notes' language about unhealthy lifestyles also needs a broader account of working conditions, poverty, disability, food availability, and environmental exposure. Reducing dependence on damaging food or transport arrangements is a possible institutional project, not a medical prescription or a definition of socialism. The chapter's question is how investment can improve health while ensuring that people remain entitled to care when prevention is incomplete.
+Universal healthcare does not logically require an already healthy population; supporting people when they are ill is part of its purpose. The notes' language about unhealthy lifestyles also needs a broader account of working conditions, poverty, disability, food availability, and environmental exposure. Reducing dependence on damaging food or transport arrangements is a possible institutional project, not a medical prescription or a definition of socialism. The separate development essay’s question is how investment can improve health while ensuring that people remain entitled to care when prevention is incomplete.
 
 ## I30 — After capitalism: a system able to repair its conditions
 
@@ -278,7 +280,7 @@ A large brain is metabolically costly, but cost alone does not establish maladap
 
 The collective-brain literature suggests mechanisms involving social learning, connectivity, and the retention of innovations. [S12](sources.md#s12) Population density may affect those processes, but density without trust, transmission, or opportunities to practice is not enough. Networks can also lose knowledge or circulate error. Quantity changes quality only through a specified change in what coordination makes possible.
 
-The claim that chimpanzees cannot cooperate is contradicted by experimental evidence. [S14](sources.md#s14) The chapter should instead ask what distinguishes the reach, cumulative character, and institutional support of human cooperation. There is no need to posit a creator to make this a scientific question. Nor should human history be a tale of 230,000 idle years: early people made tools, maintained social worlds, and adapted to changing conditions. The absence of modern industry is not the absence of material development.
+The claim that chimpanzees cannot cooperate is contradicted by experimental evidence. [S14](sources.md#s14) The development material can instead ask what distinguishes the reach, cumulative character, and institutional support of human cooperation; chapter 10 concentrates on teaching, records, standards, and correction. There is no need to posit a creator to make this a scientific question. Nor should human history be a tale of 230,000 idle years: early people made tools, maintained social worlds, and adapted to changing conditions. The absence of modern industry is not the absence of material development.
 
 ## I35 — Human dispersal, climate, and cultural speed
 
@@ -308,13 +310,13 @@ The racial IQ conjecture in the source notes has no evidentiary foundation here 
 
 Calling cognition an embedding suggests that experience is represented through organized relations rather than copied into the mind as a complete miniature world. In machine learning, an embedding is a particular representational device; in human cognition, the broader claim needs evidence about perception, action, memory, and learning. The technical term should illuminate the comparison rather than declare the brain already explained.
 
-Infant language learning gives the problem emotional force. A child arrives without explicit grammar lessons and gradually acquires distinctions that become effortless. The alien-language analogy expresses surprise, but an infant has prolonged interaction, biological capacities, and a developmental history; it does not instantly understand arbitrary communication. The chapter should investigate how attention, interaction, prior organization, and exposure structure the learning problem.
+Infant language learning gives the problem emotional force. A child arrives without explicit grammar lessons and gradually acquires distinctions that become effortless. The alien-language analogy expresses surprise, but an infant has prolonged interaction, biological capacities, and a developmental history; it does not instantly understand arbitrary communication. The separate development discussion can investigate how attention, interaction, prior organization, and exposure structure the learning problem; the experiment is not required for the main argument about collective competence.
 
 All knowledge is materially embodied in some sense, but that does not make every embodiment an embedding in the same technical sense. A book, a practiced gesture, a neural state, and a software vector store different possibilities for action. Their construction and transmission are parts of assembly. The strongest thesis is that cognition inherits structure and uses it to make some distinctions cheap enough to guide behavior. How a representation is grounded and corrected remains central, especially when a convincing model fails in the world.
 
 ## I39 — Self-models, consciousness, and the timescale of thought
 
-A system can model its environment and can also model aspects of its own position, limitations, and likely actions. This creates possibilities for anticipation, error correction, and strategic behavior. Functional self-modeling is not exclusively human, and it does not by itself settle whether a system has subjective experience. Chapter 11 should preserve that distinction throughout.
+A system can model its environment and can also model aspects of its own position, limitations, and likely actions. This creates possibilities for anticipation, error correction, and strategic behavior. Functional self-modeling is not exclusively human, and it does not by itself settle whether a system has subjective experience. The separate self-modeling discussion preserves that distinction; chapter 11 does not depend on a theory of consciousness.
 
 The notes deny consciousness and elsewhere appeal to a model running inside the human mind. A coherent development can criticize the idea of an immaterial inner controller while treating experience as a phenomenon still requiring explanation. Denying a separate substance is different from denying that experience occurs. Neither the existence of computation nor a useful self-description resolves the philosophical question automatically.
 
@@ -366,35 +368,76 @@ A serious synthesis should specify what could weaken it. If increased energy acc
 
 Comparison cases belong beside the spectacular successes: durable systems with low throughput, innovations that fail to spread, contraction followed by impoverishment, and reforms achieved without collapse. Distinguish biological reproduction from industrial replication, institutional persistence, and stellar succession. Define the boundary and outcome before making a cross-scale comparison.
 
-The narrative can still be bold. Its recurring question is how a material organization comes to reproduce the conditions of its continuation, and how that very success changes the field of later possibilities. Aphorisms should condense the work of the argument: “An inheritance is a possibility with a history.” Such lines are original manuscript language, not borrowed quotations. The final chapter should leave the cosmological extension open while making the physical and social research program concrete enough to pursue.
+The narrative can still be bold. Its recurring question is how a material organization comes to reproduce the conditions of its continuation, and how that very success changes the field of later possibilities. Aphorisms should condense the work of the argument: “An inheritance is a possibility with a history.” Such lines are original manuscript language, not borrowed quotations. The final chapter tests deliberate institutional correction through the Montreal Protocol. The cosmological extension remains a separate afterword, so the social argument does not depend on an unproved physical conjecture.
+
+## I46 — Maintenance makes an inventory into a capacity
+
+A functioning capacity is an arrangement under specified conditions, not merely a count of objects. The 2021 cold-weather failures in Texas and the South Central United States supply a documented case for examining the distinction. Chapter 2 uses the investigation’s findings on freezing, fuel disruption, and gas-electric interdependence. [S56](sources.md#s56) It does not make one dependency explain every outage or imply that subsequent reforms have settled reliability.
+
+The expanded mechanism concerns timescales and boundaries. A device can persist as an object after losing its function. A working function can persist while its components change. Repair, inspection, reserves, training, and coordination preserve different conditions over different intervals. A dependency matters when interruption of the supporting activity changes an identified outcome within the interval being studied. This makes the account testable instead of treating every connection as equally important.
+
+Maintenance also exposes the politics of accounting. An inspection may prevent a failure that never appears in production records. A contract can reward present output while shifting future repair costs elsewhere. A standard can coordinate reliable action or reward documentation disconnected from physical condition. The explanation therefore needs both the work that preserves a service and the claims that determine whose costs are visible.
+
+The distinction between changing processes and relatively stable constraints has a substantial biological predecessor in Montévil and Mossio. [S57](sources.md#s57) The book uses that connection carefully: a grid is not declared an organism. An engineering boundary can conceal the people and institutions doing the maintenance outside it. What matters is tracing the support rather than awarding a system the label self-sustaining.
+
+## I47 — Collective competence requires more than a store of information
+
+A description can survive after the ability to use it has disappeared. Teaching, supervised practice, suitable tools, and interpretable records connect knowledge across lives. Standards connect partial competencies across organizations. Correction lets that inheritance change when its conditions change. These are the central operations of chapter 10.
+
+The illustrative retiring technician makes the distinction concrete. Keeping the manual does not preserve every judgment needed to operate the equipment; keeping one expert without records makes the knowledge fragile in another way. The relevant outcome is whether another person can perform, inspect, and improve the task. Counting documents or credentials does not establish that outcome.
+
+Access and authority belong in the explanation. Several people can each possess accurate partial information while contractual or hierarchical boundaries prevent it from affecting the combined operation. A reporting process can silence precisely the worker who sees a problem first. Collective intelligence is therefore neither a single social mind nor the automatic sum of individual abilities. Its quality depends on how evidence can change action.
+
+The AI argument needs its own chapter because it adds a specific productive hypothesis. Chapter 11 follows computational assistance through physical validation, manufacture, deployment, and the allocation of gains. A successful local application does not establish a return connection to further computing. Cheap candidate generation can move the constraint into testing or implementation. Technical improvement and reinvestment must be measured separately.
+
+## I48 — A system can change the means of its continuation
+
+The Montreal Protocol gives the conclusion a case of deliberate correction. Chemistry and observation identified a problem; controls changed the terms of production and consumption; differentiated obligations and implementation support addressed unequal means of compliance; recurring assessment supplied a route for further revision. [S61](sources.md#s61), [S62](sources.md#s62), [S63](sources.md#s63) The 2022 assessment reports measured progress alongside unresolved problems, rather than a completed planetary repair. [S64](sources.md#s64)
+
+The philosophical point is the separation of a useful service from the particular dependence through which it has been provided. Keeping cooling available does not require keeping every historical refrigerant. Changing the input still requires equipment, training, resources, and a transition that preserves provision. This is a concrete form of overcoming while preserving, with no guarantee that every attempted transition will succeed.
+
+A second correction can become necessary because a substitute creates or retains another harm. HFC climate effects and Kigali belong to the argument for this reason. The case is not a claim that one agreement eliminated every environmental consequence or that the same design transfers unchanged to all industries. Its generalizable question concerns the conditions under which evidence can become an actionable institutional change.
+
+The proposed research design should distinguish technical feasibility, recognized obligation, implementation capacity, and measured outcome. Compare success with failed adoption, missing support, or a technically inadequate substitute. Examine the chronology: an improvement preceding the rule cannot simply be counted as its effect. The central synthesis must risk being less explanatory than a rival account.
+
+## I49 — The synthesis has predecessors and a burden of proof
+
+The book draws on established accounts of mutual maintenance, environmental modification, technological combination, increasing returns, and institutional reproduction. Arthur’s models already investigate retained components and technological lock-in; niche construction already treats organisms as modifiers of their selection environments; Jessop already brings Marxian analysis into conversation with Luhmann. [S58](sources.md#s58), [S59](sources.md#s59), [S60](sources.md#s60) Their presence makes a claim of unprecedented combination untenable.
+
+The proposed contribution is a connected inquiry into capability, recurrence, and the dependence that recurrence creates. A useful synthesis should reveal a neglected support, distinguish a local benefit from a return connection, or explain resistance through a dependency that can be independently observed. It should also identify where different kinds of reproduction require different mechanisms. Relabeling all history assembly or feedback does not meet that standard.
+
+This is compatible with a defense of dialectical materialism. The defense concerns the causal reality of relationships, the historical production of constraints, and the way an enabling arrangement can obstruct its own transformation. It does not infer justice from persistence or progress from energy use. Its strongest result may be a comparative method that makes better investigations possible; a universal predictive law would require much more.
 
 ## Coverage and chapter placement
 
-| Source-note family | Expanded sections | Main chapters |
-| --- | --- | --- |
-| Reality as process; indeterminacy; nothingness | I01–I02 | 1, 2, 12 |
-| Symmetry; dimensions; time; constants; cosmological constant; fine-tuning | I03–I04, I41–I42 | 2, 12 |
-| Sudoku; chance; constraints; simultaneous discovery | I05–I06 | 1, 6, 11 |
-| Energy access; civilization's dependency; frequency; speed limits | I07–I09, I41–I43 | 3, 4, 7, 8, 11 |
-| Entrenchment; Qing encounter; collapse; preserved capabilities | I10–I11, I17, I27 | 6, 10, 12 |
-| Stars; Earth; oxygen; autopoiesis; Lenski; alien life | I12–I15 | 3, 4 |
-| Agriculture; steam; fertilizer; factory; automation | I16–I19 | 5–8 |
-| Marx; social relations; ideology; cotton gin; enclosure | I20–I21 | 8, 9 |
-| Luhmann; cybernetics; hierarchy; language and economics | I22–I23 | 9, 10, 11 |
-| Defense; taxes; money; feudalism/union analogy; knights; conquest; Y bottleneck | I24–I25 | 5, 9 |
-| Capitalism; jobs; cheap goods; interest; freedom; unions | I25–I27 | 9, 10 |
-| Stocks; distributed and central planning | I28 | 8, 10, 11 |
-| Healthcare; GLP-1; food; transport; investment in people | I29–I30 | 10, 12 |
-| Growth/collapse scenarios; ecology; post-capitalism | I30, I41–I43 | 10–12 |
-| Platonic forms; joint search; material instantiation | I31 | 1, 11, 12 |
-| Causality; confounding; falsifiability; economic default | I23, I32–I33 | 1, 4, 12 |
-| Evolution; large brains; cooperation; collective brain; cassava | I14, I16, I33–I34 | 4, 5, 11 |
-| Human chronology; migration; climate; cultural adaptation | I34–I35 | 5, 11 |
-| Conformity; violent peace; self-domestication; IQ conjectures | I36–I37 | 9, 11 |
-| Embeddings; infant language; self-models; consciousness; timescale | I38–I39 | 11 |
-| Russell/Newton/Darwin fragments; intelligibility; supplied video | I40 | 2, 11, 12 |
-| Thermodynamics; barriers; MEPP; Chaisson; information as catalyst | I41–I42 | 2, 4, 5, 12 |
-| AI; general intellect; infrastructure feedback; no automatic UBI | I43 | 8, 11, 12 |
-| Dialectical principles; aphoristic voice; narrative scope | I44–I45 | Throughout |
+The expanded ideas preserve the range of the source notes. Coverage here distinguishes the reading sequence from material reserved for separate development; expansion is not a requirement to place every topic in the main narrative.
 
-The repeated summaries in the source notes are consolidated here. Unsupported assertions are developed into explicit questions or objections; consolidation does not mean endorsing every original proposition. The book retains the steamship encounter and excludes the discarded Huns-and-stirrup story.
+| Source-note family | Expanded sections | Placement |
+| --- | --- | --- |
+| Reality as process; constraints; maintenance | I01, I05, I46 | 1–2 |
+| Uncertainty; nothingness; symmetry; constants; fine-tuning | I02–I04, I40–I42 | Afterword |
+| Chance; accessible variation; simultaneous discovery | I05–I06 | 1, 3, 5, 11 |
+| Energy access; recurrence; rates; lifetime; speed limits | I07–I09, I41–I43 | 2–3, 5–7, 11 |
+| Entrenchment; contraction; preserved capabilities | I10–I11, I17, I27 | 5, 7–9, 12 |
+| Stellar inheritance; oxygenation; autopoiesis; Lenski | I12–I14, I33 | 3 |
+| Assembly theory; unfamiliar samples; molecular methods | I15 | 3; extended treatment in development material |
+| Agriculture; surplus; access; cultural learning | I16, I34–I35 | 4, 10 |
+| Steam; fertilizer; factory; productive reproduction | I17–I19 | 5–7 |
+| Commodity relations; cotton gin; enclosure; ownership | I20–I21 | 8 |
+| Marx; Luhmann; cybernetics; hierarchy; ideology | I22–I23, I49 | 8, 10, 12 |
+| Protection; taxation; monetary origins; kinship bottlenecks | I24–I25 | Coordination in 4; side discussions in development material |
+| Capitalism’s practical promise; housing; collateral | I26–I27 | 8–9; broader policy claims in development material |
+| Investment; distributed and central allocation | I28 | 7, 11; extended discussion in development material |
+| Health; GLP-1; monetary regimes; public debt | I25, I29–I30 | Ideas and development material, outside the main narrative |
+| Ecology; transition; institutions able to repair conditions | I30, I48 | 6, 12, epilogue |
+| Forms; representation; joint search; material validation | I31, I38–I39 | 11; broader philosophy in ideas/development material |
+| Causality; confounding; rival explanations | I23, I32–I33, I45 | 1–3, 9, 11–12 |
+| Collective brain; teaching; records; standards; correction | I34–I36, I47 | 4, 10 |
+| Self-domestication; self-models; consciousness; infant experiments | I37–I39 | Ideas and development material |
+| Russell/Newton/Darwin fragments; supplied video | I40 | Unverified attributions remain unused as quotations |
+| Thermodynamics; barriers; maximum-entropy proposals | I41–I42 | 2–3, 6; afterword |
+| AI; general intellect; infrastructure; reinvestment | I43, I47 | 10–11; prologue and epilogue |
+| Dialectics; contribution; discriminating tests | I44–I45, I49 | 1, 8, 12 |
+| Maintenance and deliberate institutional correction | I46, I48 | 2, 12 |
+
+The [parked material](development/parked-material.md) retains substantial displaced prose with source notes. The afterword preserves the cosmological inquiry without making it a premise of the historical thesis. Raw `notes` remain unchanged; unsupported propositions remain questions or are excluded from the argument.

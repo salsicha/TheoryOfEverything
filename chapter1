@@ -108,7 +108,7 @@ The problem is not confined to the past. We are building computational systems i
 
 But a proposed feedback loop is not an accomplished future. Designs require experiments. Equipment requires factories. Infrastructure requires time, labor, and institutions. Ownership still determines access, and scarcity can move from one part of the system to another. A machine's ability to produce an answer does not settle whether a society can make the answer real.
 
-That is the route this book will follow: from constraints and physical structure to life, from life to productive organization, and from productive organization to the social relations and forms of intelligence through which human beings change their world.
+That is the route this book will follow: from constraints to the work that maintains them, from living organization to productive capability, and from the dependencies created by success to the possibility of deliberate change.
 
 Its philosophical commitment is to materialism. Capacities have conditions. Thought, technology, and institutions belong to the world whose history they help make. Its method is dialectical in a concrete sense: the same arrangements that enable a process can limit its further development, and the products of that process can transform the conditions that first made it possible.
 
@@ -118,12 +118,12 @@ The square with one answer offers a beginning rather than a conclusion. It teach
 
 When I looked at the most constrained square, the answer became easier to find because the rest of the puzzle was already there.
 
-For the universe, that observation opens the next problem.
+Outside the puzzle, the surrounding conditions cannot simply be assumed to remain in place. Wires must carry electricity, people must arrive, agreements must be honored, and damage must be repaired.
 
-Where did the constraints come from?
+Before asking where every constraint ultimately came from, we need to ask what keeps the conditions of action available tomorrow.
 
 ## Chapter notes
 
 1. [Russell and Norvig, constraint satisfaction](https://aima.cs.berkeley.edu/4th-ed/pdfs/newchap05.pdf), and [UC Berkeley CS188, variable ordering](https://inst.eecs.berkeley.edu/~cs188/textbook/csp/ordering.html). The opening experience is drawn from the author's notes. The candidate-set example and forty-square calculation are illustrative, not a reconstruction of that particular puzzle or a performance benchmark.
-2. [Robert C. Allen, “Why the industrial revolution was British”](https://doi.org/10.1111/j.1468-0289.2010.00532.x). Chapter 6 will develop and compare the historical explanation; this chapter introduces its conditional logic.
+2. [Robert C. Allen, “Why the industrial revolution was British”](https://doi.org/10.1111/j.1468-0289.2010.00532.x). Chapter 5 will develop and compare the historical explanation; this chapter introduces its conditional logic.
 3. [Karl Marx, Capital, volume I, chapter 1, section 4](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm). The discussion is a paraphrase and extension, not a direct quotation.

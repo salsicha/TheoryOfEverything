@@ -2,64 +2,74 @@
 
 **A Material History of Everything**
 
-A complete first-draft manuscript about constraint, energy, assembly, and the reproduction of material and social life. Its central project is a defense and proposed extension of dialectical materialism, developed through physical, biological, technological, and social histories.
+A complete, structurally revised draft about how organizations turn inherited conditions into capabilities, how successful activity creates new dependencies, and how people can deliberately change those dependencies. It develops a materialist and dialectical argument through maintenance, biology, production, ownership, collective knowledge, and institutional correction.
 
-## Manuscript map
+## Reading sequence
 
-The original extensionless filenames are retained. They contain UTF-8 text with Markdown formatting; open them as Markdown in an editor if desired.
+The manuscript has twelve chapters in three parts, a prologue and epilogue, and a speculative afterword. The original extensionless filenames contain UTF-8 Markdown.
 
-| File | Purpose | Status |
+| Section | File | Title |
 | --- | --- | --- |
-| [notes](notes) | Original source notes, including unresolved and contradictory propositions | Preserved verbatim |
-| [ideas](ideas) | Expanded arguments, distinctions, objections, and note-to-chapter coverage | Development draft |
-| [outline](outline) | Full book architecture, chapter arguments, and narrative transitions | Expanded outline |
-| [prologue](prologue) | The Machine Waiting for Electricity | Complete first draft |
-| [chapter1](chapter1) | The Square with One Answer | Complete first draft |
-| [chapter2](chapter2) | The Universe That Tuned Itself | Complete first draft |
-| [chapter3](chapter3) | The Signature of Life | Complete first draft |
-| [chapter4](chapter4) | The Planet That Life Made | Complete first draft |
-| [chapter5](chapter5) | The Grain That Built a World | Complete first draft |
-| [chapter6](chapter6) | The Machine That Drank Coal | Complete first draft |
-| [chapter7](chapter7) | Bread from the Air | Complete first draft |
-| [chapter8](chapter8) | The Factory That Assembled Itself | Complete first draft |
-| [chapter9](chapter9) | The Relationships Behind the Machine | Complete first draft |
-| [chapter10](chapter10) | The House That Could Not Get Cheaper | Complete first draft |
-| [chapter11](chapter11) | The Machine That Was Everyone | Complete first draft |
-| [chapter12](chapter12) | The World That Builds Itself | Complete first draft |
-| [epilogue](epilogue) | The Square We Leave Open | Complete first draft |
-| [sources.md](sources.md) | Research starting points, citation keys, and outstanding verification | Working source ledger |
+| Opening | [prologue](prologue) | The Machine Waiting for Electricity |
+| I — How Capacities Continue | [chapter1](chapter1) | The Square with One Answer |
+| I — How Capacities Continue | [chapter2](chapter2) | The Work of Staying the Same |
+| I — How Capacities Continue | [chapter3](chapter3) | Life Makes Its Conditions |
+| II — What Success Builds Around Itself | [chapter4](chapter4) | The Grain That Built a World |
+| II — What Success Builds Around Itself | [chapter5](chapter5) | The Machine That Drank Coal |
+| II — What Success Builds Around Itself | [chapter6](chapter6) | Bread from the Air |
+| II — What Success Builds Around Itself | [chapter7](chapter7) | The Factory That Assembled Itself |
+| III — Changing the Conditions of Continuation | [chapter8](chapter8) | The Relationships Behind the Machine |
+| III — Changing the Conditions of Continuation | [chapter9](chapter9) | The House That Could Not Get Cheaper |
+| III — Changing the Conditions of Continuation | [chapter10](chapter10) | The Machine That Was Everyone |
+| III — Changing the Conditions of Continuation | [chapter11](chapter11) | The Machines That Build the Next Machines |
+| III — Changing the Conditions of Continuation | [chapter12](chapter12) | Can a System Change Itself? |
+| Closing | [epilogue](epilogue) | The Square We Leave Open |
+| Speculative afterword | [afterword](afterword) | Could the Laws Have a History? |
+
+## Development files
+
+| File | Purpose |
+| --- | --- |
+| [notes](notes) | Original source notes, preserved unchanged |
+| [ideas](ideas) | Expanded ideas I01–I49, distinctions, and updated coverage map |
+| [outline](outline) | Current chapter arguments, objections, evidence, and transitions |
+| [sources.md](sources.md) | Source keys S01–S64, attribution limits, and research still to deepen |
+| [Parked material](development/parked-material.md) | Displaced assembly, cognition, history, and policy discussions for separate development |
+
+The main reading sequence moves from the formation of continuing capabilities to entrenchment and deliberate correction. Assembly theory appears within biology. Collective knowledge and AI have separate chapters. The conclusion follows the Montreal Protocol through evidence, production rules, transition capacity, and observed consequences. Cosmology is preserved in the afterword and is not a premise of the main thesis.
 
 ## Draft extent
 
-The prologue, all twelve chapters, and epilogue are drafted. The manuscript contains approximately 39,290 words before chapter notes. The original 65,000–80,000-word ambition and individual chapter targets remain goals for a longer revision; this complete first draft is shorter. The source notes and expanded ideas are preserved.
+The prologue, twelve chapters, and epilogue contain approximately **32,454 words** before notes. The afterword adds **5,293**, for **37,747 words** including the afterword. Development material, source notes, and chapter notes are excluded. Counts use whitespace-separated words and include titles and epigraphs.
+
+The original 65,000–80,000-word ambition remains a possible longer revision. This complete draft is shorter; further expansion should add evidence, comparisons, and explanatory depth rather than repeat the thesis.
 
 | Section | Words before notes |
 | --- | ---: |
-| [prologue](prologue) | 1,974 |
-| [chapter1](chapter1) | 2,676 |
-| [chapter2](chapter2) | 5,237 |
-| [chapter3](chapter3) | 2,742 |
-| [chapter4](chapter4) | 2,652 |
-| [chapter5](chapter5) | 2,720 |
-| [chapter6](chapter6) | 2,609 |
-| [chapter7](chapter7) | 2,378 |
-| [chapter8](chapter8) | 2,524 |
-| [chapter9](chapter9) | 2,976 |
-| [chapter10](chapter10) | 2,820 |
-| [chapter11](chapter11) | 3,677 |
-| [chapter12](chapter12) | 3,140 |
-| [epilogue](epilogue) | 1,165 |
+| [prologue](prologue) | 1,983 |
+| [chapter1](chapter1) | 2,707 |
+| [chapter2](chapter2) | 2,013 |
+| [chapter3](chapter3) | 2,947 |
+| [chapter4](chapter4) | 2,568 |
+| [chapter5](chapter5) | 2,601 |
+| [chapter6](chapter6) | 2,378 |
+| [chapter7](chapter7) | 2,691 |
+| [chapter8](chapter8) | 2,723 |
+| [chapter9](chapter9) | 1,732 |
+| [chapter10](chapter10) | 1,973 |
+| [chapter11](chapter11) | 2,478 |
+| [chapter12](chapter12) | 2,440 |
+| [epilogue](epilogue) | 1,220 |
+| [afterword](afterword) | 5,293 |
 
 ## Writing conventions
 
-Start with a concrete problem, develop its mechanism, and then make the philosophical connection. Short original aphorisms can punctuate the argument; the surrounding prose must do the explanatory work. Do not invent dialogue, eyewitness details, experiment timings, or quotations to make a scene more vivid.
+Begin with a concrete problem and develop its mechanism before making the philosophical connection. Short original aphorisms should condense explanatory work, not replace it. Do not invent dialogue, eyewitness details, experiment timings, or quotations.
 
-Distinguish an observation, a disputed interpretation, the book's proposed synthesis, and an open cosmological conjecture. Preserve objections that could change the thesis. Physical power, economic value, reproductive success, and human well-being are different quantities.
+Distinguish observations, disputed interpretations, proposed comparisons, and open conjectures. Energy, power, entropy production, reproductive success, financial value, and welfare remain different quantities. A local technical gain does not establish a return connection to further productive capability. A system’s persistence does not establish its justice.
 
-Keep the source notes intact. Develop or challenge their claims in `ideas`, then move supported arguments into chapters. Use `sources.md` for verified source links and unresolved research leads. The architecture in `outline` remains the revision guide. Chapter notes distinguish documented findings from illustrative scenarios, contested interpretations, and the book's proposals.
-
-The working architecture is twelve chapters in three parts, plus prologue and epilogue. Chapters may grow during drafting, but each should advance the causal argument rather than repeat the entire thesis.
+Keep the raw notes intact. Develop or challenge claims in `ideas`, use `sources.md` for evidence and limits, and follow `outline` for chapter responsibilities. Claims of novelty must engage predecessors. Illustrative scenarios and proposed tests must not read as reported results.
 
 ## Review before committing
 
-Read the changed prose, check chapter numbers and transitions against `outline`, verify local links and source keys, and run `git diff --check`. This is a manuscript repository and requires no application runtime or package installation.
+Read changed prose, check chapter titles and transitions against the outline, verify local links and source keys, recalculate counts, and run `git diff --check`. This is a manuscript repository; no application runtime, package installation, or software test suite is required.

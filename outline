@@ -2,232 +2,218 @@
 
 ## A Material History of Everything
 
-**Working structure:** twelve chapters in three parts, with a prologue and epilogue.
+**Structure:** twelve chapters in three parts, with a prologue, epilogue, and speculative afterword. Every section is drafted. `README.md` records the actual word counts; the original 65,000–80,000-word ambition remains a possible longer revision, not an achieved length or a reason to pad the argument.
 
-**Guiding question:** How do material structures come to reproduce the conditions for further structures, and when does that process transform the world that supports them?
+**Central thesis:** Organizations turn inherited conditions into new capabilities. Their success changes those conditions, creating both opportunities for further development and dependencies that can obstruct change.
 
-**Central argument:** Inherited structures and constraints shape what can be reached from what already exists. Some newly assembled capabilities open access to usable energy, support expanded reproduction, and transform the environment of subsequent assembly. Living and social systems can reproduce their own enabling organization; this makes them resilient and can also entrench them. Human technology participates in relationships of labor, ownership, knowledge, and power. AI may extend this recursive productive capacity, but the social distribution of its gains remains an institutional question.
+**Guiding question:** What makes a capability possible, what work and claims make it recur, and how does dependence on that recurrence affect the possibility of changing it?
 
-**Philosophical purpose:** Defend and develop dialectical materialism through concrete mechanisms and histories. The proposed synthesis connects assembly theory, evolutionary history, autopoiesis, cybernetics, and political economy. It does not claim that these approaches are already one accepted theory. The further suggestion that some physical regularities themselves developed remains a cosmological conjecture.
+**Philosophical purpose:** Defend and develop dialectical materialism through observable relationships, historical constraints, and coupled enabling and limiting effects. The proposed synthesis is a comparative method whose usefulness must be demonstrated against simpler explanations. Autopoiesis, closure of constraints, niche construction, technological combination, increasing returns, and prior Marx–Luhmann encounters are acknowledged predecessors. Neither the existence of feedback nor the juxtaposition of traditions is claimed as a new discovery.
 
-**Reader and voice:** Write for a curious general reader who wants a connected argument and can follow technical distinctions when they are explained through examples. Use short original aphorisms as moments of compression. Build the surrounding narrative through scenes, mechanisms, objections, and consequences. Avoid invented dialogue, hindsight inevitability, and the lone-genius account of invention.
+**Narrative movement:** Establish how capacities persist; show how productive success creates further capacities and dependencies; investigate whether people can change those dependencies while preserving useful provision. The main argument stands independently of the cosmological conjecture in the afterword.
 
-**Draft status and length:** the prologue, all twelve chapters, and epilogue are complete first drafts, totaling approximately 39,290 words before notes. The original 65,000–80,000-word ambition and chapter targets below are retained as longer-revision goals, not as lengths already achieved. `README.md` records actual counts. The architecture below remains a guide to argument, coverage, and revision.
+**Voice and evidence:** Begin with a concrete problem, develop its mechanism, and then earn the philosophical connection. Clearly distinguish historical findings, illustrative scenarios, disputed interpretations, and proposed tests. Do not invent eyewitness details, dialogue, measurements, or quotations. Original aphorisms compress an argument already supported by the prose.
 
-## Recurring questions
+## Recurring distinctions
 
-Every chapter should identify the relevant assembly, its inherited components, the constraints it faces, the resource or capability at stake, and the process that preserves or reproduces it. Then ask who or what benefits, what changes in the environment, what new dependency appears, and what evidence would distinguish the proposed mechanism from an alternative explanation.
+An installed object is not an available capacity. A stock is not a production rate. Energy, power, and entropy production are different quantities. Financial valuation, physical output, and welfare are different outcomes. A local improvement is not proof of a completed return connection. A functioning arrangement is not necessarily a just arrangement.
 
-Keep quantities distinct. Energy is not power; entropy is not energy consumption; copy number is not reproduction rate; financial value is not physical output; productive capacity is not welfare. Across scales, distinguish stellar succession, biological inheritance, industrial replication, and institutional reproduction.
-
-Three motifs carry the book: the constrained square, the resource that exists but cannot yet be used, and the organization that must repeat tomorrow. The dramatic arc moves from discovery to reproduction, from reproduction to entrenchment, and from entrenchment to the possibility of deliberate transformation.
+Biological inheritance, industrial replication, institutional reproduction, and stellar succession remain different processes. Specify the boundary and timescale of each explanation. Identify what changes when a proposed support is removed and what evidence could favor a rival mechanism. Recurring motifs are the constrained square, the resource that cannot yet be used, and the organization that must operate again tomorrow.
 
 ## Prologue — The Machine Waiting for Electricity
 
-**File:** `prologue`. **Target:** 1,500–2,500 words. **Status:** complete first draft. **Ideas:** I01, I07, I09, I43. **Research:** S30–S31.
+**File:** `prologue`. **Ideas:** I01, I07, I09, I43. **Sources:** S30–S31.
 
-Begin with an explicitly imagined data center awaiting the electrical connection for its planned load. The visible computer depends on an extensive and unevenly visible system: generation, transmission, cooling, chips, construction, labor, and institutional decisions. Follow one computational operation outward into its material supports, without asserting capacity or consumption figures.
+An explicitly imagined data center waits for the electrical connection required by its planned load. Follow computation outward through generation, transmission, cooling, manufacturing, labor, and institutional decisions. Then reverse the inquiry: computational tools might help improve those supports. A design still has to survive testing and deployment.
 
-Then reverse the direction of the question. Could modeling and design improve those supporting systems? Establish the proposed productive feedback without announcing an inevitable intelligence explosion. A drawing of a better machine is not yet a manufactured machine.
+Establish the distinction between installed equipment and effective capability, and between the productive loop and ownership of its gains. Promise a history of maintenance, invention, dependence, and correction. Locate the cosmic question in an afterword. Turn to the author’s Sudoku problem as the modest beginning of the method.
 
-Ask what kind of history can explain matter becoming able to participate in designing the conditions of its own continuation, then turn to the author's Sudoku programming problem. Chapter 1 supplies the method of inquiry. Keep the full ownership analysis for Part III and the actual AI capability assessment for chapter 11.
+**Exit:** Where should the search for an answer begin?
 
-## Part I — The Assembly of Reality
+## Part I — How Capacities Continue
 
-Physics, constraints, historical construction, and the emergence of living organization. This part establishes the vocabulary and its limits before applying it to institutions.
+The opening moves directly from constraints to maintenance and living organization. Assembly theory is one bounded lens inside this account, not a prerequisite the whole thesis must prove.
 
 ### 1. The Square with One Answer
 
-**File:** `chapter1`. **Status:** complete first draft. **Ideas:** I01, I05–I10, I20, I32. **Research:** S01, S04, S09.
+**File:** `chapter1`. **Ideas:** I01, I05–I10, I20, I32. **Sources:** S01, S04, S09.
 
-Open with the author's documented Sudoku programming experience. Show how candidate restrictions make a next step available, using an explicitly illustrative square. Explain minimum remaining values without inventing measured speedups. The lesson is that the space of imaginable arrangements differs from the space actually explored.
+Use the author’s Sudoku programming experience to show how existing assignments make some next steps accessible. Explain minimum remaining values through an illustrative problem, without invented benchmarks. Distinguish a history-shaped search from uniform sampling of imaginable arrangements.
 
-Develop the distinction between chance and uniform sampling. Inherited structure makes variation historically situated; evolutionary explanation already recognizes this. Extend the question to machinery whose practical usefulness depends on resources, costs, skills, and institutions. Use steam as a preview, reserving detailed history for chapter 6.
+Preview machinery whose usefulness depends on costs, skills, resources, and ownership. Turn the example against itself: a locally forced move can inherit an earlier error. A successful institution can likewise narrow later options. State the materialist commitment and require mechanisms that can be investigated.
 
-Introduce energy access, repeated production, and relationships behind machines. Then turn the opening insight against itself: a locally forced move can inherit an earlier mistake, just as a successful institution can entrench a bad arrangement. State the materialist and dialectical commitments and the need for falsifiable mechanisms.
+**Objection:** A puzzle has a fixed goal and designer; the analogy gives history neither. Constraints can obstruct as well as guide.
 
-**Objection:** Sudoku has a designer and a fixed target; the universe does not thereby have either. Constraints can make search impossible as well as tractable.
+**Exit:** Outside the puzzle, what keeps the supporting conditions available tomorrow?
 
-**Exit:** “Where did the constraints come from?” This question becomes chapter 2's problem rather than chapter 1's unsupported answer.
+### 2. The Work of Staying the Same
 
-### 2. The Universe That Tuned Itself
+**File:** `chapter2`. **Ideas:** I01, I08–I10, I46. **Sources:** S56–S57.
 
-**File:** `chapter2`. **Status:** complete first draft. **Target:** 5,000–6,000 words. **Ideas:** I02–I04, I40–I42. **Research:** S05–S07, S20–S29.
+Open with the February 2021 cold-weather electricity failures in Texas and the South Central United States. Use documented freezing and fuel-supply findings, including the electricity needed by parts of the gas system. Explain reciprocal dependence without assigning every outage to one cause or extrapolating to the success of later reforms.
 
-Begin with light crossing a boundary. Explain Fermat's stationary-time formulation, then the relation to variational descriptions more generally. A physical trajectory is not evidence that nature consciously anticipates its destination. Use this distinction to prevent “least time” from becoming a universal theory of history.
+Distinguish equipment from operating capacity and persistence of material from continuity of function. Use explicitly hypothetical pumps and workshops to examine reserves, maintenance intervals, and the cost of redundancy. Introduce the biological predecessor of closure of constraints without equating a grid with a cell.
 
-Separate ignorance, quantum uncertainty, and ontological indeterminacy. Discuss why a quantum vacuum is not absolute nothing. Move from symmetry and differentiated states to the distinct problems of parity, matter–antimatter imbalance, dimensions, and time's arrow. Specify which are established observations and which remain unresolved explanations.
+Follow maintenance into accounting and authority: prevention can be invisible, costs can be shifted, and records can become detached from actual condition. Ask what service and whose position are being preserved. Propose interruption and boundary tests that could weaken the explanation.
 
-Confront fine-tuning directly, especially the cosmological constant. Ask whether some apparent independent choices could be correlated products of development. Distinguish observer selection from a dynamical explanation, and use the proposed relaxion mechanism as a concrete example of the latter kind of research. State what a successful mechanism would have to derive; neither symmetry breaking nor self-maintenance is sufficient by itself.
+**Objection:** Everything depends on something; naming dependence alone explains little. Identify the support that matters on the relevant timescale.
 
-**Objection:** Development may presuppose precisely the laws or parameters it claims to explain. An analogy to self-organization cannot remove that circularity.
+**Exit:** A cell participates in renewing conditions that a machine usually receives from an organization outside itself.
 
-**Exit:** Leave the speculative foundation open and move to an empirical question: what traces does construction leave in objects we can actually measure?
+### 3. Life Makes Its Conditions
 
-### 3. The Signature of Life
+**File:** `chapter3`. **Ideas:** I07–I09, I12–I15, I33, I41–I42. **Sources:** S02–S03, S07, S19, S32–S34, S55, S58.
 
-**File:** `chapter3`. **Status:** complete first draft. **Target:** 4,500–5,500 words. **Ideas:** I08–I09, I15. **Research:** S02, S32; the draft includes an independent critique and explicit validation questions.
+Start with the living cell as ongoing organization and briefly acknowledge its inherited elements. Explain autopoiesis, dependence on exchanges, and the difference between self-maintenance and offspring production. Do not claim to have solved the origin of life.
 
-Open with a hypothetical unfamiliar chemical sample and the difficulty of recognizing life without familiar anatomy. Introduce Cronin, Walker, and the collaborative research program through its actual question and definitions. Explain assembly index using a deliberately simple construction analogy, then identify the assumptions that make the measure meaningful.
+Integrate assembly theory as a limited question about retained construction pathways. Explain the tile example, construction rules, abundance, and the difference between a minimum route and actual history. Keep critique and alternative explanations visible; preserve the longer methodological treatment in development material. Distinguish stocks, rates, lifetimes, and repair.
 
-Add copy number and discuss why repeated elaborate products motivate a question about selection and organized production. Distinguish a minimum construction path from actual history, and a suggestive signal from a validated life-detection conclusion. Address abiotic alternatives, sampling, and instrumentation.
+Follow oxygen production through chemical sinks and atmospheric accumulation. Connect organism-environment feedback to niche construction. Then use Lenski’s citrate case to separate resource presence, initial access, historical contingency, and refinement. Keep the laboratory support visible and do not turn access to energy into a universal law of evolutionary success.
 
-Develop the book's broader concern with abundance, production rate, loss, lifetime, and spatial reach. Include a durable, slowly replaced structure to prevent frequency from becoming an indiscriminate measure of success.
+**Objection:** Organization, abundance, and environmental effects do not make Earth a single organism. Second-law compatibility does not prove maximum entropy production.
 
-**Objection:** Does the formalism add information beyond existing measures? Can the same observation have a nonbiological source? The chapter should present tests and limits rather than ceremonial objections.
+**Exit:** Humans also inherit practices; grain storage makes that second inheritance tangible.
 
-**Exit:** Repetition requires a material process capable of sustaining it. Chapter 4 follows those processes into the history of Earth and life.
+## Part II — What Success Builds Around Itself
 
-### 4. The Planet That Life Made
+Each history adds a different relation. Grain concerns access and authority over surplus; coal concerns a capability expanding its material support; nitrogen concerns constraints displaced by success; the factory concerns reproduction of productive competence.
 
-**File:** `chapter4`. **Status:** complete first draft. **Target:** 5,500–6,500 words. **Ideas:** I07, I12–I14, I33, I41–I42. **Research:** S03, S07, S19, S33–S34, S55.
+### 4. The Grain That Built a World
 
-Trace a material inheritance from early elements through stellar processes, enriched planetary material, and Earth's formation. Keep different nucleosynthetic pathways distinct and avoid claiming that our star was among the first possible homes for life.
+**File:** `chapter4`. **Ideas:** I16, I24, I34–I35. **Sources:** S12–S13, S35.
 
-Introduce living maintenance and biological autopoiesis. Photosynthesis and oxygenation show organisms altering the environment of other organisms, with destructive as well as enabling effects. Local organization and dissipation coexist; this does not imply universal maximization of entropy production.
+Open with the predomestication granaries at Dhraʿ and the work of carrying food through time. Distinguish a reserve from a guaranteed surplus and cultivation from a complete political order. Use climate and cultural transmission without a story of idle humanity suddenly discovering work.
 
-Use the citrate innovation in the long-term E. coli experiment as the tightly evidenced center. A resource can exist before a lineage can exploit it. Distinguish historical preconditions, innovation, and refinement. Show how evolutionary mechanisms already incorporate contingency and specify what the assembly perspective adds.
+Follow stored food into the ability to wait, coordinate labor, record obligations, and control access. The irrigation community is explicitly illustrative. Show how useful coordination and extraction can coexist, and how dependence on the service can support authority over it. Remove the Y-chromosome discussion from this narrative; it remains development material.
 
-**Objection:** Greater energy throughput is not always advantageous; efficient persistence, simplified organization, and stable niches belong among comparison cases.
+**Objection:** Storage does not necessarily generate a state; farming does not have one inevitable political outcome.
 
-**Exit:** A biological capacity can be inherited; humans also inherit practices through social learning. Chapter 5 asks how that second inheritance changes production.
+**Exit:** Agriculture reorganizes biological productivity; coal opens access to a concentrated inheritance beneath the ground.
 
-## Part II — Energy and the Assembly of Civilization
+### 5. The Machine That Drank Coal
 
-Four productive transformations show how material capabilities spread through organizations. Each gains explanatory force from its social conditions, preparing the explicit political argument of Part III.
+**File:** `chapter5`. **Ideas:** I05–I07, I10–I11, I17. **Sources:** S04, S36–S38.
 
-### 5. The Grain That Built a World
+Begin at mine drainage. Explain the conditional usefulness of an inefficient engine, then Newcomen and Watt through the specific engineering problem. Compare high-wage, cheap-energy explanations with household labor critiques and other conditions. Retain Song evidence as a check on a false Britain-versus-static-China contrast.
 
-**File:** `chapter5`. **Status:** complete first draft. **Target:** 5,500–6,500 words. **Ideas:** I16, I24–I25, I34–I35. **Research:** S12–S13, S16, S35.
+Trace engines helping obtain coal that supports further engines. Follow the productive network into the *Nemesis* and imperial violence without treating technical power as moral superiority or a sufficient explanation of victory. Show how skills and infrastructure accumulated around success can make transition costly.
 
-Begin with stored grain and the question of who can use it before the next harvest. Reconstruct cultivation, storage, maintenance, and transmission of knowledge as one system. Compare increased population-supporting capacity with labor burdens, health, and uneven access; do not treat agriculture as universal improvement for each participant.
+**Objection:** Neither available fuel nor an efficient design guarantees adoption. Complementary inputs, institutions, chronology, and failed cases matter.
 
-Investigate climate, connectivity, and cultural learning rates without an idle-humanity narrative. Distinguish the onset of the Holocene from its later climate optimum. Introduce the collective brain through locally grounded knowledge, with cassava as a possible verified comparison rather than a generic primitive-culture story.
+**Exit:** Expanding mechanical power does not remove agriculture’s need for usable nitrogen.
 
-Follow surplus into coordination, accounting, protection, and appropriation. Institutions can maintain productive infrastructure and extract resources from producers. Use the Y-chromosome bottleneck only as a bounded research question about social organization, with competing models and no asserted monetary cause.
+### 6. Bread from the Air
 
-**Objection:** Farming does not require a single political trajectory; storage does not logically imply the state. Include variation and alternatives.
+**File:** `chapter6`. **Ideas:** I07, I18, I29, I41–I42. **Sources:** S17, S39–S40.
 
-**Exit:** Societies can reorganize the current flow of biological productivity. Chapter 6 turns to a concentrated energy inheritance beneath the ground.
+Distinguish atmospheric nitrogen from forms crops can use. Establish biological fixation, agricultural practices, and traded nutrients before industrial synthesis. Move from Haber’s chemistry to Bosch’s repeated industrial operation through pressure, catalysis, materials, hydrogen, and maintenance.
 
-### 6. The Machine That Drank Coal
+Focus on what success displaces: a biological nutrient constraint becomes a dependence on energy, plant reliability, transport, and access. Follow nitrogen into military use, runoff, and nitrous oxide. Retain the difference between expanded productive capacity and the distribution of food.
 
-**File:** `chapter6`. **Status:** complete first draft. **Target:** 6,000–7,000 words. **Ideas:** I05–I07, I10–I11, I17. **Research:** S04, S36–S38.
+**Objection:** A solved bottleneck can expose another or impose costs elsewhere; neither outcome erases the real new capability.
 
-Open with the material problem of mine drainage. Establish the conditions under which an inefficient early engine could nonetheless do valuable work. Move through Newcomen and Watt as episodes within an engineering and commercial system, not a pair of isolated acts of genius.
+**Exit:** The reaction works within an organization whose own reproduction now needs explanation.
 
-Compare the high-wage, cheap-energy explanation with knowledge, finance, institutions, geography, and imperial trade. Introduce Song industrial achievements and the diversity of Chinese conditions to prevent a false contrast between innovative Britain and static China.
+### 7. The Factory That Assembled Itself
 
-Trace the coal-engine loop through mining, repair, transport, investment, and skills. Then follow the productive network into the First Opium War and the Nemesis. Treat the ship as an instrument of imperial violence whose effectiveness depends on a wider assemblage.
+**File:** `chapter7`. **Ideas:** I09, I19, I21, I28, I43. **Sources:** S41–S42, S59.
 
-**Objection:** Energetic or military advantage proves neither ethical superiority nor an inevitable victory. Histories of resistance, strategic decisions, and political contingencies remain necessary.
+Use Cromford’s shared power and work schedule to join machinery to coordination and authority. Include labor, care, training, maintenance, and infrastructure beyond the walls. Distinguish technical reasons for concentrating work from a supposed technical necessity for one ownership form.
 
-**Exit:** An energy system can change the balance of power and still encounter a different material bottleneck. Chapter 7 asks what happens when agriculture needs available nitrogen.
+Use electrification to investigate complementary organizational change. Show how standards, tools, and skills make productive capacity reproducible. Engage Arthur and Polak’s retained combinations and Arthur’s lock-in model; identify the extra empirical burden of applying them to a real factory. Examine planned operations and distributed experimentation through their actual dependencies.
 
-### 7. Bread from the Air
+**Objection:** A file is not a functioning repertoire, and a factory does not literally produce everything it requires. Scale, ownership, and efficiency need specific outcomes and boundaries.
 
-**File:** `chapter7`. **Status:** complete first draft. **Target:** 4,500–5,500 words. **Ideas:** I07, I18, I29, I41–I42. **Research:** S17, S39–S40.
+**Exit:** The same equipment can participate in different legal and social relationships. What gives someone command over it?
 
-Begin with the distinction between atmospheric nitrogen and nitrogen available to crops. Establish the existing agricultural methods, trade, and constraints before introducing industrial synthesis. The scarcity has a history; it is not simply humanity forgetting to look upward.
+## Part III — Changing the Conditions of Continuation
 
-Move from Haber to Bosch to industrial operation. Chemistry becomes productive capability through pressure vessels, catalysts, hydrogen supply, heat, skilled work, maintenance, and distribution. Separate scientific discovery from successful repeated manufacture.
+Ownership and housing establish why physically possible improvements can be obstructed. Collective knowledge and AI examine capacities for learning and intervention. Montreal supplies a case of deliberate change that preserves useful provision while revising its supports.
 
-Trace the effects on agriculture and the resulting dependencies. Food production also needs land, water, transport, and access. Consider military applications, pollution, and unequal gains without allowing those costs to erase the capacity actually created.
+### 8. The Relationships Behind the Machine
 
-**Objection:** Expanding output cannot by itself end hunger, and an energy-intensive solution can create new vulnerabilities. Avoid unsourced numerical estimates of the population supported by the process.
+**File:** `chapter8`. **Ideas:** I20–I23, I49. **Sources:** S09–S11, S43–S45, S60.
 
-**Exit:** The chemical reaction is only one operation inside a productive organization. Chapter 8 makes that organization itself the central subject.
+Open with an illustrative factory sale that changes control without changing the motors. Explain commodity fetishism and socially maintained claims as material relations. Use enclosure and the cotton gin to distinguish productivity from access, freedom, and bargaining power.
 
-### 8. The Factory That Assembled Itself
+Follow a wage payment through three questions: livelihood and appropriation; recognition of the operation; regulation and authority. Keep Marx, Luhmann, and Ashby distinct. Acknowledge Jessop’s prior theoretical encounter and state the book’s narrower purpose in linking recurrence to dependence. Keep coercion and conflict visible rather than dissolving them into communication.
 
-**File:** `chapter8`. **Status:** complete first draft. **Target:** 5,000–6,000 words. **Ideas:** I09, I19, I21, I28, I43. **Research:** S41–S42; automation examples are explicitly illustrative.
+**Objection:** Calling an arrangement functional does not justify its distribution of power. Every disagreement cannot be explained away as hidden class interest.
 
-Open with a shared power source and a work schedule. Explain why concentrating operations could make sense under particular technical and commercial conditions. Machinery, labor discipline, ownership, finance, and maintenance must appear together.
+**Exit:** A house gives different people conflicting claims on one useful object. Monetary origins and the feudalism/union analogy remain outside the chapter.
 
-Develop the factory as an organization reproducing productive capacity. Include the households, care, training, and public infrastructure supporting workers. Introduce machines making machines while showing the remaining dependencies that make literal self-production an overstatement.
+### 9. The House That Could Not Get Cheaper
 
-Use electrification to examine delays between new capability and organizational change. Then compare internal planning, supplier networks, standards, and distributed experimentation. The contrast between markets and planning is already too crude inside an actual industrial system.
+**File:** `chapter9`. **Ideas:** I10, I26–I27, I30. **Sources:** S46–S47.
 
-**Objection:** Technology does not uniquely select an ownership structure. Efficiency can be measured in ways that conceal who bears costs and whose time counts.
+Use transparent invented mortgage arithmetic to separate shelter, price, equity, and debt. Trace collateral feedback and the 2007–2009 crisis through the FCIC’s findings, acknowledging dissent. Keep the Depression comparison brief and historically distinct.
 
-**Exit:** If the same equipment can participate in different social arrangements, what makes its economic powers appear to belong to the equipment itself?
+Explain how affordability can conflict with balance sheets dependent on high valuations. Compare illustrative interventions in purchasing power, ownership/access, and debt obligations, without presenting a universal housing prescription. Examine who absorbs a loss and how a transition works before its endpoint. Move sovereign-debt, health, and broad investment discussions to development material.
 
-## Part III — The Assembly of Society
+**Objection:** Material capacity is not instant deployability; an objection to reform may identify a real technical problem. Entrenchment needs independently observed dependencies.
 
-Make the theory of social reproduction explicit, test it against material conflicts, and examine AI as a possible new productive capacity. End by returning to the original physical question with sharper distinctions and a research program.
+**Exit:** A society needs institutions that can preserve knowledge, compare proposals, and let evidence affect action.
 
-### 9. The Relationships Behind the Machine
+### 10. The Machine That Was Everyone
 
-**File:** `chapter9`. **Status:** complete first draft. **Target:** 6,000–7,000 words. **Ideas:** I20–I26, I36. **Research:** S09–S11, S33, S43–S45.
+**File:** `chapter10`. **Ideas:** I34–I36, I43, I47. **Sources:** S12, S53; chapter 2’s documented dependency is revisited.
 
-Open with an object whose physical properties do not explain who controls it: a deed, machine, or payment. Introduce commodity fetishism, productive forces, and relations of production. Follow enclosure and the cotton gin as distinct histories requiring their own evidence, including dispossession and resistance.
+Use the screwdriver to establish distributed competence. An explicitly imagined retiring technician distinguishes preserved instructions from the capacity to use them. Develop teaching, practice, records, measurement, standards, and access as the means by which knowledge outlasts an individual.
 
-Examine protection, obligation, taxation, and money. Treat the feudalism/union comparison as a question about mutual protection and unequal authority, not a literal equivalence. Keep money's several histories distinct and exclude the discarded stirrup story.
+Examine failures of transmission and correction: missing context, silenced warnings, shared errors mistaken for independent confirmation, and records inaccessible to those with authority. Relate Marx’s general intellect to the separation between collective origins and control of a capability.
 
-Stage the Marx–Luhmann–cybernetics synthesis around a concrete wage or payment cycle. Preserve disagreements about the system's basic unit, conflict, coercion, meaning, and the limits of biological analogies. Institutions both depend on people and constrain them.
+**Objection:** Society is not one mind. Protected criticism requires a fair test, not automatic acceptance of every warning. More messages do not necessarily create better knowledge.
 
-**Objection:** Communication-centered explanation can obscure bodily coercion; a narrow physical account can obscure meaning. Ideology is materially embodied and consequential, not simply unreal.
+**Exit:** AI changes some operations within this distributed competence; its industrial significance needs a separate test. Self-domestication, consciousness, and the infant experiment remain in development material.
 
-**Exit:** Recursive reproduction can organize provision and reproduce a trap. Housing makes the conflict visible without requiring abstract agreement about an entire economic system.
+### 11. The Machines That Build the Next Machines
 
-### 10. The House That Could Not Get Cheaper
+**File:** `chapter11`. **Ideas:** I07, I09, I31, I38, I43, I47. **Sources:** S31, S50, S54.
 
-**File:** `chapter10`. **Status:** complete first draft. **Target:** 5,500–6,500 words. **Ideas:** I10, I25–I30. **Research:** S11, S18, S46–S48; U.S. crises and explicitly hypothetical arithmetic examples.
+Open with learned control on the TCV tokamak, explicitly separating the result from commercial fusion or autonomous energy invention. State the proposed loop: computation improves productive supports, and some resulting gains support later computation.
 
-Begin with a household need and a balance-sheet dependency attached to the same dwelling. Separate shelter, rent, collateral, and asset appreciation. Trace the actors and feedbacks that can make affordability conflict with financial stability.
+Follow representation into model correction, candidate selection, physical tests, repeatable manufacture, deployment, and maintenance. Distinguish invention from better use of existing capacity. Use explicitly hypothetical clocks and queues to show why faster search may leave the decisive delay unchanged or move it elsewhere.
 
-Use the Great Depression and 2008 as researched comparisons showing how financial relationships can impede existing productive capacity. Explain public debt and interest within a specified monetary regime, avoiding an undifferentiated household analogy for government.
+Make ownership and reinvestment causal steps. A genuine local improvement can benefit people without feeding back into computational growth. Specify baselines, full costs, operation beyond demonstration, and the separate evidence needed for the return connection. Preserve the difference between technical capability and choices about income, care, bargaining, and access.
 
-Take seriously capitalism's practical legitimacy through jobs, goods, and security, then examine the institutions and bargaining that make those outcomes possible. Compare distributed investment with centralized and hybrid planning. Include correlated failure and costs that prices fail to capture.
+**Objection:** Correlated error, resource competition, unmanufacturable designs, and missing finance can interrupt the loop. Cheap computation does not imply automatic abundance or UBI.
 
-Extend the issue to health, ecology, and energy. GLP-1 medicines frame a bounded question about prevention, access, production, and cost; they do not define socialism or eliminate healthcare needs. Consider systems that invest in people and the environment, with correction and accountability specified.
+**Exit:** Tools can help people understand a system. Can institutions act on that understanding to change the system’s operation?
 
-**Objection:** Reform need not await collapse, and collapse need not improve institutions. Neither markets nor planning guarantee good outcomes.
+### 12. Can a System Change Itself?
 
-**Exit:** Allocation is also a problem of knowledge. Chapter 11 examines the machinery through which individual and collective knowledge becomes a productive force.
+**File:** `chapter12`. **Ideas:** I10–I11, I30, I44–I45, I48–I49. **Sources:** S61–S64, with the theoretical predecessors recalled.
 
-### 11. The Machine That Was Everyone
+Begin with a useful chemical whose effects exceed the boundary of its use. Move from Molina and Rowland’s mechanism and Antarctic observations to the evolving Montreal regime. Distinguish diagnosis, controls, implementation capacity, and measured effects. Explain differentiated obligations, financing, recurring assessment, and material delay.
 
-**File:** `chapter11`. **Status:** complete first draft. **Target:** 6,500–7,500 words. **Ideas:** I23, I28, I31, I34–I40, I43. **Research:** S12, S14–S15, S31, S49–S54.
+Use the 2022 assessment’s bounded findings and unexpected emissions to show why monitoring must remain capable of contradicting institutional paperwork. HFC replacements and Kigali make further correction part of the case. Avoid a story of unanimous effortless success or a claim that the institutional form transfers unchanged to every global problem.
 
-Begin with a capability no single person could reproduce alone. Move from infant language and learned representations to social learning, the collective brain, and the infrastructure of stored knowledge. Distinguish representations in brains, tools, texts, and machine embeddings.
+State the synthesis around capability, recurrence, and dependency. Tie dialectical principles to thresholds, coupled effects, and the work of preserving useful services through change. Give conditional comparative tests and rival explanations. Conclude with the material supports of institutional learning and the ethical choices that persistence or energy use cannot decide.
 
-Explore costly brains, cooperation, conformity, and self-domestication as distinct questions. Chimpanzee cooperation prevents a false human/nonhuman absolute. Preserve uncertainty around human biological hypotheses and reject unsupported racial-IQ conclusions. Explain how peace can be enforced without reducing every cooperative act to coercion.
+**Objection:** A documented successful regime does not isolate the independent effect of each component. A fuller political history remains necessary to explain bargaining and resistance in detail.
 
-Distinguish world-models, functional self-models, and subjective experience. Develop intelligibility and physical accounts of mind in original prose; Newton and other fragmentary attributions remain unused. Introduce material forms and alternating search between representations and physical tests.
-
-Then develop general intellect and AI's possible productive feedback with energy and industry. Follow a design through validation, manufacture, and deployment. Account for inference, construction, and institutional rates. Analyze ownership and distribution; cheap services do not automatically yield universal abundance or UBI.
-
-**Objection:** A simulation may fail outside its assumptions; a self-model is not a settled consciousness test; compute growth does not prove net productive gains.
-
-**Exit:** The proposed loop is now explicit enough to compare with earlier histories. Chapter 12 asks what survives that comparison.
-
-### 12. The World That Builds Itself
-
-**File:** `chapter12`. **Status:** complete first draft. **Target:** 5,000–6,000 words. **Ideas:** I01–I04, I07–I11, I30–I33, I41–I45. **Research:** all established chapter evidence; no new unsupported universal law.
-
-Return to the constrained square, the inaccessible resource, and the organization that repeats. Compare stellar succession, biological reproduction, technological replication, and institutional persistence in a table that states differences as clearly as resemblances.
-
-Formulate the conditional sequence: inherited structure shapes variation; some changes open capabilities; those capabilities may support reproduction; reproduction transforms the environment; feedback can maintain, expand, or entrench the organization. Include counterexamples and conditions under which the loop breaks.
-
-Develop the three dialectical principles through already examined mechanisms. Ask whether assembly and energetic access improve explanation beyond existing theories. Specify possible disconfirmation, relevant measurements, and a program of comparative cases.
-
-Return to fine-tuning, time, effective laws, and dimensions. Distinguish a serious motive for investigation from a derived physical result. Present future growth, ecological transition, institutional reform, and contraction as conditional scenarios. Greater productive capacity creates political possibilities, not automatic justice.
-
-**Objection:** An account that can absorb every contrary case by changing the meaning of assembly is not a useful theory. Keep a boundary around what has actually been explained.
-
-**Exit:** Existence as ongoing material development remains the book's deepest proposal. What humans contribute next depends partly on how they organize the powers already assembled.
+**Exit:** Responsibility concerns what we sustain and transform within a world already in motion.
 
 ## Epilogue — The Square We Leave Open
 
-**File:** `epilogue`. **Target:** 1,000–1,500 words. **Status:** complete first draft.
+**File:** `epilogue`. **Ideas:** I01, I10–I11, I43–I48.
 
-Return to the prologue's machine and show its dependencies now carrying histories of stars, organisms, labor, institutions, and knowledge. Ask what it will help reproduce: a capacity to maintain shared conditions, an entrenched arrangement, or some mixture that requires deliberate correction.
+Return to the imagined data center, now connected. Follow a possible AI-assisted pump diagnosis into human inspection and repair. A service continues; someone goes home; care and teaching continue beyond the workplace. The loop has human purposes that cannot be measured solely as renewed productive input.
 
-End with a human-scale choice about inheritance and continuation. The book has argued for material conditions of possibility, not a final destination of history. Leave one square open as an image of the future's unresolved organization, while respecting the earlier warning that reality has no prewritten puzzle solution.
+Connect the conclusion’s institutional correction to everyday authority, evidence, and the ability to contest a system’s aims. Return to Sudoku without promising history a completed grid. End on the inheritance created by present work.
 
-## Editorial boundaries and revision priorities
+## Afterword — Could the Laws Have a History?
 
-The full idea inventory and note coverage are in `ideas`; verified links and remaining research leads are in `sources.md`. The complete first draft follows the sequence from technical foundations through productive histories to the social synthesis. Revision should deepen selected historical cases and rival explanations, reduce repeated qualifications, and balance chapter lengths toward the original targets. The epilogue now returns to the prologue's explicitly imagined machine through a human-scale repair scenario. No additional drafting placeholders remain in the manuscript files.
+**File:** `afterword`. **Ideas:** I02–I04, I40–I42. **Sources:** S05–S07, S20–S29.
 
-Keep historical scenes connected across chapters but avoid retelling them. Steam is previewed in chapter 1 and narrated in chapter 6; the factory is narrated in chapter 8 and interpreted socially in chapter 9; AI is posed in the prologue and evaluated in chapter 11. Preserve the source notes verbatim, and revise developed claims when evidence requires it.
+Preserve the cosmological inquiry as a separate, explicitly speculative essay. Begin with the bowl and refraction; distinguish stationary action from conscious anticipation. Separate a quantum vacuum from absolute nothing, uncertainty from compulsory ontology, symmetry breaking from an origin of laws, and scale-dependent description from historical parameter change.
+
+Address entropy, initial conditions, fine-tuning, observer selection, and the proposed relaxion mechanism. Require a specified physical model with discriminating consequences. Neither living organization nor institutional feedback derives physical constants by analogy.
+
+**Exit:** A productive question about a presumed background remains open until a physical explanation earns its answer.
+
+## Development material and revision discipline
+
+[Parked material](development/parked-material.md) preserves the earlier standalone assembly-theory treatment, genetic-lineage discussion, protection and monetary analogies, public debt, investment and health, self-domestication and self-models, infant learning, and a comparison across scales. These are outside the reading sequence. Their inclusion in the expanded ideas does not make every topic a required premise of the book.
+
+The raw `notes` stay unchanged. Use `ideas` for the broader development, `sources.md` for evidence and limits, and this outline for chapter responsibilities. Future expansion should add discriminating comparisons, stronger scenes supported by sources, or useful counterexamples. Repeating that every machine needs a wider system is not a substitute for advancing the mechanism.
