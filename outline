@@ -12,7 +12,7 @@
 
 **Reader and voice:** Write for a curious general reader who wants a connected argument and can follow technical distinctions when they are explained through examples. Use short original aphorisms as moments of compression. Build the surrounding narrative through scenes, mechanisms, objections, and consequences. Avoid invented dialogue, hindsight inevitability, and the lone-genius account of invention.
 
-**Working length:** approximately 65,000–80,000 words when fully drafted. The current chapter 1 is an opening draft; later scene development and revision can alter individual lengths. Chapter files after chapter 1 contain writing plans rather than completed prose.
+**Working length:** approximately 65,000–80,000 words when fully drafted. Chapters 1 and 2 are complete first drafts; later scene development and revision can alter individual lengths. Chapters 3–12 contain writing plans rather than completed prose.
 
 ## Recurring questions
 
@@ -52,13 +52,13 @@ Introduce energy access, repeated production, and relationships behind machines.
 
 ### 2. The Universe That Tuned Itself
 
-**File:** `chapter2`. **Target:** 5,000–6,000 words. **Ideas:** I02–I04, I40–I42. **Research:** S05–S08 and outstanding cosmology work.
+**File:** `chapter2`. **Status:** complete first draft. **Target:** 5,000–6,000 words. **Ideas:** I02–I04, I40–I42. **Research:** S05–S07, S20–S29.
 
 Begin with light crossing a boundary. Explain Fermat's stationary-time formulation, then the relation to variational descriptions more generally. A physical trajectory is not evidence that nature consciously anticipates its destination. Use this distinction to prevent “least time” from becoming a universal theory of history.
 
 Separate ignorance, quantum uncertainty, and ontological indeterminacy. Discuss why a quantum vacuum is not absolute nothing. Move from symmetry and differentiated states to the distinct problems of parity, matter–antimatter imbalance, dimensions, and time's arrow. Specify which are established observations and which remain unresolved explanations.
 
-Confront fine-tuning directly, especially the cosmological constant. Ask whether some apparent independent choices could be correlated products of development. State what a successful mechanism would have to derive; neither symmetry breaking nor self-maintenance is sufficient by itself.
+Confront fine-tuning directly, especially the cosmological constant. Ask whether some apparent independent choices could be correlated products of development. Distinguish observer selection from a dynamical explanation, and use the proposed relaxion mechanism as a concrete example of the latter kind of research. State what a successful mechanism would have to derive; neither symmetry breaking nor self-maintenance is sufficient by itself.
 
 **Objection:** Development may presuppose precisely the laws or parameters it claims to explain. An analogy to self-organization cannot remove that circularity.
 
@@ -228,6 +228,6 @@ End with a human-scale choice about inheritance and continuation. The book has a
 
 ## Editorial boundaries and next drafting order
 
-The full idea inventory and note coverage are in `ideas`; verified links and unresolved research are in `sources.md`. Draft chapters 2–4 next to stabilize technical vocabulary, then 5–8 to test the historical mechanism, then 9–12 to develop the synthesis. Draft the prologue and epilogue in full after the central argument has survived that process.
+The full idea inventory and note coverage are in `ideas`; verified links and unresolved research are in `sources.md`. Draft chapters 3–4 next to extend the technical foundation established in chapter 2, then 5–8 to test the historical mechanism, then 9–12 to develop the synthesis. Draft the prologue and epilogue in full after the central argument has survived that process.
 
 Keep historical scenes connected across chapters but avoid retelling them. Steam is previewed in chapter 1 and narrated in chapter 6; the factory is narrated in chapter 8 and interpreted socially in chapter 9; AI is posed in the prologue and evaluated in chapter 11. Preserve the source notes verbatim, and revise developed claims when evidence requires it.

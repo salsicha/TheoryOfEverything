@@ -15,7 +15,7 @@ The original extensionless filenames are retained. They contain UTF-8 text with 
 | [outline](outline) | Full book architecture, chapter arguments, and narrative transitions | Expanded outline |
 | [prologue](prologue) | The Machine Waiting for Electricity | Scene and argument outline |
 | [chapter1](chapter1) | The Square with One Answer | Complete first draft |
-| [chapter2](chapter2) | The Universe That Tuned Itself | Detailed outline |
+| [chapter2](chapter2) | The Universe That Tuned Itself | Complete first draft |
 | [chapter3](chapter3) | The Signature of Life | Detailed outline |
 | [chapter4](chapter4) | The Planet That Life Made | Detailed outline |
 | [chapter5](chapter5) | The Grain That Built a World | Detailed outline |

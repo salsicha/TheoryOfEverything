@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during preparation on November 14, 2026. This is a research foundation for a first draft, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below. Full-text review, page references, competing scholarship, and scene-level verification remain necessary where specified. Source keys are used in `ideas` and the chapter outlines.
+Sources checked during preparation and chapter 2 drafting on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for chapter 2, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas` and the chapter outlines; chapter 2 also has its own numbered notes.
 
 ## S01
 
@@ -116,11 +116,71 @@ The trial concerns a defined population with established cardiovascular disease.
 
 Orientation to stellar life cycles. Before a full chapter draft, add primary work on nucleosynthesis, element dispersal, neutron-capture processes, planetary formation, and oxygenation. Do not describe the Sun as demonstrably among the first stars able to support life.
 
+## S20
+
+**Quantum uncertainty and interpretation.** H. P. Robertson, [“The Uncertainty Principle”](https://doi.org/10.1103/PhysRev.34.163) (1929); David Bohm, [“A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I”](https://doi.org/10.1103/PhysRev.85.166) (1952).
+
+Chapter 2 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
+
+## S21
+
+**The quantum vacuum.** David Tong, [Quantum Field Theory, section 2, “Free Fields”](https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html), especially section 2.3.
+
+Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 2 explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
+
+## S22
+
+**Symmetry breaking and the Higgs evidence.** David Tong, [Statistical Field Theory, “From Spins to Fields”](https://www.damtp.cam.ac.uk/user/tong/sft/sfthtml/S1.html); Peter W. Higgs, [“Broken Symmetries and the Masses of Gauge Bosons”](https://doi.org/10.1103/PhysRevLett.13.508) (1964); [ATLAS](https://arxiv.org/abs/1207.7214) and [CMS](https://arxiv.org/abs/1207.7235) discovery papers (2012).
+
+Supports the limited magnetic example and the experimental Higgs context. Gauge redundancy is not identified with physically different magnet orientations. The chapter does not claim that all mass has one origin or provide a complete history of the mechanism's contributors.
+
+## S23
+
+**Parity, CP, and baryogenesis.** C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413) (1957); J. H. Christenson et al., [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138) (1964); Antonio Riotto and Mark Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999).
+
+Used to separate three questions. The review supplies conceptual background, not a current experimental-status survey or a claim that cosmic matter asymmetry has been explained.
+
+## S24
+
+**Statistical entropy and initial conditions.** Feynman, Leighton, and Sands, [I.46, “Ratchet and Pawl”](https://www.feynmanlectures.caltech.edu/I_46.html); Joel L. Lebowitz, [“Macroscopic laws, microscopic dynamics, time's arrow and Boltzmann's entropy”](https://sites.math.rutgers.edu/~lebowitz/PUBLIST/lebowitz_360.pdf), *Physica A* 194 (1993), 1–27.
+
+Supports the statistical explanation and the need to account for low-entropy initial conditions. The discussion does not assert exact time-reversal symmetry of all fundamental interactions or derive the origin of time itself.
+
+## S25
+
+**Effective theories.** Joseph Polchinski, [“Effective Field Theory and the Fermi Surface”](https://arxiv.org/abs/hep-th/9210046), TASI 1992 lectures, revised 1999; [HTML text](https://arxiv.org/html/hep-th/9210046).
+
+Supports descriptions organized by energy scale. Chapter 2 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
+
+## S26
+
+**The vacuum-energy problem.** Sean M. Carroll, [“The Cosmological Constant”](https://arxiv.org/abs/astro-ph/0004075), *Living Reviews in Relativity* 4 (2001), 1; [HTML text](https://arxiv.org/html/astro-ph/0004075). Jérôme Martin, [“Everything You Always Wanted To Know About The Cosmological Constant Problem (But Were Afraid To Ask)”](https://arxiv.org/abs/1205.3365), *Comptes Rendus Physique* 13 (2012), 566–665.
+
+Used for the theoretical mismatch and its dependence on assumptions and calculation. No present-day parameter estimate or single universal numerical discrepancy is asserted.
+
+## S27
+
+**Evidence of cosmic acceleration.** Adam G. Riess et al., [“Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant”](https://arxiv.org/abs/astro-ph/9805201) (1998); Saul Perlmutter et al., [“Measurements of Omega and Lambda from 42 High-Redshift Supernovae”](https://arxiv.org/abs/astro-ph/9812133) (1999).
+
+Supports the historical account of the supernova evidence. Establishing acceleration is distinguished from establishing the ultimate nature of dark energy.
+
+## S28
+
+**Observer selection.** Steven Weinberg, [“Anthropic Bound on the Cosmological Constant”](https://doi.org/10.1103/PhysRevLett.59.2607), *Physical Review Letters* 59 (1987), 2607–2610.
+
+Supports the specific bound concerning gravitationally bound structures. The chapter's discussion of probability distributions and linked parameters is a methodological argument, not a claim that this paper demonstrates an ensemble of universes.
+
+## S29
+
+**A dynamical proposal.** Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551), *Physical Review Letters* 115 (2015), 221801; [full text consulted](https://arxiv.org/pdf/1504.07551).
+
+Chapter 2 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
+
 ## Outstanding research and attribution
 
 - **The supplied video:** [YouTube reference in the notes](https://youtu.be/D5in5EdjhD0). Direct retrieval failed. No transcript, exact quotation, speaker attribution, or interpretation has been taken from it. Verify the source before using the Newton/ghost/machine wording or the associated mind-and-matter discussion.
 - **Russell, Newton, Darwin, and Harari:** the notes contain paraphrases, fragmentary attributions, and objections. Locate exact works and passages before quotation. The chapter draft uses original prose instead.
-- **Fine-tuning:** obtain primary sources on the cosmological constant, effective field theories, vacuum energy, anthropic arguments, and relevant dynamical proposals. A developmental analogy is not a quantitative solution.
+- **Fine-tuning:** chapter 2 now draws on S20–S29 for its limited claims. Further work for chapter 12 should compare alternative dynamical models, updated observational constraints, and criticism of probability measures and naturalness. The chapter's developmental synthesis is not a quantitative solution to the cosmological constant or initial-condition problems.
 - **Economic and military history:** obtain records and specialist histories for Song industry, Qing political economy, the *Nemesis*, the Opium Wars, enclosure, slavery and cotton, Arkwright, factory electrification, medieval protection, taxation, coinage, and the Norman Conquest. No stirrup-caused-feudalism narrative is planned.
 - **Finance:** select a jurisdiction and dated evidence for housing, collateral, public debt, interest costs, the Great Depression, and 2008. Avoid universal claims across monetary regimes.
 - **Cognition and AI:** obtain work on developmental language learning, neural representation, metacognition, self-models, and industrial AI deployment. Separate evaluated capabilities from proposed futures; quantify both operating costs and demonstrated productive gains.

@@ -1,27 +1,211 @@
 # Chapter 2 — The Universe That Tuned Itself
 
-**Status:** detailed outline. **Target:** 5,000–6,000 words.
-
 *A condition can be older than the thing it explains and still have a history of its own.*
 
-## Chapter purpose
+Put a coin in a bowl and step back until the rim hides it. Keep your head still while someone adds water. From a suitable position, the coin comes back into view. The coin has not moved. The water has changed the route by which light from it can reach your eye.
 
-Take chapter 1's question about the origin of constraints seriously without mistaking the question for an answer. The title names a hypothesis to investigate. By the end, the reader should distinguish physical evidence, interpretations of that evidence, and the proposed developmental account of apparent fine-tuning.
+The demonstration is simple enough to perform in a kitchen. Its explanation opens a much larger problem. A change in the material between two places changes the path connecting them. What appears to be a property of the route belongs partly to the environment through which the route passes.
 
-## Narrative and argument
+In the language of geometrical optics, light bends when it passes obliquely between materials in which it travels at different speeds. Fermat's principle describes the relevant path by comparing travel times along nearby alternatives. For a simple crossing between air and water, the physical route minimizes the time between fixed endpoints. More generally, the precise requirement is stationarity: a sufficiently small change of path produces no first-order change in travel time.[1]
 
-1. **A ray crosses a boundary.** Open with an explanatory scene of light passing between media. Show the geometrical problem and introduce Fermat's formulation. Explain stationarity with a nearby-path comparison; avoid suggesting that a photon knows the destination or performs a conscious search. Use [S05](sources.md#s05).
-2. **A principle is not an intention.** Extend carefully to action principles. State what is varied and what the principle actually constrains. Contrast a mathematical description of motion with the unsupported claim that every physical or social process takes the least time toward greater energy extraction.
-3. **What could nothing mean?** Separate an empty container, a vacuum state, and absolute nothingness. Discuss uncertainty as incomplete knowledge, probabilistic prediction, and an ontological interpretation. Do not treat an interpretation of quantum theory as an experimental verdict about why anything exists.
-4. **A world acquires distinctions.** Use a simple physical symmetry-breaking illustration before discussing the Higgs field. Keep parity violation, CP violation, and cosmic matter excess separate. Introduce dimensionality and time's arrow as further questions, not as effects already explained by the same mechanism. Use [S06](sources.md#s06) as orientation and add technical sources.
-5. **The fine-tuning problem stated fairly.** Define what is being varied in a particular argument and why a probability claim requires assumptions. Introduce the cosmological constant as a specific challenge. Explain observer selection without treating it as equivalent to a dynamical mechanism.
-6. **The developmental alternative.** Ask whether correlations and historical stabilization could make some supposedly independent choices nonindependent. State the missing work: variables, dynamics, boundary conditions, quantitative predictions, and an account of the laws already assumed. Consider whether autopoiesis is a useful analogy here or imports too much biological organization.
-7. **The edge of the claim.** Separate effective regularities that arise in organized matter from a conjecture about fundamental laws. Revisit the title: the chapter has motivated a testable ambition, not shown that the universe literally tuned itself.
+That last distinction deserves a little patience. At the bottom of a smooth valley, a small step in either direction changes height less rapidly than a step on the slope. The immediate rate of change is zero. A hilltop also has that property. Stationarity concerns this local condition, which need not identify the lowest value available anywhere. The familiar expression “least time” is memorable, but its apparent simplicity can conceal what the principle says.
 
-## Evidence and objections
+For the bowl, compare two imagined routes between the coin and the same point above the water. One might use a shorter stretch in air but a longer stretch in water. Another does the reverse. Each travel time depends on both distances and speeds. The shortest distance and the shortest time need not describe the same route.
 
-Obtain primary sources on the cosmological constant, quantum interpretations, symmetry breaking, the low-entropy past, and effective theories. Do not use disputed entropy-production proposals as settled laws; [S07](sources.md#s07) is a starting point for their limitations. The strongest objection is circularity: a developmental process may already require the finely specified physics it promises to explain. Show what would be required to escape that objection rather than dismissing it.
+We can calculate such routes by varying the crossing point at the surface. Nothing about that calculation requires the light to make the comparison consciously. The alternatives belong to our description of the problem. The material world supplies the interactions whose behavior the description captures.
 
-## Continuity
+This matters because the language of optimization invites a seductive mistake. We encounter an elegant principle and imagine that nature has a goal. We see a constrained path and give the universe the intentions of an engineer. But a mathematical extremum is not an intention hidden inside matter.
 
-Draw on ideas I02–I04 and I40–I42. Carry forward the constrained-square question, but leave the puzzle designer behind. End with a change of evidential scale: whatever the deepest origin of constraints, can we detect the history of construction in an object before us? Chapter 3 begins with that measurable problem.
+The lesson from the bowl is already considerable without that addition. To understand the path, we must understand the conditions through which it passes. Change the conditions and the path changes, although the general principle used to describe it remains applicable.
+
+The previous chapter asked where constraints come from. Here is a small answer. Some constraints belong to the arrangement of other things. The surface of the water is one such arrangement. It was absent before the water entered the bowl. It can be moved, disturbed, or removed. The law used to explain the bending did not have to be invented when the bowl was filled, but this particular condition of the light's passage did.
+
+A constraint can be real without being eternal.
+
+There are therefore at least two questions hidden inside the question about origins. How does an environment acquire a condition that affects later events? And why are there laws under which environments and events behave as they do? An answer to the first may leave the second untouched. It can still explain something important.
+
+Physics repeatedly makes progress by finding that what was treated as a condition at one level can be described as a process at another. The danger is to stop too soon and call every condition fundamental. The opposite danger is to announce that all conditions have been explained because one of them has a history.
+
+The title of this chapter names the possibility between those dangers. Perhaps some features that look as though they had to be specified in advance were instead reached through development. To investigate that possibility, we need to know what the established physics permits us to say, and where the proposed extension begins.
+
+The principle of stationary action provides a useful discipline. In a familiar class of mechanical problems, action is the time integral of kinetic energy minus potential energy. The physical trajectory makes the first-order change in this quantity vanish under small variations that preserve the specified endpoints. For those systems, this condition gives the same equations of motion as the familiar force-based account.[2]
+
+Action is not an amount of usable energy waiting to be extracted. It has units of energy multiplied by time. Its stationarity says nothing, by itself, about the fastest route to a more productive civilization. Nor is the physical trajectory necessarily the global minimum of action. Importing “least” into an argument about history without importing the defined quantity, the allowed variations, and the boundary conditions leaves only the sound of a physical principle.
+
+Yet the achievement of the principle should not be diminished. The same motion can be understood through local changes and through a condition applied to a whole path. A description that sounds purposeful can be mathematically connected to one that does not invoke purpose at all.
+
+This suggests a standard for the larger argument. If we say that development tends toward greater access to energy, we owe an account of the interactions that produce that tendency. Which organizations persist? What changes their reproductive prospects? Which pathways become accessible? A comparison with stationary action may inspire those questions. It cannot answer them on their behalf.
+
+There is a difference between discovering order and assigning it a destination.
+
+The difficulty becomes sharper when we ask what preceded the order we know. It is tempting to begin with nothing: no stars, no particles, no space, and then some event by which existence arrives. But that sentence has already smuggled in an event and a relation of before and after. We have described nothing by giving it the conditions under which something might happen.
+
+Emptying a container does not escape the problem. Remove the air and the container remains. Remove the container and we still imagine a place. Remove particles from a physical theory and the theory may retain fields, possible states, relations, and laws. Each removal takes away something within a description. It does not necessarily leave absolute nothingness.
+
+A quantum vacuum belongs on this side of the distinction. In the elementary field-theory setting, it is a lowest-energy state, with properties defined by the theory. It can have nontrivial fluctuations and correlations even though it contains no particles of the specified free-field kinds. These statements concern an organized mathematical and physical structure. They do not describe a featureless absence from which the structure has somehow been obtained.[3]
+
+Uncertainty offers another possible beginning. Perhaps the world is not fundamentally a collection of fully definite things whose properties await discovery. Perhaps indeterminacy belongs to what exists. This book takes that ontological possibility seriously. Its force depends on keeping it separate from two more familiar meanings of uncertainty.
+
+We can be uncertain because information is missing. A coin covered by a hand may already show heads or tails. We can also have a theory that predicts distributions of outcomes without selecting one result in advance. Whether that predictive structure establishes irreducible indeterminacy in reality is a further question.
+
+Quantum mechanics makes that question unavoidable, but it does not answer it simply by containing an uncertainty relation. Relations such as the position–momentum uncertainty bound constrain the spreads of measurement outcomes associated with a quantum state. They are not merely instructions to buy more accurate instruments. At the same time, interpretations of quantum theory differ about the underlying ontology. Bohm's deterministic formulation is one reason not to equate quantum predictions automatically with a unique metaphysics of fundamental chance.[4]
+
+The proposal that existence emerges from uncertainty therefore needs more than a reference to Heisenberg. It needs to explain what is uncertain, how that uncertainty is represented, and what observations follow. If there are possible outcomes, we need to know what makes them possible. If there are probabilities, we need to know what structure permits us to assign them.
+
+This does not dismiss the proposal. It locates its work. An account can challenge the idea of completely definite building blocks without claiming to have derived the existence of the universe. It can ask whether relations, possibilities, and interactions are more basic than the objects we habitually imagine. But a question about what must exist cannot be settled merely by giving absence a more active name.
+
+The vacuum has structure. That fact makes the vacuum interesting; it does not make it nothing.
+
+Once there is a physical system with possible states, however, we can ask how it acquires a particular organization. Here the argument moves from metaphysical uncertainty to processes we can describe much more precisely.
+
+Consider an idealized model of a magnet. At each site, a small magnetic variable can point in one of two opposite directions. Neighboring variables favor alignment. The rules are unchanged if every direction is reversed. At sufficiently high temperature the system lacks a net preferred direction; below a critical temperature, a large system can develop collective magnetization. The resulting state can have less symmetry than the rule describing its possible behavior.[5]
+
+The example makes a distinction that will matter throughout the book. A symmetric rule need not produce a state that displays the entire symmetry of that rule. Particular outcomes require particular states. If two directions are equally allowed, the existence of a magnetized state does not require a law that declares one of those directions universally superior.
+
+This is spontaneous symmetry breaking in an idealized setting. Real samples add boundaries, imperfections, magnetic fields, domains, and finite sizes. Those details matter to which state appears and how long it remains. Their presence does not erase the distinction between the symmetry of the description and the organization of the material.
+
+What has the magnet acquired? It has acquired a collective condition under which subsequent interactions occur. A nearby probe can respond to an organization that cannot be assigned to one constituent considered alone. What became possible depended on the constituents, their interactions, and the conditions under which their collective state formed.
+
+There is no need for an organizing mind outside the material. But there is also no creation from a complete absence of rules. The model already contains the possible directions, interactions, and thermal conditions. It explains how a particular organization arises from those conditions. It does not explain why those are the conditions of existence itself.
+
+That limitation is also a source of strength. The explanation has a boundary. Within it, we can ask what changes when the temperature changes, when an external field is applied, or when the interactions are altered. The account earns its authority through those distinctions rather than through the size of the word emergence.
+
+The Higgs mechanism brings a related distinction into particle physics, although the magnetic analogy must be handled carefully. The electroweak theory describes a Higgs field whose nonzero vacuum value is associated with the masses of the W and Z bosons; interactions with the field also enter the account of elementary fermion masses. The field's state affects how other fields behave. The 2012 ATLAS and CMS observations of a new boson supplied crucial experimental support for the Higgs picture.[6]
+
+This is not a claim that every particle became massive through the same process, nor that all mass is a gift from a single particle. The underlying theory is also subtler than arrows in a magnet: gauge symmetries include redundancies in description, so different mathematical orientations need not represent physically different worlds. What experiments test are observable consequences, including particles, interactions, and relations among measured quantities.
+
+The relevant lesson is that properties can depend on the state of other physical structure. The account does not begin with a list of independent objects, each carrying all its attributes in isolation. Some attributes are understood through interactions and a background state shared across the theory.
+
+A background is still something whose role can be investigated.
+
+It would be easy to stretch this insight into an answer to every asymmetry. The universe contains distinctions: matter and antimatter, left and right, past and future. Perhaps all are instances of one primordial sorting. But the words hide different questions, and combining them before explaining them would make the proposed theory less precise than the physics it hopes to connect.
+
+Consider left and right. Parity concerns whether the laws remain unchanged under a spatial reflection. A particular asymmetric object does not establish parity violation: a right-handed screw can exist in a world whose laws also permit its mirror image. The issue is whether the physical process itself respects the reflected description. In 1957, Chien-Shiung Wu and her collaborators reported an experimental violation of parity in cobalt-60 beta decay.[7]
+
+That result is different from a symmetric magnetic model acquiring a particular orientation. In one case, the question concerns the symmetry of the interactions; in the other, a state fails to display a symmetry allowed by the model. Calling both a preference of nature would conceal the difference we need to understand.
+
+The matter–antimatter problem adds another distinction. Charge conjugation exchanges particles with their antiparticles; combining that operation with spatial reflection gives CP. Experiments have shown that CP is not an exact symmetry of all particle processes. The 1964 neutral-kaon work of Christenson, Cronin, Fitch, and Turlay was a landmark in establishing this. Yet the existence of CP violation is not, on its own, a complete account of the cosmic excess of matter.[8]
+
+A successful account of that excess must specify physical processes, their conditions, and the amount of asymmetry they produce. Under familiar assumptions, baryogenesis requires ingredients beyond merely allowing matter and antimatter to behave differently. The history of the expanding universe and departures from equilibrium enter proposed mechanisms. The problem has to be solved quantitatively, rather than by pointing to any observed asymmetry and declaring the remainder explained.
+
+For our argument, the distinction is productive. Some differences may arise through the development of a state. Others reveal properties of interactions. Some may reflect boundary conditions whose deeper origin remains unknown. A material history must discover which kind of explanation fits each case.
+
+The observed number of large spatial dimensions poses a further question. We navigate three independent spatial directions, while physical time plays a different role in our descriptions. It is possible to ask whether this organization is fundamental, whether additional dimensions might be inaccessible at ordinary scales, or whether dimensionality could arise in a deeper theory. Asking those questions does not show that a process of assembly has selected three dimensions.
+
+Even a proposed argument about the stability of structures in other dimensions has assumptions. Which laws are carried into the alternative world? How do interactions change with geometry? What counts as a stable structure? Changing one feature while freezing every other feature can be a useful investigation, but the resulting counterfactual belongs to a model. It is not a survey of all possible universes.
+
+We should resist turning our familiarity with this world into knowledge of the frequency with which other worlds could occur.
+
+Time presents an even more intimate asymmetry. We remember an opened door, not the opening that has yet to happen. Heat spreads from a hot object into cooler surroundings; we do not ordinarily see the dispersed energy spontaneously reassemble the original temperature difference. Many everyday processes have a direction even when the microscopic equations used to model them permit reversed motions.
+
+A simple gas illustrates the statistical idea. Confine it to one side of a container and remove the partition. For ordinary macroscopic conditions, it spreads. There are vastly more microscopic arrangements compatible with a roughly even distribution than with every molecule crowded back into the original side. Boltzmann's account relates entropy to the multiplicity of microscopic states compatible with a macroscopic description. The initial condition is essential: we began with the gas confined.[9]
+
+This is not a failure of the molecules to retrace their steps because they have forgotten the past. It is a statement about microscopic possibilities, typical behavior, and the conditions under which we began the comparison. Nor does microscopic chaos alone explain the direction. A model can be highly sensitive to initial conditions without that sensitivity selecting which temporal direction carries the low-entropy boundary.
+
+The explanation therefore returns us to an inheritance. Why was there a partition? Who or what prepared the confined gas? In the laboratory we can follow the preparation into the work performed by an apparatus and into its environment. In cosmology the corresponding question reaches toward the universe's low-entropy past. A statistical account of relaxation does not, by itself, explain the origin of that past.
+
+It is also not enough to say that the early universe was hot. Temperature is not entropy, and gravity complicates the inference from visual uniformity to maximal disorder. We cannot identify the entropy of the whole gravitational world merely by looking at the thermal character of one component. The problem of the initial condition remains a physical problem, not a defect to be removed by an evocative word.
+
+We have reached a recurring pattern: a mechanism explains what happens given certain conditions, then leaves us asking how those conditions arose. That is not an infinite sequence of failures. It is often the shape of successful inquiry. The work is to make each dependence explicit and see whether a further mechanism can account for it.
+
+For this book, thermodynamics supplies both possibility and restraint. Local organization can be maintained in an open system exchanging energy and matter with its surroundings. But entropy, energy, and power are different quantities. Energy has units of joules; power has units of joules per second; thermodynamic entropy has units of joules per kelvin. A claim about one cannot be transferred to another merely because each appears in a discussion of heat.[10]
+
+A reservoir can hold a great deal of usable energy while the rate at which a particular system accesses it remains small. A barrier can prevent a transformation, even when the final state would be energetically favorable. Conversely, an increased rate of energy use can be spent wastefully. None of these possibilities contradicts conservation of energy or supplies a universal scale of progress.
+
+Suppose a device depends on a temperature difference. Removing that difference can destroy its ability to do useful work even though the energy has not vanished. The capacity belonged to a relation between parts of the system. The history of establishing, exploiting, and dissipating that relation matters.
+
+This is the physical basis for asking how new pathways become available. It is not evidence that all systems must find the pathway with the greatest entropy production. Maximum-entropy-production proposals require assumptions whose scope is debated. Minimum-production results likewise have restricted settings. The second law does not become a general rule that everything far from equilibrium maximizes its rate of energy use while everything near equilibrium minimizes it.[10]
+
+The distinction will matter when we reach life and civilization. An organization may expand by opening a resource, persist by reducing its needs, or fail because its rate of exploitation destroys its support. Which happens is a question about its mechanism and environment. The arrow of time does not promise that every later arrangement will command more energy than every earlier one.
+
+Before we ask whether physical constants could have histories, we need one more distinction: a law can be reliable without being the deepest available description.
+
+The stiffness of a material is a measurable property. It constrains how the material responds to force. But it belongs to an organized collection of constituents, not to a single isolated atom carrying a tiny copy of the material's rigidity. Change the arrangement or conditions and the collective response can change. A calculation at the scale of the whole material can be useful without tracking every microscopic motion.
+
+Effective theories formalize the possibility of working at a specified scale while retaining the influence of smaller-scale processes in suitable parameters and interactions. Their success is not a declaration that the ignored details do not exist. It depends on understanding which effects remain important for the question being asked. Polchinski's account of effective field theory makes this discipline explicit.[11]
+
+This gives a precise alternative to treating every stable regularity as an isolated commandment. Some regularities belong to a regime. They can be explained through the structure and scale at which they arise. Their dependence on a deeper account does not make them illusory.
+
+But changing the scale of a description is not the same event as changing a law over historical time. The scale dependence of a parameter in a physical calculation does not by itself establish that its measured value has drifted through cosmic history. Likewise, a new collective property of matter does not prove that the most fundamental interactions were assembled from earlier ones. These are different extensions, with different evidence required.
+
+The distinction lets us state the ambition without inflating it. We already have reasons to ask whether a regularity is fundamental or effective. The further proposal is that some conditions now treated as fixed may be outcomes of physical development. To evaluate that proposal, we must name the condition and specify the development.
+
+This is where the fine-tuning debate becomes unavoidable.
+
+In a common form of the argument, a model contains parameters whose values affect whether familiar complex structures can exist. Vary a parameter, or several, and examine the consequences. Perhaps a reaction no longer occurs in the same way, a bound structure becomes unstable, or the history of cosmic expansion changes so that certain structures cannot form. The apparent sensitivity motivates the question: why are the values compatible with the world we observe?
+
+That is a legitimate question. It is not yet a calculation of the probability that such a world would exist.
+
+A probability requires more than a range of numbers on a page. We need a distribution, a reason for choosing it, and an account of which quantities can vary independently. Assigning equal weight to equal intervals of a quantity does not generally assign equal weight to equal intervals of its logarithm. A sensitivity study can be informative even when there is no agreed physical mechanism supplying the distribution of possible values. The two tasks should not be confused.
+
+An elementary example shows why independence matters. Imagine two quantities that must be nearly equal for a device to work. If each is independently set somewhere in a broad range, close agreement occupies only a narrow region of the possibilities. But suppose a linkage forces the second quantity to follow the first. Agreement can then occur throughout a large range of settings. What looked like two fortunate choices becomes one relation requiring an explanation.
+
+The example does not demonstrate that physical constants are linked in the needed way. It shows what a developmental proposal would have to discover. A correlation cannot simply be announced because it would solve the problem. The linkage must exist, and its operation must account for the required relation without hiding the same unexplained precision elsewhere.
+
+The cosmological constant makes the demand especially severe. In general relativity, a constant term in the gravitational equations can be represented as a contribution with the character of uniform vacuum energy. A positive value can produce accelerated cosmic expansion. The supernova studies published by the Riess and Perlmutter teams in the late 1990s supplied major evidence for acceleration.[12]
+
+The observation of acceleration and the explanation of its cause remain different questions. A cosmological constant is a possible description of the accelerating component; discussing its theoretical problem does not establish that all dark-energy behavior has been settled. The issue relevant here is why a vacuum contribution compatible with cosmology is so small compared with scales suggested by particle physics.
+
+Quantum fields and other contributions enter the vacuum-energy accounting. The challenge is not simply that one rough calculation prints a spectacularly large number. It is how a small net gravitational effect can remain small when the theory includes much larger contributions and corrections. The often-repeated numerical disparity depends on the calculation and its assumptions; it should not be treated as a unique, context-free prediction of quantum mechanics.[13]
+
+A proposed developmental explanation must face that accounting. If a field changes so as to reduce one contribution, what determines its stopping point? If contributions cancel, what maintains the cancellation when other physics changes? If a mechanism drives the result toward zero, does it also explain a small value compatible with the observed expansion? Calling the outcome stable answers none of those questions until the stability is derived.
+
+Observer selection offers a different kind of explanation. We cannot observe our environment from a place in which no observers can arise. This conditions the observations available to us. In a 1987 argument, Steven Weinberg investigated an anthropic bound associated with the formation of gravitationally bound structures: an excessively large positive cosmological constant could prevent such structures from forming under the conditions considered.[14]
+
+The importance of that argument lies partly in its specificity. It connected an observational prerequisite with physical development, rather than merely saying that the universe must suit us because we are here. But conditioning on an observer's existence is not the same operation as constructing the environment in which the observer exists.
+
+If many environments are proposed, their distribution still needs an account. If only one environment is considered, the fact that we could not inhabit an incompatible one does not identify the mechanism that gave this one its properties. Observer selection, dynamical explanation, and the description of an initial condition answer related but different questions. None should win by silently adopting the question best suited to it.
+
+The developmental alternative pursued in this book asks whether some apparent settings are reached through physical processes. It proposes a sequence to investigate: conditions permit change; change reorganizes the conditions; the new organization constrains further change. The eventual result may be less sensitive to some initial differences than a picture of independent settings would suggest.
+
+There are concrete proposals in theoretical physics that give this kind of question mathematical form. In 2015, Peter Graham, David Kaplan, and Surjeet Rajendran proposed a mechanism in which early-universe dynamics could help establish the electroweak scale. An evolving field changes the effective Higgs mass parameter; the development of a Higgs vacuum value affects barriers that can stop the field's motion. Their proposal is often called the relaxion mechanism.[15]
+
+This is a proposed solution to a particular hierarchy problem, not an experimentally established history of the universe. It introduces additional physics and demanding cosmological conditions. It does not solve the cosmological constant problem merely because it concerns a scale set through cosmic evolution. Its relevance here is methodological: it specifies changing quantities, interactions, and a stopping process. A developmental claim has become something whose assumptions and consequences can be examined.
+
+That is the standard the larger proposal must meet.
+
+Suppose we describe a quantity as settling into a stable range. We should be able to say what changes it, what resists the change, and how a perturbation affects the result. We should ask whether many starting conditions reach the range or only a specially prepared few. We should identify observations that would differ if the mechanism were absent. An attractive story of self-adjustment becomes a physical explanation only by taking on these obligations.
+
+There is a particular temptation to import the organization of living things into this account. An organism maintains conditions for its continuation by producing and repairing parts of the system that makes continuation possible. Autopoiesis names a demanding kind of self-production, which we will examine later. It can suggest a question about recursive stabilization at other scales.
+
+But a field settling into a stable state is not thereby an organism producing its own boundary. Nor does ordinary persistence establish autopoiesis. If we say that the universe maintains itself, we must identify what is produced, which organization is maintained, and what distinguishes the claim from the fact that physical processes continue. Otherwise the biological comparison supplies a feeling of explanation while assuming the organization whose origin is in question.
+
+The strongest objection is circularity. Any developmental model already contains some rules under which development occurs. If those rules require just the parameters we hoped to explain, the problem has merely changed address. If the mechanism needs a specially prepared starting point, its explanatory gain depends on whether that preparation is less demanding or independently justified.
+
+Yet the existence of assumptions does not make every developmental explanation empty. Explaining one quantity through relations among others can be real progress. Deriving an outcome across a wider range of initial conditions can be real progress. Finding a new observable consequence can be real progress. The standard is whether an explanation reduces an identifiable problem and survives investigation, not whether it begins by explaining why anything at all exists.
+
+Materialism need not promise an impossible view from outside the world. Its commitment here is to seek relations within the world that account for what the world can do. This includes taking organization seriously, rather than treating every collective capacity as a mystery added to otherwise complete isolated parts.
+
+It also means applying the same standards to our own language. “The universe assembled it” must not become the physical equivalent of “someone arranged it” with the someone left unnamed. Assembly needs components or processes, accessible transformations, and an account of what persists. At the deepest level, even those categories may require revision. Their usefulness in chemistry or history cannot guarantee their ultimate status.
+
+We can now state the chapter's claim at the right scale. Physical development does produce conditions that become the constraints of later events. Collective states alter behavior; effective descriptions capture regularities at particular scales; pathways and barriers shape what can occur. These are substantial reasons to question whether every enabling condition should be pictured as an independently chosen setting at the beginning.
+
+They do not establish that all constants, dimensions, or laws were assembled. They do not derive existence from uncertainty or explain the low-entropy past. The title remains an invitation to investigate whether a universe that develops might acquire some of the conditions we otherwise imagine it had to receive fully formed.
+
+A material history can be ambitious without claiming that every unanswered question has the same answer.
+
+Return to the bowl. The light's path depends on the water, and the water's presence has a history. We can explain that dependence without explaining why physical law exists. We can then investigate the material that refracts the light, the organization of its constituents, and the conditions that made that organization possible. Each successful step replaces part of a presumed background with an account of how things relate.
+
+The next step of this book moves toward something more directly measurable. We will take the existence of physical interactions as a working condition and ask what their products can tell us. A complicated object lies before us. We do not know its makers, its environment, or whether anything we would recognize as alive has touched it.
+
+Can its present structure reveal something about the process that constructed it?
+
+And what changes when we find another copy, and then another?
+
+## Chapter notes
+
+1. Richard Feynman, Robert Leighton, and Matthew Sands, [The Feynman Lectures on Physics, I.26](https://www.feynmanlectures.caltech.edu/I_26.html), especially sections 26–3 and 26–5. The bowl is an illustrative demonstration, not a reported event. The discussion uses the geometrical-optics approximation and a simple stationary interface.
+2. Feynman, Leighton, and Sands, [II.19, “The Principle of Least Action”](https://www.feynmanlectures.caltech.edu/II_19.html). The kinetic-minus-potential expression applies to the familiar mechanical setting described, not to every possible physical system. Stationarity is the general point at issue.
+3. David Tong, [Quantum Field Theory, section 2, “Free Fields”](https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html), especially the vacuum discussion. More general spacetime settings add complications to the identification of a vacuum; none makes the vacuum equivalent to philosophical nothingness.
+4. H. P. Robertson, [“The Uncertainty Principle”](https://doi.org/10.1103/PhysRev.34.163) (1929); David Bohm, [“A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I”](https://doi.org/10.1103/PhysRev.85.166) (1952). These distinguish formal uncertainty relations from a single compulsory interpretation of quantum ontology.
+5. David Tong, [Statistical Field Theory, section 1, “From Spins to Fields”](https://www.damtp.cam.ac.uk/user/tong/sft/sfthtml/S1.html). The magnetic example is an idealization; strict spontaneous symmetry breaking involves the thermodynamic limit, while actual finite samples have additional conditions.
+6. Peter W. Higgs, [“Broken Symmetries and the Masses of Gauge Bosons”](https://doi.org/10.1103/PhysRevLett.13.508) (1964); the [ATLAS discovery paper](https://arxiv.org/abs/1207.7214) and [CMS discovery paper](https://arxiv.org/abs/1207.7235) (2012). The mechanism's development involved several researchers; the paragraph is not a claim of sole invention or a complete account of electroweak history.
+7. C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413) (1957).
+8. J. H. Christenson et al., [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138) (1964); Antonio Riotto and Mark Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999). The latter is used for the structure of the problem, not as a current survey of experimental limits.
+9. Feynman, Leighton, and Sands, [I.46, “Ratchet and Pawl”](https://www.feynmanlectures.caltech.edu/I_46.html), for statistical entropy; Joel L. Lebowitz, [“Macroscopic laws, microscopic dynamics, time's arrow and Boltzmann's entropy”](https://sites.math.rutgers.edu/~lebowitz/PUBLIST/lebowitz_360.pdf) (1993), especially the discussion of initial conditions. The microscopic reversibility example does not assert exact time-reversal symmetry for every fundamental interaction.
+10. L. M. Martyushev and V. D. Seleznev, [“The restrictions of the Maximum Entropy Production Principle”](https://arxiv.org/abs/1311.2068). This is a discussion of proposed principles and their restrictions, not a derivation of a universal rule of historical progress.
+11. Joseph Polchinski, [“Effective Field Theory and the Fermi Surface”](https://arxiv.org/abs/hep-th/9210046), TASI 1992 lectures, revised 1999. The discussion distinguishes scale-dependent description from change over cosmic time.
+12. Adam G. Riess et al., [“Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant”](https://arxiv.org/abs/astro-ph/9805201) (1998); Saul Perlmutter et al., [“Measurements of Omega and Lambda from 42 High-Redshift Supernovae”](https://arxiv.org/abs/astro-ph/9812133) (1999).
+13. Sean M. Carroll, [“The Cosmological Constant”](https://arxiv.org/abs/astro-ph/0004075) (2001); Jérôme Martin, [“Everything You Always Wanted To Know About The Cosmological Constant Problem (But Were Afraid To Ask)”](https://arxiv.org/abs/1205.3365) (2012). Used for the theoretical problem rather than present-day parameter estimates.
+14. Steven Weinberg, [“Anthropic Bound on the Cosmological Constant”](https://doi.org/10.1103/PhysRevLett.59.2607) (1987). The chapter distinguishes this conditional argument from a demonstrated distribution of universes or a dynamical origin of the constant.
+15. Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551) (2015). The relaxion is presented as a proposed mechanism with additional assumptions, not an established cosmic history. The broader developmental synthesis and the linkage illustration are arguments of this book.
