@@ -1,1 +1,129 @@
-...
+# Chapter 1 — The Square with One Answer
+
+*The possible is larger than the reachable.*
+
+I came to the problem through a Sudoku programming challenge. The task was modest: make a computer fill the empty squares of a puzzle. Each row had to contain the digits one through nine. So did each column and each of the nine smaller boxes. The rules could be stated in a few sentences. The difficulty was deciding what to do next.
+
+An empty square seems to invite a choice. Put a number there, continue, and discover whether the choice works. If it fails, return and try another. A machine can make these attempts much faster than a person. It is tempting to assume that speed is the essential advantage: give the computer enough attempts and eventually it will arrive at the answer.
+
+But the challenge taught me to look somewhere else. The useful question was not which square came next on the page. It was which square had the fewest possibilities left.
+
+The distinction changed the problem. A square with one legal number required no guess. Filling it changed the possibilities elsewhere. A square with two candidates was often a better place to investigate than one with six. And a square with no candidate exposed a mistake that there was no reason to carry any further.
+
+This approach already has a name in computer science: the minimum-remaining-values heuristic. It chooses the most constrained unassigned variable, often revealing failure early and reducing wasted exploration.[1] I had encountered an established idea through a practical problem. What stayed with me was the larger implication.
+
+The limits were doing useful work.
+
+Consider an illustrative square. Suppose the digits already present in its row leave only one, four, and seven available. Its column rules out one. Its box rules out seven. The square must contain four. Nothing about the speed of the computer makes that conclusion stronger. The arrangement of the puzzle has removed the alternatives.
+
+Nor does the square contain its answer in isolation. Its answer depends on other squares, some far enough away that the connection is easy to overlook. Information is distributed across the arrangement. When the solver uses that information, a local decision becomes possible because of a larger structure.
+
+Now imagine ignoring the structure. If forty empty squares each appeared to allow nine digits, the crude count would be nine multiplied by itself forty times. That count includes enormous numbers of arrangements that violate rules immediately. Treating all of them as serious candidates would not make the solver more thorough. It would make the solver spend its effort on possibilities the problem had already excluded.
+
+The first lesson was computational. The second was philosophical. We can make the emergence of an organized result seem impossible by imagining that it had to be chosen from a space it never actually had to search.
+
+This mistake is easy to make when we look backward from something impressive. We see a living organism, a steam engine, a city, or a computer. We imagine its components scattered without relation to one another. We ask how they could ever have come together in this particular arrangement. Against the full inventory of arrangements we can imagine, the existing one seems absurdly unlikely.
+
+But the scattered components are already a misleading beginning. The organism has ancestors. The engineer has tools and accumulated designs. The city has paths, settlements, water supplies, and institutions. The computer has a history of mathematics, manufacturing, materials, and work. Each begins in a world that has already been changed.
+
+The past has removed some possibilities and made others available. It has also supplied things that can be used again.
+
+A history is more than a sequence of events. It is a sequence of changes in what becomes possible next.
+
+There is an immediate danger in extending the Sudoku example. A puzzle has rules, a designer, and an intended solution. Nature need have none of those features in the corresponding sense. An organism does not consult the completed future before it reproduces. A river does not evaluate every landscape before flowing downhill. A physical process is not secretly a programmer selecting the square that will bring the universe closest to a predetermined answer.
+
+The analogy is useful at one point: the alternatives we can describe are not identical to the alternatives a process can reach. Beyond that point, the mechanisms must be investigated on their own terms.
+
+In a puzzle, a rule excludes a number. In a material process, an interaction can make a transition impossible, improbable, slow, or expensive. These are different kinds of constraint. A reaction may be energetically favorable and still proceed too slowly to matter under the conditions available. A machine may be physically buildable and still require materials or skills no workshop possesses. An institution may have the authority to act and lack the resources needed to carry out its decision.
+
+The word possible conceals these distinctions. Possible under which rules? Reachable from what starting point? With what materials, in what time, and at whose expense?
+
+The questions bring history back into explanation.
+
+They also change the role of chance. Chance need not disappear for an outcome to have a structure. A variation can arise unpredictably while its consequences depend strongly on the organization in which it occurs. Some changes can be inherited. Some can be repaired. Some open an opportunity. Others end the process that produced them.
+
+Biological evolution is not an organism assembled afresh by a lottery over all conceivable organisms. It involves populations with inherited structures, variation, environments, and differences in survival and reproduction. The uncertainty of a particular event does not make every event equally likely or every consequence equivalent. The historical question concerns the organization through which variation becomes consequential.
+
+This is why the word pressure, by itself, is an incomplete explanation. If a population changes under a selective pressure, we still want to know what changed its reproductive outcomes. Was a resource newly accessible? Did a predator discriminate among behaviors? Did a harmful substance enter the environment? What variations existed, and how were they transmitted? Naming a process begins an explanation; it does not finish one.
+
+The same standard should apply when we call an invention inevitable. Looking back, a successful design can appear to have been waiting for someone to notice it. Yet the people involved had to work with specific materials, knowledge, costs, and demands. The invention became a practical possibility through those conditions. Whether it spread depended on further conditions still.
+
+A working machine is not yet a world-changing machine.
+
+Take the steam engine. The usual image is a piece of equipment: a cylinder, a piston, a boiler, moving parts. But an engine consumes fuel, occupies space, requires construction and repair, and has to perform work someone finds worth those costs. Its usefulness is a relation between its physical capacities and the world surrounding it.
+
+One influential explanation of Britain's early industrial development emphasizes relatively expensive labor and comparatively cheap energy. In that account, machinery that substituted coal and equipment for labor could be worth developing and using under conditions where it would have been less attractive elsewhere.[2] This does not settle the history of industrialization. It identifies a relation that the history must examine.
+
+Imagine the problem from the mine rather than the museum. Water obstructs access to a deposit. Pumping requires work. Fuel is available, but the equipment that can turn it into useful pumping must be made and maintained. The question is not whether an engine satisfies an abstract ideal of efficiency. It is whether the entire arrangement can perform useful work under these conditions.
+
+Once such an arrangement succeeds, it can change those conditions. Pumping can make more fuel accessible. That fuel can support more machinery. Workshops can acquire skills, owners can commit capital, and a market can develop for components and repairs. A new operation becomes part of an organization capable of repeating it.
+
+Here the analogy with a fixed puzzle begins to break in a more interesting way. Historical processes do not merely fill empty squares. They change the board.
+
+A tool alters what another tool can be made to do. A road changes which settlements can trade. A method of storing food changes how long a group can remain in one place. An institution changes who can direct labor and how its products are distributed. What has been assembled becomes part of the environment of subsequent assembly.
+
+I will use assembly in this broad sense: material components and processes becoming organized into structures with particular capacities. Later, we will encounter assembly theory, a specific scientific framework with defined measures and claims. The broader word should not borrow precision from that theory before earning it.
+
+Nor does calling two things assemblies make their mechanisms identical. A star, a cell, and a factory have different boundaries, histories, and forms of persistence. The point of putting them into one narrative is to ask what can be learned from their relationships, not to rename their differences out of existence.
+
+The question of energy gives that narrative a material center.
+
+An arrangement that persists must satisfy the physical requirements of its persistence. Living organisms and operating technologies depend on continuing transformations of energy and matter. Those requirements can be met in different ways. A capability that opens a previously inaccessible source of usable energy can alter what the arrangement can sustain and reproduce.
+
+The resource and the capability are equally important. Coal underground is not a running pump. Sunlight is not a meal. The material connection has to be made. It may involve an organism, a cultivated field, a machine, or an enormous network of equipment and people.
+
+This book investigates a recurring possibility: a structure gains access to usable energy; that access supports more activity and reproduction; the expanding organization changes its environment; and the changed environment makes further structures possible. At some historical transitions, this feedback can become remarkably powerful.
+
+It is a hypothesis about mechanisms, not a law that whatever burns most must win. A wasteful arrangement can exhaust its support. A modest arrangement can persist by needing little. The capacity to obtain energy is different from the capacity to use it effectively, and both are different from the capacity to improve human lives.
+
+To understand success, we also have to ask what repeats.
+
+A single extraordinary object may have little effect if it cannot be made again. An ordinary component reproduced reliably can transform an entire productive system. Conversely, a durable structure may matter precisely because it does not require frequent replacement. Count, rate, lifetime, and reach are different dimensions of persistence.
+
+The distinction extends to society. A factory produces goods, but the factory system must also reproduce the conditions under which goods can continue to be produced. People need food and rest. Equipment needs repair. Knowledge needs transmission. Orders and payments need to arrive. Someone must have the authority to decide what the factory will make.
+
+Remove enough of these relations and the building remains while the factory disappears.
+
+This is where the material history of things becomes the material history of relationships. A machine has physical powers, but it does not carry its own instructions for ownership. Its gears do not decide who receives its products. A deed, a contract, or a balance in an account can direct material activity because people and institutions continually make those claims effective.
+
+Marx's analysis of commodities begins from the way relations among people can appear as relations and properties of things.[3] The insight matters here because it prevents technological history from becoming a procession of devices acting on passive humanity. People organize the reproduction of their lives through those devices, and the arrangements can be contested.
+
+The most productive technology available under one ownership system may reinforce that system. A reduction in the labor needed for one operation may expand demand for another. A device that saves an owner money may make a worker's life less secure. These outcomes do not contradict the physical capability of the device. They show why its social consequences require another level of explanation.
+
+The puzzle now has participants who disagree about the answer.
+
+Even that phrase is too simple, because a society has no single completed grid against which every action can be checked. People need different things, hold unequal powers, and inherit incompatible obligations. A house can be a home for someone who wants its price to fall and an asset for someone who depends on its price rising. Both positions can emerge from the same arrangement.
+
+Constraints do useful work, but they do not do good work merely by being constraints.
+
+Return to the Sudoku solver. A square with one candidate is compelling only if the assignments around it are sound. A mistaken earlier guess can produce a later move that looks unavoidable. The solver may need to abandon a whole branch to discover where it went wrong.
+
+There is no equally clean undo button in history. Institutions invest in their assumptions. People acquire skills for the world they expect to continue. Infrastructure lasts longer than the decisions that created it. An arrangement can become increasingly capable of reproducing itself while becoming less capable of responding to a changed environment.
+
+This is one reason a material account cannot be a simple progress story. Successful systems can block alternatives. They can make their continuation necessary to the people who suffer from their defects. They can survive because replacing them would require a coordination that no participant can achieve alone.
+
+Crisis sometimes breaks these arrangements. It can also destroy the knowledge, trust, and equipment needed to build anything better. Nothing about a collapse guarantees that the next structure will be more capable or more just. If we want to understand transformation, we must examine what is preserved, what is lost, and who can assemble the remaining pieces.
+
+The problem is not confined to the past. We are building computational systems intended to help us search, model, design, and coordinate. They may contribute to improvements in the energy and industrial systems on which they depend. If that contribution becomes substantial, the capacity to build can help expand the capacity to compute, and computation can help expand the capacity to build.
+
+But a proposed feedback loop is not an accomplished future. Designs require experiments. Equipment requires factories. Infrastructure requires time, labor, and institutions. Ownership still determines access, and scarcity can move from one part of the system to another. A machine's ability to produce an answer does not settle whether a society can make the answer real.
+
+That is the route this book will follow: from constraints and physical structure to life, from life to productive organization, and from productive organization to the social relations and forms of intelligence through which human beings change their world.
+
+Its philosophical commitment is to materialism. Capacities have conditions. Thought, technology, and institutions belong to the world whose history they help make. Its method is dialectical in a concrete sense: the same arrangements that enable a process can limit its further development, and the products of that process can transform the conditions that first made it possible.
+
+These commitments do not excuse the argument from evidence. A resemblance between histories may suggest a common mechanism without establishing one. If assembly explains everything only because everything can be called an assembly, it explains too little. At each step we need to ask what the proposed account lets us distinguish, predict, or investigate.
+
+The square with one answer offers a beginning rather than a conclusion. It teaches us to distrust a picture of possibilities stripped of their relations. It reminds us that a search can inherit more than it knows, and that the absence of alternatives may be a productive achievement or the consequence of an earlier mistake.
+
+When I looked at the most constrained square, the answer became easier to find because the rest of the puzzle was already there.
+
+For the universe, that observation opens the next problem.
+
+Where did the constraints come from?
+
+## Chapter notes
+
+1. [Russell and Norvig, constraint satisfaction](https://aima.cs.berkeley.edu/4th-ed/pdfs/newchap05.pdf), and [UC Berkeley CS188, variable ordering](https://inst.eecs.berkeley.edu/~cs188/textbook/csp/ordering.html). The opening experience is drawn from the author's notes. The candidate-set example and forty-square calculation are illustrative, not a reconstruction of that particular puzzle or a performance benchmark.
+2. [Robert C. Allen, “Why the industrial revolution was British”](https://doi.org/10.1111/j.1468-0289.2010.00532.x). Chapter 6 will develop and compare the historical explanation; this chapter introduces its conditional logic.
+3. [Karl Marx, Capital, volume I, chapter 1, section 4](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm). The discussion is a paraphrase and extension, not a direct quotation.
