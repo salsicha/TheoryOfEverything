@@ -1,27 +1,107 @@
 # Chapter 8 — The Factory That Assembled Itself
 
-**Status:** detailed outline. **Target:** 5,000–6,000 words.
-
 *A factory's most necessary product is the possibility of another working day.*
 
-## Chapter purpose
+A shaft turns, and several machines move with it. In this simple arrangement, a shared source of power becomes a shared condition of work. The machines must be placed where the motion can reach them. People must arrive when the system operates. Materials have to enter at a rate the process can use, and finished goods must leave before they obstruct it.
 
-Show that the factory is itself a historically contingent assembly, not a timeless container into which better machines are placed. Explain automation as a redistribution of operations within a larger reproductive organization, and prepare the explicit analysis of ownership in chapter 9.
+The factory begins to appear as a coordination of time as well as space.
 
-## Narrative and argument
+At Cromford, Richard Arkwright and his partners began a water-powered cotton mill in 1771. Water, machinery, buildings, investment, and the recruitment of workers came together at a particular site.[1] The mill was not the automatic consequence of knowing how to spin. It was an arrangement capable of making spinning repeat under organized conditions.
 
-1. **Power and the clock.** Begin with a documented water-powered mill, potentially Arkwright's, after researching its layout and labor arrangements. Connect the location of mechanical power with the timing and placement of work. Avoid presenting technical concentration as sufficient to explain workplace authority.
-2. **Why these operations came together.** Examine machinery, capital, markets, supervision, skills, and property. Compare household production and concentrated production. Explain which costs change and who experiences those changes as an advantage.
-3. **The organization beyond the walls.** Trace food, housing, care, transport, training, and public infrastructure supporting the workforce. Include maintenance and replacement of equipment. Distinguish an owner's accounting boundary from the larger material boundary of reproduction.
-4. **Goods, standards, and productive means.** Show machines producing components for other machines. Standards, schedules, and supplier relations make repetition dependable. A broken link can halt production even when most equipment still works. This is an opportunity to make different system speeds visible.
-5. **New power, old arrangements.** Research electrification as a case in which new capacity can require a change in layout and workflow. Avoid unsourced claims about the timing or magnitude of productivity gains. Explain why an organization may rationally delay a change that appears obvious in hindsight.
-6. **Automation's moving boundary.** Identify which operation is automated and which labor becomes more important elsewhere. Research maintenance, design, supervision, and logistics. Do not say that machinery reproduces itself when crucial human or institutional operations remain outside the chosen boundary.
-7. **Planning inside the market.** Compare management plans, supplier coordination, standards, and distributed experimentation. The market/planning opposition should become a question about where information is gathered, who can act, and how errors are corrected. Introduce the later discussion of parallel allocation without settling it here.
+Concentrating equipment could make practical sense when a common power source and transmission system served many operations. Concentration could also aid supervision, movement of materials, and control over a costly installation. But none of these advantages alone determined who should own the mill, who should set the working day, or how its returns should be divided.
 
-## Evidence and objections
+A waterwheel cannot issue a wage contract. A shaft has no opinion about the length of a shift. The physical arrangement creates pressures and possibilities, while the social arrangement assigns powers within them. Confusing these levels makes managerial authority look like a property of mechanical engineering.
 
-Use industrial labor histories, mill records, electrification studies, and concrete automation cases. Assess output alongside labor conditions, bargaining, safety, and displacement. A technically effective arrangement does not establish that its ownership or authority structure is necessary. The chapter title is a provocation about recursive reproduction, not a claim of literal autonomous creation.
+The distinction is not an argument that every form of authority can be removed without changing production. Some activities need coordination; some decisions cannot wait for an unlimited conversation. The question is how authority is constituted, limited, reviewed, and distributed. A technical requirement to coordinate does not prove the necessity of one particular hierarchy.
 
-## Continuity
+The factory also changes the relation between a worker's time and the product. In a hypothetical household workshop, tasks may be arranged around other responsibilities, though poverty and customer demands can still impose harsh constraints. In a factory driven by shared machinery, a person's absence or interruption can affect a coordinated sequence. Management acquires reasons to standardize attendance and pace.
 
-Use ideas I09, I19, I21, I28, and I43. Leave the full cotton-gin case for chapter 9 and the AI deployment argument for chapter 11. End with a question the machinery cannot answer: why does the right to command this productive capacity belong to some people rather than others?
+Those reasons do not settle the legitimacy of every demand made in their name. A higher output per hour can result from better equipment, better organization, greater effort, or a transfer of risk onto workers. A production total does not tell us which. To evaluate the achievement, we must ask how the result was obtained.
+
+Historical factory legislation makes this conflict visible. Britain's 1833 Factory Act established restrictions on child labor in the covered textile mills and an inspectorate. The National Archives preserves an inspector's report from 1836 describing children subjected to an extraordinarily prolonged spell of work despite regulation.[2] The presence of a rule and the actual conditions of a working day were different facts.
+
+The report matters beyond its immediate horror. It shows that the reproduction of an industrial system included disputes over what could be demanded of bodies. The machine's capacity did not establish a humane limit. Law, enforcement, publicity, collective pressure, and the power of employers and households all entered the determination of actual work.
+
+This is why the workforce cannot be treated as another stock of interchangeable components. People arrive with needs, knowledge, obligations, and capacities for refusal and cooperation. They are affected by the work and can contest its organization. A theory that sees only energy inputs and finished products has excluded much of the process sustaining both.
+
+When a shift ends, the reproduction of the factory continues elsewhere. Food must be obtained and prepared. Illness and injury need care. Children grow up and learn. Clothes, homes, transport, and everyday relationships require work. Some of this work is paid; much may not be. Its absence from a firm's accounts does not make it absent from the conditions of production.
+
+Consider an illustrative worker whose attendance depends on care for a child or an ill relative. If that care arrangement fails, the factory encounters an absence. On its own ledger, the problem may appear as unreliable labor. From the wider perspective, a supporting process has broken down. The diagnosis changes when the boundary changes.
+
+This does not mean every firm can directly provide every condition its workers need. It means that the distribution of responsibility is itself part of the economic arrangement. Households, public institutions, communities, and employers carry different shares of the work. If one institution reduces its visible costs by shifting burdens to another, aggregate capability may improve, deteriorate, or merely be redistributed. The firm's apparent efficiency cannot answer the question alone.
+
+Training is another form of renewal. A skilled worker carries techniques that may not be fully recorded. A replacement cannot always acquire them by reading instructions. Time spent teaching can reduce immediate output while preserving future capacity. An organization that treats all nonproducing time as waste may consume the very knowledge on which its production depends.
+
+Maintenance has the same temporal structure. A machine can continue operating while damage accumulates. Deferring inspection may make the current period look more productive. The eventual breakdown then appears as a sudden external misfortune, although part of its cause was an earlier decision about what work counted.
+
+The factory's most necessary product is therefore not always the item leaving its gate. It is the continuing capacity to produce useful items at all. That capacity includes bodies, skills, equipment, relationships, and room for correction. A system can increase current output while degrading this broader product.
+
+Some factories make machinery used by other factories. Here the recursive relation becomes unusually visible. A machine tool shapes a component that enters another machine tool. Measuring instruments help produce parts that make improved instruments possible. A productive system can use its output to extend its own means of production.
+
+Yet this is still not literal self-creation. The machine does not conjure raw material, train an operator, guarantee a power supply, or decide to replace itself. The loop runs through a larger organization. Calling it self-assembly is useful only if it directs attention to those returning connections rather than making them disappear.
+
+Standards help the connections work. Two producers can cooperate more reliably when they agree on dimensions, tolerances, materials, and procedures for verifying a part. Compatibility allows work separated in place and time to be combined. It can reduce the need to negotiate every detail anew.
+
+A standard is itself maintained. Instruments must be calibrated, specifications interpreted, and departures detected. A nominally identical part may fail if a material property or tolerance is wrong. The social agreement and the physical measurement meet in the act of acceptance. Neither substitutes for the other.
+
+Standards can also concentrate power. Whoever controls access to a required specification, certification, or interface may influence who can participate. An arrangement that makes coordination easier for established participants can make entry harder for others. Compatibility and exclusion can grow from the same institutional design.
+
+This is not an objection to standards as such. It is a reason to investigate their governance. Which requirements protect a useful function? Which protect an incumbent? Can the standard be revised when a better method appears? Can different implementations interoperate? These are practical questions about the reproduction of a productive network.
+
+The arrival of a new power source exposes how deeply such networks can be organized around an older one. Electrification did not simply require replacing the source at one end of an unchanged shaft. Individual electric motors made different layouts and patterns of operation possible. Realizing those possibilities could require redesigning the organization of production.
+
+Paul David's historical work on the dynamo and the computer emphasizes this relationship between a technical capability and complementary organizational change. His argument uses electrification to examine why a powerful new technology need not immediately produce its full expected productivity effects.[3] The analogy is a guide to investigation, not a calendar promising that every later technology will follow the same delay.
+
+Imagine an illustrative factory that installs electric power while retaining a layout built around centralized mechanical transmission. It may gain something immediately. Further gains might require moving machines, changing the order of operations, and revising how material flows through the building. Those changes may interrupt production and make some existing investments redundant.
+
+Now imagine that the manager knows all this but cannot suspend output without losing crucial customers. Delay may be a response to real transition costs. Alternatively, a manager may lack information, fear a threat to authority, or protect an established budget. The same visible outcome—slow adoption—can have different causes. A historical explanation should distinguish them.
+
+The example also shows why it is difficult to measure a technology's contribution. Output changes while equipment, skills, products, and organization change together. A study must decide what comparison is meaningful. Merely observing that a new device appeared before growth does not establish how much growth it caused or which complementary changes mattered.
+
+Automation raises a related problem of boundaries. A machine can perform a task previously done by a person. That is a concrete change. It does not establish that labor has vanished from the production system. Work may shift toward design, programming, maintenance, supervision, logistics, or the production of the automated equipment itself.
+
+Whether total labor falls, and whose labor changes, requires investigation. Some workers may lose livelihoods even if new tasks appear elsewhere. The new tasks may require different skills or occur in another place. An aggregate statement that work still exists cannot answer the displaced person's practical problem.
+
+Conversely, the persistence of some human work does not make automation insignificant. Removing a dangerous or exhausting operation can be a real gain. Reducing necessary labor can create room for shorter working time or increased provision. Whether that room becomes freedom, unemployment, or intensified work for those remaining depends on the institutions through which gains are distributed.
+
+An automated operation also needs a way to notice when its conditions have changed. Sensors can fail. Inputs can vary. A rare combination can invalidate assumptions. The task of correction may be less frequent than the task automated and more demanding when it occurs. Eliminating routine work can increase the importance of people who understand the process beyond its normal cycle.
+
+This suggests a danger in treating expertise as a cost that successful automation has made obsolete. If the organization removes every person capable of diagnosing exceptional failures, it may become efficient within a narrow range and brittle outside it. A reliable system needs some capacity to recognize when the ordinary rules no longer fit.
+
+The same principle applies to management. A factory is full of plans: schedules, inventories, maintenance intervals, staffing decisions, and sequences of work. Even a firm operating in a competitive market does not usually ask every internal operation to emerge from a new auction at every moment. It uses authority, forecasts, rules, and cooperation to coordinate activity.
+
+Outside its walls, it encounters suppliers who plan their own work. Long-term agreements, shared specifications, credit, and informal trust can matter alongside prices. The economy is therefore already a mixture of planning and exchange. The useful question is where each decision is made and how errors become visible and correctable.
+
+A purely centralized organization can coordinate dependencies while missing local information or suppressing dissent. A decentralized arrangement can permit varied experiments while duplicating effort or failing to provide shared infrastructure. Actual systems combine these strengths and weaknesses in different ways. Their performance cannot be inferred from a label alone.
+
+Suppose several hypothetical workshops try different methods for making a component. Parallel experiments can discover something a single mandated design would miss. But if all use the same flawed measurement, their apparent independence is shallow. If useful results are kept secret, others cannot benefit. If every workshop depends on one fragile supplier, their diversity does not protect the shared input.
+
+Parallel search is therefore an organizational achievement. It requires meaningful variation, a way to evaluate results, and some route by which useful findings influence subsequent production. The number of experiments matters less than the independence and relevance of their failures and successes.
+
+A common facility can improve that search. Shared testing equipment, public research, or a reliable standard can allow smaller producers to attempt things they could not afford alone. Such provision is neither a substitute for all competition nor an incidental gift outside the productive system. It can help create the conditions under which experimentation becomes possible.
+
+The factory also teaches a lesson about scale. Larger operations can spread some fixed costs and support specialization. They can also become harder to coordinate and more consequential when they fail. Smaller operations can be flexible while lacking resources for costly equipment or research. The appropriate scale depends on the operation and its surroundings.
+
+A theory of assembly should be able to see both. If it always praises increasing size as increasing complexity, it will miss the value of modularity and distributed capacity. If it always praises decentralization, it will miss cases in which shared infrastructure or concentrated work creates a capability unavailable otherwise.
+
+The question remains the one introduced by the constrained square: which arrangement makes a useful next step accessible? The answer can change as the surrounding system changes. A layout suited to one power source may be an obstacle under another. A standard that once enabled interchange may later block adaptation. A hierarchy that resolved an immediate coordination problem may become a barrier to correction.
+
+Changing these arrangements is difficult because they organize lives as well as objects. Skills, status, wages, debts, and expectations accumulate around them. A technically improved process can impose losses on people who made no mistake in depending on the old one. A credible transition must address those losses rather than treating resistance as mere irrationality.
+
+This does not grant every incumbent an unlimited veto. Some claims protect unjust advantages; some costs can be reduced or shared. It does mean that productive change has a social design problem. The machine's improvement does not automatically supply the institutions needed to make the improvement broadly usable.
+
+At the end of a working day, then, the factory has produced several things. It has made goods. It has used and perhaps worn equipment. It has affected workers' bodies and knowledge. It has generated payments, obligations, waste, and information. It has either maintained or weakened some of the conditions of another day.
+
+The phrase “the factory that assembled itself” names this returning relationship between production and its conditions. It should never hide the people who do the assembling. The organization continues because their activities, together with equipment and institutions, make it continue. Its apparent independence is an effect of dependencies working reliably enough to become unobtrusive.
+
+Once those dependencies become visible, the factory poses a question its machinery cannot answer. The same physical equipment could participate in different legal and social arrangements. Its technical capacity does not tell us why some people may command it, why others must sell their time to gain access to it, or why the resulting goods belong to particular owners.
+
+To answer that, we must look at the relationships behind the machine.
+
+## Chapter notes
+
+1. Arkwright Society, [Cromford Mills history](https://www.cromfordmills.org.uk/about/our-history/); Derwent Valley Mills World Heritage Site, [Cromford Mill Complex](https://www.derwentvalleymills.org/discover/derwent-valley-mills-history/derwent-valley-mills-key-sites/cromford-mill-complex/). These support the site, date, water-power context, and partners. See [S41](sources.md#s41).
+
+2. The National Archives, [1833 Factory Act source collection](https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/) and [1836 inspector's report extract](https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/source-1/). The example establishes a documented enforcement problem, not that every factory had identical conditions. See [S41](sources.md#s41).
+
+3. David, “The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox” (1990), [paper](https://gwern.net/doc/economics/automation/1990-david.pdf); see also David's [later working paper developing the argument](https://siepr.stanford.edu/publications/working-paper/understanding-digital-technologys-evolution-and-path-measured). The factory-layout examples are illustrative, and no numerical adoption lag is claimed. See [S42](sources.md#s42).

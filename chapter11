@@ -1,30 +1,155 @@
 # Chapter 11 — The Machine That Was Everyone
 
-**Status:** detailed outline. **Target:** 6,500–7,500 words.
-
 *No one mind contains the world that makes a mind capable.*
 
-## Chapter purpose
+Place an ordinary manufactured tool on a table. A screwdriver will do. Its apparent simplicity makes the question harder to evade: who knows how to make it?
 
-Connect individual cognition, socially accumulated knowledge, and AI as productive capabilities. Make AI's possible contribution to energy and industrial development the main future-facing hypothesis, while keeping consciousness, technical capability, and ownership separate.
+One person may know how to shape the tip. Another understands the steel. Others maintain the furnace, operate the mine, make the machine tools, or organize transport. Someone designs the handle and someone produces its material. Measurements and standards connect these activities. The person who uses the screwdriver may understand almost none of them and still use it skillfully.
 
-## Narrative and argument
+No single consciousness needs to contain the whole production system. Its competence is distributed across people, equipment, records, and practices. The object works because enough of those partial competencies can be connected reliably.
 
-1. **A competence distributed across people.** Begin with an ordinary manufactured object or learned practice that no participant could reconstruct alone. Trace the knowledge through tools, language, training, standards, and institutions. Introduce the collective brain with [S12](sources.md#s12), without treating society as a single conscious organism.
-2. **The child enters the structure.** Use language learning to ask how attention, prior organization, interaction, and experience constrain learning. The alien-language comparison is a statement of surprise, not a literal equivalence. Obtain developmental evidence before choosing a particular mechanism.
-3. **What an embedding can explain.** Define machine embeddings narrowly, then compare representations embodied in neural activity, text, gestures, and tools. Avoid asserting that all thought is one technical data structure. Explain the costs of building, grounding, transmitting, and correcting a representation.
-4. **Brains, cooperation, and conformity.** Distinguish the cost of a large brain from its possible benefits. Explain evidence for chimpanzee collaboration through [S14](sources.md#s14). Discuss population connectivity and cumulative knowledge without equating density with intelligence or imagining early humans as inactive.
-5. **The discipline of the collective.** Investigate sanctions, cooperation, social conformity, and the hypothesis of human self-domestication. Use [S15](sources.md#s15) as a proposal requiring critiques and independent human evidence. Keep neural-crest claims, brain volume, and IQ trends distinct. Reject unsupported racial explanations; do not turn social conformity into a biological ranking.
-6. **A model of the world and a model of oneself.** Explain functional self-modeling through error correction, limitations, and anticipated actions. Distinguish it from subjective experience. Discuss physical accounts of cognition without asserting either that consciousness is nonexistent or that any self-reference proves it.
-7. **Forms meet materials.** Develop the notes' joint search space: models generate candidates, physical tests expose errors, and results change the models. A useful abstraction can concentrate search, but finding and validating the abstraction has costs. Return to simultaneous discovery as a consequence to investigate, not proof of a cosmic optimizer.
-8. **General intellect becomes industrially reproducible.** Verify Marx's relevant passages before quotation. Introduce AI through capabilities that can be evaluated, then follow one prospective energy or manufacturing design through simulation, testing, construction, and operation. Clearly label unimplemented steps as scenarios.
-9. **The proposed productive loop.** Model better computation enabling better productive systems, which may support more computation. Account for energy, chips, water, labor, maintenance, inference limits, and the slowest dependencies. Compare gross computational growth with demonstrated net productive gains.
-10. **Who owns the collective machine?** Return to property, access, and bargaining. Cheap outputs can move scarcity elsewhere. Neither UBI nor universal abundance follows automatically. Ask which institutions could direct gains toward shared capabilities and correction of ecological harms.
+This is not a denial of individual intelligence. It is an account of the conditions under which individual intelligence becomes effective. A skilled person can do something remarkable with an inherited tool precisely because earlier work has made some problems no longer necessary to solve at that moment. The tool is past activity made available to present activity.
 
-## Evidence and objections
+Language does something related. A person can learn from an explanation, question a claim, or coordinate with someone whose immediate experience differs from their own. Writing extends some of those possibilities across distance and time. A diagram can preserve a relation that would be difficult to describe in words. A measuring instrument can make a distinction visible that unaided perception would miss.
 
-Obtain primary cognition, language-learning, self-model, and industrial AI studies. Benchmark performance alone does not establish field deployment. Keep the Russell/Newton/Darwin fragments and supplied video as unverified attribution leads in [sources.md](sources.md#outstanding-research-and-attribution). A system need not be intuitively mechanical to be physically studied, but predictive and experimental standards still apply.
+Muthukrishna and Henrich's collective-brain account emphasizes how social learning and connections among people contribute to cumulative innovation.[1] The idea is useful when it directs attention to transmission and recombination. It becomes misleading if society is pictured as one enormous mind with a single intention or an equal ability to hear every participant.
 
-## Continuity
+Knowledge can be distributed and inaccessible. A useful discovery may remain trapped in a language, institution, or proprietary system. A skilled practitioner may lack the standing to have a warning heard. A society may possess the information needed to address a problem while lacking an organization that can act on it. Collective capacity is a relationship among knowledge, access, and authority.
 
-Use ideas I23, I28, I31, I34–I40, and I43. Close with the loop as a conditional, measurable proposal. Chapter 12 compares it with the earlier histories and asks whether one framework can connect them without erasing their differences.
+A child enters this already structured world. Sounds are not encountered as an unorganized sample of every possible noise. They occur in recurring settings, alongside faces, gestures, objects, and responses. The child's biological capacities and developing experience shape what becomes salient. Learning is neither the recovery of a complete language already hidden inside nor the unconstrained absorption of arbitrary data.
+
+In a well-known experiment, Jenny Saffran, Richard Aslin, and Elissa Newport found that eight-month-old infants could use statistical relationships between neighboring sounds to distinguish sequences after brief exposure to an artificial speech stream.[2] The result concerns a component of segmentation, not the acquisition of an entire language. It demonstrates one way structure in experience can help a learner find units within an apparently continuous flow.
+
+That limited result is more informative than an extravagant analogy to instantly deciphering an alien civilization. Language learning involves many interacting capacities, and a successful experiment isolates only part of the work. Its philosophical significance lies in the connection between a structured input and a learner capable of exploiting that structure.
+
+The child also changes the learning environment. A gesture can elicit a response; a failed attempt can bring repetition or correction. Other people simplify, elaborate, or redirect their behavior. The learning process is embedded in a social exchange rather than confined to information entering a passive container.
+
+This makes embodiment relevant without making every cognitive explanation mysterious. A word for a tool can connect to seeing it, holding it, using it, being corrected, and observing a result. A written explanation can reorganize that experience. Different kinds of representation participate in the same practical competence, and none has to carry the entire meaning alone.
+
+Machine learning supplies a narrower technical example of representation. An embedding represents an item through a collection of numerical coordinates. The coordinates are learned or constructed so that relationships useful for a particular task can be captured by operations on those vectors. Mikolov and colleagues' work on word representations helped demonstrate useful regularities in such learned spaces.[3]
+
+The numbers are not little definitions hidden in a computer. Their significance depends on the training procedure, the data, and how the representation is used. Two items can be close in one learned space and distant in another because the tasks preserve different relations. An embedding is a way of organizing information, not a universal proof that all thought has one data structure.
+
+A map offers a familiar comparison. It can preserve distance, direction, routes, or administrative boundaries, but not every property with equal fidelity. Its usefulness depends on which differences matter to the traveler. A representation makes some operations easier by discarding or reorganizing detail. That economy is part of its power and part of its vulnerability.
+
+The same is true of a predictive model. If it preserves distinctions relevant to the task, it can help select actions without reconstructing every physical detail. If it omits a crucial condition, it may confidently recommend a failure. Compression is useful when the world can tolerate the omissions for the purpose at hand.
+
+We should therefore ask what a representation enables, how it was acquired, and how errors are corrected. Fluency in producing symbols does not settle whether a system can act reliably under a particular set of physical constraints. Conversely, the fact that a system uses symbols does not make its achievements unreal. A map can guide a journey without being the territory.
+
+Knowledge also has a production cost. People need time to learn, and communities need ways to preserve what they learn. Brains are metabolically demanding organs, but their usefulness cannot be judged by energy consumption alone. A capability can be valuable because it avoids a costly mistake, coordinates help, or opens a new resource. The benefit depends on the surrounding social and ecological conditions.
+
+Cooperation is not an exclusively human invention. In experiments reported by Alicia Melis, Brian Hare, and Michael Tomasello, chimpanzees recruited collaborators when a task required cooperation and could select more effective partners.[4] The finding rules out a categorical story in which other apes simply cannot cooperate. It leaves open the substantial differences in the scale, flexibility, and institutional organization of human collaboration.
+
+Those differences should be investigated rather than converted into a ladder of worth. Human cumulative knowledge can depend on teaching, language, tools, and networks that preserve contributions beyond an individual's life. A large population without effective transmission can lose useful knowledge; a smaller connected network can preserve specialized practices. Population size and density are conditions to study, not substitutes for a mechanism.
+
+The network's ability to retain knowledge also depends on power. If a practice survives only in people whose work is devalued, it may be neglected until their absence reveals its importance. If institutions reward confident agreement, warnings can be filtered out. A society can become highly capable at repeating a mistake because it is highly capable at transmitting the practice that produces it.
+
+Conformity has this double character. It allows a newcomer to benefit from experience accumulated by others without independently testing every step. It can coordinate action and preserve hard-won competence. It can also discourage experiments and make a false belief appear well confirmed because everyone learned it from everyone else.
+
+The solution cannot be that every individual should reject inherited knowledge. Such independence would destroy the very accumulation that makes complex competence possible. A better arrangement distinguishes situations requiring reliable repetition from situations requiring protected criticism and experiment. It allows departures to be tested without making either novelty or tradition an automatic credential.
+
+One proposed evolutionary connection between cooperation and social tolerance is human self-domestication. This is a hypothesis about evolutionary changes in behavior and development, not a synonym for socialization. Wilkins, Wrangham, and Fitch proposed that neural-crest biology could help explain a cluster of traits associated with domestication in mammals.[5] Extending such proposals to human evolution requires its own evidence.
+
+There are substantive objections. Lord and colleagues reexamined the history of farm foxes and argued that the familiar experiment and the claimed ubiquity of a domestication syndrome had been overstated.[6] The controversy matters because a seductive unified story can outrun the independence of the evidence used to support it.
+
+Neither proposal allows us to infer intelligence from obedience, rank populations by presumed domestication, or treat brain volume as a simple meter of cognitive ability. Social behavior, developmental pathways, anatomy, and test performance require different measurements and explanations. The useful question is how capacities for learning and cooperation evolved and how institutions now organize them. It does not need an unsupported biological hierarchy.
+
+At the level of an individual, a further capacity becomes important: representing one's own possibilities and limits. A person deciding whether to lift a load needs some estimate of what their body can do. A person planning a conversation may anticipate their own uncertainty or emotional response. Such self-modeling can affect action without requiring an immaterial observer inside the head.
+
+A robotic experiment makes one functional version concrete. Josh Bongard, Victor Zykov, and Hod Lipson described a four-legged robot that used relations between its actions and sensor readings to infer aspects of its own structure. After part of a leg was removed, it revised its models and developed alternative locomotion.[7] The achievement concerned adaptive control through a model of the machine's body.
+
+It did not demonstrate subjective experience. A system can estimate its own configuration without that experiment deciding whether anything is felt from its perspective. Self-reference, adaptive competence, agency, and consciousness are related questions, but they are not interchangeable criteria.
+
+This distinction cuts in both directions. We should not deny a demonstrated control capability because the system lacks an established claim to consciousness. We should not infer consciousness merely because it uses a self-model or produces language about itself. The evidence must match the proposition being asserted.
+
+A physical account of cognition also need not make thought disappear. Explaining how a capacity is realized is different from denying that the capacity occurs. A melody can be physically produced without being an illusion; a decision can depend on neural and social processes without ceasing to have consequences. The challenging work is to connect descriptions at different scales without simply replacing one question with another.
+
+The question of the world's intelligibility belongs here. The world can often be understood through representations that preserve useful regularities. Symmetries, equations, and abstractions allow us to carry lessons from one situation into another. But the success of an abstraction does not establish a separate realm that manufactures material instances according to an ideal plan.
+
+A circle drawn on paper is imperfect; the mathematical circle can nevertheless organize useful reasoning about it. A model of a fluid can omit molecular detail and still predict a range of behavior. We can acknowledge the power of forms without treating every form as an independent object directing history. The relation between abstraction and application must be established through use, proof where appropriate, and empirical comparison.
+
+This gives us a joint process of search. A model suggests a candidate. A physical test reveals how the candidate behaves. The result changes the model or the next choice of candidate. Representations and material trials constrain one another. Neither the conceptual space nor the experimental space is searched uniformly.
+
+The loop can save enormous effort when it excludes bad candidates cheaply. It can also waste effort when the model's errors are shared by every candidate it favors. Validation is not a ceremonial final step. It is the point at which the representation meets conditions it did not get to define for itself.
+
+Simultaneous invention becomes less mysterious in this setting. People using similar tools, reading related work, and confronting a common bottleneck may find nearby solutions. That is a causal possibility to investigate, not proof that a cosmic optimizer has selected the moment of discovery. Communication, common training, and selective memory can all contribute to the appearance of convergence.
+
+Marx's discussion of the general intellect in the *Grundrisse* anticipates part of the social question. He considers how general social knowledge becomes a direct force of production through developed machinery.[8] Knowledge accumulated across a society can confront workers in the form of equipment controlled by particular owners. Its collective origin does not ensure collective command over its use.
+
+AI brings this issue into a new technical setting. Some systems can perform operations involving language, prediction, design, or control that previously required different combinations of human labor and software. The capabilities should be assessed task by task. An impressive result in one setting does not establish competence across every setting that uses the word intelligence.
+
+For the central hypothesis of this book, the important possibility is that improved modeling and control could help improve the productive systems that support computation itself. The loop could run from computation to better energy or manufacturing systems, and from those systems to a larger or more effective computational capacity. It is a productive hypothesis, not merely a forecast of more conversation on screens.
+
+A specific research result shows one limited connection. In 2022, Jonas Degrave and collaborators reported reinforcement-learning control of magnetic coils on the TCV tokamak in Switzerland. Controllers trained using simulation were deployed in experiments to control plasma configurations.[9] This was a physical control demonstration, supported by substantial scientific and engineering infrastructure.
+
+It was not a demonstration of a commercial fusion power plant, net electricity supplied to society, or an AI that independently invented the whole energy system. Its significance lies in a narrower achievement: learned control could participate effectively in a difficult experimental apparatus. That is already enough to make the pathway worth studying.
+
+The difference between those statements is the difference between evidence and extrapolation. An extrapolation may be plausible, but it needs additional steps. Improved control must contribute to a useful overall design. The design must survive testing, manufacturing, operation, maintenance, and cost comparisons. Other physical and institutional constraints may remain decisive.
+
+Consider a hypothetical project in which AI assists the design of a component for an energy system. The system proposes several candidates, using a model to estimate performance. Engineers choose candidates for testing. A prototype performs well under one set of conditions and poorly under another. The model is revised, the manufacturing process adjusted, and a later version enters a pilot installation.
+
+Every sentence contains a possible bottleneck. Candidate generation may be fast while testing is slow. A useful shape may be difficult to manufacture. A material may depend on a scarce input. A laboratory improvement may increase maintenance costs in the field. A design may meet technical goals while failing to offer a useful advantage over an established alternative.
+
+Successful AI assistance would change some of these costs and probabilities. It would not make them disappear by changing the speed of the first step. The system's effective rate is determined by its dependencies: which tasks can proceed in parallel, which require the result of another, and which require physical time that cannot be compressed by additional computation.
+
+This is why inference costs matter without being the whole argument. More computation can permit more candidate evaluation or a longer sequence of reasoning. But a task may require external information, a new experiment, or a decision by someone with authority to act. Additional processing of the same inadequate evidence does not guarantee correction.
+
+Parallelism also has limits. Several independent tests can accelerate learning when results can be combined. A thousand variants sharing the same modeling error can produce a thousand correlated failures. The value of increased search depends on diversity, evaluation, and the relation between modeled conditions and actual operation.
+
+The productive loop must therefore be measured across the system. Suppose a hypothetical control improvement reduces the energy required for a service. We would need to count the costs of developing and operating the control system, the equipment changes required, and the scale over which the improvement persists. A local reduction in one meter reading is not automatically a net improvement across all relevant boundaries.
+
+The comparison should also distinguish additional activity from improved efficiency. A more effective industrial process may enable more output, with total energy use rising even as energy per unit falls. Whether this is desirable depends on what is produced, what alternatives it displaces, and the effects on people and environments. Computational growth is not itself a measure of social benefit.
+
+The International Energy Agency's assessment of AI and energy discusses possible applications in operations, optimization, and innovation while emphasizing deployment conditions.[10] The evidence supports investigating these pathways. It does not establish a guaranteed accelerating cycle in which each generation of AI finances and physically constructs an ever more capable successor.
+
+Such acceleration would require several links to hold together. Better models would need to produce improvements that survive real-world tests. Those improvements would need to be deployable at sufficient scale. Their gains would need to exceed the resources used to obtain them. Some of the gains would then have to be directed toward the conditions for further improvement. Ownership and investment enter the loop at that last step, and often much earlier.
+
+There are also balancing effects. A growing computational system can increase demand for chips, power, cooling, construction, and skilled work. It may compete with other uses of those resources. A successful improvement in one input can reveal another as the limiting factor. The loop can accelerate in one interval and slow in another without either result disproving the existence of feedback.
+
+The prologue's data center waiting for electricity belongs here. The computers can be delivered while the connection remains unavailable. A better design tool may help plan a grid improvement, but the improvement still requires equipment, labor, coordination, and permission under actual institutions. The productive network has several clocks, and the fastest clock cannot simply command the others to match it.
+
+Ownership determines who can attempt to close the loop. A firm with compute but no access to industrial facilities faces one set of constraints. A public laboratory with useful knowledge but insecure funding faces another. A community affected by new infrastructure may bear costs without having a meaningful voice in design. These relationships influence which improvements are developed and which consequences are counted.
+
+The collective origin of knowledge does not settle how its gains will be distributed. A system trained on widely produced material and supported by public infrastructure may still operate under concentrated control. Conversely, public ownership does not automatically ensure useful access or competent management. Governance must address accountability, correction, and the ability of different people to benefit from the capability.
+
+Automation can weaken some forms of bargaining while strengthening others. A task becoming cheaper may reduce the market value of one skill. It may also make a useful service more accessible or allow a worker to accomplish more. The outcome depends on demand, complementary work, the distribution of ownership, and the institutions through which people share gains and losses.
+
+Universal basic income is one possible institutional proposal in such a discussion, not an automatic consequence of a technical result. It requires decisions about financing, entitlement, scale, and its relation to public services and work. Other proposals concern shared ownership, shorter working time, bargaining rights, or direct provision. Their merits cannot be inferred solely from a model's benchmark score.
+
+Nor would very cheap intelligence abolish every scarcity. Physical space, materials, human attention, trust, and time can remain limiting. Care involves relationships as well as information. A system may generate excellent plans while people lack the authority or resources to carry them out. The social question remains even when a technical question is answered.
+
+This is not a counsel of pessimism. It is a way to make optimism answerable to a chain of achievable changes. A model that helps reduce waste, improve a design, or support a difficult decision can make a real contribution. The contribution becomes more valuable when it is measured against the actual problem and made available under workable conditions.
+
+The most consequential possibility may be that human societies become better at organizing the feedback between knowledge and production. Tools could help compare alternatives, expose dependencies, interpret experiments, and preserve lessons. But the same tools could also concentrate authority, generate persuasive errors, or accelerate a harmful objective. The quality of the surrounding institutions becomes more important as the ability to act expands.
+
+A collective intelligence needs the capacity to hear unwelcome information. It needs ways to distinguish a failed prediction from an inconvenient result and a useful criticism from an attack on status. It needs records that can be inspected and experiments that can be repeated. These are social arrangements with material costs, not virtues automatically supplied by more processing power.
+
+Return to the screwdriver on the table. The tool contained a distributed history, but that history did not make it usable without someone knowing what to do with it. AI can change where some of that knowing occurs. It can make certain operations easier to repeat and allow others to be attempted at a new scale. It still enters a world of dependencies, purposes, and unequal claims.
+
+The machine that was everyone is thus neither a single person nor a single computer. It is the historically accumulated capacity of people and tools to make sense of conditions and change them. Its continuity depends on teaching, communication, energy, production, care, and institutions capable of correction. AI may become an important part of that capacity without becoming its solitary author.
+
+The proposed loop is now precise enough to be tested: under specified conditions, improvements in computation can improve the systems that sustain productive activity, and some of those improvements can support further computational development. Each connection must be measured. Failure at one connection should tell us where the explanation needs revision.
+
+The final chapter asks what this loop shares with the earlier histories—and what we would lose if we forced them all to be the same story.
+
+## Chapter notes
+
+1. Muthukrishna and Henrich, [“Innovation in the collective brain”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4780534/) (2016). The screwdriver and its production network are illustrative. See [S12](sources.md#s12).
+
+2. Saffran, Aslin, and Newport, [“Statistical learning by 8-month-old infants”](https://pubmed.ncbi.nlm.nih.gov/8943209/) (1996), DOI 10.1126/science.274.5294.1926. The finding concerns segmentation in an experimental speech stream, not complete language acquisition. See [S49](sources.md#s49).
+
+3. Mikolov et al., [“Efficient Estimation of Word Representations in Vector Space”](https://arxiv.org/abs/1301.3781) (2013). This is a specific family of machine representations, not a general theory of all human thought. See [S50](sources.md#s50).
+
+4. Melis, Hare, and Tomasello, [“Chimpanzees Recruit the Best Collaborators”](https://www.eva.mpg.de/documents/AAAS/Melis_Chimpanzees_Science_2006_1555100.pdf) (2006). See [S14](sources.md#s14).
+
+5. Wilkins, Wrangham, and Fitch, [“The ‘Domestication Syndrome’ in Mammals”](https://academic.oup.com/genetics/article/197/3/795/5935921) (2014). See [S15](sources.md#s15).
+
+6. Lord et al., [“The History of Farm Foxes Undermines the Animal Domestication Syndrome”](https://pubmed.ncbi.nlm.nih.gov/31810775/) (2020). The critique limits the strength of the analogy; it is not presented as settling all hypotheses of human social evolution. See [S51](sources.md#s51).
+
+7. Bongard, Zykov, and Lipson, [“Resilient machines through continuous self-modeling”](https://pubmed.ncbi.nlm.nih.gov/17110570/) (2006), DOI 10.1126/science.1133687. See [S52](sources.md#s52).
+
+8. Marx, [*Grundrisse*, Notebook VII, discussion of fixed capital and general social knowledge](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm). The AI connection is the manuscript's interpretation. See [S53](sources.md#s53).
+
+9. Degrave et al., [“Magnetic control of tokamak plasmas through deep reinforcement learning”](https://www.nature.com/articles/s41586-021-04301-9) (2022). The result concerns TCV plasma control and makes no claim to commercial fusion power. See [S54](sources.md#s54).
+
+10. International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation) (2025). See [S31](sources.md#s31). The prospective component-development sequence is an explicitly hypothetical scenario.

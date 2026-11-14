@@ -1,27 +1,109 @@
 # Chapter 6 — The Machine That Drank Coal
 
-**Status:** detailed outline. **Target:** 6,000–7,000 words.
-
 *An invention becomes history when a world can afford to repeat it.*
 
-## Chapter purpose
+Imagine a mine whose most promising workings lie below accumulating water. The coal is present. There may be demand for it and people prepared to dig it. Yet the deposit cannot become a continuing source of fuel unless water can be removed quickly enough, at a cost the operation can bear.
 
-Turn the steam preview in chapter 1 into a historically grounded explanation of discoverability, adoption, and recursive expansion. Show how a productive network can become an instrument of imperial power without turning conquest into a verdict on the worth of civilizations.
+The obstacle is not a shortage of energy in the abstract. Coal lies beneath the water. The obstacle is the absence of an adequate pathway from the resource to the work required to reach it. An engine can become useful at exactly this point, even if it consumes a great deal of fuel for the work it performs.
 
-## Narrative and argument
+Thomas Newcomen's early eighteenth-century engine supplied one such pathway. Steam filled a cylinder and was then condensed, reducing the pressure inside. Atmospheric pressure pushed the piston down, and a beam transmitted motion to a pump. The cycle repeatedly heated and cooled the cylinder. That was wasteful of heat, but a fuel-hungry machine could still have value where it enabled pumping and coal was cheap.[1]
 
-1. **Water where the work must happen.** Open with mine drainage as a specific material problem. Select a documented mine or use a plainly explanatory reconstruction. Establish what pumping costs and what further access might make possible; do not invent a miner's words or a balance sheet.
-2. **An inefficient machine that can pay.** Introduce early steam pumping and Newcomen in context. Explain the relevant conversion of fuel into useful work and the practical costs of building and maintaining the equipment. Physical efficiency and economic viability are related but different measures.
-3. **The historical Sudoku.** Present Allen's high-wage, cheap-energy argument as one account of the constraints directing invention and adoption. Compare regional fuel prices, labor, engineering, finance, markets, transport, and trade. Use [S04](sources.md#s04) and obtain competing scholarship before claiming a settled explanation.
-4. **The workshop behind the improvement.** Develop Watt's improvements through skills, experiments, production, and business organization. The useful unit is an engineering network rather than an isolated mind. Examine what had to become reproducible for improvements to spread.
-5. **Coal makes engines; engines open coal.** Trace the feedback through extraction, fuel, transport, repair, capital, and demand. Identify where the loop could stall. More coal in the ground is insufficient when another required input is missing.
-6. **The comparison that resists the fable.** Discuss Song industrial achievements and the diversity of later Chinese economic conditions. Do not explain several centuries through cheap labor and dry mines. Compare particular regions, sectors, and dates, and address why copying a machine differs from reproducing its supporting organization.
-7. **The network goes to war.** Introduce the Nemesis in the First Opium War after verifying its deployment and capabilities. Follow logistics, shipbuilding, weaponry, finance, and imperial decisions into the encounter. Preserve Chinese actors, resistance, and consequences rather than using them as scenery for a British technological triumph.
+This is a practical rather than an absolute efficiency. The question for a mine was not whether the engine met a later engineering ideal. It was whether the arrangement allowed useful production under the conditions then available. A machine can be inefficient by one measure and transformative in a particular location.
 
-## Evidence and objections
+James Watt's separate condenser addressed a major source of the waste. Condensation could occur in a separate vessel while the working cylinder remained hot. The Science Museum preserves experimental material from this development, including a condenser from 1765.[2] The improvement changed the balance between fuel consumed and work obtained. Turning the principle into dependable equipment, however, required manufacturing, finance, installation, and repair.
 
-Research mine records, early-engine performance, engineering histories, Chinese regional histories, and naval accounts. Explain how geography, strategy, and political choices mediate productive capacity. Energetic advantage neither determines every battle nor legitimizes coercion. The institution that wins an encounter may still reproduce destructive relationships.
+The history can be told through Newcomen and Watt without becoming a history of two isolated minds. A practical engine incorporates the work of people who bore cylinders, make boilers, fit valves, supply metal, keep records, and understand the circumstances in which a customer will pay. The visible invention is a meeting point of capacities distributed across a society.
 
-## Continuity
+Even the distinction between an inventor and an implementer can conceal too much. A difficult manufacturing problem may require invention. A mechanic adapting an engine to an actual site may expose a weakness absent from a drawing. A customer may reveal that a technically elegant arrangement solves the wrong problem. The path from concept to repeated operation is a sequence of discoveries, some celebrated and some absorbed into ordinary work.
 
-Use ideas I05–I07, I10–I11, and I17. The discarded Huns-and-stirrup story remains excluded. End with the limits of the coal revolution: access to more power does not automatically solve every chemical or biological constraint. Chapter 7 follows the nitrogen bottleneck.
+Robert Allen's account of the British Industrial Revolution gives a prominent role to relatively high wages and cheap energy. In this interpretation, particular British conditions made labor-saving, energy-using techniques especially attractive to develop and adopt.[3] The argument directs attention away from a national gift for invention and toward the costs confronting people who could invest in machinery.
+
+It is a hypothesis to test, not a complete explanation contained in two prices. Which wages count? A male wage series need not represent the cost or opportunities of women and children. Which regions had cheap fuel, and which had to pay to transport it? Could a potential investor obtain capital, skilled work, and reliable equipment? The relevant economic environment must be reconstructed rather than inferred from a national average. Jane Humphries's critique presses precisely on the treatment of labor, gender, and household circumstances in the high-wage explanation.[4]
+
+Prices themselves also have histories. The price of fuel depends on extraction and transport. Labor costs depend on bargaining, subsistence, law, household arrangements, and alternative employment. Finance depends on expectations and enforceable claims. The explanatory work begins when these relationships are specified. “Economic incentives” cannot serve as the name of an invisible hand that supplies all the missing parts.
+
+Scientific knowledge and engineering practice belong in the same account. A useful physical principle does not guarantee that a vessel can be built to withstand its working conditions. A skilled craft tradition does not by itself create a market for every possible machine. Commercial demand can stimulate experiments, but experiments require people and materials capable of making the requested outcome real.
+
+These conditions can reinforce one another. More engines create demand for skilled maintenance. More skilled maintenance can make engines more dependable. Dependability can widen the range of uses in which investment seems worthwhile. A growing field of applications can support specialized suppliers. The result is more than a sum of independently purchased objects. It is an environment in which some further objects become easier to produce.
+
+The coal-engine loop is especially clear. Engines can help drain mines. Mines can supply fuel for engines. More accessible fuel can support activities that produce additional machinery. Yet a loop on paper is not proof of an indefinitely expanding process. Each connection has a capacity, a cost, and a possible point of failure.
+
+Suppose, in a hypothetical mine, pumping permits access to a deeper seam. The newly accessible coal may be harder to transport. Ventilation may become a greater constraint. Equipment may need more maintenance. Demand may be insufficient to justify the expansion. The mine owner may divert returns elsewhere. A new capability has changed the problem, not abolished the existence of problems.
+
+It is also necessary to count the work consumed in sustaining the loop. Fuel extracted for an engine is not all available for other uses. Machinery must be made and replaced. People need food and shelter. Waste and damage can impose costs outside the operation's accounts. A positive commercial return does not demonstrate an equally favorable balance for every affected person or environment.
+
+This does not erase the increase in productive capacity. It locates it. A machine that permits work previously impractical has accomplished something real. Whether that accomplishment improves lives depends on how its costs and gains are distributed, what activities it displaces, and which new dependencies it creates.
+
+The same approach prevents British industrialization from becoming a morality play about an inventive Europe and an unchanging China. Robert Hartwell's research on the Northern Song described substantial developments in iron and coal production many centuries before the British steam economy.[5] The Song and the Qing are not one undifferentiated historical moment, and China is not a single timeless economic environment.
+
+That comparison need not become a contest over which civilization had the right to be first. Its value is causal. Knowledge of a fuel or a process does not ensure that the same productive system will emerge everywhere it is known. Geography, demand, military pressures, institutions, transport, and the arrangement of existing industries can differ. A technology may fit one setting while an alternative remains practical in another.
+
+Nor does an earlier achievement automatically accumulate without interruption. Skills can be lost, networks displaced, and investment redirected. A later society does not possess every capability once demonstrated somewhere within the territory it governs. The idea of a civilization remembering all its inventions as one person remembers a lesson is a misleading compression.
+
+The engine's history is therefore an argument against both pure genius and pure inevitability. Individuals matter because their work can change the feasible set. Conditions matter because a feasible machine must become reproducible and useful within a larger organization. Neither side eliminates the other.
+
+A working engine also carries its history into encounters with other societies. In the First Opium War, the iron steam vessel *Nemesis* operated as part of British imperial forces against Qing China. Its shallow draft and powered movement made it useful in coastal and river operations, including actions around Chuenpi in January 1841. William Dallas Bernard's account, drawn from Commander William Hall's notes, records the ship's operations and celebrates its role.[6]
+
+The source must be read as a participant's imperial narrative. Its enthusiasm for the vessel does not make its judgments about China neutral. What it can help establish is the practical place of a particular machine within a campaign. An account of conquest that simply adopts the victor's admiration would reproduce the ideology of the source as if it were an engineering conclusion.
+
+The wider war concerned coercive commercial access and the opium trade. Its outcome included the Treaty of Nanjing in 1842 and concessions imposed on the Qing government.[7] Steam was part of the material setting of that violence. It was not a moral warrant for it.
+
+Consider what had to accompany the visible ship. Fuel had to reach it. Engines had to be serviced. Weapons, ammunition, trained personnel, navigational knowledge, and command arrangements had to be available. Its effectiveness depended on cooperation with other vessels and forces, on geography, and on decisions made by both sides. A hull and an engine do not fight a war by themselves.
+
+The example thus reveals a difficulty in technological imitation. A society can inspect an unfamiliar machine and still face a much larger problem in reproducing its effective operation. It may need compatible manufacturing, skills, supply chains, and institutions. Purchasing an object can transfer a capacity for a time without transferring the complete means to renew that capacity.
+
+This is not a claim that transfer is impossible. People learn, adapt, hire, experiment, and build new institutions. The point is that the object is an entry into a productive history, not a substitute for that history. The effort required to recreate its supporting system helps explain why a military encounter can expose a capability gap more quickly than the gap can be closed.
+
+Such gaps are specific. They do not establish the general intelligence, worth, or destiny of populations. A particular force can possess advantages in a particular conflict while remaining dependent on vulnerable supply lines or mistaken strategy. Resistance can change its costs. Political decisions can alter the outcome. The material account needs these contingencies because they are part of how power actually operates.
+
+The language of energy advantage is especially dangerous if it slides into admiration. The capacity to move weapons and supplies can increase the ability to impose suffering. More effective extraction can serve a coercive institution. An explanation of how this became possible must remain distinct from a judgment that it should have happened.
+
+There is a related error in the idea that victory proves an entire social order was optimal. A military result tests certain capacities under certain conditions. It does not compare every possible arrangement of care, freedom, production, or ecological resilience. Treating it as a universal examination makes human value a prize awarded by successful violence.
+
+The book's claim is instead that capabilities are historically assembled and can become asymmetrically available. Those asymmetries affect what people and institutions can do to one another. Their consequences become part of the conditions inherited by later generations, including the conditions under which industrial development itself proceeds.
+
+This feedback between production and power complicates any clean separation of markets from empire. A commercial opportunity can be created or protected through force. Revenues can support institutions of force. Productive innovation can increase the reach of those institutions. To describe only voluntary transactions inside the resulting arrangement would leave part of its construction unexplained.
+
+Yet the opposite simplification is also insufficient. Identifying coercion does not mechanically explain the design of every engine or the success of every enterprise. A good history traces the particular connection: which inputs, revenues, markets, or protections mattered, at which moment, and through which organizations. The more ambitious the synthesis, the more necessary those intermediate links become.
+
+Steam also changed where work could be concentrated. Water power tied particular operations to suitable flows and sites. Fuel-using engines offered a different set of possibilities and constraints. Their location still depended on transport, supplies, workers, and customers. Independence from one condition meant dependence on another arrangement, rather than freedom from geography altogether.
+
+That pattern will recur throughout industrial history. A new technique loosens one constraint and tightens the importance of another. More powerful machinery can make precision components valuable. Faster production can make scheduling decisive. A transport improvement can expand the market while exposing producers to new competition. An innovation changes the surrounding field of incentives and possibilities.
+
+The system's speed is likewise uneven. An engine cycle happens quickly. Training a mechanic takes longer. Building a transport route or reorganizing a supply chain can take longer still. Expansion is paced by sequences of dependencies, not by the fastest visible machine. This is why a dramatic improvement at one point can coexist with slow diffusion across an economy.
+
+The same distinction helps explain persistence. A technically superior replacement may require scrapping equipment, retraining workers, changing contracts, and bearing a period of uncertain output. Continued use of an older machine can be reasonable for a particular operator even when the newer system promises greater performance once fully established. The costs of transition are real parts of the choice.
+
+But not every delay is reasonable from every perspective. An incumbent may control access to a necessary input or use political power to protect a profitable arrangement. A worker may bear the cost of an obsolete process while an owner benefits from avoiding investment. A community may live with damage that the firm's accounts do not record. The claim that persistence reflects rational choice is incomplete until we know whose choice and whose costs.
+
+Here the successful engine becomes a model of entrenchment as well as innovation. A coal economy builds skills, machinery, settlements, financial expectations, and institutions around continuing fuel use. Those achievements make further activity easier. They can also make change costly when another arrangement becomes desirable. The system has acquired a material memory.
+
+A transition must work with that memory. It may preserve useful engineering skills while replacing the energy source. It may repurpose facilities while changing their ownership. It may require public investment so that people dependent on the old arrangement do not have to choose between their livelihood and a broader benefit. None of these tasks is accomplished by announcing that a better technology exists.
+
+Nor is collapse a necessary cleansing operation. Collapse can strand machinery, disperse expertise, and destroy the organizations needed for repair. A successor may inherit objects without inheriting the capabilities that made them useful. Deliberate transformation has an advantage when it can preserve what remains valuable while changing the relationships that have become damaging.
+
+This is the material meaning of overcoming while preserving. It has no guarantee attached. Sometimes institutions adapt; sometimes they resist; sometimes losses outrun the ability to reorganize. The historical question is what conditions make each outcome more likely. Calling every outcome dialectical without distinguishing those conditions would contribute little.
+
+The flooded mine with which we began now sits inside a much larger account. Its problem was immediate and concrete: remove water. A working answer helped open a resource. Repeated answers helped create industries, skills, and networks. Those networks extended productive and military power. Their expansion altered the world in which further decisions were made.
+
+We have not discovered a law saying that every available fuel must eventually be burned. We have identified a conditional mechanism: a usable energy pathway can support the reproduction of the organization that opened it, provided the necessary complementary conditions remain available. Its growth may then change those conditions, favorably or disastrously.
+
+The next bottleneck need not be another source of mechanical power. An industrial society can move material rapidly and still confront a chemical limit in food production. Fields require nutrients in forms plants can use. One of the elements they need is abundant overhead, yet most crops cannot directly draw it from the air.
+
+The engine taught us that a resource is not the same as access. The atmosphere was about to teach the lesson again.
+
+## Chapter notes
+
+1. Science Museum Group, [Newcomen engine model](https://collection.sciencemuseumgroup.org.uk/objects/co8231705/replica-of-model-of-newcomen-engine), and ASME, [Newcomen engine engineering landmark account](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/70-newcomen-engine.pdf). The opening mine is illustrative. See [S36](sources.md#s36).
+
+2. Science Museum Group, [Watt's second separate condenser, 1765](https://collection.sciencemuseumgroup.org.uk/objects/co50928/watts-second-separate-condenser-1765-condensers). See [S36](sources.md#s36).
+
+3. Allen, [“Why the industrial revolution was British”](https://doi.org/10.1111/j.1468-0289.2010.00532.x) (2011). See [S04](sources.md#s04).
+
+4. Humphries, [“The lure of aggregates and the pitfalls of the patriarchal perspective: a critique of the high wage economy interpretation of the British industrial revolution”](https://doi.org/10.1111/j.1468-0289.2012.00663.x) (2013), *Economic History Review*. See [S37](sources.md#s37) for the publication link and scope.
+
+5. Hartwell, [“A Revolution in the Chinese Iron and Coal Industries During the Northern Sung, 960–1126 A.D.”](https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/revolution-in-the-chinese-iron-and-coal-industries-during-the-northern-sung-9601126-ad/C4ED428E19B0A04C7225BB57822C89DF) (1962). No production totals are inferred here from its estimates. See [S37](sources.md#s37).
+
+6. Bernard, from Hall's notes, [*Narrative of the Voyages and Services of the Nemesis from 1840 to 1843*](https://www.gutenberg.org/cache/epub/43669/pg43669-images.html), second edition (1845), particularly the ship description and China campaign. This is a situated British participant account. See [S38](sources.md#s38).
+
+7. U.S. Department of State, Office of the Historian, [“The Opening to China, Part I”](https://history.state.gov/milestones/1830-1860/china-1), for the diplomatic chronology and unequal treaty context. See [S38](sources.md#s38).

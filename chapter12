@@ -1,30 +1,134 @@
 # Chapter 12 — The World That Builds Itself
 
-**Status:** detailed outline. **Target:** 5,000–6,000 words.
-
 *An inheritance is a possibility with a history.*
 
-## Chapter purpose
+Three things have accompanied us through this book: a square whose possible values depend on the squares already filled, a resource present before a process can use it, and an organization that must make tomorrow's activity possible through what it does today.
 
-State what the book has argued, what remains a proposal, and what would test the synthesis. Give dialectical materialism a concrete research agenda. Return to the cosmological ambition without presenting an analogy across scales as a derived law of physics.
+They are modest images for a large argument. None proves a theory of everything. Together they change the kinds of explanation we look for.
 
-## Narrative and argument
+The square asks us to investigate accessibility. The imagined space of arrangements is not necessarily the space an actual process explores. Inherited structure rules some moves out, makes others easier, and can preserve an error. A history of outcomes should include a history of the possibilities encountered along the way.
 
-1. **Return to three objects.** Revisit the constrained square, the resource awaiting a capability, and the organization repeating tomorrow's work. Use short callbacks rather than summaries of every chapter. Show how the meaning of each changed through the historical cases.
-2. **What is shared, what is different.** Build a comparative table of stellar succession, biological inheritance, industrial replication, and institutional persistence. For each, identify components, constraints, energy pathways, retention mechanisms, and boundaries. State explicitly where reproduction is only an analogy.
-3. **The conditional mechanism.** Formulate the sequence: inherited organization shapes accessible variation; some changes open capabilities; some capabilities support persistence or reproduction; expanding activity changes the environment; feedback may maintain, expand, or entrench the resulting system. Describe failure conditions at each link.
-4. **Quantity into quality.** Use already researched thresholds and network effects. Explain the operation that converts scale into a new capability. Contrast a real organizational transition with merely producing more copies of the same thing.
-5. **Interpenetration of opposites.** Revisit constraints that enable and block, stability that preserves and entraps, and organization sustained through dissipation. Treat these as coupled mechanisms rather than slogans that can be pasted onto any conflict.
-6. **Negation and preserved capability.** Examine cases where new arrangements reorganize inherited tools and relationships. Include destruction without recovery. No dialectical principle guarantees a higher stage after every collapse.
-7. **Try to make the thesis fail.** Identify comparison cases: successful low-throughput systems, unused energy opportunities, innovations that do not spread, reform without collapse, and collapse followed by lasting loss. Ask whether the synthesis predicts anything beyond explanations already available in the specialist fields.
-8. **The return to physics.** Reopen effective laws, dimensions, time, and fine-tuning. State precisely which questions the historical cases motivate and which they cannot answer. A developmental account of parameters would need a physical model and empirical consequences; the manuscript has not supplied one by analogy.
-9. **A future requiring organization.** Compare ecological transition, growth, uneven abundance, institutional reform, and contraction as scenarios with different assumptions. AI may change capabilities; it does not remove the need to organize access, care, accountability, and repair.
-10. **The open material world.** End with the proposed view of existence as ongoing development. The claim that structures help create conditions for later structures has broad explanatory promise. Whether it describes a deeper universal principle remains open to investigation.
+The inaccessible resource asks us to investigate capability. Coal beneath water, citrate outside a usable metabolic pathway, and atmospheric nitrogen beyond the reach of most crops are abundant in different senses. An arrangement of components changes what can be done with them. The existence of a resource is not yet an explanation of its use.
 
-## Evidence and objections
+The organization repeating tomorrow asks us to investigate continuation. A working system consumes conditions as well as products. It needs repair, inputs, knowledge, and, in social systems, recognizable obligations and people able to return. Its activity may renew those conditions or gradually undermine them.
 
-Use established evidence from prior chapters and ideas I44–I45 to define tests before selecting favorable cases. Do not introduce an unsourced theorem of maximum entropy production. Separate power, energy, entropy, assembly index, financial value, and welfare in every comparison. A framework protected from refutation by endlessly widening its vocabulary has not earned the title of a theory.
+The central materialist claim is that these relationships are part of reality, not commentary added to a world made only of isolated objects. A cell's membrane, a factory's maintenance schedule, and a legally enforced property claim have different forms of existence. Each can alter what happens. Explaining their effects requires tracing the material activities through which they operate.
 
-## Continuity
+The historical claim is that the results of earlier processes become conditions of later ones. The dialectical claim is that these conditions can enable and constrain the same activity, and that development can transform the relationships sustaining it. Neither claim requires a final destination toward which everything must advance.
 
-Draw on I01–I04, I07–I11, I30–I33, and I41–I45. The epilogue returns to the prologue's machine with one final question: what conditions will the capabilities we have inherited help us reproduce?
+The comparison across scales must begin by preserving differences. Otherwise the grandeur of the title would be purchased at the expense of the explanation.
+
+| Process | Inherited materials or organization | Relevant energy pathway | What carries forward | Boundary of the comparison |
+| --- | --- | --- | --- | --- |
+| Stellar succession | Gas enriched and redistributed by earlier physical processes | Gravitational contraction and nuclear processes | Changed material composition and physical conditions | Later stars do not inherit copied genomes; succession is not biological reproduction |
+| Biological maintenance and inheritance | Cells, molecular organization, and inherited genetic variation | Metabolism using particular environmental resources | Living organization and hereditary information through specified mechanisms | An individual can maintain itself without producing offspring; lineages and individuals have different histories |
+| Industrial replication | Equipment, designs, skills, standards, and supply networks | Fuel, electricity, and other conversion systems | Repeated manufacture, training, maintenance, and retained specifications | A factory relies on people and institutions beyond its walls; it does not create itself independently |
+| Institutional reproduction | Rules, claims, expectations, records, and organized power | Energy and material provision supporting embodied participants and infrastructure | Recurring decisions, communications, enforcement, and practices | An institution has no single metabolism, consciousness, or necessarily shared interest |
+
+The table does not give each row the same score. There is no justified conversion factor between a stellar lifetime, a bacterium's descendants, a factory's output, and a legal institution's persistence. Their comparison concerns relationships among processes. Their measurements remain specific.[1]
+
+One shared sequence can nevertheless be stated. Inherited organization shapes accessible variation. Some variations establish new capabilities. Some capabilities support persistence, reproduction, or further construction. Their use changes the environment, including the conditions under which subsequent variations occur. Feedback can then maintain, enlarge, redirect, or undermine the system.
+
+Every link is conditional. A variation may be inaccessible from a particular starting point. A new capability may lack a necessary input. A useful input may be available but controlled by someone unwilling to supply it. A process may generate more output while consuming the conditions of its own continuation. There is no promise that an innovation will spread merely because an observer can describe a possible benefit.
+
+This sequence is the proposed synthesis. It does not replace the mechanisms studied by physics, evolutionary biology, engineering, or history. Its value would lie in helping us connect those mechanisms without losing their causal detail, and in directing attention to dependencies that a narrower boundary can conceal.
+
+That value is not guaranteed by the breadth of the vocabulary. A framework can connect many things because it has identified a useful relation or because its terms have become too flexible to exclude anything. The difference is whether it improves questions, comparisons, and predictions.
+
+The first of the traditional dialectical principles concerns quantity becoming quality. The useful version asks how a change in amount produces a change in what a system can do. We have encountered several candidate mechanisms: a stock accumulating when production exceeds losses, a network making previously disconnected competencies available, or a complementary change allowing a weak innovation to become effective.
+
+The mechanism matters more than the slogan. Twice as many copies may simply mean twice as many copies. A threshold appears only when something about the organization changes: a necessary concentration is reached, a missing connection is supplied, or a fixed cost can be supported. The relevant quantity, threshold, and resulting capacity have to be specified.
+
+The citrate example illustrates why this cannot be reduced to an increasing count. The history concerned access to a new metabolic function and its refinement. A population increase was a consequence within a maintained experimental environment. Calling the whole event quantity becoming quality would be less informative than identifying which changes made the new function effective and under which conditions.[2]
+
+A hypothetical production network offers a different test. Adding suppliers can improve reliability if they provide independent alternatives. Adding many suppliers that all depend on the same vulnerable input may barely change resilience. The number is similar; the topology of dependence differs. Quantity becomes a different quality through organization, not through an incantation over scale.
+
+The second principle concerns the interpenetration of opposites. In this book, its strongest examples are relations in which the same structure both enables and limits an activity. A boundary helps maintain a cell's internal conditions while restricting exchange. A standard permits compatible production while potentially excluding alternatives. Stable housing valuations support some balance sheets while obstructing affordable entry.
+
+These are not merely pairs of contrasting words. The causal connection is internal to the arrangement. Altering the standard can change compatibility as well as access. Lowering a house price can affect affordability and equity at once. A useful explanation traces the joint effects and asks whether institutions can reorganize the relationship.
+
+This is why contradiction should not mean logical impossibility. A social arrangement can continue for a long time while generating incompatible pressures. People may absorb the costs, shift them onto others, or defer them. The contradiction becomes historically significant through its effects on action and reproduction, not because reality is obliged to obey a literary demand for resolution.
+
+The third principle concerns overcoming while preserving, often discussed as negation. A new productive arrangement can retain materials and skills while changing their relations. Electrification can preserve an industrial purpose while changing how power reaches machines. A change in ownership can preserve equipment while changing who commands it. An institution can revise a rule while retaining the capacity that the rule once helped coordinate.
+
+Preservation is work. It requires identifying what remains useful, maintaining it through the transition, and making it function in the new arrangement. A machine moved without its necessary skills or supplies may be preserved as an object and lost as a capability. The distinction is crucial in any politics of transformation.
+
+Destruction alone guarantees no higher stage. A collapsed system can leave enduring loss. A new organization can reproduce old forms of domination under different names. The dialectical account earns its historical seriousness by including those outcomes rather than treating them as temporary embarrassments on an inevitable upward path.
+
+These principles are thus orientations toward mechanisms. They direct us to thresholds, coupled effects, and reorganized inheritances. They do not supply the evidence that any particular threshold exists or that any particular transition preserves what people need. Their use should increase the demand for such evidence.
+
+How might the proposed synthesis fail? The strongest version of the energy claim would predict that greater throughput reliably brings greater reproductive or institutional success. We have already rejected that version. A system can persist through lower maintenance requirements, a protected niche, or access to work performed elsewhere. Gross consumption can be wasteful or damaging.
+
+The narrower claim is that access to a previously unusable resource can remove a binding constraint on continuation or expansion. To test it, first identify the constraint independently of the outcome. Then examine whether opening the pathway changes the predicted behavior, whether costs offset the gain, and whether another requirement takes over as the limit. If no change occurs under the specified conditions, the hypothesis needs revision.
+
+A comparative study of early engines, for example, could distinguish technical performance from the local conditions of adoption. It would need variation in fuel costs, pumping requirements, skills, finance, and alternative methods. The prediction would be conditional: where pumping was valuable and the supporting inputs affordable, the engine should be more attractive. Successful cases alone would not test that proposition; nonadopters and failed installations would be essential.[3]
+
+The same design must guard against reversed causation. Cheap fuel can encourage engines, while engines can make fuel cheaper to obtain. Observing both together does not identify the direction or timing of either effect. A causal account needs chronology, intermediate evidence, and comparisons that can distinguish reinforcing effects from a single prior cause.
+
+The assembly-theory question requires another kind of test. Does a construction measure combined with abundance improve discrimination among samples beyond competing methods? How does it behave with difficult abiotic cases, contamination, or incomplete measurements? A successful test would establish a defined empirical advantage, not a universal license to assign every object a history from one number.[4]
+
+Institutional entrenchment needs its own operational definitions. We might predict that organizations whose budgets, collateral, or authority depend heavily on an existing arrangement will resist changes that threaten those dependencies, even when some participants favor the intended public benefit. Evidence would include the dependence itself and the actions through which it affects decisions. Mere persistence would be insufficient.
+
+An alternative explanation might be that the proposed change is technically poor, legally infeasible, or distrusted for reasons unrelated to incumbent assets. Those explanations deserve tests too. The materialist account cannot win by calling every objection an expression of hidden economic interest. It must show where the dependence changes behavior and where it does not.
+
+A possible study of factory transitions would compare new equipment adopted with and without complementary changes in layout, training, and maintenance. The outcome should concern useful production and reliability, not simply the number of devices installed. If the complementary changes add nothing under the specified conditions, the proposed organizational mechanism would be weakened.[5]
+
+AI supplies a prospective test rather than only a retrospective illustration. Select a bounded industrial task before examining results. Specify the baseline, the resources used, the relevant operational outcomes, and the time needed for testing and deployment. Then compare AI-assisted work with a credible alternative under comparable conditions. A generated design is an intermediate result; a sustained improvement in operation is a different outcome.
+
+For the recursive hypothesis, one further connection must be demonstrated. Did the productive improvement actually support subsequent capability—through more reliable energy, reduced costs, better manufacturing, or another identified route? If it produced a local benefit that never fed back into further development, the local success remains real while the larger loop remains unproven.
+
+Such studies would not be easy. They would confront measurement problems, selection effects, and changes occurring together. That difficulty is a reason to be precise about what can be learned, not a reason to replace empirical work with a sweeping assertion. Natural experiments, controlled interventions where feasible, archival comparisons, and process tracing can each contribute different kinds of evidence.
+
+A causal graph can be helpful, but arrows are hypotheses until their relationships are supported. Suppose energy access, institutional capacity, and innovation all rise together. One may influence another; a third factor may influence both; or reciprocal effects may operate at different times. The explanatory burden is to distinguish these possibilities rather than merely draw a pleasing loop.
+
+The list of possible confounders should not become an excuse for permanent agnosticism either. A rival explanation needs a plausible mechanism and evidence. We can compare which account explains timing, variation, and intervention outcomes more successfully. Fallibility does not mean that every story is equally good.
+
+A preference for economic explanation is useful at this stage when it prompts us to investigate livelihood and control before invoking an unexplained cultural essence. It becomes unhelpful if it treats material motives as an unfalsifiable background that always wins. Psychology, meaning, institutions, and physical conditions can each supply indispensable links. The task is to connect them in a testable account.
+
+Counterexamples should be selected deliberately. We should examine durable systems with low throughput, innovations that did not spread, unused resources, reforms achieved without collapse, and collapses followed by lasting loss. We should also study cases in which communication or institutional authority blocks a physically feasible arrangement. These are not exceptions to hide in footnotes. They help define the domain of the theory.
+
+The framework might ultimately prove more useful as a comparative research method than as a new general law. That would still be a meaningful achievement. It would encourage us to ask what maintains an object, which inheritances make an innovation accessible, and how successful activity changes its own conditions. But we should not claim predictive novelty where specialist theories already provide the explanation.
+
+The cosmological ambition remains a separate question. Chapter 2 asked whether some regularities or parameters treated as inputs might be products of physical development. The existence of effective laws and emergent behavior at particular scales makes that a legitimate kind of question. It does not show that fundamental constants, dimensions, or the arrow of time were assembled through the same mechanisms as cells or factories.
+
+The distinction between a quantum vacuum and absolute nothing remains. So does the distinction among uncertainty in our knowledge, probabilistic predictions, and a claim of ontological indeterminacy. The history of life cannot decide among interpretations of quantum theory. A pattern of institutional reproduction cannot derive the cosmological constant.
+
+A developmental proposal in physics would need its own states, dynamics, and empirical consequences. It would have to explain the observed result without merely relocating every unexplained parameter into the mechanism supposed to produce it. The relaxion proposal discussed earlier is an example of a specific model addressing a specific problem; it is not a derivation of all physical law.[6]
+
+The broad historical argument can motivate such research by warning against assuming that every imaginable arrangement was independently available. It cannot supply the missing physical model by analogy. Leaving that limit visible is part of defending materialism: an ambitious account should remain answerable to the kind of evidence its claim requires.
+
+The future-facing argument is less remote because people can intervene in some of the relationships described. A society can change property rules, build infrastructure, preserve knowledge, and organize care. Such actions occur within inherited constraints, but they can alter the constraints faced by others. Dependence on history does not make action causally empty.
+
+Several futures remain possible. Productive improvements could support wider access to essential services while reducing ecological damage. They could also reinforce concentrated ownership and increase damaging throughput. Institutions might adapt deliberately, or defer change until a crisis destroys useful capacity. AI could improve the quality of some decisions while intensifying errors or power imbalances elsewhere.
+
+These are scenarios with different mechanisms, not prophecies awaiting confirmation. To compare them, we need to ask where gains go, which costs are recorded, who can contest a decision, and what happens after failure. The institutional design determines whether a capability becomes a shared condition of life or another means of exclusion.
+
+A useful direction is to make the reproduction of capabilities more explicit. Health, education, care, maintenance, and ecological repair sustain the ability to act. Their value can be understated when only immediately saleable output is counted. Recognizing that value does not eliminate difficult choices among projects. It changes which effects are admitted into the decision.
+
+It also changes the meaning of abundance. A service can become more accessible because a society uses fewer resources to provide it, because it organizes access differently, or because it expands production. These are different paths with different consequences. The goal need not be an undifferentiated maximum of energy use, goods, or financial claims.
+
+There is an ethical choice here that physics alone cannot make. Persistence is not goodness. Expansion is not justice. An institution can reproduce itself by harming people, and a physically efficient process can serve an objectionable purpose. The book's preference for shared capability and humane correction must be defended as a human commitment, not disguised as a theorem of entropy.
+
+That commitment is compatible with the material account because values can be causally active within the world. People formulate goals, organize around them, build institutions, and evaluate consequences. Their reasons do not have to arrive from outside nature to affect what happens. They are among the organized processes through which the world changes.
+
+The title can now be read without imagining a universe that consciously designed itself. The world that builds itself is a world in which products of activity become conditions for further activity. Some organizations participate in renewing those conditions. Some transform them beyond the range in which the earlier organization can continue. At each scale, the mechanisms differ and the inheritance matters.
+
+The book has proposed a way to follow that inheritance from material possibility to capability, from capability to reproduction, and from reproduction to the possibility of transformation. Its strongest claims are the concrete connections established along the way. Its broader synthesis remains a program to test. Its deepest cosmological conjecture remains open.
+
+The square does not promise one answer for history. The resource does not promise that every use is desirable. The recurring organization does not promise that it deserves to survive unchanged. Together they ask us to see the conditions of action clearly enough to take responsibility for changing some of them.
+
+We inherit a world already in motion. What we make of it will be part of what others inherit.
+
+## Chapter notes
+
+1. The comparison synthesizes the mechanisms and boundaries developed in chapters 2–11. It introduces no universal complexity, energy, or welfare metric. See especially [S02](sources.md#s02), [S07](sources.md#s07), [S19](sources.md#s19), and [S33](sources.md#s33).
+
+2. The distinction between initial innovation, historical conditions, and refinement follows the research discussed in chapter 4: [Blount, Borland, and Lenski (2008)](https://doi.org/10.1073/pnas.0803151105) and [Quandt et al. (2014)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3926077/). See [S03](sources.md#s03).
+
+3. This is a proposed comparative research design, not a completed new study. The historical arguments and disagreements are documented in [S04](sources.md#s04), [S36](sources.md#s36), and [S37](sources.md#s37).
+
+4. See the assembly-theory proposal and critique under [S02](sources.md#s02) and [S32](sources.md#s32). The tests described here are requirements for evaluating the claim, not reported results.
+
+5. See David's organizational-adoption argument under [S42](sources.md#s42). The suggested comparison and prospective AI evaluation are this book's research proposals.
+
+6. Graham, Kaplan, and Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551) (2015). See [S29](sources.md#s29) and chapter 2 for the distinction between a model of electroweak-scale relaxation and a general cosmological explanation.

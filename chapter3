@@ -1,27 +1,101 @@
 # Chapter 3 — The Signature of Life
 
-**Status:** detailed outline. **Target:** 4,500–5,500 words.
-
 *A copy is a question addressed to the process that made it.*
 
-## Chapter purpose
+Imagine receiving a sealed sample from a world whose history you do not know. There is no leaf, shell, footprint, or recognizable cell inside it. There is only material that can be separated, weighed, and examined. Some of its molecules are simple. Others contain elaborate arrangements of bonds. A few of those elaborate arrangements appear many times.
 
-Explain assembly theory on its own terms, then distinguish it from the book's wider synthesis. The reader should understand why construction complexity and repeated production can be investigated together, what those observations may suggest, and what they do not prove.
+What would justify saying that life had been there?
 
-## Narrative and argument
+Finding carbon would not settle the matter. Neither would finding an intricate shape. Physical processes make intricate things without organisms supervising them. Nor could we assume that an unfamiliar life must use every chemical arrangement familiar from Earth. We would need to move from an inventory of substances toward an inference about the processes that produced them.
 
-1. **The unfamiliar sample.** Begin with a hypothetical chemical sample from an unfamiliar environment. State that the scene is illustrative. Remove assumptions about recognizable organisms and ask what physical evidence could motivate an inference of organized production.
-2. **Construction under rules.** Introduce Cronin, Walker, and collaborators through the research question. Build a small example from reusable pieces. Specify the primitive operations and demonstrate why changing those rules changes what the index means. Avoid an exact molecular index unless checked against the method.
-3. **A minimum is not a memory recording.** Explain assembly index as a minimum construction measure, not a recovered film of the actual past. Different histories can lead to the same observed object. Physical memory here concerns constraints detectable in present organization, not literal recollection.
-4. **Why repeated products matter.** Introduce copy number and the inference the researchers propose. Keep the factual account narrow and sourced to [S02](sources.md#s02). Distinguish production, amplification, persistence, and the sampling process that made the objects visible.
-5. **The rival explanations.** Consider abiotic production routes, environmental concentration, instrument limits, and assumptions about object identity. Ask how a proposed life-detection test would be calibrated, challenged, and compared with other methods. Do not treat an appealing measurement as an infallible life detector.
-6. **The book's frequency question.** Move explicitly from the formalism to the manuscript's broader proposal. Compare a large standing population, a high turnover rate, and a durable structure. Use a simple stock-and-flow diagram: new copies enter, losses leave. Track spatial extent and energy flow separately.
-7. **What counts as success?** A rare catalyst or a slowly replaced infrastructure can matter more than its abundance suggests. Define the outcome before ranking assemblies. Ask when repetition changes the environment enough to enable a new organizational level.
+The distinction is small in wording and large in consequence. An object can be inspected in the present. Its production lies in the past. To infer the second from the first requires a model of what different processes could plausibly leave behind. The sample is evidence, but it does not arrive with its own interpretation.
 
-## Evidence and objections
+Assembly theory, developed by Lee Cronin, Sara Walker, and their collaborators, enters through this problem. In one formulation, it combines a measure of the construction required for an object with information about the abundance of copies. The proposed inference is that sufficiently elaborate objects appearing in sufficient numbers can reveal a history of selection. The framework is meant to ask about construction without first requiring a familiar biological anatomy.[1]
 
-Read the full methods and supplementary material of the assembly-theory paper, plus independent criticisms and responses. Establish what has been measured, what remains a proposed application, and what definitions make comparisons valid. No equation should appear without its assumptions and a plain-language explanation. The chapter must answer the objection that the framework merely renames existing complexity measures, or state where that issue remains unresolved.
+That ambition matters to this book. We have spent two chapters asking how inherited conditions change the possibilities of a next step. Here the question is reversed. Can a finished arrangement tell us something about the steps and selective processes that made it accessible?
 
-## Continuity
+Consider a deliberately artificial building game. The available primitive is a single tile marked A. A move joins two available strings of tiles. Once a string has been constructed, further copies of that string may be used without charging another construction step. The task is to produce AAAAAAAA.
 
-Use ideas I08–I09 and I15. Do not claim that assembly index measures energy, intelligence, or moral value. The exit question is practical: what material process can maintain and reproduce complex products over time? Chapter 4 explores inherited chemistry, energy pathways, and living organization.
+One route is to add a single A repeatedly. A shorter route makes AA, joins two copies to make AAAA, and joins two copies of that to make AAAAAAAA. Three joining steps suffice. Within these rules they are also necessary: a join can at most double the longest available string, and three doublings are needed to reach eight tiles from one.
+
+The qualification “within these rules” is doing essential work. If an eight-tile strip were allowed as a primitive, the answer would change. If copying a previous construction carried a cost, the account would change. If the tiles could be joined only under special conditions, a formally short route might be physically inaccessible. A measure of assembly needs to state its objects, primitives, and permitted operations before a number can mean anything.
+
+The example also shows why a short construction description is not a historical record. Perhaps someone actually built the strip one tile at a time. The fact that a shorter route exists does not mean that this route was taken. A minimum tells us about the representation and its allowed possibilities. It does not recover every event in an object's past.
+
+In molecular applications, the corresponding problem concerns arrangements of bonds and reusable substructures. The assembly index aims to capture a shortest construction path under a specified scheme. It should not be confused with a molecule's mass, the time a reaction takes, or the energy required to produce a sample. Those are other measurements. The proposed significance emerges when construction requirements are considered alongside copy number.[1]
+
+Why should copies matter? Return to the unfamiliar sample. A single unusual arrangement could be a rare outcome of many trials. A great many instances of one elaborate arrangement invite a different question: what repeatedly channels production toward this particular result?
+
+A hypothetical workshop makes the logic familiar. Find one oddly bent piece of metal and you might infer an accident. Find a storeroom of pieces with the same elaborate bends and you begin looking for a jig, a mold, a machine, or a practice. The repeated product suggests some retained capacity to produce it. You still have to investigate. A sorting process might have concentrated objects made elsewhere. The stock might have accumulated over a long time. An apparently elaborate shape might be the easy consequence of an unrecognized physical constraint.
+
+The inference is therefore comparative. It does not run from “I cannot imagine a simple cause” to “there must be life.” It runs from competing accounts of production and preservation to their different expectations about what a sample should contain. A useful biosignature must survive that comparison.
+
+This is where the original Sudoku problem returns. A string drawn uniformly from all strings of a given length may have a tiny probability. But an actual process may never sample that immense space uniformly. It may repeatedly use a small set of intermediates, react along favored pathways, or concentrate certain products. Calculating improbability under the wrong production model tells us more about the model than about the origin of the sample.
+
+Selection is also a wider word than biological evolution. A laboratory apparatus can select products. A human manufacturing system can preserve a design. A physical environment can favor some reactions over others. Before an observation establishes life, an argument has to specify which kinds of selectivity it detects and why the nonliving alternatives are insufficient. Detecting a history of constrained production would already be valuable. It would not automatically identify the entire system that did the producing.
+
+The theory is disputed on methodological grounds as well as on the strength of its biological claims. A published critique argues that assembly measures overlap with established compression approaches and challenges claims of novelty and superiority in identifying molecular biosignatures.[2] That criticism cannot be settled by the appeal of a historical vocabulary. If an existing method extracts the same useful information more reliably, the new method must explain what it adds. Conversely, resemblance to compression does not alone settle whether a carefully defined measurement has an empirical use. The contest belongs in explicit definitions, reproducible calculations, and tests against alternatives.
+
+One good experiment would not ask only whether a measure distinguishes a convenient collection of known biological and nonbiological samples. It would ask how the distinction performs when the samples are difficult: altered biological material, unusual abiotic chemistry, contamination, incomplete detection, and mixtures. Training a rule on easy cases and announcing that it has recognized life would confuse familiarity with discovery.
+
+Another test concerns the instruments themselves. An instrument does not return the world without mediation. It separates, transforms, and detects material in particular ways. Some objects become visible; others do not. If an estimate of assembly depends on a pattern of fragments, the relationship between that pattern and the proposed index needs calibration. If abundance is estimated from signal strength, the conversion from signal to number needs its own justification. The analytical apparatus becomes part of the explanation of the evidence.
+
+A third test asks how the result changes when the object is defined differently. Is a damaged molecule counted as another copy? How similar must two molecules be? Does the analysis count individual instances or a family of structures? There may be good answers for a particular study. The danger comes from letting “copy” slide between meanings while keeping the apparent precision of the number.
+
+These are not reasons to abandon the question. They are what it takes to make the question scientific. A surprising measurement becomes useful when its vulnerability is understood: the situations in which it can be fooled, the observations that would weaken it, and the rival method against which it should be compared.
+
+The broader lesson does not require assembly theory to win every dispute. History can leave structure in the distribution of present objects. Repeated construction can be investigated through its products. But no single score can remove the need to identify the processes that connect a past to its traces.
+
+Historical consequence depends partly on recurrence. An elaborate structure that remains unique has a different historical position from one reproduced across a planet. This is a valuable intuition, provided we do not make one word perform the work of several measurements.
+
+Suppose two hypothetical vats contain the same number of molecules of interest. In one vat, production and destruction are both rapid. In the other, the molecules were made long ago and barely change. A snapshot of abundance cannot distinguish them. Yet the systems have different dependencies. Interrupt production in the first and the stock disappears quickly. Interrupt it in the second and almost nothing immediately happens.
+
+For a fixed accounting boundary, the change in a stock is the number added minus the number lost. If objects cross the boundary, their arrivals and departures must also be counted. This elementary bookkeeping separates copy number from production rate. It also prevents an abundant object from being automatically credited with a highly active reproductive process. Abundance can result from longevity.
+
+Now consider two hypothetical catalysts, one scarce and effective, the other abundant and inactive. Counting molecules alone will not tell us which controls the reaction we care about. Or consider two tools, each produced in equal numbers, one used all day and the other left in storage. The frequency of the relevant operation differs even when copy number does not.
+
+Spatial reach adds another distinction. A million copies concentrated in one protected place and a million copies distributed across many environments face different risks and create different effects. Distribution can buffer local loss, but it can also increase transport costs and expose more of the system to hazards. There is no universal verdict hidden in “more widespread.” We need to know what the distribution enables and what it requires.
+
+The same care is needed with lifetime. A long-lived object may survive because it is robust, because it is sheltered, or because other processes continually repair it. These are different achievements. A bridge that remains in service through repeated inspection and replacement of parts is not simply a lump of enduring material. Its continuity includes an organization. The bridge may be replaced rarely precisely because maintenance happens often.
+
+This bridge exposes a weakness in any account that treats rapid multiplication as the sole mark of historical importance. A community may need one crossing, reliably available, rather than many bridges produced and discarded. Its significance lies in the journeys it permits and the activities that depend on those journeys. More frequent replacement could be a sign of failure.
+
+Even this is a conditional judgment. A second crossing may provide resilience or access for a previously excluded settlement. There is no single number called success waiting behind all these examples. There are stocks, rates, uses, dependencies, and values, connected by mechanisms that have to be described.
+
+An evolutionary biologist can ask about reproductive success in a specified population and environment. An engineer can ask about service delivered over a specified lifetime. A historian can ask how an institution extends its reach. These questions may illuminate one another without sharing a common unit. A theory that translates all of them into an undefined frequency has made comparison easier by throwing away the differences it needed to explain.
+
+Energy belongs beside these measurements, not in place of them. A process may consume energy rapidly while producing little of value to its continuation. Another may persist by sharply reducing its maintenance requirement. To understand either, we must identify the usable energy pathway, the costs of maintaining it, and what its operation makes possible.
+
+Imagine a workshop comparing two ways to make the same part. One method produces twice as many parts per hour but requires three times as much power and frequent tool replacement. The other is slower, uses less power, and fits the available supply. Which will spread depends on demand, capital, energy prices, skills, maintenance, and the cost of waiting. A measure of hourly output does not contain all these conditions. Neither does a measure of energy per part.
+
+Time becomes important here as a relation among operations. If the part must pass through a slow curing stage after manufacture, doubling the speed of cutting may only enlarge the queue. If a rare material arrives monthly, faster machinery cannot turn an absent shipment into stock. If a design becomes obsolete before the equipment is paid for, a productive technique can fail to reproduce itself economically while working perfectly mechanically.
+
+This is the book's proposed extension beyond molecular assembly. An object becomes historically consequential through the organized processes that make it, maintain it, use it, distribute it, and sometimes make further copies. Construction is one question. Continuation is another. We need both.
+
+The extension should not be mistaken for a theorem supplied by assembly theory. A molecular index has a defined domain. Moving to a factory or an institution requires new definitions and evidence. We cannot assign a social organization an impressive assembly number and assume that its political history has been explained. What carries across is a question about retained capabilities, not an automatic measurement procedure.
+
+Retention can take many forms. A template makes one arrangement easier to reproduce. A durable tool preserves the result of earlier labor. A learned practice preserves a sequence of actions. A written specification allows people separated in time and place to attempt comparable work. Each reduces the need to rediscover some portion of a process, while each can fail in its own way.
+
+A template may be damaged. A tool may wear out. A practice may disappear when its practitioners die or are displaced. A specification may omit the tacit skill necessary to interpret it. Information is not useful simply because a symbol remains. It must be recoverable and actionable within a continuing material setting.
+
+This point changes how we imagine historical accumulation. The past is not a warehouse whose contents are automatically available to the future. Some inheritances must be renewed to remain inheritances at all. Others persist but lose their use when their supporting arrangements disappear. A spare part for a machine no one can repair is physically present and practically stranded.
+
+Conversely, an old object can acquire a new use when its surroundings change. A substance dismissed as waste may become a feedstock. A component invented for one task may become useful in another assembly. The history of possibility includes this changing relation between existing things. It cannot be read from a list of objects alone.
+
+The unfamiliar sample now looks different. We began by seeking a sign that life had existed. We have reached a family of questions about processes: What can make this object? What channels production toward it? What preserves the capacity to do so? How much of it is produced, how long does it last, and what does its presence enable next?
+
+A successful answer would have to be narrower than the grandest philosophical interpretation. It might identify a plausible production pathway, exclude several alternatives, or establish a statistical distinction that holds under tested conditions. Science often advances by making precisely that kind of limited gain. The ambition to connect histories should make us more interested in the details that discriminate among explanations.
+
+There is also a limit that the sample cannot remove. Repeated products may suggest an organized source, but their recurrence does not by itself explain how that source began. The earliest stages of an organization may differ sharply from the mature process we observe. A system capable of reproducing its own components cannot simply be placed at the beginning of an account of how that capacity emerged.
+
+To investigate that transition, we need a world with flows of matter and energy, with compartments and reactions, with structures that persist long enough to alter what happens next. We need to distinguish mere endurance from active maintenance and active maintenance from inherited reproduction. We need to ask how the products of activity become conditions for more activity.
+
+The next chapter turns from an unfamiliar sample to the planet on which all known life has been found. Earth gives us something the imagined sample withheld: an extended, imperfectly recoverable history. Its atmosphere, rocks, organisms, and experiments contain traces of environments transformed by the processes occurring within them.
+
+A copy directs us toward a maker. A living world asks how the making continues.
+
+## Chapter notes
+
+1. Sharma et al., “Assembly theory explains and quantifies selection and evolution” (2023), [Nature](https://www.nature.com/articles/s41586-023-06600-9), with an [author preprint](https://arxiv.org/abs/2206.02279). The tile game and workshop examples above are original illustrations, not descriptions of the molecular measurement procedure. See [S02](sources.md#s02).
+
+2. Uthamacumaran et al., “On the salient limitations of the methods of assembly theory and their classification of molecular biosignatures” (2024), [npj Systems Biology and Applications](https://www.nature.com/articles/s41540-024-00403-y). Its compression and classification objections are reported as criticisms, not as an independently settled verdict. See [S32](sources.md#s32).

@@ -12,7 +12,7 @@
 
 **Reader and voice:** Write for a curious general reader who wants a connected argument and can follow technical distinctions when they are explained through examples. Use short original aphorisms as moments of compression. Build the surrounding narrative through scenes, mechanisms, objections, and consequences. Avoid invented dialogue, hindsight inevitability, and the lone-genius account of invention.
 
-**Working length:** approximately 65,000–80,000 words when fully drafted. The prologue and chapters 1 and 2 are complete first drafts; later scene development and revision can alter individual lengths. Chapters 3–12 and the epilogue contain writing plans rather than completed prose.
+**Draft status and length:** the prologue, all twelve chapters, and epilogue are complete first drafts, totaling approximately 39,290 words before notes. The original 65,000–80,000-word ambition and chapter targets below are retained as longer-revision goals, not as lengths already achieved. `README.md` records actual counts. The architecture below remains a guide to argument, coverage, and revision.
 
 ## Recurring questions
 
@@ -66,7 +66,7 @@ Confront fine-tuning directly, especially the cosmological constant. Ask whether
 
 ### 3. The Signature of Life
 
-**File:** `chapter3`. **Target:** 4,500–5,500 words. **Ideas:** I08–I09, I15. **Research:** S02; independent methodological critiques still needed.
+**File:** `chapter3`. **Status:** complete first draft. **Target:** 4,500–5,500 words. **Ideas:** I08–I09, I15. **Research:** S02, S32; the draft includes an independent critique and explicit validation questions.
 
 Open with a hypothetical unfamiliar chemical sample and the difficulty of recognizing life without familiar anatomy. Introduce Cronin, Walker, and the collaborative research program through its actual question and definitions. Explain assembly index using a deliberately simple construction analogy, then identify the assumptions that make the measure meaningful.
 
@@ -80,7 +80,7 @@ Develop the book's broader concern with abundance, production rate, loss, lifeti
 
 ### 4. The Planet That Life Made
 
-**File:** `chapter4`. **Target:** 5,500–6,500 words. **Ideas:** I07, I12–I14, I33, I41–I42. **Research:** S03, S07, S19 plus planetary and oxygenation research.
+**File:** `chapter4`. **Status:** complete first draft. **Target:** 5,500–6,500 words. **Ideas:** I07, I12–I14, I33, I41–I42. **Research:** S03, S07, S19, S33–S34, S55.
 
 Trace a material inheritance from early elements through stellar processes, enriched planetary material, and Earth's formation. Keep different nucleosynthetic pathways distinct and avoid claiming that our star was among the first possible homes for life.
 
@@ -98,7 +98,7 @@ Four productive transformations show how material capabilities spread through or
 
 ### 5. The Grain That Built a World
 
-**File:** `chapter5`. **Target:** 5,500–6,500 words. **Ideas:** I16, I24–I25, I34–I35. **Research:** S12–S13, S16 and agricultural archaeology.
+**File:** `chapter5`. **Status:** complete first draft. **Target:** 5,500–6,500 words. **Ideas:** I16, I24–I25, I34–I35. **Research:** S12–S13, S16, S35.
 
 Begin with stored grain and the question of who can use it before the next harvest. Reconstruct cultivation, storage, maintenance, and transmission of knowledge as one system. Compare increased population-supporting capacity with labor burdens, health, and uneven access; do not treat agriculture as universal improvement for each participant.
 
@@ -112,7 +112,7 @@ Follow surplus into coordination, accounting, protection, and appropriation. Ins
 
 ### 6. The Machine That Drank Coal
 
-**File:** `chapter6`. **Target:** 6,000–7,000 words. **Ideas:** I05–I07, I10–I11, I17. **Research:** S04 and specialist industrial/military histories.
+**File:** `chapter6`. **Status:** complete first draft. **Target:** 6,000–7,000 words. **Ideas:** I05–I07, I10–I11, I17. **Research:** S04, S36–S38.
 
 Open with the material problem of mine drainage. Establish the conditions under which an inefficient early engine could nonetheless do valuable work. Move through Newcomen and Watt as episodes within an engineering and commercial system, not a pair of isolated acts of genius.
 
@@ -126,7 +126,7 @@ Trace the coal-engine loop through mining, repair, transport, investment, and sk
 
 ### 7. Bread from the Air
 
-**File:** `chapter7`. **Target:** 4,500–5,500 words. **Ideas:** I07, I18, I29, I41–I42. **Research:** S17 and independent nitrogen histories.
+**File:** `chapter7`. **Status:** complete first draft. **Target:** 4,500–5,500 words. **Ideas:** I07, I18, I29, I41–I42. **Research:** S17, S39–S40.
 
 Begin with the distinction between atmospheric nitrogen and nitrogen available to crops. Establish the existing agricultural methods, trade, and constraints before introducing industrial synthesis. The scarcity has a history; it is not simply humanity forgetting to look upward.
 
@@ -140,7 +140,7 @@ Trace the effects on agriculture and the resulting dependencies. Food production
 
 ### 8. The Factory That Assembled Itself
 
-**File:** `chapter8`. **Target:** 5,000–6,000 words. **Ideas:** I09, I19, I21, I28, I43. **Research:** industrial labor, Arkwright, electrification, and automation histories.
+**File:** `chapter8`. **Status:** complete first draft. **Target:** 5,000–6,000 words. **Ideas:** I09, I19, I21, I28, I43. **Research:** S41–S42; automation examples are explicitly illustrative.
 
 Open with a shared power source and a work schedule. Explain why concentrating operations could make sense under particular technical and commercial conditions. Machinery, labor discipline, ownership, finance, and maintenance must appear together.
 
@@ -158,7 +158,7 @@ Make the theory of social reproduction explicit, test it against material confli
 
 ### 9. The Relationships Behind the Machine
 
-**File:** `chapter9`. **Target:** 6,000–7,000 words. **Ideas:** I20–I26, I36. **Research:** S09–S11 plus primary social theory and economic history.
+**File:** `chapter9`. **Status:** complete first draft. **Target:** 6,000–7,000 words. **Ideas:** I20–I26, I36. **Research:** S09–S11, S33, S43–S45.
 
 Open with an object whose physical properties do not explain who controls it: a deed, machine, or payment. Introduce commodity fetishism, productive forces, and relations of production. Follow enclosure and the cotton gin as distinct histories requiring their own evidence, including dispossession and resistance.
 
@@ -172,7 +172,7 @@ Stage the Marx–Luhmann–cybernetics synthesis around a concrete wage or payme
 
 ### 10. The House That Could Not Get Cheaper
 
-**File:** `chapter10`. **Target:** 5,500–6,500 words. **Ideas:** I10, I25–I30. **Research:** S11, S18 and jurisdiction-specific economic evidence.
+**File:** `chapter10`. **Status:** complete first draft. **Target:** 5,500–6,500 words. **Ideas:** I10, I25–I30. **Research:** S11, S18, S46–S48; U.S. crises and explicitly hypothetical arithmetic examples.
 
 Begin with a household need and a balance-sheet dependency attached to the same dwelling. Separate shelter, rent, collateral, and asset appreciation. Trace the actors and feedbacks that can make affordability conflict with financial stability.
 
@@ -188,13 +188,13 @@ Extend the issue to health, ecology, and energy. GLP-1 medicines frame a bounded
 
 ### 11. The Machine That Was Everyone
 
-**File:** `chapter11`. **Target:** 6,500–7,500 words. **Ideas:** I23, I28, I31, I34–I40, I43. **Research:** S12–S15 and cognition/AI research.
+**File:** `chapter11`. **Status:** complete first draft. **Target:** 6,500–7,500 words. **Ideas:** I23, I28, I31, I34–I40, I43. **Research:** S12, S14–S15, S31, S49–S54.
 
 Begin with a capability no single person could reproduce alone. Move from infant language and learned representations to social learning, the collective brain, and the infrastructure of stored knowledge. Distinguish representations in brains, tools, texts, and machine embeddings.
 
 Explore costly brains, cooperation, conformity, and self-domestication as distinct questions. Chimpanzee cooperation prevents a false human/nonhuman absolute. Preserve uncertainty around human biological hypotheses and reject unsupported racial-IQ conclusions. Explain how peace can be enforced without reducing every cooperative act to coercion.
 
-Distinguish world-models, functional self-models, and subjective experience. Bring the intelligibility question into dialogue with Newton and mind only after verifying attributions. Introduce material forms and alternating search between representations and physical tests.
+Distinguish world-models, functional self-models, and subjective experience. Develop intelligibility and physical accounts of mind in original prose; Newton and other fragmentary attributions remain unused. Introduce material forms and alternating search between representations and physical tests.
 
 Then develop general intellect and AI's possible productive feedback with energy and industry. Follow a design through validation, manufacture, and deployment. Account for inference, construction, and institutional rates. Analyze ownership and distribution; cheap services do not automatically yield universal abundance or UBI.
 
@@ -204,7 +204,7 @@ Then develop general intellect and AI's possible productive feedback with energy
 
 ### 12. The World That Builds Itself
 
-**File:** `chapter12`. **Target:** 5,000–6,000 words. **Ideas:** I01–I04, I07–I11, I30–I33, I41–I45. **Research:** all established chapter evidence; no new unsupported universal law.
+**File:** `chapter12`. **Status:** complete first draft. **Target:** 5,000–6,000 words. **Ideas:** I01–I04, I07–I11, I30–I33, I41–I45. **Research:** all established chapter evidence; no new unsupported universal law.
 
 Return to the constrained square, the inaccessible resource, and the organization that repeats. Compare stellar succession, biological reproduction, technological replication, and institutional persistence in a table that states differences as clearly as resemblances.
 
@@ -220,14 +220,14 @@ Return to fine-tuning, time, effective laws, and dimensions. Distinguish a serio
 
 ## Epilogue — The Square We Leave Open
 
-**File:** `epilogue`. **Target:** 1,000–1,500 words. **Status:** outline.
+**File:** `epilogue`. **Target:** 1,000–1,500 words. **Status:** complete first draft.
 
 Return to the prologue's machine and show its dependencies now carrying histories of stars, organisms, labor, institutions, and knowledge. Ask what it will help reproduce: a capacity to maintain shared conditions, an entrenched arrangement, or some mixture that requires deliberate correction.
 
 End with a human-scale choice about inheritance and continuation. The book has argued for material conditions of possibility, not a final destination of history. Leave one square open as an image of the future's unresolved organization, while respecting the earlier warning that reality has no prewritten puzzle solution.
 
-## Editorial boundaries and next drafting order
+## Editorial boundaries and revision priorities
 
-The full idea inventory and note coverage are in `ideas`; verified links and unresolved research are in `sources.md`. Draft chapters 3–4 next to extend the technical foundation established in chapter 2, then 5–8 to test the historical mechanism, then 9–12 to develop the synthesis. Draft the epilogue in full after the central argument has survived that process, and revisit the prologue to reflect the completed argument.
+The full idea inventory and note coverage are in `ideas`; verified links and remaining research leads are in `sources.md`. The complete first draft follows the sequence from technical foundations through productive histories to the social synthesis. Revision should deepen selected historical cases and rival explanations, reduce repeated qualifications, and balance chapter lengths toward the original targets. The epilogue now returns to the prologue's explicitly imagined machine through a human-scale repair scenario. No additional drafting placeholders remain in the manuscript files.
 
 Keep historical scenes connected across chapters but avoid retelling them. Steam is previewed in chapter 1 and narrated in chapter 6; the factory is narrated in chapter 8 and interpreted socially in chapter 9; AI is posed in the prologue and evaluated in chapter 11. Preserve the source notes verbatim, and revise developed claims when evidence requires it.

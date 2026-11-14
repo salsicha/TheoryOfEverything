@@ -1,27 +1,109 @@
 # Chapter 4 — The Planet That Life Made
 
-**Status:** detailed outline. **Target:** 5,500–6,500 words.
-
 *The environment of tomorrow includes the consequences of being alive today.*
 
-## Chapter purpose
+A living cell contains an inheritance it cannot remember. Its carbon, oxygen, phosphorus, and iron were not created by the cell, nor by its ancestors. Before there were organisms capable of using those elements, physical processes had to make them available. Before there could be a history of life, there had to be a history of its materials.
 
-Show how earlier structures transform the materials and environments available to later ones. Use the biological evidence to make the energy-access hypothesis concrete, while keeping cosmic succession, biological reproduction, and ecological transformation distinct.
+The early universe supplied mostly hydrogen and helium, with small amounts of other light nuclei. Later stellar processes made a wider chemical repertoire. Different elements came through different pathways: fusion inside stars, processes during stellar explosions, and neutron capture in environments that include the aftermath of collisions involving neutron stars. Material dispersed from earlier systems could become part of later stars and planets.[1]
 
-## Narrative and argument
+This is an inheritance without a testament. No earlier star needed to anticipate a cell. Its activities changed the material available for other processes. What later became useful was not necessarily produced for that use.
 
-1. **Before the ingredients.** Begin with the material requirements of a living cell and trace them backward. Introduce the early abundance of hydrogen and helium, stellar formation, and the production and dispersal of heavier elements. Distinguish relevant pathways rather than assigning every element to ordinary stellar fusion. [S19](sources.md#s19) provides orientation; primary research is still needed.
-2. **A planet inherits possibilities.** Move to Earth's formation, chemistry, and energy sources. State the limits of origin-of-life knowledge. Avoid a narrative in which cosmic history was preparing a place for human beings or the Sun was demonstrably among the first habitable stars.
-3. **The boundary that must be maintained.** Introduce biological autopoiesis through an organism's ongoing production and repair. Compare maintaining a boundary with merely possessing one. Explain why feedback alone does not make a thermostat alive.
-4. **Life changes the terms of survival.** Develop photosynthesis and oxygenation as a transformation with beneficiaries and casualties. Track energy capture and altered chemistry without calling the resulting environment universally better. Verify chronology and the relation among oxygen production, sinks, and atmospheric accumulation.
-5. **The resource in the flask.** Make the long-term E. coli experiment the close, evidence-led scene. Explain the experimental environment and aerobic citrate innovation only to the level supported by the papers. Distinguish historical preconditions from the key change and subsequent refinement. Use [S03](sources.md#s03); no invented laboratory dialogue.
-6. **What historical contingency explains.** Show how a capability changes the practical meaning of an available resource. Present evolutionary mechanisms accurately and ask what additional questions the assembly framework contributes. Do not set up evolution as uniform random sampling.
-7. **The loop and its failures.** Lay out access, reproduction, environmental change, and new opportunity. Add cases or explicit possibilities of lower maintenance costs, resource depletion, and unsuccessful innovation. More energy flow is neither a necessary nor sufficient measure of fitness in every setting.
+The distinction prevents a beautiful story from becoming a false explanation. Stars do not reproduce as organisms do. A later star is not a descendant carrying a genome copied from an earlier star. There are physical continuities, including the reuse of enriched material, but they operate through different mechanisms. We can investigate how one generation of physical structures changes the possibilities of another without granting every structure a biological life cycle.
 
-## Evidence and objections
+Nor does the story place the Sun at a privileged beginning of habitability. The conditions for potentially habitable planets are a separate scientific problem. Our location in the history does not tell us when every relevant possibility first arose. What matters here is more modest: the chemical possibilities of the Solar System depended on processes older than the system itself.
 
-Add primary planetary and oxygenation work, origin-of-life reviews with clear uncertainty, and original autopoiesis texts. Define the system boundary before using thermodynamic language. The second law does not establish universal maximum entropy production; distinguish the proposals in [S07](sources.md#s07) from ordinary energy accounting.
+When we look at a cell, we see those possibilities reorganized. The elements have become components of membranes, enzymes, and molecules that store and transmit hereditary information. Their chemical properties remain necessary, but a list of them does not explain the organization they sustain. The same elements can exist in a dead cell. Life involves their participation in continuing processes.
 
-## Continuity
+Imagine, as a conceptual comparison, a chamber containing all the necessary molecular ingredients in the wrong places and concentrations. The inventory could be impressive. Yet an inventory does not by itself transport a substance across a membrane, couple a favorable reaction to an unfavorable one, repair a damaged component, or reproduce an inherited arrangement. Organization concerns which processes enable which others, and under what conditions their relationships continue.
 
-Draw on ideas I07 and I12–I14, I33, I41–I42. The concluding movement shifts from inherited biological capability to socially transmitted practice. Human beings will also transform the conditions they inherit, but their additional machinery includes language, learned skills, and organized labor. Chapter 5 begins at the granary.
+This does not make organization an additional immaterial substance. It makes relationships among material processes part of what must be explained. A membrane is a physical structure; its selective permeability changes the environment in which reactions occur. Reactions can in turn help produce and maintain the membrane. Neither side alone describes the loop.
+
+Francisco Varela, Humberto Maturana, and Ricardo Uribe used the term autopoiesis to characterize such an organization of self-production. In their formulation, a network of processes produces components that regenerate the network and constitute its unity. Their concern was the maintenance of a living organization, which they distinguished from the separate fact that an organism might reproduce.[2]
+
+That distinction is useful. A living individual does not stop being alive because it is not producing offspring. It must nevertheless maintain conditions under which its own activity can continue. Reproduction extends a lineage; maintenance sustains a particular organized process. The two are related without being identical.
+
+A thermostat also participates in a feedback loop, but it does not thereby become an organism. It can regulate a temperature while its sensor, wiring, and power source are manufactured and maintained elsewhere. Feedback is a broader category than biological self-production. Calling a device self-regulating tells us something about its behavior; it does not establish that the device regenerates the organization making that behavior possible.
+
+Even a cell is not independent. It needs suitable exchanges with an environment. Its boundary is a condition of organized dependence, not an escape from dependence. The word “self” can mislead if it conjures a little sovereign entity manufacturing itself out of nothing. Living maintenance is materially open, energetically supplied, and vulnerable to the loss of necessary conditions.
+
+This also leaves the origin of life unresolved. Describing how an established cell maintains itself is not a demonstration of how the first such organizations arose. An account of that origin must investigate pathways from earlier chemistry, including intermediate processes that need not have possessed every feature of modern cells. It cannot use the finished cell to smuggle its own starting conditions into existence.
+
+Our argument does not require pretending that this difficult transition has already been reconstructed. It requires recognizing what changed when organizations capable of inherited biological reproduction began altering their surroundings. The environment was no longer only a condition of activity. It increasingly contained the accumulated consequences of activity.
+
+Photosynthesis provides a planetary example. In oxygenic photosynthesis, organisms use light in a process that draws electrons from water and releases oxygen. But the presence of oxygen-producing organisms is not equivalent to a modern oxygen-rich atmosphere. Oxygen can react with other substances and be consumed. Accumulation depends on the relation between sources and sinks, not simply on whether production has begun.
+
+The geological problem is therefore historical. Researchers use traces preserved in rocks to reconstruct changing atmospheric and oceanic conditions. Sulfur isotopes are among those traces: their patterns can preserve evidence about atmospheric chemistry under very low oxygen conditions.[3] Work on the timing of the Great Oxidation Event places a major transformation roughly 2.4 billion years ago, while also examining its extended and uneven course.[4] A dated transition is not a claim that every part of the planet changed at once.
+
+This is another stock-and-flow problem, but one with chemical feedbacks. Production alone does not determine the atmospheric stock. The substances available to react with oxygen, their exposure, biological activity, and geological processes all matter. A source can operate for a long time before the balance permits a conspicuous accumulation. Conversely, a change in a sink can alter the atmosphere without requiring an equivalent sudden change in production.
+
+That logic is worth dwelling on because it resists the temptation to make every transformation the result of one breakthrough. A new capability can be necessary and still insufficient. Its consequences depend on the rest of the system. The same process can have small effects in one setting and reorganizing effects in another.
+
+Oxygenation also makes it impossible to treat environmental improvement as a neutral phrase. Oxygen supports forms of metabolism familiar to us. It can also damage organisms unable to tolerate its chemistry. A world becoming more hospitable to one way of living can become less hospitable to another. The environment is not climbing a ladder toward a universally better condition. Its changing composition redistributes possibilities.
+
+The philosophical consequence is larger than the atmospheric example. Adaptation does not occur against a backdrop that must remain fixed. Organisms alter chemical conditions, modify surfaces, consume resources, and produce substances used by other organisms. Their descendants encounter a world partly changed by these activities. Selection and environmental construction can therefore be connected in feedback, even when no participant intends the eventual result.
+
+An environment made by life is not necessarily an environment controlled by life. Consequences can exceed the capacities of the organisms that produce them. Feedback can stabilize some relationships and destabilize others. The fact that an activity has continued for a long time is no guarantee that its accumulated effects will remain compatible with its continuation.
+
+The same care is required when we describe life thermodynamically. An organism can maintain local organization while exchanging matter and energy with its surroundings and contributing to entropy production. There is no contradiction between a cell's continuing order and the second law. The relevant accounting includes the larger system, not merely the selected structure we admire.
+
+But compatibility with the second law does not show that evolution maximizes entropy production. Maximum-entropy-production proposals require further assumptions and have contested domains of application.[5] We cannot turn the fact that activity dissipates usable energy into a universal prediction that organisms will always dissipate it as rapidly as possible. The rate, pathway, and consequences must be investigated.
+
+A hypothetical organism that spends energy faster than it can replenish its supplies has not secured an evolutionary advantage. One that reduces its maintenance costs may persist where a more demanding competitor cannot. Another may profit from a previously inaccessible resource and expand. These possibilities differ. Their common requirement is a workable relation among access, expenditure, maintenance, and reproduction.
+
+A laboratory experiment allows us to see one such relation with unusual precision. In 1988, Richard Lenski's long-term evolution experiment began with twelve populations of *Escherichia coli*. The growth medium limited glucose but also contained citrate. Under the experiment's oxygenated conditions, the ancestral bacteria could not use that citrate as a carbon source. By approximately 31,500 generations, a citrate-using variant had appeared in one population. The researchers could compare this change with earlier samples preserved from the experiment.[6]
+
+The resource had been present before the new capacity. Its mere presence did not make it available to the ancestral lineage. “Available” had two meanings: detectable in the medium and accessible through the organism's existing machinery. The innovation changed the relation between them.
+
+The archived samples made history experimentally approachable. Researchers could restart populations from earlier points and ask whether the later capacity arose with equal ease from different ancestral states. The results supported a role for historical preconditions in the lineage that acquired citrate use. The opportunity was not equally accessible from every starting point.[6]
+
+Later work investigated the distinction between the initial capacity and its improvement. Quandt and colleagues identified a mutation increasing expression of another transporter, DctA, that substantially improved citrate use. Reconstructing the relevant transporter changes also showed that earlier mutations were not all indispensable to the final, refined capacity. Historical conditions could matter by allowing an initially weak innovation to persist long enough for improvement, rather than by remaining necessary components of its eventual form.[7] A new door can open only partway. Subsequent changes can make passage through it more effective.
+
+This gives us three questions that are often compressed into the word invention. What makes a change accessible? What first establishes the new function? What subsequently makes that function effective enough to transform the population's activity? The answers need not involve the same event.
+
+The experiment does not show that organisms choose useful mutations in anticipation of a resource. It shows that the consequences and accessibility of variation depend on inherited organization. A change that matters in one genetic background may have another effect, or no comparable effect, in another. History changes the neighborhood of possibilities.
+
+Nothing in this lesson overturns evolutionary biology. Mutation, selection, drift, ecological interaction, and historical contingency already belong to its explanatory resources. The assembly perspective earns its place only if it helps us connect these processes more clearly or ask additional testable questions. Renaming a familiar mechanism is not a discovery.
+
+For this book, the experiment's value is its concrete separation of resource from capability. It prevents us from picturing adaptation as an abstract desire for more energy. The bacteria needed a materially realizable route. Once a route existed, its population consequences still depended on costs, competition, and the supplied environment. The experimental system was maintained by people; its regular transfers and medium were not achievements of the bacteria themselves.
+
+That boundary matters. If we described the expanding population as entirely self-sustaining while omitting the laboratory, we would mistake a supported process for an autonomous world. The same error appears when a factory is said to produce itself while its workers, power, and suppliers vanish from the account. The relevant boundary depends on the question, but the excluded dependencies cannot be wished away.
+
+Nor should one innovation stand in for all evolution. Some successful changes open resources. Others improve repair, avoid hazards, reduce costs, alter interactions, or preserve a workable arrangement under changing conditions. Some lineages lose functions when those functions are costly and unnecessary in their environment. Complexity is not an obligation imposed on every survivor.
+
+A useful comparative program would therefore look for the conditions under which new access matters most. Was the resource genuinely limiting? Could another necessary input become the next constraint? Did the innovation increase descendants, persistence, or both? Did competitors gain access to its byproducts? Did the altered population change the environment in ways that later undermined its advantage?
+
+These questions make the energy argument stronger by giving it possible failures. If the newly accessible resource makes no difference because another requirement is absent, the proposed chain stops at a particular link. If the change spreads because it reduces a cost rather than increasing throughput, we should say so. A framework capable of recognizing only expansions will misread the many ways organisms continue.
+
+The most interesting histories involve a combination. Maintenance conserves a workable organization while variation changes some of its capacities. A new capacity alters the setting in which further variations occur. The lineage neither begins again from nothing nor simply executes an unchanging program. It inherits an organization that both enables and restricts its next steps.
+
+This is a material form of the dialectical relation introduced in chapter 1. A boundary permits a distinctive internal chemistry and limits exchange. A stable metabolism keeps an organism alive and constrains which changes can be tolerated. A successful population modifies its environment, which can then select against some of the arrangements that previously succeeded. The oppositions matter because identifiable processes connect them.
+
+We should be wary, however, of making the planet itself an organism merely because these loops exist. Earth contains interacting biological and geological processes. Some interactions can contribute to stability over a range of conditions. That does not establish a single planetary interest, reproductive unit, or purpose. A system can have feedback without having an intention, and an environment can sustain life without optimizing conditions for every living thing.
+
+The world that life made is therefore neither a prepared home nor a benevolent manager. It is an inheritance full of opportunities and hazards. Its atmosphere contains the consequences of earlier activity. Its living populations contain histories of variation and survival. Its present possibilities depend on both.
+
+The materialist commitment becomes specific here. An explanation of a living capability must connect it to realizable organization, energy pathways, environmental conditions, and a history that can be investigated. The commitment does not mean that every present organism can already be exhaustively explained. It means that gaps in our account are invitations to study these relationships, rather than evidence that organization floats free of matter.
+
+It also changes the image of a creature acting in the world. The creature is a continuation of processes older than itself, but it is not therefore causally idle. Its activity can transform conditions inherited by others. Dependence and efficacy coexist. To have been made by a world does not prevent something from helping remake that world.
+
+Humans participate in this history through biological inheritance. We also preserve and transmit practices through social learning. A person can acquire a way of preparing food, repairing a tool, or organizing a harvest without inheriting the practice in a DNA sequence. The learning still requires bodies, materials, and time. Its route of transmission changes what can accumulate and how quickly an inherited capacity can spread.
+
+That second inheritance does not abolish the first. It adds another set of relationships through which the environment of tomorrow is produced. A field contains selected plants and worked soil; it also contains the consequences of remembered seasons, shared skills, obligations, and decisions about who will eat the harvest.
+
+The next chapter begins where those relationships become tangible: with grain kept for a time when grain will no longer be growing.
+
+## Chapter notes
+
+1. NASA Science, [“Stars”](https://science.nasa.gov/universe/stars/), for the stellar context; Burbidge et al., [“Synthesis of the Elements in Stars”](https://doi.org/10.1103/RevModPhys.29.547) (1957), for stellar nucleosynthesis; Pian et al., [“Spectroscopic identification of r-process nucleosynthesis in a double neutron-star merger”](https://www.nature.com/articles/nature24298) (2017), for the merger pathway. See [S19](sources.md#s19) and [S55](sources.md#s55). The several physical pathways are distinguished from biological reproduction.
+
+2. Varela, Maturana, and Uribe, “Autopoiesis: The Organization of Living Systems, Its Characterization and a Model” (1974), [original paper](https://reflexus.org/wp-content/uploads/Varela_Maturana_Uribe_1974_Autopoiesis.pdf), especially the introduction and characterization of organization. See [S33](sources.md#s33).
+
+3. Farquhar, Bao, and Thiemens, “Atmospheric Influence of Earth's Earliest Sulfur Cycle” (2000), [abstract and bibliographic record](https://pubmed.ncbi.nlm.nih.gov/10926533/). See [S34](sources.md#s34).
+
+4. Gumsley et al., “Timing and tempo of the Great Oxidation Event” (2017), [PNAS](https://doi.org/10.1073/pnas.1608824114). The rounded date denotes a major transition, not an instantaneous global event. See [S34](sources.md#s34).
+
+5. Martyushev and Seleznev, [“The restrictions of the Maximum Entropy Production Principle”](https://arxiv.org/abs/1311.2068). See [S07](sources.md#s07).
+
+6. Blount, Borland, and Lenski, “Historical contingency and the evolution of a key innovation in an experimental population of *Escherichia coli*” (2008), [PNAS](https://doi.org/10.1073/pnas.0803151105). See [S03](sources.md#s03).
+
+7. Quandt et al., “Recursive genomewide recombination and sequencing reveals a key refinement step in the evolution of a metabolic innovation in *Escherichia coli*” (2014), [PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC3926077/). The discussion separates refinement from the initial acquisition of the trait. See [S03](sources.md#s03).

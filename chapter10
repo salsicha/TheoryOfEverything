@@ -1,28 +1,115 @@
 # Chapter 10 — The House That Could Not Get Cheaper
 
-**Status:** detailed outline. **Target:** 5,500–6,500 words.
-
 *A society can become dependent on the price of what its members cannot afford.*
 
-## Chapter purpose
+Imagine a house purchased for $300,000 with $60,000 in savings and a $240,000 mortgage. These figures are invented for the example. Ignore transaction costs, interest already paid, and changes in the remaining loan balance. If the house's market price falls to $250,000, the owner's equity falls from $60,000 to $10,000. If it falls to $220,000, the debt exceeds the estimated sale value by $20,000.
 
-Explain the stability trap through the conflict between physical provision and financial reproduction. Develop the notes' defense of capitalism's practical achievements alongside their critique of its dependencies, then ask what a system capable of investing in shared conditions would require.
+No room has disappeared. The roof may be just as sound. The house can supply the same shelter while the financial position of its owner changes dramatically.
 
-## Narrative and argument
+For someone trying to buy a first home, the lower price may be welcome. But even that benefit depends on income, borrowing conditions, and the ability to make a down payment. A price decline during a credit contraction can make a house cheaper and a purchase harder at the same time.
 
-1. **One house, several interests.** Use an explicitly illustrative household example until a reported case is selected. Separate shelter, rent, equity, mortgage debt, and collateral. A change in price reallocates claims without necessarily adding a room or improving the roof.
-2. **The balance sheets hold one another up.** Map households, lenders, construction, government revenue, and financial stability in a chosen jurisdiction. Identify a reinforcing loop and a possible balancing response. Avoid saying that everyone benefits from high prices or that lower prices have only one effect.
-3. **Productive capacity without production.** Research the Great Depression and 2008 as comparisons. Trace particular financial mechanisms that prevented workers and resources from being used. The claim is not that finance is unreal; it is that socially maintained claims can control material activity.
-4. **A government's several obligations.** Explain debt service and interest within an explicit monetary regime and date range. Examine distributional conflict and political legitimacy. Do not treat a currency-issuing government as simply a large household or imply that debt has identical effects everywhere.
-5. **The promise of jobs and cheap goods.** Take the notes' functional defense of capitalism seriously. Then identify public infrastructure, bargaining, regulation, household work, and collective provision that contribute to delivery. Test the claims of automatic balance and the redundancy of unions rather than repeating them.
-6. **Who gets to try an idea?** Explain equity finance, primary issuance versus secondary trading, risk pooling, and distributed experimentation. Compare central, distributed, and hybrid allocation through diversity, coordination, correlated failure, and neglected benefits. Parallel search is useful under conditions, not inherently optimal.
-7. **Investing in the conditions of life.** Discuss health, ecology, and affordable energy as productive and social prerequisites. Use GLP-1 treatment only as a bounded example of the difference between clinical benefit, access, and system cost; [S18](sources.md#s18) does not justify universal prescriptions or replacing healthcare with prevention.
-8. **Correction before catastrophe.** Compare reform, public investment, ownership changes, and collapse as different pathways. A proposed successor system must specify information, incentives, authority, and accountability. Growth does not guarantee liberalism, and contraction does not mechanically produce dictatorship.
+This is the stability trap in a familiar form. Society needs housing to be accessible. Many households and institutions also depend on the value of existing housing claims. A physical improvement in provision and a favorable movement in asset prices are not the same event.
 
-## Evidence and objections
+We need to separate several uses. A house provides shelter. An owner may receive rent or occupy it directly. A lender may rely on it as collateral. A household may plan retirement around its sale value. A local government may draw revenue from property taxation under a particular set of rules. Construction firms depend on the demand for new buildings. These relationships can reinforce one another without benefiting everyone equally.
 
-Use [S11](sources.md#s11), official dated economic data, and primary crisis investigations. Select a jurisdiction before adding rates, prices, or policy claims. Show how an affordability improvement could be organized without treating all incumbent losses as illegitimate or allowing incumbent claims to veto every change. Do not promise a predetermined abundant future after ecological transition.
+An owner who expects to sell and buy another house in the same market may gain less from a general price rise than the headline value of the existing home suggests. A renter may face rising costs without acquiring an asset. A heavily indebted buyer may be vulnerable to a price fall that an owner without debt can absorb. “Homeowners” and “the housing market” are not single interests.
 
-## Continuity
+The relationships can nevertheless form a reinforcing loop. In an illustrative boom, expectations of higher prices encourage borrowing. Credit supports purchases, purchases support prices, and rising collateral values can encourage further lending. Participants can interpret the resulting prices as confirmation that the original expectations were sound. The evidence they observe is partly an effect of the behavior it encourages.
 
-Use ideas I10 and I25–I30. Close by identifying allocation's dependence on knowledge: systems must sense conditions, compare proposals, and act on feedback. Chapter 11 examines how those abilities are assembled in minds, institutions, and machines.
+The loop can reverse. Falling prices weaken collateral and equity. Lenders become cautious. Reduced credit limits purchases. Distressed sales can put further pressure on prices. None of these movements requires the housing stock to become physically less useful at the same rate. Claims and the provision they organize can move differently.
+
+The United States financial crisis of 2007–2009 supplies a historical case, though it cannot be reduced to one housing feedback. The Financial Crisis Inquiry Commission's majority report identified failures of regulation and supervision, corporate governance and risk management, excessive borrowing, deteriorating mortgage standards, and weaknesses in the handling of complex financial products. The published report includes dissenting views, which disagree about causal emphasis.[1]
+
+The report matters here because it connects failures across organizations. Mortgages could be originated, pooled into securities, financed, rated, sold, and held by different participants. Risk did not disappear because it had changed form or location. Dependence on continued funding could make institutions vulnerable when confidence in assets and counterparties deteriorated.
+
+A simple hypothetical balance sheet helps explain the amplification. An institution with assets of 100, debt of 95, and equity of 5 has a thin cushion. A loss of 5 in asset value exhausts that equity before any further loss is absorbed elsewhere. If it must sell assets quickly to meet obligations, its own sales may contribute to lower prices. Leverage changes how a modest movement in asset values affects the capacity to continue.
+
+The arithmetic alone does not explain the crisis. We must identify which assets lost value, how they were financed, which obligations came due, and why institutions could not replace funding or absorb losses. The point of the example is to show one mechanism through which an apparently local problem can become a wider constraint.
+
+Finance is not unreal in this account. Payments, credit, and commitments coordinate production across time. Their disruption can prevent useful activity even when many workers, buildings, and machines remain. A manufacturer may lose working capital; a household may lose income; customers may cut purchases; an otherwise viable supplier may fail because its customers cannot pay.
+
+The Great Depression offers a different historical comparison. U.S. banking panics in the early 1930s, monetary contraction, and the constraints of the international gold standard participated in a much wider breakdown. Federal Reserve historical accounts describe both the panics and policy failures that aggravated them.[2] These mechanisms were not identical to those of 2008, and the comparison should not erase the difference in monetary regimes.
+
+What the cases share is a limit on explanations that equate material possibility with actual production. The continued existence of useful resources does not guarantee that institutions will bring them together. Coordination can fail. Loss of income can weaken demand, weakened demand can discourage production, and reduced production can further reduce income. The social organization of claims can become a binding constraint on material activity.
+
+This does not mean every idle resource could instantly be redeployed. Skills may not match available work; equipment may be specialized; supply chains may be broken. A crisis can destroy capabilities as it continues. The argument is that financial and institutional breakdown can be part of that destruction rather than a mere reflection of an independent disappearance of physical capacity.
+
+Governments enter these loops through several roles at once. They tax, spend, regulate, provide services, issue debt, and operate within monetary arrangements. A government that issues a currency and borrows in it faces different constraints from a household or a government with obligations in a currency it cannot issue. A fixed exchange-rate commitment or convertibility promise changes the problem again.
+
+For the housing and crisis discussion here, the modern U.S. federal setting means dollar-denominated obligations within a fiat monetary system, unlike the gold-standard setting of the early Depression. That distinction does not make every proposed expenditure feasible or every obligation politically guaranteed. Legal authority, inflation, exchange conditions, and the availability of real resources still matter.[3]
+
+Debt service also depends on timing. A rise in market interest rates does not rewrite the fixed coupon of every outstanding bond. Effects enter through new borrowing, refinancing, and instruments with rates that reset. Treasury's description of fixed-rate bonds makes the distinction explicit.[4] Treating all debt as if it repriced immediately can turn a serious question into a misleading alarm.
+
+The opposite error is to infer that monetary flexibility abolishes scarcity. A government can authorize payments, but it cannot create trained nurses, transformers, or houses merely by entering larger numbers in accounts. If spending competes for resources already fully used, prices and distribution may change instead of output expanding as intended. The practical task is to connect financial capacity with the material ability to deliver.
+
+The distribution of public obligations matters as well. Interest payments are income to recipients, whose identities and holdings affect the consequences. Taxes and spending changes burden different groups. A debate framed only as a national total can hide the conflict over who receives claims and who supplies the labor and resources needed to honor them.
+
+These conflicts explain why an institution may defend an arrangement its members criticize. A household can favor affordable housing while fearing a loss of equity. A bank can recognize the need for lower entry costs while depending on collateral. A government can seek stability while protecting valuations that make access difficult. The system need not possess a secret mind. Its persistence can emerge from interlocking dependencies.
+
+A humane correction would have to distinguish them. Expanding useful housing supply, changing access to credit, protecting vulnerable occupants, restructuring distressed obligations, or altering ownership can have different effects. None is a universal prescription in this chapter. Each would need a specific jurisdiction, institutional design, and account of transition. The theoretical point is that affordability should be pursued as provision, while the financial consequences of change are managed explicitly.
+
+If every incumbent claim is treated as inviolable, improvement can be blocked indefinitely. If every incumbent loss is dismissed, a transition can impose severe costs on people who organized ordinary lives around existing rules. The problem is to discriminate among claims and share adjustment in ways that preserve necessary capabilities. It cannot be solved by pretending there is no conflict.
+
+This is also a way to take capitalism's practical defense seriously. A system that reliably provides employment, accessible goods, and a predictable path through ordinary life has material grounds for support. People may tolerate inequalities because they value the conditions under which they can raise children, obtain necessities, and make plans. Criticism that ignores those achievements will not explain the system's legitimacy.
+
+But these achievements are not automatic guarantees attached to private ownership or market exchange. Their delivery can depend on public infrastructure, scientific work, regulation, collective bargaining, household labor, and social provision. A historical account must investigate the contribution of each rather than crediting a single abstraction with every success and assigning every failure to interference.
+
+The claim that unions have become unnecessary is especially weak when offered as a general law. Competition among employers can improve workers' options under some conditions. Limited mobility, concentrated employment, unequal information, and the cost of unemployment can weaken those options. Collective bargaining changes the organization of negotiation; whether it succeeds requires evidence about its setting and effects.
+
+The same standard applies to public institutions. Their purpose does not guarantee competence. They can become rigid, captured, or unresponsive. Their evaluation should ask whether they deliver useful services, recognize errors, and answer to the people affected. The materialist argument does not grant immunity to an institution because its title sounds collective.
+
+Investment makes this question of coordination unavoidable. How does a society decide which proposed capabilities get a chance to exist? Equity finance offers one mechanism. In a primary share issue, funds can go to an enterprise in exchange for ownership claims. In ordinary secondary trading, investors exchange existing claims with one another; the purchase does not directly hand the company new funds.[5]
+
+Secondary markets can still influence financing conditions, valuations, liquidity, and control. The distinction is between direct provision of funds and indirect effects, not between a useful act and a useless one. Confusing the two makes the movement of asset prices look identical to the construction of productive capacity.
+
+Diversified investment can distribute risk across projects. Decentralized decisions can allow several approaches to be tried. Yet a collection of investors is not necessarily a collection of independent judgments. Shared models, incentives, collateral, or fashionable expectations can make many actors take similar risks. Diversity of names on accounts does not guarantee diversity of exposure.
+
+A central decision-maker faces a different danger: an error can govern many projects at once, and local knowledge may fail to reach the center. But central coordination can support infrastructure whose benefits are dispersed or whose dependencies are too extensive for isolated investments. The comparison is therefore among concrete arrangements for experimentation, coordination, and correction.
+
+A useful hybrid might allow varied projects while sharing basic research, standards, and essential infrastructure. It might preserve room for local adaptation while requiring transparent evidence about costs and outcomes. Such an arrangement is a design proposal, not a promise that combining labels automatically produces the best of each. Authority over funding and evaluation remains a political question.
+
+Some valuable investments are poorly captured by a single investor. Cleaner water, a resilient grid, or better public health can benefit many people without generating a proportionate private payment to the organization that made the improvement. This creates a reason to examine collective provision. It does not mean every claimed public benefit is real or every program is well designed.
+
+Health makes the distinction between benefit and financial return particularly clear. The SELECT trial found that semaglutide reduced the incidence of a defined composite cardiovascular outcome in participants with established cardiovascular disease and overweight or obesity who did not have diabetes.[6] That is evidence for a specified clinical result in a specified population.
+
+It is not evidence that everyone should receive the treatment, that it replaces other care, or that its use automatically lowers a health system's total costs. Clinical outcomes, access, treatment costs, side effects, and long-term financing are separate questions. A productive society needs institutions capable of making those distinctions without treating illness as a personal failure or care as a reward reserved for those already healthy.
+
+Prevention and treatment can each improve lives while consuming resources. An intervention need not save money to be worth providing. Nor does the possibility of reducing some illness justify denying care to people whose needs remain. The purpose of provision must be stated in terms of human outcomes, not smuggled in through a narrow accounting identity.
+
+Ecological investment has a related temporal difficulty. An organization can receive revenue now while passing costs to people elsewhere or in the future. Repair and prevention may be difficult to finance when the beneficiaries cannot make a private payment large enough to capture the full benefit. The accounting boundary again shapes what appears productive.
+
+Affordable energy can support both improved living conditions and more damaging throughput. Better conversion efficiency can reduce the energy required for a service, while lower costs can encourage greater use. The net result depends on scale, substitution, and the activities enabled. A cleaner source does not by itself determine how much material is extracted, what ecosystems are disturbed, or who receives the service.
+
+A transition should therefore be evaluated through several outcomes: useful provision, emissions and ecological effects, resilience, access, and the work required to maintain the new system. No single financial valuation or energy total can stand in for all of them. A society can increase welfare by improving a service without maximizing the material passing through it.
+
+A successor to capitalism might be judged by its capacity to invest directly in the conditions of human and ecological life. This is a worthy direction for inquiry if it is made concrete. Who identifies needs? Who allocates resources? How can people challenge a decision? What happens when a project fails? How are dispersed benefits recognized without making administrators unaccountable judges of every life?
+
+Naming a future system does not answer these questions. Neither does predicting abundance. Some goods may become much cheaper while land, attention, care, institutional access, or particular materials remain constrained. A technical advance can move scarcity rather than remove it. The organization of claims will continue to matter wherever people need access to something others can withhold.
+
+A plausible transition must also preserve useful capacities. Public health, engineering knowledge, supply networks, and ordinary confidence in tomorrow's arrangements are difficult to rebuild after they are destroyed. Reform, experimentation, changes in ownership, and public investment are possible routes of transformation. Collapse is another outcome, but it carries no guarantee of a better successor.
+
+The relevant dialectic is not that a system deserves destruction because it contains a contradiction. It is that some of the relations enabling its continuation can obstruct the improvements people need. Understanding the mechanism can help identify where intervention is possible: a dependency to loosen, a public capability to build, a claim to restructure, a decision to make accountable.
+
+Growth can ease some distributional conflicts by increasing what is available. It does not guarantee political freedom or fairness. Contraction can intensify conflict, but it does not mechanically determine one political outcome. Institutions, organization, and choices remain causal. A material account should explain why a particular response becomes possible rather than treating people as passengers in a prewritten cycle.
+
+Return to the house. The practical objective is not to make its price rise forever or fall without regard to consequences. It is to organize dependable access to useful shelter while managing the claims and dependencies built around it. That is a harder task than choosing a direction for one number. It is also closer to the need that made the house matter in the first place.
+
+The stability trap can be understood as a failure to distinguish the reproduction of useful life from the reproduction of every existing valuation. The two overlap enough to make change difficult. They differ enough to make change necessary. A society capable of deliberate correction must learn to separate them without destroying the capabilities people need.
+
+Such correction depends on knowledge. Institutions must notice conditions, compare proposals, test consequences, and revise their actions. The required intelligence is distributed across people, records, tools, and organizations. No solitary mind possesses it all.
+
+The next chapter asks how that collective capacity is assembled—and what changes when some of its operations can be performed by machines.
+
+## Chapter notes
+
+1. Financial Crisis Inquiry Commission, [*The Financial Crisis Inquiry Report*, including dissents](https://fcic.law.stanford.edu/report) (2011). The chapter identifies the majority's principal categories of failure without presenting its allocation of causal responsibility as unanimous. See [S46](sources.md#s46).
+
+2. Federal Reserve History, [banking panics of 1930–1931](https://www.federalreservehistory.org/essays/banking-panics-1930-31), [banking panics of 1931–1933](https://www.federalreservehistory.org/essays/banking-panics-1931-33), and [the Great Depression](https://www.federalreservehistory.org/essays/great-depression). See [S47](sources.md#s47).
+
+3. The comparison concerns the U.S. monetary regimes of the early 1930s and the 2007–2009 crisis, not a claim that currency issuance removes legal or real-resource constraints. Monetary operations are also discussed in the Bank of England's [2014 account of money creation](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy). See [S11](sources.md#s11) and [S47](sources.md#s47).
+
+4. U.S. Treasury, [Treasury bonds](https://www.treasurydirect.gov/marketable-securities/treasury-bonds/), for the distinction between a fixed coupon and changing market rates. No current yield, debt forecast, or investment recommendation is supplied. See [S48](sources.md#s48).
+
+5. U.S. Securities and Exchange Commission, [primary and secondary markets](https://www.investor.gov/introduction-investing/investing-basics/glossary/primary-and-secondary-markets), also listed under [S48](sources.md#s48). The subsequent comparison of investment arrangements is the manuscript's argument, not a policy endorsement attributed to the regulator.
+
+6. Lincoff et al., [“Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes”](https://www.nejm.org/doi/full/10.1056/NEJMoa2307563) (2023). The defined population and outcome are retained; no prescribing or universal cost-saving claim is made. See [S18](sources.md#s18).
