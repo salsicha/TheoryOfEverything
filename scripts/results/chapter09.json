@@ -1,0 +1,150 @@
+{
+  "chapter": 9,
+  "title": "The System That Produces Its Tomorrow",
+  "case": "New Jersey's 1992 minimum-wage increase versus Pennsylvania",
+  "claim_tested": "A changed material wage guarantee need not undermine employment in the sector sustaining it.",
+  "design": "Two-wave restaurant employment difference-in-differences from the author survey archive; report balanced-pair and confirmed-closure sensitivity.",
+  "identification_limits": [
+    "Only two state-level policy assignments: restaurant-level standard errors are not policy-level uncertainty",
+    "State-specific shocks and survey error remain possible",
+    "One employment outcome cannot establish institutional closure, money's origin, or feudalism's collapse"
+  ],
+  "sources": [
+    "https://davidcard.berkeley.edu/data_sets.html",
+    "https://davidcard.berkeley.edu/data_sets/njmin.zip",
+    "https://doi.org/10.2307/2118030"
+  ],
+  "result": {
+    "status": "descriptive_comparison",
+    "missingness_audit": [
+      {
+        "state": "PA",
+        "raw": 79,
+        "missing_pre_fte": 2,
+        "missing_post_fte": 2,
+        "status2_counts": {
+          "1": 78,
+          "3": 1
+        }
+      },
+      {
+        "state": "NJ",
+        "raw": 331,
+        "missing_pre_fte": 10,
+        "missing_post_fte": 12,
+        "status2_counts": {
+          "1": 321,
+          "3": 5,
+          "2": 2,
+          "4": 1,
+          "0": 1,
+          "5": 1
+        }
+      }
+    ],
+    "analyses": {
+      "complete_pairs_as_recorded": {
+        "n": 384,
+        "clusters": 2,
+        "inference_reported": false,
+        "coefficients": {
+          "intercept": -2.283333333333331,
+          "exposure": 2.7499999999999947
+        },
+        "inference_note": "Point estimates only; assignment-level inference is unavailable or suppressed.",
+        "treated_clusters": 1,
+        "zero_exposure_clusters": 1,
+        "mean_pre": 21.006640625,
+        "mean_post": 20.936197916666668,
+        "excluded_restaurants": 26,
+        "state_means": {
+          "0": {
+            "pre": 23.38,
+            "post": 21.096666666666668
+          },
+          "1": {
+            "pre": 20.430582524271845,
+            "post": 20.89724919093851
+          }
+        },
+        "state_n": {
+          "1": 309,
+          "0": 75
+        }
+      },
+      "confirmed_permanent_closures_zero": {
+        "n": 384,
+        "clusters": 2,
+        "inference_reported": false,
+        "coefficients": {
+          "intercept": -2.283333333333331,
+          "exposure": 2.7499999999999947
+        },
+        "inference_note": "Point estimates only; assignment-level inference is unavailable or suppressed.",
+        "treated_clusters": 1,
+        "zero_exposure_clusters": 1,
+        "mean_pre": 21.006640625,
+        "mean_post": 20.936197916666668,
+        "excluded_restaurants": 26,
+        "state_means": {
+          "0": {
+            "pre": 23.38,
+            "post": 21.096666666666668
+          },
+          "1": {
+            "pre": 20.430582524271845,
+            "post": 20.89724919093851
+          }
+        },
+        "state_n": {
+          "1": 309,
+          "0": 75
+        }
+      }
+    },
+    "conclusion": "Two state policy assignments: employment DiD points only; restaurant-level policy significance is not reported."
+  },
+  "data_provenance": [
+    {
+      "file": "njmin.zip",
+      "source_url": "https://davidcard.berkeley.edu/data_sets/njmin.zip",
+      "resolved_url": "https://davidcard.berkeley.edu/data_sets/njmin.zip",
+      "retrieved_utc": "2026-11-15T23:10:19.398864+00:00",
+      "bytes": 23017,
+      "content_type": "application/zip",
+      "sha256": "41a29aec6b489658b20030d044a2b20a5f5a04b871cde41df057afd6013ba587"
+    }
+  ],
+  "run_metadata": {
+    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "python": "3.14.5",
+    "dependencies": {
+      "numpy": "2.5.5",
+      "pandas": "3.1.1",
+      "scipy": "1.18.1",
+      "statsmodels": "0.15.0"
+    },
+    "code_sha256": {
+      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
+      "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
+      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+    },
+    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
+    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}

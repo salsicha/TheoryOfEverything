@@ -1,0 +1,54 @@
+{
+  "chapter": 5,
+  "title": "How Disequilibrium Builds a New Pathway",
+  "case": "Rural electrification in South Africa, 1996–2001",
+  "claim_tested": "Making an energy pathway available can change productive participation.",
+  "design": "Community-level two-stage least squares: change in female employment on electrification, instrumented by terrain slope, with baseline controls.",
+  "identification_limits": [
+    "Exclusion and monotonicity are assumptions, not consequences of first-stage strength",
+    "Local IV effect, not a population-wide law",
+    "Modern analogue; does not identify why the first steam engine appeared in England rather than China"
+  ],
+  "sources": [
+    "https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3078",
+    "https://doi.org/10.3886/E112474V1",
+    "https://www.energia.org/assets/2015/09/dinkelman_electricity_0810.pdf"
+  ],
+  "result": {
+    "status": "needs_data",
+    "error": "Provide chapter05.csv and its .metadata.json sidecar; see templates and README"
+  },
+  "data_provenance": [],
+  "run_metadata": {
+    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "python": "3.14.5",
+    "dependencies": {
+      "numpy": "2.5.5",
+      "pandas": "3.1.1",
+      "scipy": "1.18.1",
+      "statsmodels": "0.15.0"
+    },
+    "code_sha256": {
+      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
+      "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
+      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+    },
+    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
+    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}

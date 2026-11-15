@@ -2,3 +2,8 @@
 *.swp
 *.swo
 *~
+.venv/
+__pycache__/
+*.pyc
+scripts/data/
+scripts/inputs/

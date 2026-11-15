@@ -1,0 +1,193 @@
+{
+  "chapter": 11,
+  "title": "Why the World Builds Artificial Intelligence",
+  "case": "Italy's temporary ChatGPT restriction, March 31–April 28, 2023",
+  "claim_tested": "Use of an AI service depends on externally maintained access; removing it may change productive behavior or trigger substitution.",
+  "design": "Primary: daily coding-output synthetic control from a fixed pre-ban developer cohort. Available secondary diagnostic: official Tor estimated-user series, Italy versus France, Germany, Spain, UK, Sweden.",
+  "identification_limits": [
+    "Tor users are not ChatGPT users, and Tor is not all VPN activity",
+    "The Tor comparison cannot estimate coding productivity or model cognition",
+    "Other country-specific shocks and international spillovers remain",
+    "Access effects cannot establish infinite cognition, trained reasoning mechanisms, or AI inevitability"
+  ],
+  "sources": [
+    "https://arxiv.org/abs/2403.01964",
+    "https://arxiv.org/abs/2304.09339",
+    "https://metrics.torproject.org/userstats-relay-country.html"
+  ],
+  "result": {
+    "status": "secondary_diagnostic_only",
+    "primary_status": "needs_data",
+    "tor_circumvention_proxy": {
+      "weights": {
+        "fr": 0.013829363107409677,
+        "de": 0.02336907701250345,
+        "es": 0.845351473118954,
+        "gb": 0.029549282256961254,
+        "se": 0.08790080450417162
+      },
+      "pre_rmspe": 1238.0865523325301,
+      "post_mean_gap": 30.804949168118974,
+      "post_rmspe": 1374.8878571641756,
+      "n_pre": 80,
+      "n_post": 28,
+      "inference_reported": false,
+      "note": "Descriptive synthetic-control comparison; no random-assignment p-value.",
+      "heldout_pre_rmspe": 1214.8488344090763,
+      "leave_one_donor_out_post_gaps": {
+        "fr": -230.3291055081016,
+        "de": 2415.4039943725875,
+        "es": 31.634281931639375,
+        "gb": -80.39275351390981,
+        "se": 252.74811363031014
+      },
+      "donor_placebos_descriptive": [
+        {
+          "unit": "fr",
+          "pre_rmspe": 9467.15902888358,
+          "post_rmspe": 21244.08950301813,
+          "post_mean_gap": -18882.579960329367,
+          "rmspe_ratio": 2.243977252120096
+        },
+        {
+          "unit": "de",
+          "pre_rmspe": 206999.12274626913,
+          "post_rmspe": 301494.91645477444,
+          "post_mean_gap": 299101.71428571426,
+          "rmspe_ratio": 1.456503353515823
+        },
+        {
+          "unit": "es",
+          "pre_rmspe": 1176.7710522365114,
+          "post_rmspe": 1091.9301800710052,
+          "post_mean_gap": 0.9810508322572267,
+          "rmspe_ratio": 0.9279036716579134
+        },
+        {
+          "unit": "gb",
+          "pre_rmspe": 3836.8916700730674,
+          "post_rmspe": 10834.327895733168,
+          "post_mean_gap": -10298.374115222758,
+          "rmspe_ratio": 2.8237252514160365
+        },
+        {
+          "unit": "se",
+          "pre_rmspe": 18606.291948558704,
+          "post_rmspe": 18123.042376055022,
+          "post_mean_gap": -18095.03571428572,
+          "rmspe_ratio": 0.9740276260396357
+        }
+      ],
+      "missing_by_country": {
+        "it": 9,
+        "fr": 9,
+        "de": 9,
+        "es": 9,
+        "gb": 9,
+        "se": 9
+      },
+      "omitted_dates": [
+        "2023-01-03",
+        "2023-01-04",
+        "2023-01-05",
+        "2023-01-06",
+        "2023-01-10",
+        "2023-01-11",
+        "2023-01-12",
+        "2023-01-13",
+        "2023-01-14"
+      ],
+      "missingness_policy": "No interpolation or zero imputation; common observed dates only.",
+      "series": "chapter11_tor.csv"
+    },
+    "conclusion": "Tor is a separate circumvention proxy, not a measure of AI use, productivity, or cognition. Primary coding data are needed to test productive dependence."
+  },
+  "data_provenance": [
+    {
+      "file": "tor_it.csv",
+      "source_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=it&events=off",
+      "resolved_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=it&events=off",
+      "retrieved_utc": "2026-11-15T23:10:19.961308+00:00",
+      "bytes": 5100,
+      "content_type": "text/csv",
+      "sha256": "8b98dff78efddae79986b4359ed14485a5f0d558ce4b4a31161edeb553653995"
+    },
+    {
+      "file": "tor_fr.csv",
+      "source_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=fr&events=off",
+      "resolved_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=fr&events=off",
+      "retrieved_utc": "2026-11-15T23:10:23.417280+00:00",
+      "bytes": 5254,
+      "content_type": "text/csv",
+      "sha256": "992eff26c196749db58e05f6f08646545006f11c917e4a76a456e194432c8524"
+    },
+    {
+      "file": "tor_de.csv",
+      "source_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=de&events=off",
+      "resolved_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=de&events=off",
+      "retrieved_utc": "2026-11-15T23:10:27.248526+00:00",
+      "bytes": 5516,
+      "content_type": "text/csv",
+      "sha256": "80677b29d94806e0d2f31b04a927e4c55e5f5e329d1b8caa2963dfa7ba9cddb4"
+    },
+    {
+      "file": "tor_es.csv",
+      "source_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=es&events=off",
+      "resolved_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=es&events=off",
+      "retrieved_utc": "2026-11-15T23:10:30.718093+00:00",
+      "bytes": 5100,
+      "content_type": "text/csv",
+      "sha256": "7f6b097f76cad527580d609c005a350827743148577b535d2d7a98672ba606c6"
+    },
+    {
+      "file": "tor_gb.csv",
+      "source_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=gb&events=off",
+      "resolved_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=gb&events=off",
+      "retrieved_utc": "2026-11-15T23:10:34.212336+00:00",
+      "bytes": 5116,
+      "content_type": "text/csv",
+      "sha256": "225eb135f63ebc40b8179db2ba803b500bab4fe25bfba609de71018ba6990d38"
+    },
+    {
+      "file": "tor_se.csv",
+      "source_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=se&events=off",
+      "resolved_url": "https://metrics.torproject.org/userstats-relay-country.csv?start=2023-01-01&end=2023-05-31&country=se&events=off",
+      "retrieved_utc": "2026-11-15T23:10:37.751192+00:00",
+      "bytes": 5070,
+      "content_type": "text/csv",
+      "sha256": "26678d46d41a396cdb5c2bae29bcfcc92888f64bb3855e163ffdff134c6593fc"
+    }
+  ],
+  "run_metadata": {
+    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "python": "3.14.5",
+    "dependencies": {
+      "numpy": "2.5.5",
+      "pandas": "3.1.1",
+      "scipy": "1.18.1",
+      "statsmodels": "0.15.0"
+    },
+    "code_sha256": {
+      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
+      "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
+      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+    },
+    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
+    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}

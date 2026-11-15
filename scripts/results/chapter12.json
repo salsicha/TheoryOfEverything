@@ -1,0 +1,72 @@
+{
+  "chapter": 12,
+  "title": "The Machines That Build the Next Machines",
+  "case": "OVHcloud's Strasbourg data-center fire, March 10, 2021",
+  "claim_tested": "Loss and restoration of physical infrastructure changes the availability of computation.",
+  "design": "Primary: matched-service availability changes for preidentified Strasbourg versus unaffected facilities. Available secondary diagnostic: historical BGP-prefix visibility for OVH's entire ASN.",
+  "identification_limits": [
+    "AS16276 includes many unaffected facilities; it is not a Strasbourg treatment indicator",
+    "BGP prefix counts are not server uptime or AI output",
+    "No service effect is estimated from the public ASN diagnostic",
+    "A physical dependency does not establish AI/data-center inevitability or a productive growth loop"
+  ],
+  "sources": [
+    "https://corporate.ovhcloud.com/en-gb/newsroom/news/informations-site-strasbourg/",
+    "https://stat.ripe.net/docs/data-api/api-endpoints/announced-prefixes"
+  ],
+  "result": {
+    "status": "secondary_diagnostic_only",
+    "primary_status": "needs_data",
+    "asn_diagnostic": {
+      "series": "chapter12_bgp_prefixes.csv",
+      "minimum_visible_prefixes": 125,
+      "maximum_visible_prefixes": 130,
+      "service_effect_estimated": false,
+      "measurement_warning": "Provider-wide prefix visibility is neither facility treatment nor hosted-service uptime; unchanged counts cannot refute an outage."
+    },
+    "conclusion": "A network-measurement feasibility check only unless facility-mapped service data are supplied."
+  },
+  "data_provenance": [
+    {
+      "file": "ovh_prefixes.json",
+      "source_url": "https://stat.ripe.net/data/announced-prefixes/data.json?resource=AS16276&starttime=2021-03-01T00:00:00&endtime=2021-03-20T00:00:00",
+      "resolved_url": "https://stat.ripe.net/data/announced-prefixes/data.json?resource=AS16276&starttime=2021-03-01T00:00:00&endtime=2021-03-20T00:00:00",
+      "retrieved_utc": "2026-11-15T23:10:38.600149+00:00",
+      "bytes": 15190,
+      "content_type": "application/json; charset=utf-8",
+      "sha256": "b3082a4c0a2b882f0d2169fc6401ed1137745097096ddf3c1fc9a0139884353f"
+    }
+  ],
+  "run_metadata": {
+    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "python": "3.14.5",
+    "dependencies": {
+      "numpy": "2.5.5",
+      "pandas": "3.1.1",
+      "scipy": "1.18.1",
+      "statsmodels": "0.15.0"
+    },
+    "code_sha256": {
+      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
+      "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
+      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+    },
+    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
+    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}

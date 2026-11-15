@@ -1,0 +1,55 @@
+{
+  "chapter": 10,
+  "title": "The System That Models Itself",
+  "case": "Daylight-saving transitions and fatal road crashes",
+  "claim_tested": "Disrupting a maintenance schedule can impair subsequent regulated performance.",
+  "design": "Within-year difference-in-differences comparing mean daily fatal crashes in weeks -2/-1 and +1/+2 in DST and non-DST states, omitting transition day.",
+  "identification_limits": [
+    "Clock changes alter daylight as well as sleep; crashes do not directly measure maintenance or cognition",
+    "Arizona tribal exceptions complicate state aggregates",
+    "This adapter gives yearly point contrasts, not a replication of Smith's richer design",
+    "Does not identify self-modeling, consciousness, or the complete autopoietic loop"
+  ],
+  "sources": [
+    "https://www.aeaweb.org/articles?id=10.1257/app.20140100",
+    "https://doi.org/10.3886/E113608V1",
+    "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars"
+  ],
+  "result": {
+    "status": "needs_data",
+    "error": "Provide chapter10.csv and its .metadata.json sidecar; see templates and README"
+  },
+  "data_provenance": [],
+  "run_metadata": {
+    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "python": "3.14.5",
+    "dependencies": {
+      "numpy": "2.5.5",
+      "pandas": "3.1.1",
+      "scipy": "1.18.1",
+      "statsmodels": "0.15.0"
+    },
+    "code_sha256": {
+      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
+      "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
+      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+    },
+    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
+    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}

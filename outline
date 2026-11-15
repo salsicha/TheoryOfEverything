@@ -2,11 +2,19 @@
 
 ## A Material History of Everything
 
-**New chapter outline:** thirteen chapters in four parts, with a prologue, epilogue, and methodological afterword. The numbers below describe the proposed reading order. Each chapter identifies its material in the existing draft files; those files retain their current numbering until the manuscript is reorganized.
+**Current chapter outline:** twelve chapters in three parts, with a prologue, epilogue, and methodological afterword. Chapters 1–3 establish the framework; chapters 4–6 work backward from familiar discoveries through steam engines to the possible assembly of the universe; chapters 7–12 follow human society through collective intelligence, economic self-production, cybernetics, AI as assembly, and productive deployment. All twelve chapters have prose drafts. This outline and the chapter files use the same reading order.
 
 ## Central argument
 
 Every system is assembled and jointly material and Platonic. Its physical realization and its formal relations determine what it can do. The book proposes that disequilibrium drives systems toward maximum rates of energy extraction and entropy production through accessible pathways. Assembly changes the constraints on those pathways, making further assemblies possible.
+
+**Ontological foundation:** absolute nothingness does not and cannot exist, and uncertainty is fundamental to existence. The proposed uncertainty is ontological indeterminacy constituting physical reality, distinct from incomplete knowledge and statistical description. Reality and structure emerge from it; the universe is proposed to need nothing additional to begin and to have always been coming into creation. Chapter 6 states this philosophical commitment, its connecting premises, and the need to explain becoming if time itself is assembled. Quantum uncertainty does not by itself establish the conclusion.
+
+**Extended hypothesis:** AI and data centers are inevitable outcomes of this process, and the universe itself and its fundamental constants are probably assembled. The first claim joins artificial cognition to the physical organization sustaining it. The second commits the book to a developmental origin for the universe and fundamental parameter values themselves. These are positions to substantiate, with their respective mechanisms and evidentiary burdens made explicit.
+
+**Fine-tuning extension:** progressive constraints, stationary principles, symmetry breaking, recursively self-maintaining organization, and cumulative assembly are proposed to make fine-tuning a material and practical process. The strongest hypothesis is that the universe was unavoidable. Chapter 6 develops this challenge to an inference from peculiar constants to an unlikely universe; the afterword distinguishes the proposed necessity from robust convergence and from probability under a justified distribution. The familiar mechanisms motivate the synthesis without already proving it.
+
+**Historical asymmetry and fundamental disequilibrium:** the book proposes material histories for matter predominance, left–right distinctions in weak interactions, spatial dimensionality, the temporal arrow, and the laws and constants themselves. The further hypothesis is that disequilibrium is inevitable and fundamental to the universe, with a tendency toward maximum entropy-production rates governing accessible development under its constraints. Chapter 6 must explain how the driving differences arise as well as what they produce. Symmetry breaking, thermodynamic disequilibrium, and rate maximization remain distinct claims to connect through specified dynamics.
 
 Constraints do more than exclude alternatives. They can concentrate search, reduce the cost of a transition, or direct enough existing energy and organized effort toward a barrier to make a costly first assembly viable. A successful assembly can then increase the resources and knowledge available for subsequent transitions.
 
@@ -14,7 +22,68 @@ The central puzzle is how this process could explain both convergent discovery a
 
 **Explanatory order:** disequilibrium supplies the proposed driver; material and formal constraints shape its operation; assembly forms organizations and changes accessible pathways; autopoiesis regenerates an organization through its ongoing operations. The resulting continuity can sustain or obstruct further assembly. Specify the regenerative network and its exchanges; persistence alone establishes neither autopoiesis nor a maximum entropy-production rate. Shared institutions, tools, and knowledge are mediating mechanisms within this account.
 
+Cybernetics supplies the account of regulation within that sequence. Hierarchical and recurrent processes can coordinate activity; self-modeling can make the system's own capacities and limits available for further regulation. Trained artificial networks extend the question of how useful internal organization is assembled. Their history also separates the success of a capability from the methodological expectations of the researchers who named its field.
+
+For social systems, the book synthesizes Marx and Luhmann through cybernetics. Material production sustains the participants and communications that organize production; communications establish distinctions, obligations, and rules that direct subsequent material activity. Feedback connects consequences to the preservation or revision of those relations. Chapters 9 and 10 develop this jointly material and Platonic system through the reciprocal dependence of production and regulation. The synthesis belongs to the book and preserves both thinkers' distinct explanatory commitments.
+
 **Scope:** the cross-domain maximizing claim is a hypothesis. Chapter 2 specifies the conditions under which energy throughput and entropy production can be related. Historical evidence, established physical mechanisms, and the proposed synthesis retain distinct roles. Reproductive success, profit, useful work, and human welfare require their own measures.
+
+**Standard of demonstration:** use natural experiments and explicit causal inference to demonstrate empirical causal arguments. Historical and observational evidence can identify effects without a newly conducted experiment when the comparison and its assumptions are defensible. Each claim must specify the proposed cause, outcome, population or system, time interval, counterfactual comparison, assignment process, competing explanations, and uncertainty. Distinguish an illustration, an association, an identified effect, and a broader causal hypothesis. A historical event is not automatically a natural experiment; mathematical deductions and cosmological origin models require evidence appropriate to their claims. The [afterword](afterword) develops this standard. The adoption of a method is not a claim that the manuscript's proposed studies have been completed.
+
+## Empirical research program
+
+Each chapter now has a candidate natural experiment or, for the cosmic-origin claim, an explicitly limited physical constraint test. The [research guide](scripts/README.md) and [machine-readable registry](scripts/experiments.json) specify assignments, estimands, data requirements, alternative explanations, and possible disproofs. [Generated reports](scripts/results/summary.md) record what actually ran. These are component tests; some require missing data or stronger identification and must not be presented as completed causal demonstrations.
+
+| Chapter | Candidate comparison | Connection and scope |
+| --- | --- | --- |
+| 1 | Napoleonic blockade and cotton mechanization | Trade restrictions can change the viability of a new assembly; not a general proof that bottlenecks create |
+| 2 | Japan's 2011 disaster and electricity substitution | Closing one pathway redirects production; disaster and policy effects remain entangled |
+| 3 | Kelp collapse after predator loss and heatwaves | Disrupted maintenance can destroy conditions of continuation; ecosystem-level analogue |
+| 4 | Unexpected deaths of leading scientists | Knowledge-network interruption tests dependence of discovery on its supports; does not identify relativity's proposed driver |
+| 5 | South African rural electrification | Accessible energy can change productive participation; modern analogue for pathway formation |
+| 6 | Oklo natural reactors | Constrains some varying-constant models; does not identify cosmic assembly |
+| 7 | Norwegian compulsory-schooling reform | Socially altered development can affect measured cognition; no identification of ancient genetic self-domestication |
+| 8 | Maimonides' class-size rule | Formal constraints change teaching resources and potentially learning; local threshold effect |
+| 9 | New Jersey minimum-wage change | Wage guarantees and productive participation can be compared; not a complete test of institutional closure |
+| 10 | Daylight-saving transitions and fatal crashes | Maintenance scheduling and regulated performance; does not identify self-modeling or consciousness |
+| 11 | Italy's temporary ChatGPT restriction | Access dependence and substitution; public Tor data are only a secondary proxy |
+| 12 | Strasbourg data-center fire | Infrastructure interruption and computational availability; provider-wide BGP data cannot identify service effects |
+
+Sources S108–S119 correspond to chapters 1–12. The initial implementation supplies three primary empirical comparisons, two secondary diagnostics, and one published-bound check; six cases need datasets, and the primary coding/service outcomes for chapters 11–12 also remain unavailable. Do not upgrade a planned comparison, a proxy, or a software test into evidence for the universal synthesis. I64 preserves this distinction.
+
+## Chapter overview
+
+This overview gives the narrative route through the central hypothesis. Detailed section plans and source mappings follow. All twelve chapters are drafted in full prose.
+
+**Prologue — The Machine Waiting for Electricity.** Begin with a data center awaiting its electrical connection. Follow its dependencies into the wider productive world, then state the proposed inevitability of AI and data centers and the probable assembly of the universe and fundamental constants.
+
+1. **The Square with One Answer.** Ask: do bottlenecks help in creation? Use Sudoku to show how a restriction can concentrate search, then the flooded mine to ask how a limiting dependency can direct existing effort toward a new assembly. Introduce joint material and Platonic constraints and distinguish a productive restriction from one that simply blocks activity.
+
+2. **The Gradient and the Barrier.** Establish disequilibrium as the proposed driver of development toward maximum energy extraction and entropy-production rates. Distinguish an available gradient from an accessible pathway, and separate lowering a barrier from committing more resources to cross it.
+
+3. **Life Makes Its Conditions.** Follow living organization through metabolism, maintenance, reproduction, and environmental modification. Introduce autopoiesis and the way an organism's activity can help produce the conditions of its own continuation and subsequent development.
+
+4. **The Discovery That Became Possible.** Use Einstein and Poincaré to investigate convergence within an enormous space of possible theories. Connect the physical support of inquiry to concentrated search, then examine dialectical reconstruction through relativity and the distinct wave–particle problem. Ask whether convergence and conceptual transformation express the same underlying energetic process.
+
+5. **How Disequilibrium Builds a New Pathway.** Use early steam engines and the England–China comparison to show how existing resources can sustain an initially costly assembly before its return arrives. Storage and ammonia isolate supporting mechanisms. Explain how a successful pathway changes access to resources and the possibilities of later construction.
+
+6. **Could the Laws Have a History?** State the proposed ontological foundation: absolute nothingness is impossible, reality emerges from fundamental indeterminacy, and the universe needs nothing additional to begin its continual becoming. Develop the conjecture that the universe itself and fundamental constants are probably assembled. Bring progressive constraints, stationary principles, symmetry breaking, recursive maintenance, and cumulative assembly into a proposed material account of fine-tuning whose strongest claim is that the universe was unavoidable. Connect matter predominance, parity violation, spatial dimensionality, temporal direction, and assembled laws through a proposed material history. State inevitable disequilibrium and a fundamental tendency toward maximum entropy-production rates as hypotheses, distinguishing their required derivations from the ontological commitment and established component mechanisms.
+
+7. **The Species That Changed Its Own Conditions.** Make self-domestication and human development the central story of a system transforming its own constraints. Trace cooperation, collective restraint, care, and learning into changed developmental environments and possible changes in biological selection. Follow the return from changed human capacities to changed social arrangements, including the tension between conformity and correction.
+
+8. **The World That Learned to Think.** Explain how limited minds accumulate a competence no individual contains. Follow teaching, language, tools, records, standards, and correction into a durable social inheritance. Show how that inheritance changes the physical undertakings and discoveries a society can attempt.
+
+9. **The System That Produces Its Tomorrow.** Trace the operations through which an economy regenerates people, equipment, obligations, and participation. Synthesize Marx and Luhmann through cybernetics: material production sustains communicative organization, whose formal relations direct subsequent production. Develop protection, war, taxation, money, feudal relationships, and labor unions as arrangements whose claims depend on material operations. Investigate institutional failure as a loss or transformation of regenerative closure.
+
+10. **The System That Models Itself.** Explain how cybernetic regulation sustains self-production while autopoietic renewal sustains the means of regulation. Carry the Marx–Luhmann synthesis into this reciprocal dependence of material activity and formal organization. Develop hierarchy and recurrence, then the proposal that a self emerges as the mind models its own activity. Trace the methodological shift from logic-first AI to learned networks. Explain training as the development of useful internal organization within constructed material and formal constraints.
+
+11. **Why the World Builds Artificial Intelligence.** Explain AI as an assembled capability that is jointly material and Platonic. Connect training, concentrated search, support for costly intermediates, and regenerative organization to the proposed disequilibrium driver. Examine dependence on initiation and support, finite inference resources, prompting, trained reasoning, and the absence of guaranteed unlimited improvement. State why the thesis predicts bounded artificial cognition and what would test that claim.
+
+12. **The Machines That Build the Next Machines.** Develop AI and data centers as the predicted outcomes of the process, explaining both cognitive capabilities and their organized physical supports. Follow AI-assisted control and design through testing, manufacturing, and deployment. Investigate whether productive gains can support further computation, while distinguishing emergence from guaranteed continued growth.
+
+**Epilogue — The World That Builds Its Next Question.** Return to the data center as a product of the process that may help investigate and modify that process. Reconnect intelligence, discovery, and physical origins while keeping human purposes distinct from energetic throughput.
+
+**Afterword — What Would Make This a Theory?** Specify boundaries, mechanisms, comparisons, and observations that could defeat the claims. Test the proposed inevitability of AI and data centers separately, and state what a model of cosmic assembly would have to derive.
 
 ## Prologue — The Machine Waiting for Electricity
 
@@ -22,9 +91,9 @@ The central puzzle is how this process could explain both convergent discovery a
 
 Begin with the imagined data center whose computers have arrived before the electrical connection. Trace the missing pathway outward through equipment, energy supply, manufacturing, knowledge, and coordinated work. An apparently complete object depends on a history of other assemblies.
 
-State the thesis early. Then introduce the possibility that computation can help redesign the productive system that supports it. The machine becomes an entry into a larger question: how does the world build capacities that change what it can build next?
+State the full thesis early, including the inevitability of AI and data centers and the probable assembly of the universe and fundamental constants. Then introduce the possibility that computation can help redesign the productive system that supports it. The machine becomes an entry into a larger question: how does the world build capacities that change what it can build next?
 
-Promise the route through life, self-domestication, civilization, industry, discovery, and AI, ending with the physical conditions that make the entire history possible. Close with the author's encounter with constrained search in Sudoku.
+Promise the inquiry through living organization, the formation and transformation of pathways, economic self-production, discovery, human society and intelligence, and AI, ending with the physical conditions that make the entire history possible. Close with the author's encounter with constrained search in Sudoku.
 
 ## Part I — How Possibility Becomes Actual
 
@@ -32,17 +101,20 @@ Promise the route through life, self-domestication, civilization, industry, disc
 
 **Current material:** [chapter1](chapter1). **Ideas:** I05–I07, I31, I50–I52. **Sources:** S01, S04, S09.
 
-**Question:** How can a vast space of possibilities contain a strongly constrained next move?
+**Question:** Do bottlenecks help in creation?
 
-**Argument:** A system's possibilities depend jointly on formal relations and material realization. Search becomes intelligible when we distinguish everything imaginable from what a particular history makes reachable.
+**Argument:** A bottleneck can help create a new capability by concentrating search, specifying a useful function, and directing existing resources toward a restricted set of alternatives. A successful assembly can then transform the constraint that helped organize its formation. This is a mechanism to investigate: a restriction can also destroy a viable route or preserve an error. Its creative effect depends jointly on formal relations, material support, and the history of the system.
 
-1. Begin with the author's Sudoku programming problem and the minimum-remaining-values heuristic.
-2. Show how one determined square changes the possibilities elsewhere. Explain why additional speed and better organization of search are different advantages.
+1. Open with the question about bottlenecks and creation, then the author's Sudoku programming problem and the minimum-remaining-values heuristic. Explain why the most constrained square can be a useful place to begin.
+2. Show how one determined square changes the possibilities elsewhere. Define a bottleneck as a limiting step or dependency, distinguishing a narrow choice from a limit on physical flow. Separate better organization of search from simply making more attempts.
 3. Develop the joint material and Platonic claim: a relation can constrain a physical system even when nobody represents it, while a representation alone cannot instantiate a machine or organism.
-4. Move from a fixed puzzle to assemblies that change their own constraints. An inherited tool, skill, or structure makes some later operations easier and others unnecessary.
-5. Introduce the problem of convergent discovery. The size of an unconstrained possibility space does not tell us the probability of outcomes within a historically assembled search.
+4. Move from a fixed puzzle to the illustrative flooded mine. Drainage specifies a function worth attempting; inherited energy, tools, and skills support the attempt; a workable pump changes the conditions of subsequent activity. The restriction does not itself supply energy or guarantee a solution.
+5. Follow the return from a new assembly to changed constraints. Contrast a limit that concentrates a viable search with an inconsistent rule, an unsupported attempt, or an obstacle whose removal releases an existing capacity. Include failures when evaluating the proposed creative effect.
+6. Introduce convergent discovery and the extended commitments about AI, data centers, the universe, and fundamental constants. Keep disequilibrium as the proposed driver and bottlenecks as constraints through which it operates. End by asking what supplies the physical activity that could turn a restricted possibility into an actual assembly.
 
-**Transition:** Constraints explain which routes are accessible. The next chapter asks what supplies the physical drive along them.
+**Causal demonstration:** Distinguish the logical Sudoku illustration from the empirical effect of a bottleneck on invention. Seek independently explained changes in restrictions and resource allocation; include blocked and unsuccessful cases. The opening chapter introduces the common standard. See I63 and the afterword for the shared identification standard.
+
+**Transition:** A bottleneck may concentrate search or direct effort, but it does not supply that effort. The next chapter examines disequilibrium and the physical work needed to realize a new pathway.
 
 ### 2. The Gradient and the Barrier
 
@@ -57,6 +129,8 @@ Promise the route through life, self-domestication, civilization, industry, disc
 3. Present maximum entropy production as a rate-selection proposal beyond the second law alone, using the research identified in the notes and source ledger.
 4. Distinguish three routes across a transition: lower a barrier, direct more resources toward crossing it, or assemble a different pathway. Separate construction costs from the cost of continuing operation.
 5. Use the existing infrastructure example briefly to show why installed equipment and potential energy do not establish an accessible flow.
+
+**Causal demonstration:** Specify physical boundaries, forcing, rates, and timescales. Compare the maximizing prediction with alternative dynamics under observed or experimentally varied conditions. An energy-using system is not itself evidence of a maximum; keep laboratory findings and the cross-domain extension distinct. See I63 and the afterword for the shared identification standard.
 
 **Transition:** Living systems make and repair some of the structures through which their own flows continue.
 
@@ -74,144 +148,23 @@ Promise the route through life, self-domestication, civilization, industry, disc
 4. Use the citrate experiment to separate resource presence, initial access, and refinement. An initially weak capacity may need support before its mature advantage becomes available.
 5. Identify the relationship the book still needs to establish between evolutionary retention and the proposed wider energetic tendency.
 
-**Transition:** In human evolution, other members of a species can become an especially consequential part of the environment that shapes its development.
+**Causal demonstration:** Retain the causal leverage of the existing evolution experiments and distinguish it from observational evidence. Identify how changed conditions alter assembly or renewal; do not generalize a laboratory effect into a universal driver without further comparisons. See I63 and the afterword for the shared identification standard.
 
-## Part II — How Humans Assemble a Social World
+**Transition:** Begin the physical argument with familiar discoveries. Ask why related answers become accessible along different paths and why reaching them can require reconstructing inherited concepts.
 
-### 4. Self-Domestication and the Making of Society
+## Part II — The Physical Argument
 
-**Current material:** [chapter10](chapter10). **Ideas:** I34–I37, I47, I53–I54. **Sources:** S13, S15, S35, S51, S69–S74.
+Start with familiar discoveries in relativity and quantum physics, then work backward to the steam engine, where the material mechanism of a new assembly is easier to follow. Finally ask whether the same principles could have built the universe itself and specified its fundamental constants. Distinguish discovering a physical relation, constructing a pathway under physical laws, and explaining the origin of those laws and conditions.
 
-**Question:** How could humans develop social arrangements that changed the selection pressures acting on humans themselves?
+### 4. The Discovery That Became Possible
 
-**Argument:** Self-domestication supplies a proposed recursive mechanism connecting biological dispositions, collective restraint, care, and sustained cooperation. These relationships can make new productive undertakings viable while creating new capacities for coercion.
-
-1. Open with the explicitly imagined shared food return. Explain why the ability to repeat an undertaking depends on what happens when its proceeds are distributed.
-2. Define self-domestication and distinguish reactive from proactive aggression. Reduced everyday aggression can coexist with greater capacity for organized violence.
-3. Develop the coalitionary execution hypothesis and its proposed selective mechanism. Separate restraint during one life, cultural transmission, and changes in heritable variation across generations.
-4. Give shared care, partner relationships, emotional regulation, and costly learning substantial explanatory roles. Include the developmental hypothesis and its alternatives without making one disputed mechanism carry the whole account.
-5. Clarify chronology: early Homo sapiens, multiple dispersals, climatic opportunities, and agricultural transitions are different events. Explain why neither a genetic date nor a hospitable route alone accounts for subsequent expansion.
-6. Connect cooperation to resources committed before a return arrives. Social organization can reduce coordination costs and increase the food, time, and protection available to cross an assembly barrier.
-7. Develop the dialectical consequence: collective power can restrain domination, then become concentrated or suppress dissent. Ask which arrangements preserve cooperation while allowing correction.
-
-**Transition:** Social restraint and care make some interactions sustainable. The next chapter asks how those interactions accumulate knowledge beyond any individual's capacity.
-
-### 5. The World That Learned to Think
-
-**Current material:** [chapter11](chapter11). **Ideas:** I34, I38–I39, I47, I54. **Sources:** S12, S53.
-
-**Question:** How can limited individual minds participate in a system of competence that no one mind contains?
-
-**Argument:** Intelligence develops through embodied representation and action; collective intelligence additionally depends on transmission, tools, records, access, and correction. Its energetic significance lies in changing what subsequent activity can accomplish.
-
-1. Begin with a learned action to explain retained relations, anticipation, and the physical cost of a capacity whose benefit may arrive later.
-2. Distinguish biological inheritance, individual development, and cultural transmission. Connect them to the support for learning established in the preceding chapter.
-3. Use the screwdriver's production network to make distributed competence concrete.
-4. Develop the retiring technician and learner: documentation, supervised practice, and time to teach determine whether a capacity survives a person's departure.
-5. Follow standards and communication into authority. Conformity can preserve useful procedures while suppressing warnings or concentrating error.
-6. Connect accumulated knowledge to production through the general-intellect discussion. Specify how knowledge becomes usable and who can direct its use.
-
-**Transition:** An inherited capacity becomes historically effective when people can sustain its use. Grain storage supplies a concrete means of carrying productive support through time.
-
-### 6. The Grain That Built a World
-
-**Current material:** [chapter4](chapter4). **Ideas:** I16, I34–I35, I53–I54. **Sources:** S12–S13, S35.
-
-**Question:** What becomes possible when food and organized effort can be carried beyond the moment of acquisition?
-
-**Argument:** Storage and cultivation transform the time available for work, learning, and coordination. Agriculture develops within existing social worlds and changes their scale, dependencies, and authority.
-
-1. Begin with the Dhraʿ granaries and the material work of preserving food.
-2. Show how hunger, spoilage, access, and claims affect the ability to save a resource or commit it to later production.
-3. Connect retained cultural knowledge to regional ecological conditions. Climate and connectivity shape which practices can persist and improve.
-4. Develop a reserve as support for people constructing a channel, learning a skill, or testing a method before the new undertaking sustains itself.
-5. Follow the reserve into specialization, unequal claims, and control over who may wait. Explain the possible development of concentrated power without treating one state form as inevitable.
-6. Bring the biological, cultural, and agricultural chapters together: society assembles means of supporting further assembly.
-
-**Transition:** Existing productive resources can sustain a machine that opens access to a much older energy store.
-
-## Part III — Energy Builds Its Means
-
-### 7. The Machine That Drank Coal
-
-**Current material:** [chapter5](chapter5). **Ideas:** I17, I50, I53. **Sources:** S04, S36–S38, S66.
-
-**Question:** How can an inefficient first machine become viable before its later gains are available?
-
-**Argument:** The steam-engine case makes increased commitment across a barrier central. Existing fuel, work, and organization support the first usable assembly; its operation can then expand the productive capacity that supports further development.
-
-1. Start with flooded workings and a Newcomen engine. Explain why cheap colliery fuel could sustain a machine with high operating costs.
-2. Establish the sequence explicitly: prior resources support construction and initial operation; pumping opens further coal; subsequent capacity supports refinement and wider use.
-3. Develop the England–China comparison through particular regional constraints and Allen's fuel-intensive versus fuel-conserving designs. Include the objections about labor, household circumstances, and national averages.
-4. Explain how changed constraints redirect existing energy and effort. Economic incentives mediate the proposed physical driver and require their own reconstruction.
-5. Use Watt's condenser to distinguish the viability of a first assembly from later improvement.
-6. Follow productive asymmetry into coercion, imperial use, and entrenchment. Greater capability does not settle how its gains should be used.
-
-**Transition:** Mechanical power opens important pathways, but crops also require materials in usable chemical forms.
-
-### 8. Bread from the Air
-
-**Current material:** [chapter6](chapter6). **Ideas:** I18, I31, I41–I42, I53. **Sources:** S17, S39–S40.
-
-**Question:** How does a known chemical possibility become a dependable industrial capacity?
-
-**Argument:** Ammonia synthesis joins a formal relation to the apparatus and expenditure needed to realize it. The productive achievement includes the conditions of repeated operation.
-
-1. Introduce the distinction between nitrogen being present and being available in a form crops can use.
-2. Explain equilibrium, kinetics, pressure, and catalysis at the level needed to understand the engineering problem.
-3. Follow the transition from Haber's chemical work to Bosch's industrial apparatus, including containment, materials, feed streams, and operation.
-4. Distinguish changing a pathway from supplying the energy and equipment required to use it.
-5. Trace the possible return through agriculture and productive support, including pollution, military use, and unequal access to food within the account.
-
-**Transition:** The reactor works through an organization of people and equipment. That organization is itself an assembly requiring explanation.
-
-### 9. The Factory That Assembled Itself
-
-**Current material:** [chapter7](chapter7). **Ideas:** I19, I28, I31, I53. **Sources:** S41–S42, S59.
-
-**Question:** How does production assemble the machinery, skills, and organization required for further production?
-
-**Argument:** A factory organizes energy through a formal arrangement of operations. Some of its output changes the conditions of subsequent assembly, while its demands also reshape human lives.
-
-1. Begin with shared power and synchronized work at Cromford. Connect the physical arrangement to the organization of attendance and material flow.
-2. Include labor, care, training, maintenance, and household support in the productive boundary.
-3. Use electrification to explain why a new power source may require a new arrangement of operations before its broader advantages become available.
-4. Develop standards, shared testing, and reusable combinations as ways of retaining successful work and making further experiments feasible.
-5. Explain increasing returns and lock-in through the existing Arthur material. A successful arrangement can enable development and obstruct a successor.
-
-**Transition:** Producing machinery is one task; regenerating the capacities and relationships of its continuing use is another.
-
-### 10. The System That Produces Its Tomorrow
-
-**Current material:** [chapter8](chapter8). **Ideas:** I20–I27, I48–I49, I53. **Sources:** S09–S11, S33, S45, S60, S79–S86.
-
-**Question:** Which operations regenerate an economic organization, and when does that reproduction transform or undermine the conditions sustaining it?
-
-**Argument:** Autopoiesis is the mechanism of continuing organization investigated here. Production, payments, provisioning, recognized claims, and enforcement renew capacities and relationships. Disequilibrium supplies the proposed physical driver, while assembly explains formation and changed possibilities. Material performance and legitimacy enter through their roles in the regenerative process.
-
-1. Begin with a hypothetical missed wage payment that interrupts physical production despite working equipment. Follow the operations that restore the cycle.
-2. Trace production, receipts, provisioning, maintenance, and renewed commitments. State the boundary, external energy and material inputs, and dependencies on households, suppliers, care, and public systems.
-3. Use Marx's reproduction of social relations and Luhmann's recurring communications to sharpen the account. Distinguish biological autopoiesis, the social extension, and ordinary regulation; keep the comparison subordinate to the mechanism.
-4. Put ideology inside self-production: embodied beliefs can organize conduct and conceal historically produced relations. Distinguish a false representation from the real operations performed through it.
-5. Develop protection, war, taxation, and monetary obligations as recurrent operations. Use Tilly and the chartalist mechanism with their scopes explicit; distinguish currency demand, issuance, settlement, and bank-created deposits.
-6. Trace changing labor relationships and guarantees through the feudalism–union comparison. Begin with Fulbert's reciprocal duties; examine the 1349 English labor ordinance, the 1824 Act, and the 1871 parliamentary account of union benefits and assistance reaching work. Distinguish declared obligations, enforceable claims, and delivered protection. Develop the hypothesis that particular feudal relations failed when their regenerative closure broke, testing compensation and transformation rather than assigning a single cause or end date to all feudalism. Preserve differences in hierarchy, membership, coercion, and the ability to refuse.
-7. Explain jobs and affordability through their role in reproducing economic participation. Investigate coercion, compensating operations, and the distinction between institutional survival and participants' well-being.
-8. Use an illustrative conflict between shelter and collateral to show how one organization's self-production can block a wider productive transition. Connect this to dialectical transformation and the extra explanation required by the energetic hypothesis.
-9. Make interruptions and substitutions tests of the account. End with the reproduction of inquiry as a capacity whose continuity does not itself guarantee reliable discovery.
-
-**Transition:** An organization can keep inquiry going. How does the resulting activity concentrate search and reconstruct formal relations?
-
-## Part IV — Discovery and the Next Assembly
-
-### 11. The Discovery That Became Possible
-
-**Current material:** [chapter9](chapter9). **Ideas:** I50–I52, I56. **Sources:** S65, S67.
+**Current material:** [chapter4](chapter4). **Ideas:** I50–I52, I56. **Sources:** S65, S67.
 
 **Question:** Could convergent discovery and dialectical reconstruction be expressions of the same disequilibrium-driven process?
 
-**Argument:** Discovery is proposed as an activity within the physical history already developed through life, society, and industry. Its explanation must connect that driver to concentrated search and the reconstruction of formal relations. Autopoiesis explains how inquiry regenerates investigators, instruments, procedures, and retained results across a wider social network. The chapter must then explain how tests alter the reachable search, distinguishing a self-maintaining research organization from the production of reliable knowledge.
+**Argument:** Begin with familiar discoveries and investigate them as physical activities within the framework of constraints, disequilibrium, and living organization. This chapter develops the physical and formal mechanism; chapters 7–9 will explain its human, collective, and economic supports. Its explanation must connect that driver to concentrated search and the reconstruction of formal relations. Autopoiesis explains how inquiry regenerates investigators, instruments, procedures, and retained results across a wider social network. The chapter must then explain how tests alter the reachable search, distinguishing a self-maintaining research organization from the production of reliable knowledge.
 
-1. Open with Poincaré and Einstein in 1905. Establish overlapping problems and distinct approaches without collapsing them into identical independent discoveries.
+1. Begin with familiar ideas from relativity and wave–particle discussions, keeping their distinct histories clear. Use Poincaré and Einstein in 1905 as the bounded convergence case: overlapping problems and distinct approaches, rather than identical independent discoveries.
 2. Develop the apparent improbability of duplicate solutions in an enormous search space. Use the matching-probability model to show why concentrated searches differ from uniform random sampling.
 3. Ask what physically produces and sustains this concentration: training, instruments, experimental expenditure, mathematical representations, communication, and retention. These are the proposed mechanisms connecting the energetic history to inquiry.
 4. Define practical inevitability through a specified class of outcomes, interval, and counterfactual loss of an individual discoverer. Historical proximity alone does not prove it.
@@ -219,58 +172,205 @@ Promise the route through life, self-domestication, civilization, industry, disc
 6. Join the two puzzles: constraints that expose an inherited framework's limits also restrict possible successors. Investigate the proposed common energetic cause without equating a conceptual contradiction with a temperature difference.
 7. State what could discriminate this explanation from accounts that stop at shared tools or institutions. Include failed discoveries, delayed transitions, and cases where more expenditure produces less knowledge.
 
-**Transition:** An assembled system that produces knowledge may eventually make some of those cognitive operations reproducible in other materials.
+**Causal demonstration:** Investigate historical variation in research support and access whose assignment can be defended independently of discovery prospects. Address communication spillovers and comparable failed lines. Simultaneous publication does not identify energetic causation or prove counterfactual inevitability. See I63 and the afterword for the shared identification standard.
+
+**Transition:** Work backward from familiar discoveries to the steam engine. Use the more tangible relationship among existing resources, a costly first machine, and changed access to energy to examine the mechanism before extending it to the universe.
+
+### 5. How Disequilibrium Builds a New Pathway
+
+**Current material:** [chapter5](chapter5). **Ideas:** I16–I18, I31, I41–I42, I50–I53. **Sources:** S04, S35–S37, S39, S66; energetic accounting in S07 and S68.
+
+**Question:** How can disequilibrium participate in producing a pathway that does not yet exist?
+
+**Argument:** Existing flows support the construction and early operation of a new assembly before its return is available. Material and formal constraints concentrate that support on particular combinations. A successful route changes access to resources and the reachable space of later assemblies. This is the candidate mechanism to investigate under the book's energetic hypothesis.
+
+1. Open with a flooded mine: coal can support a pump, but the additional coal cannot supply the work that first builds and operates it. Make the transition problem explicit.
+2. Distinguish a slow pathway, an unsupported workable design, and an assembly not yet available. Separate changed routes from increased expenditure and construction costs from continued operation.
+3. Explain joint material and Platonic constraints through operating relations, materials, tolerances, and manufacturing. Show how each changes the practical scope of the other.
+4. Use Newcomen as the main case of a setting able to support an inefficient first assembly. Develop the causal sequence from prior resources through pumping to changed fuel access and further construction.
+5. Examine Allen's England–China comparison and Humphries's objections at the scale of actual inputs and participants. Use the kiln comparison narrowly to show how relative constraints favor different design families.
+6. Use Watt to distinguish first viability from later improvement. Trace how working equipment, experience, and retained components change the distribution of subsequent search.
+7. Condense storage into the mechanism of support across delayed returns, using the Dhraʿ evidence and an explicitly illustrative channel. Condense ammonia into the distinction between a changed chemical route and the energy and apparatus needed to operate it.
+8. State what would test the maximizing claim: specified flows, alternatives, transition costs, failed attempts, and a defined interval. Connect the material mechanism back to chapter 4's discovery puzzle, then identify the physical laws and conditions the engine still inherits.
+
+**Causal demonstration:** Seek a natural experiment in fuel access or support for costly trials, with assignment, pre-change trajectories, alternative causes, and operating outcomes documented. England–China motivates the question but is not itself an identified experiment. Separate adoption from net extraction and entropy-production effects. See I63 and the afterword for the shared identification standard.
+
+**Transition:** The engine makes the proposed mechanism tangible while inheriting matter, gradients, and physical laws. Could the same principles have built the universe itself and determined its fundamental constants?
+
+### 6. Could the Laws Have a History?
+
+**Current material:** [chapter6](chapter6). **Ideas:** I02–I04, I31, I40–I42, I54, I56, I66–I68. **Sources:** S05–S07, S20–S29, S33, S75–S78.
+
+**Question:** Could fundamental indeterminacy make existence necessary, and could material assembly make the universe and its organizing conditions unavoidable?
+
+**Argument:** The universe itself and its fundamental constants are probably assembled. The stronger hypothesis is that progressive constraints, stationary principles, symmetry breaking, recursive maintenance, and cumulative assembly made fine-tuning a material and practical process whose outcome was unavoidable. This challenges an inference from peculiar parameters to a low probability without an adequate physical distribution. The chapter distinguishes that proposed synthesis from established component mechanisms, and the origin of existence from effective regularities and fundamental parameter values. A model must derive the outcome and its necessity instead of assuming them.
+
+The ontological argument proposes that absolute nothingness cannot exist because complete determination is incompatible with fundamental indeterminacy. Reality and structure emerge from that indeterminacy, requiring nothing additional for the universe to begin. State the intended conclusion that the universe must always have been coming into creation, while examining the connecting premise and distinguishing continual becoming from a demonstrated infinite past. This philosophical position is not attributed to quantum uncertainty relations or vacuum fluctuations.
+
+The asymmetry argument adds that disequilibrium is inevitable and fundamental, and that the proposed maximum-entropy-production tendency belongs to the universe's generative dynamics. Apparent initial asymmetries and organizing conditions become historical outcomes to explain. Identify their particular mechanisms and determine which actually generate gradients; a reduced-symmetry state does not automatically establish thermodynamic disequilibrium.
+
+1. State the probable-assembly conjecture before using the bowl-and-refraction example: changing the material setting changes an accessible physical path. Explain why the book extends its developmental account to fundamental conditions, while distinguishing that inference from demonstrated cosmic assembly.
+2. Distinguish stationary-action principles, entropy-production proposals, and intentions. Explain why a quantum vacuum already contains structure. State the impossibility of absolute nothingness and constitutive ontological uncertainty as the book's position. Separate it from statistical and epistemic uncertainty; develop the proposed inference to necessary existence and continual becoming, identifying the connecting premise and the temporal meaning of always.
+3. Explain why symmetry and stability are different properties. Use the granular experiments in which balanced populations become unequal under suitable driving: fluctuations alter collision losses and escape rates, amplifying an initial difference. Include the stable balanced regime and distinguish symmetry of the rules from symmetry of the resulting state.
+4. Develop the material and Platonic connection: equivalent alternatives can remain available while one is realized. Introduce the five historical questions together: matter predominance, weak-interaction handedness, observed spatial dimensions, temporal direction, and assembled laws and constants. Distinguish a robust class of outcomes from a predetermined direction. Connect these questions to the proposed energetic driver through their particular mechanisms; clustering alone does not establish a maximum entropy-production rate.
+5. Distinguish the Higgs mechanism and parity violation from CP violation, then examine matter and antimatter through three questions: observed CP asymmetries in decays, the production of a net cosmic excess, and possible spatial segregation into domains. Include the 2025 LHCb baryon result, the Sakharov conditions under standard assumptions, and constraints from annihilation radiation at domain boundaries. Explain why equal pair creation and annihilation cannot themselves generate a net surplus.
+6. Develop the questions of spatial dimensionality and the low-entropy past, followed by effective theories. State inevitable disequilibrium and a fundamental maximum-entropy-production tendency as the book's hypothesis. Require an account of the origin or renewal of gradients and a separate rate comparison. Distinguish symmetry from equilibrium, the formation of an enduring product from its present dissipation, and a change of descriptive scale from a historical change in a physical law.
+7. Develop the conjecture that fundamental constants acquire their values through assembly. Specify what a developmental account would need to derive and distinguish physical parameter relations from arbitrary numerical unit conventions. Give the cosmological constant a specific role as an unresolved challenge.
+8. Join the five mechanisms into the material fine-tuning synthesis: progressively constrained configurations, stationary physical trajectories, symmetry breaking and stability, recursive maintenance, and accumulated structures changing later conditions. State the strongest conclusion as the hypothesis that the universe was unavoidable. Distinguish a critique of unjustified independent-parameter probabilities from a completed refutation of physical fine-tuning problems, and robustness from necessity.
+9. Use the relaxion example to show what a concrete developmental model must specify, without treating it as confirmation of the book's hypothesis.
+10. Confront the assembly of the universe itself, including the origin of gradients and formal possibilities. If spacetime is among the outcomes, identify the ordering of development instead of assuming an external clock. State what the account presupposes and what further derivations would be required. Specify admissible histories and outcomes before claiming necessity; a permitted failure defeats strict unavoidability, while “probably” remains the author's working judgment rather than a computed probability.
+
+**Causal demonstration:** Use physical causal models and discriminating observations, retaining the scope of existing experiments. Ordinary cosmic variation cannot stand in for universes assigned different fundamental constants. Where competing origins remain observationally indistinguishable, mark the origin claim unidentified. See I63 and the afterword for the shared identification standard.
+
+**Transition:** The physical section leaves the origin of existence as an explicit conjecture requiring further explanation. Turn to the history of the beings capable of investigating it: human development and self-domestication, followed directly by collective intelligence.
+
+## Part III — Human Society and Artificial Intelligence
+
+Follow the physical hypothesis into the development of people, collective competence, economic self-production, self-modeling, and AI. Keep human development and collective intelligence adjacent, then explain the material support and regulation through which their capabilities continue and change.
+
+### 7. The Species That Changed Its Own Conditions
+
+**Current material:** [chapter7](chapter7). **Ideas:** I13, I19, I31, I34–I39, I44, I46–I49, I53–I54. **Sources:** S13, S15, S33, S35, S42, S51, S59, S69–S74.
+
+**Question:** How can a community reproduce the capacities of its members while changing the conditions under which later members develop?
+
+**Argument:** Human development makes the reproduction and transformation of constraints concrete. Cooperation, care, teaching, and restraint regenerate social organization; that organization changes opportunities for learning and may change biological selection. New capacities can then alter the material and formal relations that sustain them. Self-domestication is one proposed mechanism in this history, not a complete explanation of intelligence. Disequilibrium remains the proposed driver, assembly forms capacities, and autopoiesis concerns their continuing social regeneration.
+
+1. Open with the explicitly imagined shared food return. Show why a successful undertaking depends on what happens to its proceeds, then connect repeated cooperation to the renewal of a community.
+2. Introduce autopoiesis and the distinction between maintaining an organization and changing its constraints. Identify external energy and materials, provisioning, care, teaching, and recognized obligations. Separate biological reproduction, genetic selection, individual learning, and social regeneration.
+3. Develop self-domestication through the distinction between reactive and proactive aggression. Examine coalitionary execution as a proposed selective mechanism, keeping prehistoric rates and genetic consequences unestablished. Collective restraint can change the consequences of individual strength without eliminating planned violence.
+4. Give shared care and costly learning a central role. Follow an illustrative learner through support, practice, acquired competence, and the ability to teach or revise a practice. Explain how intelligence becomes effective through an assembled developmental environment.
+5. Compare the neural-crest proposal, criticisms of a general domestication syndrome, and socially shaped emotional control. Preserve alternative mechanisms and avoid deriving all human intelligence from reduced aggression.
+6. Clarify chronology: early Homo sapiens, multiple dispersals, environmental constraints, and agricultural transitions are different events. Reject a finished mind waiting passively for history and a single date for the origin of society.
+7. Make joint material and Platonic change explicit through sharing rules, recognized contributions, support for learning, and access to stores. Formal relations have physical consequences through embodied practices that must be renewed and can be revised.
+8. Connect the cycle to chapter 5: existing food, time, and protection carry costly intermediates before a return. Separate cheaper coordination from increased support for difficult learning; follow the later capacity into changed productive possibilities without equating it automatically with maximum entropy production.
+9. Develop the dialectical consequence. Collective restraint can become concentrated power; conformity can preserve competence and suppress correction. Ask how a successor preserves cooperation while changing the authority or rule obstructing development.
+10. Keep electrification and the technological combination and lock-in models as brief comparisons. Their role is to clarify preservation through transformation, without making the factory the main story or treating a technological model as evidence of human biological selection.
+11. Compare the operations that renew learning and correction with those that maintain only current output. Specify interruptions, reserves, substitutes, boundaries, and rival explanations before judging the outcome.
+12. Return to the food-sharing group with the causal sequence explicit: social capacities create arrangements; those arrangements shape development and possibly selection; changed capacities alter the organization again. End with the teaching, tools, and shared practices through which those capacities can accumulate beyond one individual.
+
+**Causal demonstration:** Separate cooperation, cultural retention, developmental support, and genetic selection. Evaluate independently explained changes in exposure where records allow; address climate, migration, demographic differences, and preservation. A later social effect cannot automatically identify prehistoric self-domestication. See I63 and the afterword for the shared identification standard.
+
+**Transition:** The social conditions that shape human development also make transmission possible. The next chapter follows individual capacities into a collective competence that can accumulate across lives.
+
+### 8. The World That Learned to Think
+
+**Current material:** [chapter8](chapter8). **Ideas:** I34, I38, I47, I54. **Sources:** S12, S53.
+
+**Question:** How can limited individual minds participate in a system of competence that no one mind contains?
+
+**Argument:** Intelligence develops through embodied representation and action; collective intelligence additionally depends on transmission, tools, records, access, and correction. Its energetic significance lies in changing what subsequent activity can accomplish.
+
+1. Begin with a learned action to explain retained relations, anticipation, and the physical cost of a capacity whose benefit may arrive later.
+2. Distinguish biological inheritance, individual development, and cultural transmission. Connect them to the support for learning established in chapter 7 and develop the collective mechanisms anticipated by chapter 4's account of concentrated scientific search.
+3. Use the screwdriver's production network to make distributed competence concrete.
+4. Develop the retiring technician and learner: documentation, supervised practice, and time to teach determine whether a capacity survives a person's departure.
+5. Follow standards and communication into authority. Conformity can preserve useful procedures while suppressing warnings or concentrating error.
+6. Connect accumulated knowledge to production through the general-intellect discussion. Specify how knowledge becomes usable and who can direct its use.
+
+**Causal demonstration:** Investigate changes in access to teaching, records, and communication with defensible comparison groups. Track retained competence and productive consequences separately; knowledge spillovers can compromise group comparisons. See I63 and the afterword for the shared identification standard.
+
+**Transition:** Collective competence requires continuing support for people, tools, and learning. The next chapter examines the economic claims and operations that organize this support, and when their regenerative closure can fail or change.
+
+### 9. The System That Produces Its Tomorrow
+
+**Current material:** [chapter9](chapter9). **Ideas:** I20–I27, I31, I48–I49, I53, I65. **Sources:** S09–S11, S33, S45, S60, S79–S86.
+
+**Question:** Which operations regenerate an economic organization, and when does that reproduction transform or undermine the conditions sustaining it?
+
+**Argument:** Autopoiesis is the mechanism of continuing organization investigated here. Marx and Luhmann are synthesized through cybernetics: production sustains communicative organization, which directs further production, while feedback connects material consequences to changes in formal relations. Production, payments, provisioning, recognized claims, and enforcement renew the jointly material and Platonic system. Disequilibrium supplies the proposed physical driver, while assembly explains formation and changed possibilities. Material performance and legitimacy enter through their roles in the regenerative process.
+
+1. Begin with a hypothetical missed wage payment that interrupts physical production despite working equipment. Follow the operations that restore the cycle.
+2. Trace production, receipts, provisioning, maintenance, and renewed commitments. State the boundary, external energy and material inputs, and dependencies on households, suppliers, care, and public systems.
+3. State the synthesis of Marx and Luhmann through cybernetics explicitly. Follow both directions: material activity sustains communication, while distinctions and recognized obligations direct material activity. Use the wage interruption and its reported consequences to show feedback preserving or changing formal relations. Present one jointly material and Platonic system; retain the differences among biological autopoiesis, social reproduction, and regulation.
+4. Put ideology and reification inside self-production: historically produced relationships can appear as independently existing powers or natural necessities. Explain materially sustained institutions through their operations, distinguishing false ideological representations from the real effects of embodied ideas and formal relations.
+5. State the compressed money–tax–war–protection argument, then develop its recurrent operations. Use Tilly and the chartalist mechanism with their scopes explicit; distinguish demand for currency to pay taxes, issuance, settlement, bank-created deposits, and a universal claim about monetary origins.
+6. Trace changing labor relationships and guarantees through the feudalism–union comparison. State the functional account of labor unions as mutual protection pacts. Begin with Fulbert's reciprocal duties; examine the 1349 English labor ordinance, the 1824 Act, and the 1871 parliamentary account of union benefits and assistance reaching work. Distinguish declared obligations, enforceable claims, and delivered protection. Develop the hypothesis that particular feudal relations failed when their regenerative closure broke, testing compensation and transformation rather than assigning a single cause or end date to all feudalism. Preserve differences in hierarchy, membership, coercion, and the ability to refuse.
+7. State the hypothesis that capitalism remains dominant while it delivers jobs and affordable goods. Explain how material delivery reproduces participation, capacities, and dependence, while testing whose employment and necessities are secured. Growing markets do not by definition supply a job to everyone. Investigate coercion, compensating operations, and the distinction between institutional survival and participants' well-being.
+8. Use an illustrative conflict between shelter and collateral to show how one organization's self-production can block a wider productive transition. Connect this to dialectical transformation and the extra explanation required by the energetic hypothesis.
+9. Make interruptions and substitutions tests of the account. Return to chapter 4's inquiry problem through the reproduction of its material supports. End with the participants' capacities for interpretation, regulation, and learning, preparing the cognitive mechanisms of the next chapter.
+
+**Causal demonstration:** Use historically documented interruptions and substitutions to identify regenerative dependencies. Separate an initiating failure from symptoms of prior decline, specify reserves and replacement intervals, and test the defined organization rather than labeling every survivor closed. See I63 and the afterword for the shared identification standard.
+
+**Transition:** Carry the Marx–Luhmann synthesis into the reciprocal relationship between regulation and renewal. Economic operations sustain the people and institutions that regulate production; their communications and decisions organize its next round. The next chapter develops this circuit and asks how a system can model aspects of its own activity.
+
+### 10. The System That Models Itself
+
+**Current material:** [chapter10](chapter10). **Ideas:** I22, I31, I38–I39, I44, I53–I55, I57–I60, I65. **Sources:** S09–S10, S33, S45, S60, S87–S94.
+
+**Question:** How do regulation and self-production sustain one another, and what changes when a system represents aspects of its own activity?
+
+**Argument:** Cybernetic regulation helps keep productive processes within viable conditions; autopoietic renewal regenerates the means of regulation. A self-model can introduce further distinctions through which a system changes its own action and search. The history from symbolic AI to learned representations illustrates a transformation in how cognitive capacities are assembled, without establishing subjective experience or the broader thermodynamic hypothesis.
+
+1. Open with an illustrative person carrying a cup and anticipating fatigue. Separate correction of movement, renewal of the acting body, and a judgment about the actor's capacity.
+2. Introduce Wiener and Ashby through feedback, available responses, and disturbances. A thermostat regulates a variable while another organization supplies its repair and power.
+3. Develop the reciprocal relationship of cybernetics and autopoiesis through a schematic cell, the embodied cup carrier, and social provisioning. Extend chapter 9's Marx–Luhmann synthesis: material production renews communicative and regulatory capacities, whose formal distinctions direct subsequent material action. Identify both directions of dependence, reserves, and delayed failure. Distinguish organizational closure from isolation, stability, and an information loop.
+4. Connect regulated and regenerated capability to assembly and the chapter 1 bottleneck question. Local control can succeed while a wider productive dependency fails. Constraints can make action reliable or prevent necessary adjustment.
+5. Introduce interacting hierarchies and recurrent pathways with bounded macaque visual-cortex evidence. Distinguish hierarchy, recurrence, recursive procedures, and self-modeling; reject a single all-knowing executive as an explanation.
+6. Develop a partial model of the body, attention, capacities, and limits without a complete internal duplicate. Use attention schema theory and the artificial-agent intervention within their evidence limits. Connect socially learned self-descriptions to chapter 8; functional advantage does not establish consciousness.
+7. Trace the methodological reversal from an explicit logic-first ambition to trained representations, using McCarthy's recollections, the neural research lineage, and AlexNet. Retain the uses of formal verification through AlphaProof. Connect support for costly learning to the first steam engine.
+8. Specify interventions on self-models and reciprocal renewal dependencies. Return to the energetic hypothesis through actual actions and physical consequences, distinguishing a learning-loss gradient from physical disequilibrium.
+
+**Causal demonstration:** Combine existing controlled self-model interventions with historical variation in regulatory access and renewal where credible. Identify both directions through time; distinguish improved regulation, regeneration, and subjective experience. See I63 and the afterword for the shared identification standard.
+
+**Transition:** Artificial cognition can be assembled within this history while remaining dependent on initiation, finite computation, and an organization that renews its operating conditions.
+
+### 11. Why the World Builds Artificial Intelligence
+
+**Current material:** [chapter11](chapter11). **Ideas:** I31, I38, I41–I44, I49–I55, I60–I62. **Sources:** S07, S33, S68, S93, S95–S102.
+
+**Question:** Why does the proposed process assemble AI, and what limits remain when artificial cognition has been assembled?
+
+**Argument:** Existing physical flows and institutions support learning; material and formal constraints organize the search; learned capacities can alter subsequent action. This proposed mechanism predicts the emergence of bounded capabilities, not unlimited cognition or autonomous self-production. Distinguish a model, its execution, an agent program, and the wider productive organization.
+
+1. Open with a deliberately idle inference service. A retained model requires invocation, while an agent or controller may continue through scheduled inputs, observations, or its own programmed loop without a fresh human prompt for every action.
+2. Explain joint material and Platonic organization through architecture, parameters, hardware, and execution. Distinguish specification, training, retention, inference, and deployment. Follow constraints that concentrate search or reward misleading shortcuts.
+3. Connect costly initial learning to chapter 5's first engine. Distinguish lowering learning costs from committing more resources before a return exists.
+4. Separate fixed model weights from variable total inference computation. Autoregressive generation, candidates, checks, and tools incur additional work; every actual run still has finite resource and execution limits.
+5. Unpack “thinking mode” into prompting, reasoning-oriented training, and inference-time allocation. Use chain-of-thought and zero-shot prompting, DeepSeek-R1, s1's training and continuation cue, and test-time scaling research. Explain why prompting is part of the mechanism but “just prompt hacking” is not an adequate general account.
+6. Explain task-dependent returns, unavailable evidence, repeated errors, imperfect verification, and the limits of self-correction. Distinguish contextual adaptation, external memory, and weight updates. More computation may improve results without guaranteeing indefinite improvement.
+7. Connect cybernetic action and observation to the conditions of effective checking. A continuing program does not automatically regenerate its chips, power, maintenance, or operators; locate any autopoietic claim in a specified productive network.
+8. Restate AI as an inevitable outcome under the book's hypothesis, with prerequisites and counterfactual histories requiring specification. Distinguish the emergence claim from consciousness, guaranteed benefits, and endless recursive acceleration. Trace cognitive gains into physical outcomes before invoking an energetic maximum.
+9. Compare the same model under different prompts, execution budgets, and access to external feedback; separately compare training. Record correctness, costs, failures, and plateaus. Then test whether the resulting gains change productive pathways beyond what rival explanations predict.
+
+**Causal demonstration:** Compare prompting, training, compute allocation, and external feedback separately. Existing logs or assignment rules may support causal inference, but hard tasks receiving more resources confound naive comparisons. State model versions, task selection, costs, uncertainty, and failure cases. See I63 and the afterword for the shared identification standard.
+
+**Transition:** Follow a bounded cognitive capability into the organization supplying it and the physical production it can help change; chapter 12 develops data centers and the possible productive return.
 
 ### 12. The Machines That Build the Next Machines
 
-**Current material:** [chapter12](chapter12). **Ideas:** I31, I38, I43, I53–I55. **Sources:** S31, S50, S54.
+**Current material:** [chapter12](chapter12). **Ideas:** I31, I38, I43, I53–I55, I60. **Sources:** S31, S50, S54.
 
-**Question:** Under what assembled conditions could artificial intelligence become practically inevitable?
+**Question:** How does the proposed process make AI and data centers inevitable outcomes, and what would test that necessity?
 
-**Argument:** AI is proposed as a further product of the same disequilibrium-driven process that assembled biological and collective intelligence. Its distinctive possibility is to help change the productive pathways supporting its own development.
+**Argument:** AI and data centers are proposed as inevitable outcomes of the same disequilibrium-driven process that assembled biological and collective intelligence. Artificial cognition and organized concentrations of computing and its physical supports belong to the same prediction. Their distinctive possibility is to help change the productive pathways supporting further development; the emergence claim does not guarantee an indefinitely expanding return loop.
 
 1. Begin with the bounded TCV plasma-control result to establish a concrete computational contribution within physical apparatus.
-2. Trace the inherited requirements: methods, representations, data, computing equipment, manufacturing, power, and resources committed to costly initial capabilities.
+2. Carry forward chapter 11's account of AI as assembly, built on chapter 10's cognitive mechanisms, into its inherited requirements: methods, representations, data, computing equipment, manufacturing, power, and resources committed to costly initial capabilities. Develop data centers as a predicted physical organization coordinating computation, power delivery, cooling, communication, and maintenance. Compare concentrated facilities with dispersed alternatives instead of inferring concentration from energy dependence alone.
 3. Relate this support to the first steam engine and to the social support for learning. Distinguish a viable early function from its later, more efficient form.
-4. Define the inevitability claim around a class of cognitive capabilities under independently specified conditions. Keep architecture, date, consciousness, and indefinite acceleration as separate questions.
+4. Define the inevitability claim around both cognitive capabilities and the organization of data centers under independently specified conditions. Explain how the process produces those conditions. Specify histories that could count against either component. Keep architecture, site, date, consciousness, and indefinite acceleration as separate questions.
 5. Follow an AI-assisted proposal through evaluation, physical validation, manufacture, operation, and reinvestment. Identify where the return connection could fail.
 6. Examine ownership and the distribution of gains. The emergence of a capability does not determine its political use.
 
-**Transition:** The argument has explained proposed transitions using inherited physical properties and gradients. Can it explain any of those inherited conditions themselves?
+**Causal demonstration:** Identify effects of resource access on AI deployment and facility formation separately from effects on productive return. Investigate anticipated demand, shared infrastructure, spillovers, and alternative pathways. Local effects support specified links, not a universal necessity claim by themselves. See I63 and the afterword for the shared identification standard.
 
-### 13. Could the Laws Have a History?
-
-**Current material:** [chapter13](chapter13). **Ideas:** I02–I04, I31, I40–I42, I54, I56. **Sources:** S05–S07, S20–S29, S75–S78.
-
-**Question:** How far can an account of assembly reach toward the creation of physical structure and the specification of its parameters?
-
-**Argument:** Physical origins belong within the central inquiry. Extending the thesis to them requires a mechanism capable of explaining the conditions the preceding chapters assumed.
-
-1. Begin with the bowl-and-refraction example: changing the material setting changes an accessible physical path.
-2. Distinguish stationary-action principles, entropy-production proposals, and intentions. Explain why a quantum vacuum already contains structure.
-3. Explain why symmetry and stability are different properties. Use the granular experiments in which balanced populations become unequal under suitable driving: fluctuations alter collision losses and escape rates, amplifying an initial difference. Include the stable balanced regime and distinguish symmetry of the rules from symmetry of the resulting state.
-4. Develop the material and Platonic connection: equivalent alternatives can remain available while one is realized. Distinguish a robust class of outcomes from a predetermined direction. Connect the mechanism to the proposed energetic driver without claiming that clustering alone establishes a maximum entropy-production rate.
-5. Distinguish the Higgs mechanism and parity violation from CP violation, then examine matter and antimatter through three questions: observed CP asymmetries in decays, the production of a net cosmic excess, and possible spatial segregation into domains. Include the 2025 LHCb baryon result, the Sakharov conditions under standard assumptions, and constraints from annihilation radiation at domain boundaries. Explain why equal pair creation and annihilation cannot themselves generate a net surplus.
-6. Develop the low-entropy past and effective theories. Separate the formation of an enduring product from its present rate of dissipation, and a change of descriptive scale from a historical change in a physical law.
-7. Examine whether a developmental account could constrain effective laws or parameter values. Give the cosmological constant a specific role as an unresolved challenge.
-8. Use the relaxion example to show what a concrete developmental model must specify, without treating it as confirmation of the book's hypothesis.
-9. Confront the origin of gradients and formal possibilities. Identify what an explanation of assembly itself presupposes and what additional derivations would be required.
-
-**Transition:** A world that assembles intelligence can also assemble instruments for investigating its own formation.
+**Transition:** Return to the data center as a system that may help change its own productive supports. Reconnect the proposed emergence of AI to chapter 6's conjecture about physical origins, then ask what an assembled intelligence can help build and how its uses are chosen.
 
 ## Epilogue — The World That Builds Its Next Question
 
-**Current material:** [epilogue](epilogue). **Ideas:** I50–I56.
+**Current material:** [epilogue](epilogue). **Ideas:** I50–I62.
 
-Return to the connected data center and an answer that must still become a working physical change. Revisit the sequence from embodied life through social cooperation, inherited knowledge, industry, and artificial cognition. Each transition changes the possibilities available to the next.
+Return to the connected data center and an answer that must still become a working physical change. Revisit the sequence from embodied life through social cooperation, inherited knowledge, self-modeling, industry, and artificial cognition. Each transition changes the possibilities available to the next.
 
-Bring convergent discovery and dialectical transformation back to the proposed common driver. End with the possibility of intelligence deliberately investigating and changing the process through which further intelligence and productive capacity arise. Keep human purposes visible: greater throughput cannot supply its own ethical justification.
+Bring convergent discovery and dialectical transformation back to the proposed common driver. Restate AI and data centers as inevitable outcomes and the universe and fundamental constants as probably assembled, preserving the distinction between the claims and their outstanding proof. End with the possibility of intelligence deliberately investigating and changing the process through which further intelligence and productive capacity arise. Keep human purposes visible: greater throughput cannot supply its own ethical justification.
 
 ## Afterword — What Would Make This a Theory?
 
-**Current material:** [afterword](afterword). **Ideas:** I45, I49–I56. **Sources:** S07, S59, S65–S68, S69–S74.
+**Current material:** [afterword](afterword). **Ideas:** I45, I49–I63. **Sources:** S07, S10, S33, S59, S65–S68, S69–S74, S81, S84–S86, S88–S89, S92–S107.
 
-Turn the synthesis into a proposed method of inquiry and prediction:
+Make natural experiments and causal inference the standard for demonstrating the empirical arguments, with new experiments optional rather than mandatory. Define cause, outcome, counterfactual, assignment process, identification assumptions, and uncertainty before selecting an estimator. Explain difference-in-differences, threshold, and instrumental-variable designs with their limits. Keep proposed historical studies separate from completed findings, and retain observational tests appropriate to cosmology.
+
+Develop the remaining inquiry and prediction:
 
 1. Define the system boundary, disequilibrium, relevant rates, and observation interval before evaluating a case. Identify the operations that regenerate the organization, what enters from outside, and which interruption or substitution could test a claimed dependency.
 2. Map accessible assemblies, construction and operating costs, retention, and changes to subsequent pathways.
@@ -279,11 +379,11 @@ Turn the synthesis into a proposed method of inquiry and prediction:
 5. Compare with simpler explanations of selection, invention, cooperation, and convergence. State what additional prediction the energetic hypothesis makes.
 6. Use dialectical analysis prospectively: identify what an existing arrangement enables, what its continued reproduction obstructs, and which successor could preserve its capacities while changing those relations.
 7. Forecast candidate transitions and bottlenecks rather than guaranteed dates. Include observations that would defeat the forecast or the wider hypothesis.
+8. Specify interventions on self-models and compare prompting, inference budgets, training, and external feedback separately. Distinguish a demonstrated control advantage, improved task performance, and changed physical flows; success on the first two does not establish the third or subjective experience.
+9. Test the AI and data-center claims separately, defining both outcomes and their prerequisites in advance. Compare concentrated and dispersed infrastructure, and distinguish robust emergence from strict necessity across every admissible history. For cosmic assembly, require dynamics and observable consequences for the universe and fundamental values, with the assumed rules and ordering made explicit.
 
-## Integration into the next manuscript revision
+## Integration and development material
 
-The proposed order moves self-domestication and collective intelligence directly after life, then follows agriculture into industry. Discovery can consequently draw on a developed account of the organisms, social relationships, and productive capacities that make inquiry possible.
+The twelve chapter numbers, file names, and reading sequence agree. Chapters 4–6 work backward from familiar discoveries through steam engines to the conjectured assembly of the universe. Chapter 7 combines self-domestication with the transformation of developmental constraints, followed directly by collective intelligence in chapter 8. Economic self-production is chapter 9. Chapter 10 covers cybernetics and self-modeling; chapter 11 explains artificial intelligence through the thesis; chapter 12 develops data centers and productive deployment. All twelve chapters are prose drafts. The [cognition chapter plans](development/cognition-chapter-plans.md) preserve the previous outlines for chapters 10 and 11. The complete pre-merge human drafts remain in [human-development revision material](development/human-development-revision.md). Longer industrial cases and their source notes remain in [historical development material](development/historical-drafts/README.md). The epilogue connects regulation, renewal, and bounded cognition; the afterword adds interventions on self-models and comparisons separating inference resources, prompting, training, and feedback.
 
-When applying this outline to the prose, revise the transitions at life → self-domestication → collective intelligence → agriculture, and institutions → discovery → AI. Renumber chapter files and update chapter references, README reading order, the ideas coverage map, and source-ledger chapter references together. Preserve the existing drafts and their source qualifications through that reorganization.
-
-Keep the original `notes` unchanged. Research commitments remain in `ideas`; evidence and unresolved attribution remain in `sources.md`. The earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). The outline supplies a new sequence and writing plan; the proposed scientific synthesis still requires the tests described in the afterword.
+The institutional development draft and the earlier grid, housing, and Montreal cases remain outside the reading sequence. Historical drafts retain their former chapter numbering and are labeled accordingly. Keep the original `notes` unchanged. Research commitments remain in `ideas`; evidence and unresolved attribution remain in `sources.md`. The afterword specifies the causal-inference standard and further tests required by the scientific synthesis. Each chapter's demonstration plan distinguishes potential identification from evidence already established.

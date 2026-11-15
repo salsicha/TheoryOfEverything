@@ -110,7 +110,7 @@ Humans participate in this history through biological inheritance. We also prese
 
 That second inheritance does not abolish the first. It adds another set of relationships through which the environment of tomorrow is produced. A field contains selected plants and worked soil; it also contains the consequences of remembered seasons, shared skills, obligations, and decisions about who will eat the harvest.
 
-The next chapter begins where those relationships become tangible: with grain kept for a time when grain will no longer be growing.
+The next chapter begins with familiar discoveries in physics: relativity and the reconsideration of wave and particle descriptions. It asks why related answers become accessible to different investigators, and why finding them can require changing the categories of the search. We will then work backward to the steam engine, where support for a new assembly is more tangible, before asking whether the same principles could have built the universe itself.
 
 ## Chapter notes
 
@@ -133,3 +133,4 @@ The next chapter begins where those relationships become tangible: with grain ke
 9. Blount, Borland, and Lenski, “Historical contingency and the evolution of a key innovation in an experimental population of *Escherichia coli*” (2008), [PNAS](https://doi.org/10.1073/pnas.0803151105). See [S03](sources.md#s03).
 
 10. Quandt et al., “Recursive genomewide recombination and sequencing reveals a key refinement step in the evolution of a metabolic innovation in *Escherichia coli*” (2014), [PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC3926077/). The discussion separates refinement from the initial acquisition of the trait. See [S03](sources.md#s03).
+11. **Empirical research design (S110).** Northern California kelp collapse after predator loss and marine heatwaves. Disruption of ecological maintenance can produce persistent loss of a living system's conditions of continuation. The [chapter-specific specification](scripts/experiments.json) and [research guide](scripts/README.md) document the comparison, assumptions, and limits; the [run report](scripts/results/chapter03.json) records the actual data status. This component test does not by itself establish the chapter's broader synthesis.
