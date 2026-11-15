@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during drafting and structural revision on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue and thirteen chapters have numbered notes; the afterword identifies its proposed research designs. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
+Sources checked during drafting and structural revision on November 14–15, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue and thirteen chapters have numbered notes; the afterword identifies its proposed research designs. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
 
 ## S01
 
@@ -138,7 +138,7 @@ Supports the limited magnetic example and the experimental Higgs context. Gauge 
 
 **Parity, CP, and baryogenesis.** C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413) (1957); J. H. Christenson et al., [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138) (1964); Antonio Riotto and Mark Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999).
 
-Used to separate three questions. The review supplies conceptual background, not a current experimental-status survey or a claim that cosmic matter asymmetry has been explained.
+Used to separate three questions. Section II of the review was also checked for the standard Sakharov conditions: baryon-number violation, C and CP violation, and departure from thermal equilibrium. It supplies conceptual background rather than a current experimental-status survey. Chapter 13 treats the 2025 baryon measurement separately under S77 and the cosmic-domain calculation under S78.
 
 ## S24
 
@@ -198,7 +198,7 @@ Chapter 3 reports the compression, novelty, and classification objections as the
 
 **Biological autopoiesis.** Francisco G. Varela, Humberto R. Maturana, and R. Uribe, [“Autopoiesis: The Organization of Living Systems, Its Characterization and a Model”](https://reflexus.org/wp-content/uploads/Varela_Maturana_Uribe_1974_Autopoiesis.pdf), *BioSystems* 5 (1974), 187–196, DOI 10.1016/0303-2647(74)90031-8.
 
-The introduction and characterization distinguish maintaining a living organization from producing offspring. Chapters 3 and 8 use this limited conceptual comparison; neither treats a thermostat, firm, or planet as automatically equivalent to a cell.
+The introduction and characterization consulted during earlier drafting distinguish maintaining a living organization from producing offspring. Chapters 3 and 8 use this conceptual starting point and identify the social extension as the book's proposal. Neither treats a thermostat, firm, or planet as automatically equivalent to a cell. The PDF mirror was unavailable on the November 15 recheck; chapter 8 cites the stable DOI. No additional full-text access is claimed for that recheck.
 
 ## S34
 
@@ -258,13 +258,13 @@ Supports the interpretation that organizational complements can affect the reali
 
 **Changing land rights.** The National Archives, [enclosure awards and maps research guide](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/enclosure-awards/). UK Parliament, [“Enclosing the land”](https://www.parliament.uk/about/living-heritage/transformingsociety/towncountry/landscape/overview/enclosingland/).
 
-Supports the variety and long chronology of English enclosure and what awards recorded. Chapter 8 preserves disagreement about direct displacement into towns and supplies no invented local case.
+Supports the variety and long chronology of English enclosure and what awards recorded. The earlier chapter 8, now preserved in development/institutional-background.md, retains disagreement about direct displacement into towns and supplies no invented local case.
 
 ## S44
 
 **Cotton, coercion, finance, and resistance.** U.S. National Archives, [Whitney's 1794 cotton-gin patent](https://www.archives.gov/milestone-documents/patent-for-cotton-gin) and [slavery and slave-trade records](https://www.archives.gov/research/african-americans/slavery-records.html). Library of Congress, [cotton and the plantation system research guide](https://guides.loc.gov/cotton/slavery-plantation) and [primary-source packet on antebellum slavery](https://www.loc.gov/static/programs/teachers/about-this-program/teaching-with-primary-sources-partner-program/documents/differentiated-instruction-secondary-activity.pdf), including a sale notice specifying credit and mortgage terms. National Humanities Center, [resistance accounts selected from WPA narratives](https://nationalhumanitiescenter.org/pds/maai/enslavement/text7/resistancewpa.pdf). PBS primary-source collection, [letter describing new cotton lands](https://cgi.pbs.org/wgbh/aia/part4/4h3136.html); Smithsonian National Museum of the American Indian, [*Americans*, removal and the cotton economy](https://americanindian.si.edu/americans/).
 
-Supports the narrow machine function and the wider institutional context. WPA recollections are retrospective interviews shaped by the circumstances of collection, not transparent verbatim access to every earlier event. Chapter 8 uses no reconstructed testimony, single-cause expansion claim, or quantitative estimate from these materials. Further archival work could develop specific lives and transactions in revision.
+Supports the narrow machine function and the wider institutional context. WPA recollections are retrospective interviews shaped by the circumstances of collection, not transparent verbatim access to every earlier event. The institutional development draft uses no reconstructed testimony, single-cause expansion claim, or quantitative estimate from these materials. Further archival work could develop specific lives and transactions in revision.
 
 ## S45
 
@@ -372,7 +372,7 @@ The earlier Montreal chapter, preserved in development/earlier-case-studies.md, 
 
 **Controls and recurring assessment.** Ozone Secretariat, [Montreal Protocol overview and treaty](https://ozone.unep.org/treaties/montreal-protocol); [Article 6: Assessment and review of control measures](https://ozone.unep.org/treaties/montreal-protocol/articles/article-6-assessment-and-review-control-measures).
 
-Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. The archived Montreal chapter treats the treaty as an evolving regime; chapter 8 retains a short account of changing assembly constraints. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
+Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. The archived Montreal chapter treats the treaty as an evolving regime; the former chapter 8 account of changing assembly constraints is preserved in development/institutional-background.md. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
 
 ## S63
 
@@ -446,16 +446,90 @@ The indexed abstract and results passages support the limited account of modeled
 
 The indexed abstract and results support the reported relationship between allomaternal care and unsolicited helping across the study's fifteen primate species. This comparative result supplies an additional starting point for chapter 10, not proof of human self-domestication, a complete history of childcare, or the thermodynamic hypothesis. Subsequent care and investment scenarios are explicitly original illustrations.
 
+## S75
+
+**Dissipation and a particle-population instability.** Jens Eggers, [“Sand as Maxwell's Demon”](https://people.maths.bris.ac.uk/~majge/p5322_1.pdf), *Physical Review Letters* 83 (1999), 5322–5325, DOI 10.1103/PhysRevLett.83.5322.
+
+The primary paper's setup, dissipation mechanism, simulations, and flux-balance discussion were read. Chapter 13 uses the account of unequal stationary populations in a driven granular system; it does not identify granular temperature with the grains' molecular temperature or infer a universal entropy-production maximum from clustering.
+
+## S76
+
+**Experimental transition from balanced to unequal populations.** K. van der Weele, D. van der Meer, M. Versluis, and D. Lohse, [“Hysteretic clustering in granular gas”](https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf), *Europhysics Letters* 53 (2001), 328–334, DOI 10.1209/epl/i2001-00157-x.
+
+The setup and two-compartment analysis were read for the 600-bead experiment and its stable and unstable regimes. Chapter 13 does not claim universal symmetry loss or present the paper's three-compartment hysteresis as a two-compartment result. Experimental counts were taken after shaking stopped; the prose consequently makes no claim of an exact measured in-motion population split.
+
+## S77
+
+**CP violation in a baryon decay.** LHCb Collaboration, [“Observation of charge–parity symmetry breaking in baryon decays”](https://doi.org/10.1038/s41586-025-09119-3), *Nature* 643 (2025), 1223–1228; [author text](https://arxiv.org/html/2503.16954v2) and [collaboration announcement](https://lhcb-outreach.web.cern.ch/2025/03/25/observation-of-the-different-behaviour-of-baryonic-matter-and-antimatter/).
+
+The author text's abstract, asymmetry derivation, and measurement passages were read. The result concerns Λ_b⁰ → p K⁻ π⁺ π⁻ and its CP-conjugated decay, with corrections for production and detection effects. It is not evidence for different total lifetimes, an initially equal collider population, or a completed explanation of primordial baryogenesis. The year refers to the published Nature paper.
+
+## S78
+
+**Spatial matter–antimatter domains.** A. G. Cohen, A. De Rújula, and S. L. Glashow, [“A Matter-Antimatter Universe?”](https://arxiv.org/abs/astro-ph/9707087), *The Astrophysical Journal* 495 (1998), 539–549; [paper PDF](https://arxiv.org/pdf/astro-ph/9707087).
+
+The abstract and opening model discussion were read for annihilation at domain boundaries and the resulting radiation constraints. Chapter 13 gives a bounded account of this cosmological patchwork calculation, without adopting its strongest conclusion as an exclusion of every conceivable distribution or claiming knowledge beyond the observable universe.
+
+## S79
+
+**War making and organized protection.** Charles Tilly, [“War Making and State Making as Organized Crime”](https://doi.org/10.1017/CBO9780511628283.008), in *Bringing the State Back In* (1985), 169–191.
+
+The publisher's accessible opening was read for the protection-racket comparison and its European scope. The institutional-repository working paper could not be fetched. Chapter 8 uses the bounded comparison, while its hypothetical defense cycle and regenerative interpretation are original constructions. It does not present a verified universal origin of taxation.
+
+## S80
+
+**Tax obligations and demand for currency.** L. Randall Wray, [“What Are Taxes For? The MMT Approach”](https://www.levyinstitute.org/blog/what-are-taxes-for-the-mmt-approach/), Levy Economics Institute (May 16, 2014).
+
+The author's explanation was read for the chartalist demand mechanism, the issuance-before-settlement sequence, and distinctions among currency regimes. Chapter 8 identifies this theoretical position and uses a simplified issuer. It does not claim that all money originated through taxation, adopt the essay's current-at-publication figures, or infer that all governments face identical constraints.
+
+## S81
+
+**Reciprocal duties in a medieval statement of fealty.** Fulbert of Chartres, [“On Feudal Obligations”](https://sourcebooks.fordham.edu/source/fulbert1.asp) (1020), translated in University of Pennsylvania *Translations and Reprints* (1898), vol. 4, no. 3, 23–24.
+
+The translated letter was read. It describes duties between a lord and vassal, including reciprocity. It is normative evidence, not a survey of delivery, a description of all peasant relations, or proof that feudalism and modern trade unionism are the same institution.
+
+## S82
+
+**Ideas within material activity.** Karl Marx and Friedrich Engels, [*The German Ideology*, Part I.A](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm), and [Part I.B, ruling ideas](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm), manuscript of 1845–46.
+
+The passages on consciousness, material practice, and ruling relationships were consulted. Chapter 8 develops its own account of ideology within social self-production. It distinguishes a representation's truth from the existence and consequences of the practices carrying it. No passage marked as deleted in the manuscript is presented as an unqualified final formulation.
+
+## S83
+
+**Continuing association among wage-earners.** Sidney and Beatrice Webb, [*The History of Trade Unionism*, chapter I](https://www.gutenberg.org/files/66887/66887-h/66887-h.htm), revised edition extended to 1920; first edition 1894.
+
+The edition information and opening definition were checked for the limited description of union purpose. The chapter's contribution–reserve–participation cycle is an original illustration. The work is not used to establish direct descent from feudal relations or a universal account of union effectiveness.
+
+## S84
+
+**Labor obligations after plague.** [Ordinance of Laborers, 1349](https://sourcebooks.fordham.edu/seth/ordinance-labourers.asp), translated text in the Internet History Sourcebooks.
+
+The preamble and provisions on compulsory service, departure, and remuneration were read. They support an account of the authority's attempted response to scarcity. The ordinance alone does not establish enforcement outcomes or the end of feudalism. The regenerative-closure interpretation is the book's hypothesis.
+
+## S85
+
+**Rules of collective labor organization.** [An Act to repeal the Laws relative to the Combination of Workmen; and for other Purposes therein mentioned](https://www.legislation.gov.uk/ukpga/Geo4/5/95/pdfs/ukpga_18240095_en.pdf), 5 Geo. IV c. 95 (1824).
+
+The opening and repeal provisions were checked for the bounded account of changed rules concerning combinations and punishment. This is a historical legislative example, not a statement of current law or a complete history of union legality.
+
+## S86
+
+**Union benefits and the material means of organization.** House of Lords, [Trade Unions Bill and Criminal Law Amendment Bill, second reading, May 1, 1871](https://hansard.parliament.uk/Lords/1871-05-01/debates/28afe3b9-a963-4e72-be78-c1ed8f252ebe/SecondReading).
+
+The passages on benefits, assistance reaching available work, and protection of funds were read. These are parliamentary claims made while advocating legislation, not independent performance audits. The interpretation of travel support as part of a regenerative cycle belongs to the book.
+
 ## Outstanding research and attribution
 
-**Revision status, November 14, 2026:** the outline and manuscript now place disequilibrium-driven maximization of energy extraction and entropy production at the center of the proposed account of assembly, discovery, and intelligence. Relativity is chapter 9; self-domestication and society are chapter 10; collective intelligence and AI are chapters 11–12; physical origins are chapter 13. Shared conditions remain constraints and mediators. The historical sources do not establish the proposed thermodynamic cause of relativity.
+**Revision status, November 15, 2026:** the outline and manuscript now place disequilibrium-driven maximization of energy extraction and entropy production at the center of the proposed account of assembly, discovery, and intelligence. Relativity is chapter 9; self-domestication and society are chapter 10; collective intelligence and AI are chapters 11–12; physical origins are chapter 13. Chapter 8 now centers economic autopoiesis and the hypothesis of lost regenerative closure, with a bounded labor-history thread from medieval obligations to organized wage labor. Disequilibrium, assembly, and autopoiesis have distinct roles across the connected chapters. Shared conditions remain constraints and mediators. The historical sources do not establish the proposed thermodynamic cause of relativity.
 
 - **Mechanism:** specify a measurable coupling from physical disequilibrium through inquiry and retention to changed productive pathways. The afterword's graph model and tests are proposals, not completed validation.
 - **Relativity and dialectics:** the 1905 comparison is deliberately bounded. A fuller chronology and the separate 1915 case require further work. Negation of the negation is the book's interpretation, not a verified Einstein self-description.
 - **Cosmology:** chapter 13 makes physical origins central but supplies no quantitative solution to fine-tuning, no derived constants, and no derivation of existence from a quantum vacuum.
+- **Symmetry and particle populations:** chapter 13 now distinguishes unstable balanced states, CP-violating decay probabilities, net baryon production, and spatial matter–antimatter separation. The granular and collider results do not establish a universal entropy-production maximum or solve cosmic baryogenesis. The outline's proposed chapter 13 incorporates these distinctions.
+- **Economic self-production and closure:** identify the operations, boundaries, replacements, and interruptions that test the social extension of autopoiesis. The feudal-decline account is a hypothesis requiring regional histories; the 1349 ordinance does not by itself establish failure or replacement. Distinguish a promised guarantee, delivered support, and regeneration of the institution. The labor episodes are a comparative thread rather than a single institutional genealogy.
 - **Historical depth:** extend regional English–Chinese comparisons, industrial labor evidence, agricultural histories, and Chinese accounts of imperial conflict before adding detailed scenes or stronger causal estimates.
 - **Self-domestication and society:** chapter 10 distinguishes reactive aggression, organized violence, shared care, learned restraint, and genetic selection. Rates and consequences of prehistoric sanctions, the developmental analogy, and the coupling to entropy production remain unresolved. Social coordination and agricultural expansion are not synonymous.
 - **Cognition and AI:** distinguish biological evolution, individual learning, cultural retention, artificial cognitive functions, consciousness, and recursive industrial growth. The proposed common driver does not erase the separate mechanisms or establish future general intelligence.
-- **Archived cases:** the complete earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). Their longer factual claims retain their original source limitations; the revised narrative uses narrower selections.
+- **Archived cases:** the complete earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). Their longer factual claims retain their original source limitations; the revised narrative uses narrower selections. The former chapter 8 is preserved in [institutional development material](development/institutional-background.md), including enclosure, cotton, the extended theoretical comparison, and the Montreal discussion.
 - **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No dialogue or missing source has been reconstructed.
 - **Publication review:** specialist review, a fuller account of predecessors, and discriminating empirical comparisons remain necessary. A coherent manuscript is not a validated universal theory.
