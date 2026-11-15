@@ -10,6 +10,8 @@ The causal claim is the book's hypothesis, not an established universal theorem.
 
 Thirteen chapters in three parts, with a prologue, epilogue, and methodological afterword. The original extensionless files contain UTF-8 Markdown. Cosmology is now chapter 13 within the main inquiry.
 
+This reading sequence describes the existing manuscript. The [new chapter outline](outline) proposes a revised order in four parts and identifies the current draft material for each chapter.
+
 | Section | File | Title |
 | --- | --- | --- |
 | Opening | [prologue](prologue) | The Machine Waiting for Electricity |
@@ -35,7 +37,7 @@ Thirteen chapters in three parts, with a prologue, epilogue, and methodological 
 | --- | --- |
 | [notes](notes) | Original source notes, preserved unchanged |
 | [ideas](ideas) | Expanded ideas I01–I56 and current coverage map |
-| [outline](outline) | Current causal argument, chapter responsibilities, objections, and transitions |
+| [outline](outline) | New chapter sequence, section plans, causal argument, and mapping to existing drafts |
 | [sources.md](sources.md) | Source keys S01–S74, evidence limits, and outstanding research |
 | [Parked material](development/parked-material.md) | Earlier displaced philosophical, historical, and policy discussions |
 | [Earlier case studies](development/earlier-case-studies.md) | Full grid, housing, and Montreal chapters replaced or condensed in this revision |
