@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during drafting and structural revision on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue and twelve chapters have numbered notes; the afterword identifies its proposed research designs. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
+Sources checked during drafting and structural revision on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue and thirteen chapters have numbered notes; the afterword identifies its proposed research designs. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
 
 ## S01
 
@@ -72,13 +72,13 @@ Supports distinguishing commercial-bank deposit creation from the claim that all
 
 **Cumulative culture.** Michael Muthukrishna and Joseph Henrich, [“Innovation in the collective brain”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4780534/), *Philosophical Transactions of the Royal Society B* (2016).
 
-Supports investigating how social learning, connectivity, and accumulated knowledge affect innovation. Population size is not a complete causal explanation. A detailed cassava-processing scene is not used; chapters 4 and 10 retain the general transmission mechanism without inventing ethnographic details.
+Supports investigating how social learning, connectivity, and accumulated knowledge affect innovation. Population size is not a complete causal explanation. A detailed cassava-processing scene is not used; chapters 4 and 11 retain the general transmission mechanism without inventing ethnographic details.
 
 ## S13
 
 **Early Homo sapiens.** Jean-Jacques Hublin et al., [“New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens”](https://www.nature.com/articles/nature22336), *Nature* (2017).
 
-Supports the deep history of our species, roughly 300,000 years. It does not support biological stasis, an idle early humanity, or one uniquely dated departure from Africa. Obtain archaeological and genetic work on multiple dispersals and admixture before drafting those details.
+Supports the deep history of our species, roughly 300,000 years. It does not support biological stasis, an idle early humanity, or one uniquely dated departure from Africa. Chapter 10 adds a bounded archaeological comparison under S72 and a climatic model under S73. Detailed dispersal and admixture histories still need fuller treatment.
 
 ## S14
 
@@ -90,7 +90,7 @@ Experimental evidence against the categorical assertion that chimpanzees cannot 
 
 **Domestication hypothesis.** Adam S. Wilkins, Richard W. Wrangham, and W. Tecumseh Fitch, [“The ‘Domestication Syndrome’ in Mammals: A Unified Explanation Based on Neural Crest Cell Behavior and Genetics”](https://academic.oup.com/genetics/article/197/3/795/5935921), *Genetics* 197 (2014), 795–808.
 
-This is a proposed developmental explanation, not proof of a general human-domestication mechanism. It supplies no basis for racial rankings of intelligence, equating compliance with intelligence, or interpreting modern IQ trends as rapid genetic change. The parked development essay pairs the proposal with the Lord et al. critique under S51 and does not assert a demonstrated human mechanism.
+This is a proposed developmental explanation, not proof of a general human-domestication mechanism. It supplies no basis for racial rankings of intelligence, equating compliance with intelligence, or interpreting modern IQ trends as rapid genetic change. Chapter 10 and the parked development essay pair the proposal with the Lord et al. critique under S51; neither asserts a demonstrated human neural-crest mechanism.
 
 ## S16
 
@@ -120,13 +120,13 @@ Orientation to stellar life cycles. Chapter 3 adds primary nucleosynthesis evide
 
 **Quantum uncertainty and interpretation.** H. P. Robertson, [“The Uncertainty Principle”](https://doi.org/10.1103/PhysRev.34.163) (1929); David Bohm, [“A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I”](https://doi.org/10.1103/PhysRev.85.166) (1952).
 
-Chapter 12 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
+Chapter 13 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
 
 ## S21
 
 **The quantum vacuum.** David Tong, [Quantum Field Theory, section 2, “Free Fields”](https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html), especially section 2.3.
 
-Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 12 explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
+Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 13 explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
 
 ## S22
 
@@ -150,7 +150,7 @@ Supports the statistical explanation and the need to account for low-entropy ini
 
 **Effective theories.** Joseph Polchinski, [“Effective Field Theory and the Fermi Surface”](https://arxiv.org/abs/hep-th/9210046), TASI 1992 lectures, revised 1999; [HTML text](https://arxiv.org/html/hep-th/9210046).
 
-Supports descriptions organized by energy scale. Chapter 12 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
+Supports descriptions organized by energy scale. Chapter 13 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
 
 ## S26
 
@@ -174,7 +174,7 @@ Supports the specific bound concerning gravitationally bound structures. The cha
 
 **A dynamical proposal.** Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551), *Physical Review Letters* 115 (2015), 221801; [full text consulted](https://arxiv.org/pdf/1504.07551).
 
-Chapter 12 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
+Chapter 13 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
 
 ## S30
 
@@ -186,7 +186,7 @@ Supports the prologue's limited background about computing equipment, power dist
 
 **AI and productive energy capabilities.** International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation), in Energy and AI (2025).
 
-Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Chapter 11 now includes the bounded TCV control demonstration under S54 and separates it from the proposed future loop.
+Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Chapter 12 now includes the bounded TCV control demonstration under S54 and separates it from the proposed future loop.
 
 ## S32
 
@@ -300,13 +300,13 @@ Supports learning of sound-sequence regularities in a controlled segmentation ta
 
 **Machine representations.** Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean, [“Efficient Estimation of Word Representations in Vector Space”](https://arxiv.org/abs/1301.3781) (2013).
 
-Provides a concrete example of learned word vectors. Chapter 11's map analogy and claims about representation costs are explanatory arguments, not results of a neural theory in this paper.
+Provides a concrete example of learned word vectors. Chapter 12's map analogy and claims about representation costs are explanatory arguments, not results of a neural theory in this paper.
 
 ## S51
 
 **Domestication critique.** Kathryn A. Lord, Greger Larson, Raymond P. Coppinger, and Elinor K. Karlsson, [“The History of Farm Foxes Undermines the Animal Domestication Syndrome”](https://pubmed.ncbi.nlm.nih.gov/31810775/), *Trends in Ecology & Evolution* 35 (2020), 125–136, DOI 10.1016/j.tree.2019.10.011; [author manuscript](https://repository.escholarship.umassmed.edu/bitstream/20.500.14038/25872/2/PIIS0169534719303027.pdf).
 
-Read alongside S15 as a substantive challenge to an overgeneralized domestication story. The parked development essay does not claim a settled human neural-crest mechanism or infer intelligence from conformity, ancestry, or brain volume.
+Read alongside S15 as a substantive challenge to an overgeneralized domestication story. Chapter 10 brings this challenge into the main narrative alongside S71. Neither it nor the parked development essay claims a settled human neural-crest mechanism or infers intelligence from conformity, ancestry, or brain volume.
 
 ## S52
 
@@ -318,7 +318,7 @@ Supports the robot's structure inference and revised locomotion after damage. It
 
 **General intellect.** Karl Marx, [*Grundrisse*, Notebook VII, fixed capital and general social knowledge](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm), especially the passage beginning with the development of fixed capital and general knowledge as a force of production.
 
-Chapter 10 paraphrases the relevant passage. Its connection to collective competence and present ownership questions is the book's interpretation, not a prediction attributed verbatim to Marx.
+Chapter 11 paraphrases the relevant passage. Its connection to collective competence and present ownership questions is the book's interpretation, not a prediction attributed verbatim to Marx.
 
 ## S54
 
@@ -410,14 +410,51 @@ The Poincaré translation and Einstein's opening and simultaneity discussion wer
 
 Background for the two-reservoir balances in chapter 2. The manuscript states its own boundaries explicitly: direct heat transfer without work extraction, then a cyclic engine between fixed-temperature reservoirs exporting work. The equations do not identify maximum useful power with maximum entropy production or establish a finite-power reversible engine. The proposed extension to changing assembly pathways is separate from these thermodynamic identities.
 
+## S69
+
+**Reactive and proactive aggression.** Richard W. Wrangham, [“Two types of aggression in human evolution”](https://doi.org/10.1073/pnas.1713611115), *PNAS* 115 (2018), 245–253; [indexed abstract](https://pubmed.ncbi.nlm.nih.gov/29279379/).
+
+The abstract and indexed author passages support chapter 10's distinction between forms of aggression. The cross-species comparison is the author's argument, not a claim that all humans are gentle or all violence follows one mechanism. Direct PMC retrieval was blocked; no full-text review is claimed for this paper.
+
+## S70
+
+**Coalitionary execution as an evolutionary hypothesis.** Richard W. Wrangham, [“Hypotheses for the Evolution of Reduced Reactive Aggression in the Context of Human Self-Domestication”](https://pmc.ncbi.nlm.nih.gov/articles/PMC6710405/), *Frontiers in Psychology* 10 (2019), 1914, DOI 10.3389/fpsyg.2019.01914.
+
+The abstract, execution discussion, and conclusion were read. Chapter 10 distinguishes the proposed selective mechanism from demonstrated prehistoric frequencies or genetic effects, and separates it from the book's energetic interpretation. The article's comparison does not settle the relative contributions of alternative mechanisms.
+
+## S71
+
+**An alternative emphasis on emotional control.** Dor Shilton, Mati Breski, Daniel Dor, and Eva Jablonka, [“Human Social Evolution: Self-Domestication or Self-Control?”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7033472/), *Frontiers in Psychology* 11 (2020), 134, DOI 10.3389/fpsyg.2020.00134.
+
+The abstract and comparative discussion were consulted for the authors' challenge to the domestication analogy and emphasis on socially mediated emotional plasticity. Chapter 10 presents an alternative hypothesis, not an established replacement theory or a detailed reconstruction of language origins.
+
+## S72
+
+**Evidence for earlier movement beyond Africa.** Israel Hershkovitz et al., [“The earliest modern humans outside Africa”](https://pubmed.ncbi.nlm.nih.gov/29371468/), *Science* 359 (2018), 456–459, DOI 10.1126/science.aap8369. Compare Warren D. Sharp and James B. Paces, [comment on the dating](https://pubmed.ncbi.nlm.nih.gov/30361342/), and Hershkovitz et al., [response](https://pubmed.ncbi.nlm.nih.gov/30361343/), *Science* 362 (2018).
+
+Indexed abstracts support the reported Misliya range of 177,000–194,000 years and the existence of a methodological dispute. Chapter 10 uses this narrow case against a single late departure narrative, without claiming to resolve the dating, identify the earliest migration, or reconstruct all later dispersals.
+
+## S73
+
+**Climatic feasibility of migration.** Robert M. Beyer, Mario Krapp, Anders Eriksson, and Andrea Manica, [“Climatic windows for human migration out of Africa in the past 300,000 years”](https://www.nature.com/articles/s41467-021-24779-1), *Nature Communications* 12 (2021), 4889; [institutional copy](https://publications.pik-potsdam.de/rest/items/item_26608_5/component/file_26609/content?download=true).
+
+The indexed abstract and results passages support the limited account of modeled rainfall constraints in chapter 10. Publisher retrieval was restricted; no comprehensive methods review is claimed. The chapter does not infer actual movement from climatic suitability, a unique departure date, or an explanation of self-domestication from this model.
+
+## S74
+
+**Shared care and comparative prosociality.** Judith M. Burkart et al., [“The evolutionary origin of human hyper-cooperation”](https://www.nature.com/articles/ncomms5747), *Nature Communications* 5 (2014), 4747; [institutional paper copy](https://www.eva.mpg.de/documents/Nature/Burkart_Evolutionary_NatComm_2014_2067750.pdf).
+
+The indexed abstract and results support the reported relationship between allomaternal care and unsolicited helping across the study's fifteen primate species. This comparative result supplies an additional starting point for chapter 10, not proof of human self-domestication, a complete history of childcare, or the thermodynamic hypothesis. Subsequent care and investment scenarios are explicitly original illustrations.
+
 ## Outstanding research and attribution
 
-**Revision status, November 14, 2026:** the outline and manuscript now place disequilibrium-driven maximization of energy extraction and entropy production at the center of the proposed account of assembly, discovery, and intelligence. Relativity is chapter 9; human intelligence and AI are chapters 10–11; physical origins are chapter 12. Shared conditions remain constraints and mediators. The historical sources do not establish the proposed thermodynamic cause of relativity.
+**Revision status, November 14, 2026:** the outline and manuscript now place disequilibrium-driven maximization of energy extraction and entropy production at the center of the proposed account of assembly, discovery, and intelligence. Relativity is chapter 9; self-domestication and society are chapter 10; collective intelligence and AI are chapters 11–12; physical origins are chapter 13. Shared conditions remain constraints and mediators. The historical sources do not establish the proposed thermodynamic cause of relativity.
 
 - **Mechanism:** specify a measurable coupling from physical disequilibrium through inquiry and retention to changed productive pathways. The afterword's graph model and tests are proposals, not completed validation.
 - **Relativity and dialectics:** the 1905 comparison is deliberately bounded. A fuller chronology and the separate 1915 case require further work. Negation of the negation is the book's interpretation, not a verified Einstein self-description.
-- **Cosmology:** chapter 12 makes physical origins central but supplies no quantitative solution to fine-tuning, no derived constants, and no derivation of existence from a quantum vacuum.
+- **Cosmology:** chapter 13 makes physical origins central but supplies no quantitative solution to fine-tuning, no derived constants, and no derivation of existence from a quantum vacuum.
 - **Historical depth:** extend regional English–Chinese comparisons, industrial labor evidence, agricultural histories, and Chinese accounts of imperial conflict before adding detailed scenes or stronger causal estimates.
+- **Self-domestication and society:** chapter 10 distinguishes reactive aggression, organized violence, shared care, learned restraint, and genetic selection. Rates and consequences of prehistoric sanctions, the developmental analogy, and the coupling to entropy production remain unresolved. Social coordination and agricultural expansion are not synonymous.
 - **Cognition and AI:** distinguish biological evolution, individual learning, cultural retention, artificial cognitive functions, consciousness, and recursive industrial growth. The proposed common driver does not erase the separate mechanisms or establish future general intelligence.
 - **Archived cases:** the complete earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). Their longer factual claims retain their original source limitations; the revised narrative uses narrower selections.
 - **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No dialogue or missing source has been reconstructed.

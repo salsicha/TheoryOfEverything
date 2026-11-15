@@ -2,13 +2,13 @@
 
 **A Material History of Everything**
 
-A complete revised draft investigating a physical hypothesis: every system is assembled and jointly material and Platonic, and disequilibrium drives development toward maximum rates of energy extraction and entropy production through accessible pathways. Assembly changes those pathways and their constraints. The argument connects life and industry to convergent discovery, dialectical transformation, human intelligence, AI, and the origins of physical structure.
+A complete revised draft investigating a physical hypothesis: every system is assembled and jointly material and Platonic, and disequilibrium drives development toward maximum rates of energy extraction and entropy production through accessible pathways. Assembly changes those pathways and their constraints. The argument connects life and industry to convergent discovery, dialectical transformation, self-domestication, human society, collective intelligence, AI, and the origins of physical structure.
 
 The causal claim is the book's hypothesis, not an established universal theorem. Shared conditions describe constraints and mediation; they do not replace the proposed thermodynamic driver. The manuscript distinguishes the supporting evidence, the cross-domain interpretation, and the mechanisms still requiring proof.
 
 ## Reading sequence
 
-Twelve chapters in three parts, with a prologue, epilogue, and methodological afterword. The original extensionless files contain UTF-8 Markdown. Cosmology is now chapter 12 within the main inquiry.
+Thirteen chapters in three parts, with a prologue, epilogue, and methodological afterword. The original extensionless files contain UTF-8 Markdown. Cosmology is now chapter 13 within the main inquiry.
 
 | Section | File | Title |
 | --- | --- | --- |
@@ -22,9 +22,10 @@ Twelve chapters in three parts, with a prologue, epilogue, and methodological af
 | II — Energy Builds Its Means | [chapter7](chapter7) | The Factory That Assembled Itself |
 | III — When Assembly Learns | [chapter8](chapter8) | The Relationships Behind the Machine |
 | III — When Assembly Learns | [chapter9](chapter9) | The Discovery That Became Possible |
-| III — When Assembly Learns | [chapter10](chapter10) | The World That Learned to Think |
-| III — When Assembly Learns | [chapter11](chapter11) | The Machines That Build the Next Machines |
-| III — When Assembly Learns | [chapter12](chapter12) | Could the Laws Have a History? |
+| III — When Assembly Learns | [chapter10](chapter10) | Self-Domestication and the Making of Society |
+| III — When Assembly Learns | [chapter11](chapter11) | The World That Learned to Think |
+| III — When Assembly Learns | [chapter12](chapter12) | The Machines That Build the Next Machines |
+| III — When Assembly Learns | [chapter13](chapter13) | Could the Laws Have a History? |
 | Closing | [epilogue](epilogue) | The World That Builds Its Next Question |
 | Methodological afterword | [afterword](afterword) | What Would Make This a Theory? |
 
@@ -35,34 +36,35 @@ Twelve chapters in three parts, with a prologue, epilogue, and methodological af
 | [notes](notes) | Original source notes, preserved unchanged |
 | [ideas](ideas) | Expanded ideas I01–I56 and current coverage map |
 | [outline](outline) | Current causal argument, chapter responsibilities, objections, and transitions |
-| [sources.md](sources.md) | Source keys S01–S68, evidence limits, and outstanding research |
+| [sources.md](sources.md) | Source keys S01–S74, evidence limits, and outstanding research |
 | [Parked material](development/parked-material.md) | Earlier displaced philosophical, historical, and policy discussions |
 | [Earlier case studies](development/earlier-case-studies.md) | Full grid, housing, and Montreal chapters replaced or condensed in this revision |
 
-Chapter 2 establishes the energetic hypothesis and distinguishes a gradient from an accessible route. Chapter 5 develops energy committed to making a first assembly viable. Chapter 9 investigates relativity and the proposed connection between convergent discovery and dialectical reconstruction. Chapters 10–11 develop human and artificial intelligence; chapter 12 confronts physical origins. The afterword proposes models and comparisons that could test the synthesis.
+Chapter 2 establishes the energetic hypothesis and distinguishes a gradient from an accessible route. Chapter 5 develops energy committed to making a first assembly viable. Chapter 9 investigates relativity and the proposed connection between convergent discovery and dialectical reconstruction. Chapter 10 gives self-domestication and the development of human society a full treatment. Chapters 11–12 develop collective and artificial intelligence; chapter 13 confronts physical origins. The afterword proposes models and comparisons that could test the synthesis.
 
 ## Draft extent
 
-The prologue, twelve chapters, and epilogue contain **40,308 words** before notes. The methodological afterword adds **1,308**, for **41,616 words** in the complete reading sequence. Counts use whitespace-separated words and include titles and epigraphs. Development material, source notes, and section notes are excluded.
+The prologue, thirteen chapters, and epilogue contain **43,760 words** before notes. The methodological afterword adds **1,308**, for **45,068 words** in the complete reading sequence. Counts use whitespace-separated words and include titles and epigraphs. Development material, source notes, and section notes are excluded.
 
 The original 65,000–80,000-word ambition remains a possible longer revision. Expansion should add explanatory mechanisms, historical depth, and discriminating comparisons.
 
 | Section | Words before notes |
 | --- | ---: |
-| [prologue](prologue) | 2,308 |
+| [prologue](prologue) | 2,356 |
 | [chapter1](chapter1) | 3,145 |
 | [chapter2](chapter2) | 2,083 |
 | [chapter3](chapter3) | 3,174 |
-| [chapter4](chapter4) | 2,708 |
+| [chapter4](chapter4) | 2,762 |
 | [chapter5](chapter5) | 2,929 |
 | [chapter6](chapter6) | 2,609 |
 | [chapter7](chapter7) | 2,851 |
 | [chapter8](chapter8) | 3,187 |
-| [chapter9](chapter9) | 2,293 |
-| [chapter10](chapter10) | 2,877 |
-| [chapter11](chapter11) | 2,999 |
-| [chapter12](chapter12) | 6,036 |
-| [epilogue](epilogue) | 1,109 |
+| [chapter9](chapter9) | 2,320 |
+| [chapter10](chapter10) | 3,266 |
+| [chapter11](chapter11) | 2,910 |
+| [chapter12](chapter12) | 2,999 |
+| [chapter13](chapter13) | 6,036 |
+| [epilogue](epilogue) | 1,133 |
 | [afterword](afterword) | 1,308 |
 
 ## Writing conventions

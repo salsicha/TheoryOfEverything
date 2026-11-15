@@ -223,7 +223,7 @@ Growth can ease some distributional conflicts by increasing what is available. I
 
 ## Self-domestication, self-models, and consciousness
 
-From original chapter 11.
+From original chapter 11. Self-domestication now has a dedicated treatment in [current chapter 10](../chapter10); the earlier material below remains as development history.
 
 There are substantive objections. Lord and colleagues reexamined the history of farm foxes and argued that the familiar experiment and the claimed ubiquity of a domestication syndrome had been overstated.[1] The controversy matters because a seductive unified story can outrun the independence of the evidence used to support it.
 

@@ -44,7 +44,7 @@ Fine-tuning arguments ask why certain parameters appear compatible with complex 
 
 This is a research program, not yet an answer. To explain a parameter developmentally requires a mechanism, a description of its possible states, and an account of why the observed outcome is reached. Merely saying that the universe selected stable configurations leaves open the dynamics and the distribution being selected from. Invoking self-maintenance also risks assuming the organized systems whose emergence needs explanation.
 
-The cosmological constant is an especially demanding case. It should appear as a specific unresolved problem, not as an ornament attached to a general argument about complexity. Stationary-action principles and symmetry breaking do not by themselves explain its value. Chapter 12 compares fixed initial conditions, observer selection, and developmental proposals without claiming that one has been established. It brings the question into the central inquiry while distinguishing evidence from speculation: does the book supply a candidate physical mechanism, or only a reason to search for one?
+The cosmological constant is an especially demanding case. It should appear as a specific unresolved problem, not as an ornament attached to a general argument about complexity. Stationary-action principles and symmetry breaking do not by themselves explain its value. Chapter 13 compares fixed initial conditions, observer selection, and developmental proposals without claiming that one has been established. It brings the question into the central inquiry while distinguishing evidence from speculation: does the book supply a candidate physical mechanism, or only a reason to search for one?
 
 ## I05 — The square with one answer
 
@@ -286,11 +286,11 @@ A large brain is metabolically costly, but cost alone does not establish maladap
 
 The collective-brain literature suggests mechanisms involving social learning, connectivity, and the retention of innovations. [S12](sources.md#s12) Population density may affect those processes, but density without trust, transmission, or opportunities to practice is not enough. Networks can also lose knowledge or circulate error. Quantity changes quality only through a specified change in what coordination makes possible.
 
-The claim that chimpanzees cannot cooperate is contradicted by experimental evidence. [S14](sources.md#s14) The development material can instead ask what distinguishes the reach, cumulative character, and institutional support of human cooperation; chapter 10 concentrates on teaching, records, standards, and correction. There is no need to posit a creator to make this a scientific question. Nor should human history be a tale of 230,000 idle years: early people made tools, maintained social worlds, and adapted to changing conditions. The absence of modern industry is not the absence of material development.
+The claim that chimpanzees cannot cooperate is contradicted by experimental evidence. [S14](sources.md#s14) Chapter 10 asks how social restraint and shared care could change the reach of cooperation; chapter 11 concentrates on teaching, records, standards, and correction. There is no need to posit a creator to make this a scientific question. Nor should human history be a tale of 230,000 idle years: early people made tools, maintained social worlds, and adapted to changing conditions. The absence of modern industry is not the absence of material development.
 
 ## I35 — Human dispersal, climate, and cultural speed
 
-The deep history of Homo sapiens extends to roughly 300,000 years, but that statement does not imply that every biological or cultural feature has remained unchanged since then. [S13](sources.md#s13) The notes' contrast with a departure from Africa around 70,000 years ago needs a history of multiple movements, encounters, and admixture. Present-day populations do not result from one clean replacement event.
+The deep history of Homo sapiens extends to roughly 300,000 years, but that statement does not imply that every biological or cultural feature has remained unchanged since then. [S13](sources.md#s13) The notes' contrast with a departure from Africa around 70,000 years ago needs a history of multiple movements, encounters, and admixture. Present-day populations do not result from one clean replacement event. Chapter 10 uses the Misliya report, including the dating debate, to complicate a single-departure chronology, and rainfall-based modeling to distinguish climatic feasibility from actual migration. [S72](sources.md#s72), [S73](sources.md#s73)
 
 Climate can change the opportunities and risks facing cultural systems. Knowledge must be retained long enough to be useful, while new conditions may demand experimentation. This raises a measurable question about the relation between environmental change and rates of learning, migration, and social transmission. A population can be inventive and still lack the local conditions needed for a particular productive arrangement.
 
@@ -304,9 +304,17 @@ That possibility deserves analysis without becoming the assertion that all peace
 
 Social conformity can be called a recurrent form if its mechanism is specified: an individual changes behavior in response to perceived group expectations, and the resulting behavior helps maintain those expectations. That loop can reproduce accurate knowledge or costly error. It does not entail that the group has one intention. A materialist politics must ask who sets the norm, who can revise it, and whose dissent is punished. Cooperation is both a capability and a relation of power; its value depends on the purposes and conditions of its reproduction.
 
-## I37 — Self-domestication is a hypothesis, not an explanation of every difference
+## I37 — Self-domestication and society as a selective environment
 
-Human self-domestication proposes that social selection against some forms of aggression may have influenced human development. The neural-crest hypothesis for mammalian domestication is one proposed mechanism connecting behavioral selection with other traits. It is not a settled general explanation of human anatomy, intelligence, or social order. [S15](sources.md#s15)
+Human self-domestication belongs in a full chapter because it gives the assembly thesis a specific recursive mechanism: human social arrangements could change the selection pressures acting on their own members. Chapter 10 now develops that mechanism and the emergence of more extensive social coordination; chapter 11 follows the distinct construction of collective competence. Society is both an outcome of inherited capacities and part of the environment shaping subsequent capacities.
+
+Separate reactive aggression from planned, proactive violence. A reduction in the former can coexist with greater ability to coordinate the latter. Wrangham proposes coalitionary execution as a possible route by which social organization reduced the reproductive advantage of domineering individuals. Treat it as a hypothesis rather than an established account of prehistoric killings. [S69](sources.md#s69), [S70](sources.md#s70)
+
+Distinguish behavioral restraint during one life, cultural transmission across lives, and selection on heritable variation. A punishment or a widely learned norm does not by itself demonstrate the third. Shared care and emotional regulation deserve investigation alongside coercive enforcement; comparative primate evidence and a competing account of human emotional plasticity supply additional starting points. [S71](sources.md#s71), [S74](sources.md#s74) The neural-crest proposal and the domestication-syndrome critique remain relevant without carrying the whole explanation. [S15](sources.md#s15), [S51](sources.md#s51)
+
+Develop the energetic connection explicitly: more dependable cooperation can sustain people through learning, childcare, and work before a return arrives. Social constraints can both reduce coordination costs and increase the food, time, and protection committed to crossing a new assembly barrier. Subsequent productive returns can support further coordination and inquiry. Disequilibrium-driven maximization is the proposed cause of this history; institutions and selection describe possible mediating operations. Evidence of cooperation alone does not measure a maximum or equate reproductive success with entropy production.
+
+Follow the dialectical consequence into the development of society. Collective power can restrain an individual dominator, then become concentrated or used against dissent. Storage can support delayed work while control of stores creates dependence. Conformity can preserve skills and obstruct correction. The explanatory task is to identify arrangements that reproduce useful coordination while allowing its rules and authorities to change. Agriculture transforms earlier social worlds; it is not the beginning of society or a universal destination for every population.
 
 The notes combine brain-size change, modern IQ trends, conformity, cooperation, and selection against unusually strong or intelligent individuals. Each requires separate evidence. Brain volume is not interchangeable with measured cognitive performance; a test-score trend over recent decades is not evidence of a corresponding genetic change. A story about coalitions restraining dominant individuals also does not establish that societies systematically eliminate intelligence.
 
@@ -322,7 +330,7 @@ All knowledge is materially embodied in some sense, but that does not make every
 
 ## I39 — Self-models, consciousness, and the timescale of thought
 
-A system can model its environment and can also model aspects of its own position, limitations, and likely actions. This creates possibilities for anticipation, error correction, and strategic behavior. Functional self-modeling is not exclusively human, and it does not by itself settle whether a system has subjective experience. The separate self-modeling discussion preserves that distinction; chapter 11 does not depend on a theory of consciousness.
+A system can model its environment and can also model aspects of its own position, limitations, and likely actions. This creates possibilities for anticipation, error correction, and strategic behavior. Functional self-modeling is not exclusively human, and it does not by itself settle whether a system has subjective experience. The separate self-modeling discussion preserves that distinction; chapter 12 does not depend on a theory of consciousness.
 
 The notes deny consciousness and elsewhere appeal to a model running inside the human mind. A coherent development can criticize the idea of an immaterial inner controller while treating experience as a phenomenon still requiring explanation. Denying a separate substance is different from denying that experience occurs. Neither the existence of computation nor a useful self-description resolves the philosophical question automatically.
 
@@ -374,7 +382,7 @@ A serious synthesis should specify what could weaken it. If increased energy acc
 
 Comparison cases belong beside the spectacular successes: durable systems with low throughput, innovations that fail to spread, contraction followed by impoverishment, and reforms achieved without collapse. Distinguish biological reproduction from industrial replication, institutional persistence, and stellar succession. Define the boundary and outcome before making a cross-scale comparison.
 
-The narrative can still be bold. Its recurring question is now how assembly and joint material–formal constraints make some transformations probable, and whether the same mechanism connects physical existence, intelligence, and technology. Reproduction of the conditions of continuation is one part of that inquiry. Aphorisms should condense the work of the argument: “An inheritance is a possibility with a history.” Such lines are original manuscript language, not borrowed quotations. The revised manuscript now gives relativity and discovery chapter 9, human intelligence and AI chapters 10–11, and physical origins chapter 12. Institutional correction remains a case within the wider argument; the afterword develops tests of the central hypothesis.
+The narrative can still be bold. Its recurring question is now how assembly and joint material–formal constraints make some transformations probable, and whether the same mechanism connects physical existence, intelligence, and technology. Reproduction of the conditions of continuation is one part of that inquiry. Aphorisms should condense the work of the argument: “An inheritance is a possibility with a history.” Such lines are original manuscript language, not borrowed quotations. The revised manuscript now gives relativity and discovery chapter 9, self-domestication and society chapter 10, collective intelligence chapter 11, AI chapter 12, and physical origins chapter 13. Institutional correction remains a case within the wider argument; the afterword develops tests of the central hypothesis.
 
 ## I46 — Maintenance makes an inventory into a capacity
 
@@ -388,13 +396,13 @@ The distinction between changing processes and relatively stable constraints has
 
 ## I47 — Collective competence requires more than a store of information
 
-A description can survive after the ability to use it has disappeared. Teaching, supervised practice, suitable tools, and interpretable records connect knowledge across lives. Standards connect partial competencies across organizations. Correction lets that inheritance change when its conditions change. These are the central operations of chapter 10.
+A description can survive after the ability to use it has disappeared. Teaching, supervised practice, suitable tools, and interpretable records connect knowledge across lives. Standards connect partial competencies across organizations. Correction lets that inheritance change when its conditions change. These are the central operations of chapter 11.
 
 The illustrative retiring technician makes the distinction concrete. Keeping the manual does not preserve every judgment needed to operate the equipment; keeping one expert without records makes the knowledge fragile in another way. The relevant outcome is whether another person can perform, inspect, and improve the task. Counting documents or credentials does not establish that outcome.
 
 Access and authority belong in the explanation. Several people can each possess accurate partial information while contractual or hierarchical boundaries prevent it from affecting the combined operation. A reporting process can silence precisely the worker who sees a problem first. Collective intelligence is therefore neither a single social mind nor the automatic sum of individual abilities. Its quality depends on how evidence can change action.
 
-The AI argument needs its own chapter because it adds a specific productive hypothesis. Chapter 11 follows computational assistance through physical validation, manufacture, deployment, and the allocation of gains. A successful local application does not establish a return connection to further computing. Cheap candidate generation can move the constraint into testing or implementation. Technical improvement and reinvestment must be measured separately.
+The AI argument needs its own chapter because it adds a specific productive hypothesis. Chapter 12 follows computational assistance through physical validation, manufacture, deployment, and the allocation of gains. A successful local application does not establish a return connection to further computing. Cheap candidate generation can move the constraint into testing or implementation. Technical improvement and reinvestment must be measured separately.
 
 ## I48 — A system can change the means of its continuation
 
@@ -503,20 +511,21 @@ The revised manuscript follows the working thesis and I50–I56. Placement descr
 
 | Idea family | Expanded sections | Current placement |
 | --- | --- | --- |
-| Joint material and Platonic systems; constrained search | I05–I06, I31, I50 | 1, 9–12 |
-| Disequilibrium; rates; entropy-production hypothesis | I07–I09, I41–I42, I53 | 2, 3, 5–7, 9–12 |
+| Joint material and Platonic systems; constrained search | I05–I06, I31, I50 | 1, 9–13 |
+| Disequilibrium; rates; entropy-production hypothesis | I07–I09, I41–I42, I53 | 2, 3, 5–7, 9–13 |
 | Physical inheritance; living pathways; assembly theory | I12–I15, I33 | 3 |
-| Grain; cultural retention; support across delayed returns | I16, I34–I35, I53 | 4, 10 |
+| Grain; cultural retention; support across delayed returns | I16, I34–I35, I53 | 4, 10–11 |
 | Energy mobilization; England–China constraints; first engines | I17, I53 | 5 |
 | Chemical pathways; industrial expenditure | I18, I41–I42, I53 | 6 |
 | Factories; standards; retained combinations | I19, I28, I31 | 7 |
 | Commodity relations; power; enclosure; cotton | I20–I23, I49 | 8 |
 | Entrenchment; housing; deliberate institutional change | I10–I11, I27, I30, I48 | 5, 8; fuller cases in development material |
 | Simultaneous discovery; relativity; practical inevitability | I50–I51 | 9 |
-| Negation of the negation; wave and particle categories | I44, I52 | 9; synthesis in 12 and epilogue |
-| Human intelligence; collective competence; representation | I34–I39, I47, I54 | 10; specific disputed claims retained as research questions |
-| Artificial intelligence; productive return; conditional inevitability | I43, I55 | 11; prologue and epilogue |
-| Existence; uncertainty; symmetry; constants; effective laws | I02–I04, I40–I42, I54 | 12 |
+| Negation of the negation; wave and particle categories | I44, I52 | 9–10; synthesis in 13 and epilogue |
+| Self-domestication; cooperation; development of society | I34–I37, I47, I53–I54 | 10; connections to agriculture in 4 |
+| Human intelligence; collective competence; representation | I34, I38–I39, I47, I54 | 11 |
+| Artificial intelligence; productive return; conditional inevitability | I43, I55 | 12; prologue and epilogue |
+| Existence; uncertainty; symmetry; constants; effective laws | I02–I04, I40–I42, I54 | 13 |
 | Causal tests; rival explanations; predictive dialectical method | I32, I45, I49–I56 | Throughout; methodological afterword |
 | Maintenance and infrastructure interruptions | I01, I46 | 2–3, 6–8; full earlier grid chapter in development material |
 | Protection; taxation; debt; health; broader policy | I24–I30 | Ideas and development material, outside the main sequence |
