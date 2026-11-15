@@ -1,6 +1,6 @@
 # Chapter 11 — The Machines That Build the Next Machines
 
-*A faster proposal must still become a working thing.*
+*The world can assemble tools that help assemble its next tools.*
 
 In 2022, Jonas Degrave and collaborators reported an experiment in which reinforcement-learning controllers, trained using simulation, operated magnetic coils on the TCV tokamak in Switzerland. The controllers helped shape and position plasma in the physical apparatus.[1] Computation had crossed from a simulated training environment into the control of a demanding experiment.
 
@@ -8,7 +8,19 @@ The result concerned plasma control, not a commercial fusion power station or ne
 
 Now consider a possibility that the experiment does not establish. If computational assistance improves the energy and manufacturing systems on which computing depends, some of the improvement could support further computational development. Better computation could then contribute to another round of productive improvement. A tool for working on the world could help change its own material conditions.
 
-This is the recursive productive hypothesis of the book. It concerns an industrial relationship, so evidence must include the industrial steps. A gain on a benchmark may be relevant to one operation without demonstrating the whole sequence. We need to follow a proposal into testing, production, sustained use, and the allocation of whatever benefit it creates.
+The larger hypothesis is that AI is an inevitable product of disequilibrium-driven assembly once the relevant physical and formal pathways become accessible. The productive loop is one proposed mechanism through which this new capacity can extend the process that produced it. It must therefore be studied from both directions: how the existing world makes artificial cognition possible, and how artificial cognition changes that world's productive possibilities.
+
+An engineered learning system requires materials, manufacturing, power, methods of representation, and procedures for changing its behavior from data or experience. Those capabilities have separate histories before they can be combined. Their assembly can make a broad class of functions reachable through several architectures and several groups of researchers. Practical inevitability concerns that class of functions under specified conditions, rather than the destiny of a particular company, model, or date.
+
+This is a causal claim about the energetic process, not a prediction inferred solely from several organizations sharing a technical fashion. The same process is proposed to have produced the infrastructure, the knowledge, and the capacity to direct resources into costly experiments. Institutions and incentives are mechanisms through which the physical drive acts. Their actual operations must connect the drive to the emerging function.
+
+There is a useful distinction between a costly first capability and a mature one. A research system may sustain training runs, unreliable prototypes, or expensive inference before a useful operation becomes economical. Existing productive capacity carries that interval. Successful results can then alter the cost of subsequent attempts. The first version does not need to embody all the efficiencies that later make deployment widespread.
+
+The analogy to steam is specific. Cheap colliery fuel helped sustain an inefficient early engine. Available computation and an organization willing to supply it can help sustain a costly early cognitive function. The analogy does not predict that every larger training run will work, or identify an economic budget with physical energy. It asks whether support across a costly intermediate is a recurring step in the assembly of new productive pathways.
+
+The proposed inevitability of some artificial cognition is distinct from the inevitability of human-level general intelligence, consciousness, or indefinite acceleration. The latter claims would need further mechanisms and definitions. The immediate thesis is that the physical process that assembled cognitive capacities in living systems can, through historically developed engineering, make aspects of those capacities reproducible in other materials. The observed systems establish particular functions; the universal explanation remains the hypothesis being investigated.
+
+Evidence must include the industrial steps. A gain on a benchmark may concern one operation without demonstrating the whole sequence. We need to follow a proposal into testing, production, sustained use, and the allocation of whatever benefit it creates.
 
 The mechanism has precedents in the histories already examined. The coal engine could help obtain the fuel that powered engines. A factory could make equipment for another factory. The proposed computational loop adds the possibility that some work of searching, modeling, or controlling those improvements can itself be performed with machine assistance. Whether that produces continuing acceleration depends on which step was limiting and what becomes limiting next.
 
@@ -73,7 +85,7 @@ Reinvestment is the point at which the loop can remain open even after technical
 
 A firm controlling several connected stages may be able to direct gains around the loop. That can ease coordination while concentrating the authority to decide its purpose. A distributed arrangement needs agreements that let benefits and knowledge pass between organizations. It may preserve more independent judgment while making investment harder to coordinate. Neither structure can be assessed only by the speed of its fastest model.
 
-The housing chapter gives a further warning. Existing valuations and obligations can make people depend on a particular form of provision. A technically superior system may threaten revenue that funds maintenance or employment before its replacement can do either. A transition must connect the new capability to the work and livelihoods needed during adoption. Calling resistance irrational would miss that mechanism.
+The housing example in chapter 8 gives a further warning. Existing valuations and obligations can make people depend on a particular form of provision. A technically superior system may threaten revenue that funds maintenance or employment before its replacement can do either. A transition must connect the new capability to the work and livelihoods needed during adoption. Calling resistance irrational would miss that mechanism.
 
 How could the productive hypothesis be tested? Begin with a bounded task and a credible alternative, specified before the result is known. Compare the total resources and time used to obtain a working improvement, including unsuccessful candidates and the cost of validation. Observe performance beyond the demonstration, under the conditions in which the improvement is meant to operate. These are proposals for evaluation, not results supplied by the tokamak experiment.
 
@@ -83,11 +95,15 @@ The comparison must allow failure to remain informative. If adding computation p
 
 We should also compare effects outside the project’s immediate boundary. Additional demand for power, cooling, materials, or skilled work may impose costs on other users. An improvement per unit can coexist with greater total consumption if deployment expands. Judging the result requires saying what service increased, what it displaced, and whose conditions improved or deteriorated.
 
-The optimistic possibility is substantial without being inevitable. Computational tools could help societies make more reliable use of what they have, learn faster from experiments, and produce better supports for subsequent learning. Their collective value would then depend on access to the gains and on the ability to correct the objectives under which they operate.
+The book's inevitability claim concerns the emergence of a capability under an identifiable dynamic and its constraints. It does not make the benefits of that capability inevitable. Artificial cognition can be assembled while its use concentrates power, amplifies error, or fails to close the productive loop. The return connection has to be demonstrated separately from the function that makes it conceivable.
+
+A genuine test of the stronger hypothesis would ask whether alternative histories retaining the relevant gradients and productive prerequisites repeatedly approach artificial cognitive functions. It would also ask whether removing a predicted prerequisite delays the transition in the way the account expects. Calling the conditions sufficient only after AI appears would turn explanation into hindsight. The theory needs to specify what it expects before counting the successes.
 
 The machine waiting for electricity in the prologue has become a question about a whole productive organization. Its computers may eventually help improve that organization. They cannot establish by themselves which purposes it should serve or which inherited claims should be revised.
 
-That leaves the most demanding feedback of all. Can people use what they learn about a system to change the institutions that reproduce it? The final chapter turns to an intervention that moved through evidence, negotiation, industrial change, and observation of the consequences.
+That leaves the most demanding question of origin. Throughout the argument we have inherited physical laws, possible structures, and gradients capable of driving change. If the same process is meant to connect matter, minds, engines, and AI, can it also explain any of those inherited conditions?
+
+The final chapter turns toward the creation of physical structure and the possibility that some laws or parameters have histories. The question is central to the theory's ambition. It is also where the account must confront the limits of using an already existing world to explain how existence becomes possible.
 
 
 ## Chapter notes

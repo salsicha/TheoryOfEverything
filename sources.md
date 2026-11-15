@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during drafting and structural revision on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological afterword, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue, twelve chapters, and afterword have their own numbered notes. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
+Sources checked during drafting and structural revision on November 14, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in `ideas`, `outline`, and chapter notes; the prologue and twelve chapters have numbered notes; the afterword identifies its proposed research designs. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
 
 ## S01
 
@@ -42,13 +42,13 @@ Orientation to symmetry questions and open research. Distinguish parity violatio
 
 **Thermodynamic proposals.** L. M. Martyushev and V. D. Seleznev, [“The restrictions of the Maximum Entropy Production Principle”](https://arxiv.org/abs/1311.2068) (2013 preprint). Roderick C. Dewar and Amos Maritan, [“The second law, maximum entropy production and Liouville's theorem”](https://arxiv.org/abs/1107.1088) (2011 preprint).
 
-Starting points for the assumptions and disputed scope of maximum-entropy-production arguments. Neither licenses treating all far-from-equilibrium systems as universal maximizers. Any use of a minimum-production theorem must state its near-equilibrium and boundary assumptions.
+Relevant full-text passages were read: Dewar–Maritan's stationary-state argument under forcing constraints and its heuristic status, and Martyushev–Seleznev's local force–flux formulation and restrictions. Chapter 2 uses them to motivate and delimit the broader assembly conjecture, not to claim an established universal law of discovery or evolution. Minimum-production results likewise require their particular assumptions.
 
 ## S08
 
 **Energy-rate density.** Eric J. Chaisson, [“Energy Rate Density as a Complexity Metric”](https://lweb.cfa.harvard.edu/~ejchaisson/reprints/EnergyRateDensity_I_FINAL_2011.pdf) (2011).
 
-Research lead for comparing energy flow per unit mass across systems. A proposed comparative metric is not proof that energy throughput causes complexity or that evolution maximizes the metric. Full analysis and comparison of system boundaries remain to be done.
+The paper compares energy flow per unit mass across systems. Section 5 was read for its emphasis on optimal ranges and its explicit refusal to infer a universal power- or entropy-production extremum from the data. It supports an energy–complexity research connection, not an independent proof of the manuscript's maximizing hypothesis. Wider evaluation of the metric and system boundaries remains open.
 
 ## S09
 
@@ -120,13 +120,13 @@ Orientation to stellar life cycles. Chapter 3 adds primary nucleosynthesis evide
 
 **Quantum uncertainty and interpretation.** H. P. Robertson, [“The Uncertainty Principle”](https://doi.org/10.1103/PhysRev.34.163) (1929); David Bohm, [“A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I”](https://doi.org/10.1103/PhysRev.85.166) (1952).
 
-The afterword distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
+Chapter 12 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
 
 ## S21
 
 **The quantum vacuum.** David Tong, [Quantum Field Theory, section 2, “Free Fields”](https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html), especially section 2.3.
 
-Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. The afterword explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
+Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 12 explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
 
 ## S22
 
@@ -150,7 +150,7 @@ Supports the statistical explanation and the need to account for low-entropy ini
 
 **Effective theories.** Joseph Polchinski, [“Effective Field Theory and the Fermi Surface”](https://arxiv.org/abs/hep-th/9210046), TASI 1992 lectures, revised 1999; [HTML text](https://arxiv.org/html/hep-th/9210046).
 
-Supports descriptions organized by energy scale. The afterword distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
+Supports descriptions organized by energy scale. Chapter 12 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
 
 ## S26
 
@@ -174,7 +174,7 @@ Supports the specific bound concerning gravitationally bound structures. The cha
 
 **A dynamical proposal.** Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551), *Physical Review Letters* 115 (2015), 221801; [full text consulted](https://arxiv.org/pdf/1504.07551).
 
-The afterword uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
+Chapter 12 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
 
 ## S30
 
@@ -276,7 +276,7 @@ Supports the relation between regulatory capacity and disturbances. The wage cyc
 
 **The U.S. financial crisis.** Financial Crisis Inquiry Commission, [report and sections](https://fcic.law.stanford.edu/report), [complete official report with dissents](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_full.pdf) (2011), particularly the conclusions, shadow banking, securitization, and funding disruption sections.
 
-Supports the majority's principal causal categories and the existence of dissent. Chapter 9's house values and 100/95/5 balance sheet are invented arithmetic examples, not statistics drawn from the report. No contemporary market forecast is made.
+Supports the majority's principal causal categories and the existence of dissent. The earlier housing chapter, preserved in development/earlier-case-studies.md, uses invented house values and a 100/95/5 balance sheet; chapter 8 retains a short housing illustration. These are not statistics drawn from the report. No contemporary market forecast is made.
 
 ## S47
 
@@ -342,7 +342,7 @@ Chapter 2 uses the agency’s published findings on freezing, fuel interruption,
 
 **Closure of constraints.** Maël Montévil and Matteo Mossio, [“Biological organisation as closure of constraints”](https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/), *Journal of Theoretical Biology* 372 (2015), 179–191, DOI 10.1016/j.jtbi.2015.02.029.
 
-The author-hosted text distinguishes processes from relatively conserved constraints at a chosen timescale and describes mutual maintenance among constraints. Chapter 2 acknowledges this predecessor. Applying its questions to engineering does not establish that a grid satisfies the paper’s biological criteria.
+The author-hosted text distinguishes processes from relatively conserved constraints at a chosen timescale and describes mutual maintenance among constraints. The earlier maintenance chapter, now preserved in development/earlier-case-studies.md, acknowledges this predecessor. Applying its questions to engineering does not establish that a grid satisfies the paper’s biological criteria.
 
 ## S58
 
@@ -366,13 +366,13 @@ Chapter 8 acknowledges the precedent and retains disagreements about class, comm
 
 **Ozone chemistry and observed depletion.** Mario J. Molina and F. Sherwood Rowland, [“Stratospheric sink for chlorofluoromethanes: chlorine atom-catalysed destruction of ozone”](https://www.nature.com/articles/249810a0), *Nature* 249 (1974), 810–812; [Molina center’s paper copy](https://centromariomolina.org/wp-content/uploads/2012/05/8.-Nature-1974_Stratospheric-sink-for-chlorofluoromethanes-chlorine-atome-catalysed-destruction-of-ozone.pdf). J. C. Farman, B. G. Gardiner, and J. D. Shanklin, [“Large losses of total ozone in Antarctica reveal seasonal ClOx/NOx interaction”](https://www.nature.com/articles/315207a0), *Nature* 315 (1985), 207–210; [British Antarctic Survey’s institutional account](https://www.bas.ac.uk/news/25th-anniversary-of-the-discovery-of-ozone-hole/).
 
-Chapter 12 uses the papers’ indexed findings and the BAS account for a narrow chronology. Direct publisher retrieval redirected to authentication. No laboratory scene, reconstructed dialogue, or claim that the 1974 paper supplied the complete Antarctic mechanism is made.
+The earlier Montreal chapter, preserved in development/earlier-case-studies.md, uses the papers’ indexed findings and the BAS account for a narrow chronology. Direct publisher retrieval redirected to authentication. No laboratory scene, reconstructed dialogue, or claim that the 1974 paper supplied the complete Antarctic mechanism is made.
 
 ## S62
 
 **Controls and recurring assessment.** Ozone Secretariat, [Montreal Protocol overview and treaty](https://ozone.unep.org/treaties/montreal-protocol); [Article 6: Assessment and review of control measures](https://ozone.unep.org/treaties/montreal-protocol/articles/article-6-assessment-and-review-control-measures).
 
-Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. Chapter 12 treats the treaty as an evolving regime. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
+Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. The archived Montreal chapter treats the treaty as an evolving regime; chapter 8 retains a short account of changing assembly constraints. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
 
 ## S63
 
@@ -384,14 +384,41 @@ Supports differentiated obligations for qualifying developing countries, financi
 
 **Observed effects and remaining correction.** WMO, [*Scientific Assessment of Ozone Depletion: 2022*, Executive Summary](https://csl.noaa.gov/assessments/ozone/2022/executivesummary/), GAW Report 278 (2022).
 
-Supports the dated findings of declining controlled ODS abundances, recovery with regional and vertical differences, and investigation of unexpected CFC-11 emissions. It also records uncertainty and monitoring gaps. Chapter 12 does not claim full recovery, the cessation of every unexpected emission, or a new assessment of conditions in 2026. No numerical future recovery date is projected as a certainty.
+Supports the dated findings of declining controlled ODS abundances, recovery with regional and vertical differences, and investigation of unexpected CFC-11 emissions. It also records uncertainty and monitoring gaps. The archived Montreal chapter does not claim full recovery, the cessation of every unexpected emission, or a new assessment of conditions in 2026. No numerical future recovery date is projected as a certainty.
+
+## S65
+
+**Einstein on radiation and conceptual reconstruction.** Albert Einstein, “On the Development of Our Views Concerning the Nature and Constitution of Radiation” (1909), [English Wikisource translation of the original paper](https://en.wikisource.org/wiki/Translation:The_Development_of_Our_Views_on_the_Composition_and_Essence_of_Radiation). The Einstein Papers Project's [description of volume 2](https://www.einstein.caltech.edu/what-we-do/published-volumes/volume-2) separately identifies the 1905 light-quantum and special-relativity papers and the 1909 lecture.
+
+The translated primary text was read for Einstein's proposal to combine features of wave and emission theories of light and his account of reconciling the relativity principle with light-speed constancy by revising assumptions about time. It does not establish that Einstein used “negation of the negation,” that relativity and wave–particle duality were the same discovery, or that matter-wave theory was his work alone. I51–I52 use these as distinct starting points for the author's dialectical interpretation. Before direct quotation in the manuscript, check the translation against the scholarly edition. The bounded 1905 comparison is now supported separately under S67. A detailed 1915 Einstein–Hilbert reconstruction remains a research task. No priority dispute or probability of inevitability is settled by the 1909 lecture.
+
+## S66
+
+**Relative input costs and the viability of early assemblies.** Robert C. Allen, [British Academy lecture on the Industrial Revolution in global perspective](https://www.thebritishacademy.ac.uk/documents/2079/pba167p199_0.pdf), especially printed pp. 211–212 on English and Chinese pottery kilns and p. 218 on early steam engines and cheap colliery fuel. Read alongside S04 and the competing interpretations in S37.
+
+Supports Allen's comparison of fuel-conserving and fuel-intensive designs under different input prices, and his account of the setting in which a fuel-hungry Newcomen engine could be used profitably. I53's extension to resources mobilized across assembly barriers is the book's interpretation. It does not demonstrate one uniform national constraint structure, reduce prices to energy quantities, or establish MEPP as the cause of industrialization.
+
+## S67
+
+**Convergent work on relativity in 1905.** Henri Poincaré, “Sur la dynamique de l'électron,” *Comptes rendus* 140 (1905), 1504–1508, [Academy scan](https://www.academie-sciences.fr/pdf/dossiers/Poincare/Poincare_pdf/Poincare_CR1905.pdf), with the [readable English translation](https://en.wikisource.org/wiki/Translation:On_the_Dynamics_of_the_Electron_(June)). Albert Einstein, [“On the Electrodynamics of Moving Bodies”](https://www.fourmilab.ch/etexts/einstein/specrel/www/), June 30, 1905, English translation based on the 1923 edition.
+
+The Poincaré translation and Einstein's opening and simultaneity discussion were read for the narrow comparison in chapter 9. Poincaré's note develops Lorentz transformations and their group property; Einstein reorganizes the account around relativity, light speed, and clock synchronization. Their nearby dates and overlapping problems do not establish identical theories, complete independence, or a thermodynamic cause. The scan supplied bibliographic context; its text was not treated as fully machine-readable. No Einstein–Hilbert priority conclusion is asserted.
+
+## S68
+
+**Heat, work, and entropy accounting.** Feynman, Leighton, and Sands, [The Feynman Lectures on Physics, I.44, “The Laws of Thermodynamics”](https://www.feynmanlectures.caltech.edu/I_44.html).
+
+Background for the two-reservoir balances in chapter 2. The manuscript states its own boundaries explicitly: direct heat transfer without work extraction, then a cyclic engine between fixed-temperature reservoirs exporting work. The equations do not identify maximum useful power with maximum entropy production or establish a finite-power reversible engine. The proposed extension to changing assembly pathways is separate from these thermodynamic identities.
 
 ## Outstanding research and attribution
 
-- **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No speaker, dialogue, or interpretation has been reconstructed from the inaccessible video.
-- **Historical depth:** further work could add Chinese accounts of the Opium War, labor records, agricultural comparisons, and specific enclosure and cotton histories. Existing cases remain bounded; illustrative scenes are marked. Discarded stirrup and monetary-genetic causal stories have not been restored.
-- **Theory:** the revision engages several important predecessors, not the entire literature. Test whether the proposed connection among capability, recurrence, and dependence adds explanatory value beyond specialist accounts. Assembly theory remains a limited lens within chapter 3, not the foundation of the book.
-- **Cosmology:** the afterword preserves the speculative question separately. It supplies no quantitative solution to fine-tuning and derives no physical constants from biological or institutional analogies.
-- **Institutions:** chapter 12 traces documented components of the Montreal regime without claiming to apportion their independent causal effects. A fuller political history would need evidence about negotiations, industry, campaigns, and conflicts. Chapter 9’s housing mechanisms are illustrative comparisons, not jurisdiction-specific policy advice.
-- **Cognition and AI:** chapter 10 concerns collective competence and chapter 11 a conditional productive loop. Domestication, infant-language experiments, self-modeling, debt, health, and other side discussions are retained in `ideas` and/or [development material](development/parked-material.md). No benchmark or control demonstration proves consciousness or an indefinitely accelerating industrial cycle.
-- **Publication review:** the structurally revised draft still needs specialist review and deeper evidence where new detail would strengthen the argument. Its notes distinguish sources, proposed tests, and illustrative reasoning rather than claiming a comprehensive literature review.
+**Revision status, November 14, 2026:** the outline and manuscript now place disequilibrium-driven maximization of energy extraction and entropy production at the center of the proposed account of assembly, discovery, and intelligence. Relativity is chapter 9; human intelligence and AI are chapters 10–11; physical origins are chapter 12. Shared conditions remain constraints and mediators. The historical sources do not establish the proposed thermodynamic cause of relativity.
+
+- **Mechanism:** specify a measurable coupling from physical disequilibrium through inquiry and retention to changed productive pathways. The afterword's graph model and tests are proposals, not completed validation.
+- **Relativity and dialectics:** the 1905 comparison is deliberately bounded. A fuller chronology and the separate 1915 case require further work. Negation of the negation is the book's interpretation, not a verified Einstein self-description.
+- **Cosmology:** chapter 12 makes physical origins central but supplies no quantitative solution to fine-tuning, no derived constants, and no derivation of existence from a quantum vacuum.
+- **Historical depth:** extend regional English–Chinese comparisons, industrial labor evidence, agricultural histories, and Chinese accounts of imperial conflict before adding detailed scenes or stronger causal estimates.
+- **Cognition and AI:** distinguish biological evolution, individual learning, cultural retention, artificial cognitive functions, consciousness, and recursive industrial growth. The proposed common driver does not erase the separate mechanisms or establish future general intelligence.
+- **Archived cases:** the complete earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). Their longer factual claims retain their original source limitations; the revised narrative uses narrower selections.
+- **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No dialogue or missing source has been reconstructed.
+- **Publication review:** specialist review, a fuller account of predecessors, and discriminating empirical comparisons remain necessary. A coherent manuscript is not a validated universal theory.

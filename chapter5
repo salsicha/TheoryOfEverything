@@ -8,7 +8,11 @@ The obstacle is not a shortage of energy in the abstract. Coal lies beneath the 
 
 Thomas Newcomen's early eighteenth-century engine supplied one such pathway. Steam filled a cylinder and was then condensed, reducing the pressure inside. Atmospheric pressure pushed the piston down, and a beam transmitted motion to a pump. The cycle repeatedly heated and cooled the cylinder. That was wasteful of heat, but a fuel-hungry machine could still have value where it enabled pumping and coal was cheap.[1]
 
-This is a practical rather than an absolute efficiency. The question for a mine was not whether the engine met a later engineering ideal. It was whether the arrangement allowed useful production under the conditions then available. A machine can be inefficient by one measure and transformative in a particular location.
+An inefficient engine could begin a transition because an existing system could support its inefficiency. Cheap fuel at a coal mine allowed substantial energy expenditure on a function whose benefits could justify it. The engine did not first have to achieve the efficiency of its eventual successors. It needed a setting in which its initial operating costs could be carried.
+
+This is the missing step in a story that begins with steam power unlocking more coal. Before the return connection could operate, people had to construct the machine and supply its early cycles. The transition required existing materials, skills, labor, and fuel. Local constraints could concentrate those resources on the pumping problem. Their role was partly to boost the effort available to cross the barrier, rather than only to reduce the barrier's height.
+
+There were two different expenditures: making the first workable assembly and sustaining its repeated operation. A promising design could fail at either threshold. Once both were crossed, operation could generate experience, further improvements, and access to additional coal. The later productive gain did not reach backward to power the first trial.
 
 James Watt's separate condenser addressed a major source of the waste. Condensation could occur in a separate vessel while the working cylinder remained hot. The Science Museum preserves experimental material from this development, including a condenser from 1765.[2] The improvement changed the balance between fuel consumed and work obtained. Turning the principle into dependable equipment, however, required manufacturing, finance, installation, and repair.
 
@@ -36,11 +40,15 @@ This does not erase the increase in productive capacity. It locates it. A machin
 
 The same approach prevents British industrialization from becoming a morality play about an inventive Europe and an unchanging China. Robert Hartwell's research on the Northern Song described substantial developments in iron and coal production many centuries before the British steam economy.[5] The Song and the Qing are not one undifferentiated historical moment, and China is not a single timeless economic environment.
 
-That comparison need not become a contest over which civilization had the right to be first. Its value is causal. Knowledge of a fuel or a process does not ensure that the same productive system will emerge everywhere it is known. Geography, demand, military pressures, institutions, transport, and the arrangement of existing industries can differ. A technology may fit one setting while an alternative remains practical in another.
+The comparison concerns the arrangement of constraints. Allen also contrasts English pottery kilns that tolerated substantial fuel use with Chinese designs that invested more in conserving heat through successive chambers.[8] Under the relative costs he reconstructs, spending more of one input could be a practical way to economize on another. Technical intelligence did not have to point toward the same design everywhere.
+
+For the steam case, the important question is which local arrangement could sustain an energy-hungry first version. Britain and China are not uniform experimental treatments, and the kiln comparison does not independently explain the whole industrial divergence. It makes a mechanism visible: constraints can redirect existing expenditure toward a particular family of assemblies. A local difference can make the early cost of one trajectory bearable while another setting rewards conservation along a different trajectory.
 
 Nor does an earlier achievement automatically accumulate without interruption. Skills can be lost, networks displaced, and investment redirected. A later society does not possess every capability once demonstrated somewhere within the territory it governs. The idea of a civilization remembering all its inventions as one person remembers a lesson is a misleading compression.
 
-The engine's history is therefore an argument against both pure genius and pure inevitability. Individuals matter because their work can change the feasible set. Conditions matter because a feasible machine must become reproducible and useful within a larger organization. Neither side eliminates the other.
+The engine's history lets us distinguish unconditional destiny from practical inevitability within an assembled system. Individual work changes the feasible set. A sufficiently developed network of skills, materials, demand, and accessible fuel may also make it likely that someone will find a workable pumping route. Establishing that likelihood requires comparison with failed and delayed routes, rather than hindsight alone.
+
+The book's proposed underlying cause is disequilibrium driving energy extraction and entropy production through the pathways that can be assembled. Wage relations and fuel prices mediate that process in the historical case; they do not substitute for it. The strong thesis must explain how the physical drive becomes organized as investment, experiments, construction, and retention of a working machine. Allen's economic history supplies part of that chain, not a thermodynamic proof of the whole.
 
 A working engine also carries its history into encounters with other societies. In the First Opium War, the iron steam vessel *Nemesis* operated as part of British imperial forces against Qing China. Its shallow draft and powered movement made it useful in coastal and river operations, including actions around Chuenpi in January 1841. William Dallas Bernard's account, drawn from Commander William Hall's notes, records the ship's operations and celebrates its role.[6]
 
@@ -86,7 +94,9 @@ This is the material meaning of overcoming while preserving. It has no guarantee
 
 The flooded mine with which we began now sits inside a much larger account. Its problem was immediate and concrete: remove water. A working answer helped open a resource. Repeated answers helped create industries, skills, and networks. Those networks extended productive and military power. Their expansion altered the world in which further decisions were made.
 
-The distinctive loop is now visible. An engine can use coal to drain a mine that supplies coal for engines. The gain is conditional on repair, fuel costs, and the usefulness of the additional extraction. Once the loop becomes established, the expanding stock of equipment and skills can make continued participation attractive and departure expensive. Growth reproduces a capacity and a commitment at the same time.
+The distinctive sequence is now visible. Existing energy and organization make an initially costly engine viable. Its pumping opens more coal. The resulting fuel and productive capacity can support further engines, improved construction, and additional uses. The assembly crosses a barrier and then changes the conditions under which later barriers are encountered.
+
+Once established, the loop also acquires commitments. Equipment, skills, settlements, and claims accumulate around its continuation. The same history that makes further development cheaper can make a different direction harder. Dialectical transformation concerns this coupled relation: a productive organization creates new powers and new limits, and a successor must work through both.
 
 The next bottleneck need not be another source of mechanical power. An industrial society can move material rapidly and still confront a chemical limit in food production. Fields require nutrients in forms plants can use. One of the elements they need is abundant overhead, yet most crops cannot directly draw it from the air.
 
@@ -105,3 +115,5 @@ The next bottleneck need not be another source of mechanical power. An industria
 6. Bernard, from Hall's notes, [*Narrative of the Voyages and Services of the Nemesis from 1840 to 1843*](https://www.gutenberg.org/cache/epub/43669/pg43669-images.html), second edition (1845), particularly the ship description and China campaign. This is a situated British participant account. See [S38](sources.md#s38).
 
 7. U.S. Department of State, Office of the Historian, [“The Opening to China, Part I”](https://history.state.gov/milestones/1830-1860/china-1), for the diplomatic chronology and unequal treaty context. See [S38](sources.md#s38).
+
+8. Allen, [British Academy lecture](https://www.thebritishacademy.ac.uk/documents/2079/pba167p199_0.pdf), printed pp. 211–212 and 218. See [S66](sources.md#s66). The interpretation in terms of expenditure across an assembly barrier belongs to this book; the historical comparison does not establish a thermodynamic maximum.

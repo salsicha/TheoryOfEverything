@@ -30,6 +30,12 @@ The past has removed some possibilities and made others available. It has also s
 
 A history is more than a sequence of events. It is a sequence of changes in what becomes possible next.
 
+The puzzle also makes a distinction visible that will matter throughout the book. Its rules and relations can be expressed without specifying the color of the screen or the material carrying the marks. Yet the solver encounters them through an actual arrangement: a board, stored values, a program, and the physical activity that executes it. The formal relations and the material realization belong to one working system.
+
+I will call systems jointly material and Platonic. By Platonic I mean the formal relations, possible organizations, and constraints through which a realization has its capacities. These need not be thoughts entertained by a human being. A symmetry or a topology can matter before anyone describes it. Whether forms possess an independent existence is a further philosophical question; their causal role in an actual system still requires an embodiment and an interaction.
+
+A cylinder made from an unsuitable material cannot sustain the pressures its diagram permits. A suitable material assembled into the wrong geometry cannot perform the intended cycle. Changing a representation can reveal a possible machine; changing a material can make that representation realizable. Development occurs in their joint space, with each change altering the consequences of the other.
+
 There is an immediate danger in extending the Sudoku example. A puzzle has rules, a designer, and an intended solution. Nature need have none of those features in the corresponding sense. An organism does not consult the completed future before it reproduces. A river does not evaluate every landscape before flowing downhill. A physical process is not secretly a programmer selecting the square that will bring the universe closest to a predetermined answer.
 
 The analogy is useful at one point: the alternatives we can describe are not identical to the alternatives a process can reach. Beyond that point, the mechanisms must be investigated on their own terms.
@@ -72,9 +78,11 @@ An arrangement that persists must satisfy the physical requirements of its persi
 
 The resource and the capability are equally important. Coal underground is not a running pump. Sunlight is not a meal. The material connection has to be made. It may involve an organism, a cultivated field, a machine, or an enormous network of equipment and people.
 
-This book investigates a recurring possibility: a structure gains access to usable energy; that access supports more activity and reproduction; the expanding organization changes its environment; and the changed environment makes further structures possible. At some historical transitions, this feedback can become remarkably powerful.
+This book proposes a physical driver for that development: under disequilibrium, systems tend toward maximum rates of energy extraction and entropy production within the constraints of accessible assemblies. The new organization can then change the constraints and make another transition reachable. Energy flow can support the construction of means for further energy flow.
 
-It is a hypothesis about mechanisms, not a law that whatever burns most must win. A wasteful arrangement can exhaust its support. A modest arrangement can persist by needing little. The capacity to obtain energy is different from the capacity to use it effectively, and both are different from the capacity to improve human lives.
+The claim reaches beyond explaining why an established structure keeps operating. It asks why new structures arise and why some transitions become likely enough to be reached along several routes. A costly first machine can become viable when existing energy and labor are directed toward overcoming its barrier. A new representation can make the same physical resources capable of testing a problem that previously defeated them. Both belong to the history the theory seeks to explain.
+
+The physical equivalence between energy throughput and entropy production depends on the process and its boundary. The next chapter makes that relation explicit. The larger extension to scientific discovery and intelligence is the book's conjecture, not a theorem borrowed from thermodynamics. Its ambition should remain visible without assuming that a wasteful device, a successful organism, and an expanding society maximize an identical quantity over an identical interval.
 
 To understand success, we also have to ask what repeats.
 
@@ -108,7 +116,11 @@ The problem is not confined to the past. We are building computational systems i
 
 But a proposed feedback loop is not an accomplished future. Designs require experiments. Equipment requires factories. Infrastructure requires time, labor, and institutions. Ownership still determines access, and scarcity can move from one part of the system to another. A machine's ability to produce an answer does not settle whether a society can make the answer real.
 
-That is the route this book will follow: from constraints to the work that maintains them, from living organization to productive capability, and from the dependencies created by success to the possibility of deliberate change.
+The route begins with thermodynamic differences and the barriers that prevent their exploitation. It follows the assembly of life and production, then examines discovery and the formation of intelligence. Its final question concerns the assembly of the physical world itself.
+
+The repeated appearance of related discoveries is a central puzzle along that route. If researchers were independently drawing answers from an undifferentiated space, convergence would seem astonishing. Their actual searches inherit structure. But shared structure identifies a channel, not the underlying physical driver proposed here. We must investigate how disequilibrium produces and sustains the organized activity that constructs those channels.
+
+This is also where dialectics enters the account of discovery. The results preserved by an inherited framework can eventually undermine its exclusive claims. A successor may retain those results by changing the concepts that made them appear incompatible. The book asks whether this reconstruction and the convergence of different investigators are two manifestations of the same energetic process acting through joint material and formal constraints.
 
 Its philosophical commitment is to materialism. Capacities have conditions. Thought, technology, and institutions belong to the world whose history they help make. Its method is dialectical in a concrete sense: the same arrangements that enable a process can limit its further development, and the products of that process can transform the conditions that first made it possible.
 
@@ -118,9 +130,9 @@ The square with one answer offers a beginning rather than a conclusion. It teach
 
 When I looked at the most constrained square, the answer became easier to find because the rest of the puzzle was already there.
 
-Outside the puzzle, the surrounding conditions cannot simply be assumed to remain in place. Wires must carry electricity, people must arrive, agreements must be honored, and damage must be repaired.
+Outside the puzzle, a legal move still needs a physical route. A difference can remain unused because no existing organization can cross the barrier separating it from action. The next question therefore concerns both drive and access: what sets a system in motion, and what makes a new pathway possible?
 
-Before asking where every constraint ultimately came from, we need to ask what keeps the conditions of action available tomorrow.
+We begin with a hot object, a cold object, and the difference between them.
 
 ## Chapter notes
 
