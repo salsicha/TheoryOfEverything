@@ -32,7 +32,7 @@ Supports a specific high-wage, cheap-energy interpretation. It is an interpretat
 
 Supports the distinction between a variational characterization of physical motion and an intentional search for a goal. Stationarity is not a theorem that history takes the fastest route to maximum energy extraction.
 
-The action discussion was rechecked for I66 and chapter 6's combined fine-tuning hypothesis, including its explicit distinction between stationarity and a minimum. The source supports the component principle; it does not derive cosmic parameter values or the universe's necessity.
+The action discussion was rechecked for I66 and chapter 8's combined fine-tuning hypothesis, including its explicit distinction between stationarity and a minimum. The source supports the component principle; it does not derive cosmic parameter values or the universe's necessity.
 
 ## S06
 
@@ -56,13 +56,13 @@ The paper compares energy flow per unit mass across systems. Section 5 was read 
 
 **Commodity relations.** Karl Marx, *Capital*, volume I, [chapter 1, especially section 4](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm).
 
-Primary text for commodity fetishism. Chapter 9 also draws on [chapter 6 on labor-power](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm) and [chapter 23 on simple reproduction](https://www.marxists.org/archive/marx/works/1867-c1/ch23.htm); chapter 8 uses the *Grundrisse* passage under S53. The book's phrase about relationships between people appearing as relationships between things is a paraphrase, not a newly verified quotation. The proposed energy-and-assembly synthesis belongs to this manuscript.
+Primary text for commodity fetishism. Chapter 11 also draws on [chapter 6 on labor-power](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm) and [chapter 23 on simple reproduction](https://www.marxists.org/archive/marx/works/1867-c1/ch23.htm); chapter 10 uses the *Grundrisse* passage under S53. The book's phrase about relationships between people appearing as relationships between things is a paraphrase, not a newly verified quotation. The proposed energy-and-assembly synthesis belongs to this manuscript.
 
 ## S10
 
 **Social systems.** Niklas Luhmann, *Social Systems*, English translation by John Bednarz Jr. with Dirk Baecker (Stanford University Press, 1995), [digitized text](https://uberty.org/wp-content/uploads/2015/08/Niklas_Luhmann_Social_Systems.pdf).
 
-Relevant full-text passages on communication and action were consulted for chapter 9, especially printed pages 137–142; system/environment and interpenetration sections supply the boundary distinctions. No direct quotation is used. Luhmann's communication-centered account should not be silently equated with Marx's class analysis or biological autopoiesis. The original Varela–Maturana–Uribe paper and Ashby's text are now linked under S33 and S45. The larger *Autopoiesis and Cognition* volume remains a further reading lead, not a book reviewed in full here.
+Relevant full-text passages on communication and action were consulted for chapter 11, especially printed pages 137–142; system/environment and interpenetration sections supply the boundary distinctions. No direct quotation is used. Luhmann's communication-centered account should not be silently equated with Marx's class analysis or biological autopoiesis. The original Varela–Maturana–Uribe paper and Ashby's text are now linked under S33 and S45. The larger *Autopoiesis and Cognition* volume remains a further reading lead, not a book reviewed in full here.
 
 ## S11
 
@@ -74,13 +74,13 @@ Supports distinguishing commercial-bank deposit creation from the claim that all
 
 **Cumulative culture.** Michael Muthukrishna and Joseph Henrich, [“Innovation in the collective brain”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4780534/), *Philosophical Transactions of the Royal Society B* (2016).
 
-Supports investigating how social learning, connectivity, and accumulated knowledge affect innovation. Population size is not a complete causal explanation. A detailed cassava-processing scene is not used; chapters 5 and 8 retain the general transmission mechanism without inventing ethnographic details.
+Supports investigating how social learning, connectivity, and accumulated knowledge affect innovation. Population size is not a complete causal explanation. A detailed cassava-processing scene is not used; chapters 5 and 10 retain the general transmission mechanism without inventing ethnographic details.
 
 ## S13
 
 **Early Homo sapiens.** Jean-Jacques Hublin et al., [“New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens”](https://www.nature.com/articles/nature22336), *Nature* (2017).
 
-Supports the deep history of our species, roughly 300,000 years. It does not support biological stasis, an idle early humanity, or one uniquely dated departure from Africa. Chapter 7 adds a bounded archaeological comparison under S72 and a climatic model under S73. Detailed dispersal and admixture histories still need fuller treatment.
+Supports the deep history of our species, roughly 300,000 years. It does not support biological stasis, an idle early humanity, or one uniquely dated departure from Africa. Chapter 9 adds a bounded archaeological comparison under S72 and a climatic model under S73. Detailed dispersal and admixture histories still need fuller treatment.
 
 ## S14
 
@@ -92,7 +92,7 @@ Experimental evidence against the categorical assertion that chimpanzees cannot 
 
 **Domestication hypothesis.** Adam S. Wilkins, Richard W. Wrangham, and W. Tecumseh Fitch, [“The ‘Domestication Syndrome’ in Mammals: A Unified Explanation Based on Neural Crest Cell Behavior and Genetics”](https://academic.oup.com/genetics/article/197/3/795/5935921), *Genetics* 197 (2014), 795–808.
 
-This is a proposed developmental explanation, not proof of a general human-domestication mechanism. It supplies no basis for racial rankings of intelligence, equating compliance with intelligence, or interpreting modern IQ trends as rapid genetic change. Chapter 7 and the parked development essay pair the proposal with the Lord et al. critique under S51; neither asserts a demonstrated human neural-crest mechanism.
+This is a proposed developmental explanation, not proof of a general human-domestication mechanism. It supplies no basis for racial rankings of intelligence, equating compliance with intelligence, or interpreting modern IQ trends as rapid genetic change. Chapter 9 and the parked development essay pair the proposal with the Lord et al. critique under S51; neither asserts a demonstrated human neural-crest mechanism.
 
 ## S16
 
@@ -124,7 +124,7 @@ Orientation to stellar life cycles. Chapter 3 adds primary nucleosynthesis evide
 
 Chapter 6 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
 
-Bohm's original abstract was rechecked for I68's stronger ontological commitment. Its deterministic account supports the distinction between quantum predictions and a unique ontology. The manuscript's claims that nothingness is impossible and constitutive indeterminacy entails necessary existence and continual becoming are philosophical proposals, not results attributed to Robertson or Bohm.
+Bohm's original abstract was rechecked for I68's stronger ontological commitment. Its deterministic account supports the distinction between quantum predictions and a unique ontology. The manuscript's claims that nothingness is impossible and constitutive indeterminacy entails natural emergence and continual becoming are philosophical proposals, not results attributed to Robertson or Bohm.
 
 ## S21
 
@@ -138,13 +138,13 @@ Supports the elementary field-theory description of a vacuum as a structured low
 
 Supports the limited magnetic example and the experimental Higgs context. Gauge redundancy is not identified with physically different magnet orientations. The chapter does not claim that all mass has one origin or provide a complete history of the mechanism's contributors.
 
-Tong's equilibrium-magnetization discussion was rechecked for I67. It supports separating an ordered or asymmetric state from a claim of thermodynamic disequilibrium. The extension to inevitable cosmic disequilibrium remains the book's hypothesis.
+Tong's equilibrium-magnetization discussion was rechecked for I67. It supports separating an ordered or asymmetric state from a claim of thermodynamic disequilibrium. The extension to the cosmic origins of disequilibrium remains the book's hypothesis.
 
 ## S23
 
 **Parity, CP, and baryogenesis.** C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413) (1957); J. H. Christenson et al., [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138) (1964); Antonio Riotto and Mark Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999).
 
-Used to separate three questions. Section II of the review was also checked for the standard Sakharov conditions: baryon-number violation, C and CP violation, and departure from thermal equilibrium. It supplies conceptual background rather than a current experimental-status survey. Chapter 6 treats the 2025 baryon measurement separately under S77 and the cosmic-domain calculation under S78.
+Used to separate three questions. Section II of the review was also checked for the standard Sakharov conditions: baryon-number violation, C and CP violation, and departure from thermal equilibrium. It supplies conceptual background rather than a current experimental-status survey. Chapter 7 treats the 2025 baryon measurement separately under S77 and the cosmic-domain calculation under S78.
 
 ## S24
 
@@ -156,7 +156,7 @@ Supports the statistical explanation and the need to account for low-entropy ini
 
 **Effective theories.** Joseph Polchinski, [“Effective Field Theory and the Fermi Surface”](https://arxiv.org/abs/hep-th/9210046), TASI 1992 lectures, revised 1999; [HTML text](https://arxiv.org/html/hep-th/9210046).
 
-Supports descriptions organized by energy scale. Chapter 6 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
+Supports descriptions organized by energy scale. Chapter 8 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
 
 ## S26
 
@@ -180,7 +180,7 @@ Supports the specific bound concerning gravitationally bound structures. The cha
 
 **A dynamical proposal.** Peter W. Graham, David E. Kaplan, and Surjeet Rajendran, [“Cosmological Relaxation of the Electroweak Scale”](https://arxiv.org/abs/1504.07551), *Physical Review Letters* 115 (2015), 221801; [full text consulted](https://arxiv.org/pdf/1504.07551).
 
-Chapter 6 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
+Chapter 8 uses the evolving field and stopping barriers as a concrete example of how a developmental hypothesis can be specified. The proposal is not treated as experimentally established or as a solution to the cosmological constant problem. Its additional physics and cosmological assumptions remain part of its explanatory cost.
 
 ## S30
 
@@ -192,7 +192,7 @@ Supports the prologue's limited background about computing equipment, power dist
 
 **AI and productive energy capabilities.** International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation), in Energy and AI (2025).
 
-Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Chapter 12 now includes the bounded TCV control demonstration under S54 and separates it from the proposed future loop.
+Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Chapter 14 now includes the bounded TCV control demonstration under S54 and separates it from the proposed future loop.
 
 ## S32
 
@@ -204,7 +204,7 @@ Chapter 3 reports the compression, novelty, and classification objections as the
 
 **Biological autopoiesis.** Francisco G. Varela, Humberto R. Maturana, and R. Uribe, [“Autopoiesis: The Organization of Living Systems, Its Characterization and a Model”](https://reflexus.org/wp-content/uploads/Varela_Maturana_Uribe_1974_Autopoiesis.pdf), *BioSystems* 5 (1974), 187–196, DOI 10.1016/0303-2647(74)90031-8.
 
-The introduction and characterization consulted during earlier drafting distinguish maintaining a living organization from producing offspring. Chapters 3, 7, 9, and 10 use this conceptual starting point and identify the social extension as the book's proposal. These chapters do not treat a thermostat, firm, or planet as automatically equivalent to a cell. The PDF mirror was unavailable on the November 15 recheck; chapters 7, 9, and 10 cite the stable DOI. No additional full-text access is claimed for that recheck.
+The introduction and characterization consulted during earlier drafting distinguish maintaining a living organization from producing offspring. Chapters 3, 9, 11, and 12 use this conceptual starting point and identify the social extension as the book's proposal. These chapters do not treat a thermostat, firm, or planet as automatically equivalent to a cell. The PDF mirror was unavailable on the November 15 recheck; chapters 9, 11, and 12 cite the stable DOI. No additional full-text access is claimed for that recheck.
 
 ## S34
 
@@ -252,19 +252,19 @@ Supports nutrient enrichment, eutrophication and oxygen depletion, and nitrous-o
 
 **Cromford and factory labor.** Arkwright Society, [Cromford Mills history](https://www.cromfordmills.org.uk/about/our-history/); Derwent Valley Mills World Heritage Site, [Cromford Mill Complex](https://www.derwentvalleymills.org/discover/derwent-valley-mills-history/derwent-valley-mills-key-sites/cromford-mill-complex/). The National Archives, [1833 Factory Act source collection](https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/) and [1836 factory inspector's report extract](https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/source-1/).
 
-The Cromford site, date, and water-power context now remain in the archived factory and constraint-transformation drafts. The 1833 legislation and 1836 inspector report remain in the archived factory draft, with their original evidence limits. Current chapter 7 uses a shorter electrification comparison under S42 within its human-development argument.
+The Cromford site, date, and water-power context now remain in the archived factory and constraint-transformation drafts. The 1833 legislation and 1836 inspector report remain in the archived factory draft, with their original evidence limits. Current chapter 9 uses a shorter electrification comparison under S42 within its human-development argument.
 
 ## S42
 
 **Electrification and organizational complements.** Paul A. David, [“The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox”](https://gwern.net/doc/economics/automation/1990-david.pdf), *American Economic Review* 80 (1990), 355–361. David, [“Understanding Digital Technology's Evolution and the Path of Measured Productivity Growth”](https://siepr.stanford.edu/publications/working-paper/understanding-digital-technologys-evolution-and-path-measured), SIEPR working paper (1999).
 
-Supports the interpretation that organizational complements can affect the realization of technical benefits. Chapter 7's factory example is hypothetical, not a newly documented installation; no fixed diffusion lag is projected onto AI.
+Supports the interpretation that organizational complements can affect the realization of technical benefits. Chapter 9's factory example is hypothetical, not a newly documented installation; no fixed diffusion lag is projected onto AI.
 
 ## S43
 
 **Changing land rights.** The National Archives, [enclosure awards and maps research guide](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/enclosure-awards/). UK Parliament, [“Enclosing the land”](https://www.parliament.uk/about/living-heritage/transformingsociety/towncountry/landscape/overview/enclosingland/).
 
-Supports the variety and long chronology of English enclosure and what awards recorded. The earlier chapter 8, now preserved in development/institutional-background.md, retains disagreement about direct displacement into towns and supplies no invented local case.
+Supports the variety and long chronology of English enclosure and what awards recorded. The earlier chapter 10, now preserved in development/institutional-background.md, retains disagreement about direct displacement into towns and supplies no invented local case.
 
 ## S44
 
@@ -274,15 +274,15 @@ Supports the narrow machine function and the wider institutional context. WPA re
 
 ## S45
 
-**Cybernetic regulation.** W. Ross Ashby, [*An Introduction to Cybernetics*](https://www.ashby.info/Ashby-Introduction-to-Cybernetics.pdf) (1956), especially Part III on regulation and control and chapter 11 on requisite variety.
+**Cybernetic regulation.** W. Ross Ashby, [*An Introduction to Cybernetics*](https://www.ashby.info/Ashby-Introduction-to-Cybernetics.pdf) (1956), especially Part III on regulation and control and chapter 13 on requisite variety.
 
-Supports the relation between regulatory capacity and disturbances. The Part III passages on requisite variety and control were rechecked for chapter 10; its reciprocal regulation–renewal explanation is the manuscript's synthesis, not a claim that Ashby alone established autopoiesis. The wage cycle and its comparison with Marx and Luhmann are this book's analytical construction. Control effectiveness is not identified with political legitimacy.
+Supports the relation between regulatory capacity and disturbances. The Part III passages on requisite variety and control were rechecked for chapter 12; its reciprocal regulation–renewal explanation is the manuscript's synthesis, not a claim that Ashby alone established autopoiesis. The wage cycle and its comparison with Marx and Luhmann are this book's analytical construction. Control effectiveness is not identified with political legitimacy.
 
 ## S46
 
 **The U.S. financial crisis.** Financial Crisis Inquiry Commission, [report and sections](https://fcic.law.stanford.edu/report), [complete official report with dissents](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_full.pdf) (2011), particularly the conclusions, shadow banking, securitization, and funding disruption sections.
 
-Supports the majority's principal causal categories and the existence of dissent. The earlier housing chapter, preserved in development/earlier-case-studies.md, uses invented house values and a 100/95/5 balance sheet; chapter 9 retains a short housing illustration. These are not statistics drawn from the report. No contemporary market forecast is made.
+Supports the majority's principal causal categories and the existence of dissent. The earlier housing chapter, preserved in development/earlier-case-studies.md, uses invented house values and a 100/95/5 balance sheet; chapter 11 retains a short housing illustration. These are not statistics drawn from the report. No contemporary market forecast is made.
 
 ## S47
 
@@ -306,13 +306,13 @@ Supports learning of sound-sequence regularities in a controlled segmentation ta
 
 **Machine representations.** Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean, [“Efficient Estimation of Word Representations in Vector Space”](https://arxiv.org/abs/1301.3781) (2013).
 
-Provides a concrete example of learned word vectors. Chapter 12's map analogy and claims about representation costs are explanatory arguments, not results of a neural theory in this paper.
+Provides a concrete example of learned word vectors. Chapter 14's map analogy and claims about representation costs are explanatory arguments, not results of a neural theory in this paper.
 
 ## S51
 
 **Domestication critique.** Kathryn A. Lord, Greger Larson, Raymond P. Coppinger, and Elinor K. Karlsson, [“The History of Farm Foxes Undermines the Animal Domestication Syndrome”](https://pubmed.ncbi.nlm.nih.gov/31810775/), *Trends in Ecology & Evolution* 35 (2020), 125–136, DOI 10.1016/j.tree.2019.10.011; [author manuscript](https://repository.escholarship.umassmed.edu/bitstream/20.500.14038/25872/2/PIIS0169534719303027.pdf).
 
-Read alongside S15 as a substantive challenge to an overgeneralized domestication story. Chapter 7 brings this challenge into the main narrative alongside S71. Neither it nor the parked development essay claims a settled human neural-crest mechanism or infers intelligence from conformity, ancestry, or brain volume.
+Read alongside S15 as a substantive challenge to an overgeneralized domestication story. Chapter 9 brings this challenge into the main narrative alongside S71. Neither it nor the parked development essay claims a settled human neural-crest mechanism or infers intelligence from conformity, ancestry, or brain volume.
 
 ## S52
 
@@ -324,7 +324,7 @@ Supports the robot's structure inference and revised locomotion after damage. It
 
 **General intellect.** Karl Marx, [*Grundrisse*, Notebook VII, fixed capital and general social knowledge](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm), especially the passage beginning with the development of fixed capital and general knowledge as a force of production.
 
-Chapter 8 paraphrases the relevant passage. Its connection to collective competence and present ownership questions is the book's interpretation, not a prediction attributed verbatim to Marx.
+Chapter 10 paraphrases the relevant passage. Its connection to collective competence and present ownership questions is the book's interpretation, not a prediction attributed verbatim to Marx.
 
 ## S54
 
@@ -360,13 +360,13 @@ The accessible abstract supports the bounded claim that organisms, including thr
 
 **Technological combination and lock-in.** W. Brian Arthur and Wolfgang Polak, [“The Evolution of Technology within a Simple Computer Model”](https://sites.santafe.edu/~wbarthur/Papers/AP-Complexity.pdf), Santa Fe Institute Working Paper 2004-12-042. W. Brian Arthur, [“Competing Technologies, Increasing Returns, and Lock-In by Historical Events”](https://sites.santafe.edu/~wbarthur/Papers/EJ.pdf), *The Economic Journal* 99 (1989), 116–131; author-hosted prepublication version.
 
-The first model retains useful circuit combinations for further construction. The second investigates path dependence under increasing returns to adoption. Chapter 7 uses them as short comparisons within the human-development argument, separating retained capabilities from reinforcement of an established route. Neither model establishes human self-domestication, the proposed thermodynamic driver, or the book's whole historical synthesis. The longer factory treatment remains in the archived pre-merge draft.
+The first model retains useful circuit combinations for further construction. The second investigates path dependence under increasing returns to adoption. Chapter 9 uses them as short comparisons within the human-development argument, separating retained capabilities from reinforcement of an established route. Neither model establishes human self-domestication, the proposed thermodynamic driver, or the book's whole historical synthesis. The longer factory treatment remains in the archived pre-merge draft.
 
 ## S60
 
 **Prior encounters between Marx and Luhmann.** Bob Jessop, [“The relevance of Luhmann’s systems theory and of Laclau and Mouffe’s discourse analysis to the elaboration of Marx’s state theory”](https://bobjessop.wordpress.com/2014/02/09/the-relevance-of-luhmanns-systems-theory-and-of-laclau-and-mouffes-discourse-analysis-to-the-elaboration-of-marxs-state-theory/), author’s English preprint posted in 2014 of a chapter published in German in 2008.
 
-Chapters 9 and 10 explicitly develop the book's synthesis of Marx and Luhmann through cybernetics: material production sustains communicative organization, which directs subsequent material activity, with feedback connecting their consequences. The wage-payment example and the description of a jointly material and Platonic system are the manuscript's analytical proposal. Jessop supplies a precedent for connecting the traditions, not an attribution of this exact formulation or an endorsement of the book's thermodynamic hypothesis. Differences concerning class, communication, and material coercion remain relevant; neither thinker is reduced to one side of a material/formal division. This source is not a comprehensive review of critical systems theory.
+Chapters 11 and 12 explicitly develop the book's synthesis of Marx and Luhmann through cybernetics: material production sustains communicative organization, which directs subsequent material activity, with feedback connecting their consequences. The wage-payment example and the description of a jointly material and Platonic system are the manuscript's analytical proposal. Jessop supplies a precedent for connecting the traditions, not an attribution of this exact formulation or an endorsement of the book's thermodynamic hypothesis. Differences concerning class, communication, and material coercion remain relevant; neither thinker is reduced to one side of a material/formal division. This source is not a comprehensive review of critical systems theory.
 
 ## S61
 
@@ -378,7 +378,7 @@ The earlier Montreal chapter, preserved in development/earlier-case-studies.md, 
 
 **Controls and recurring assessment.** Ozone Secretariat, [Montreal Protocol overview and treaty](https://ozone.unep.org/treaties/montreal-protocol); [Article 6: Assessment and review of control measures](https://ozone.unep.org/treaties/montreal-protocol/articles/article-6-assessment-and-review-control-measures).
 
-Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. The archived Montreal chapter treats the treaty as an evolving regime; the former chapter 8 account of changing assembly constraints is preserved in development/institutional-background.md. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
+Supports the 1987 agreement, 1989 entry into force, production and consumption controls, subsequent revision, recurring assessment, and the 2016 Kigali HFC phase-down. The archived Montreal chapter treats the treaty as an evolving regime; the former chapter 10 account of changing assembly constraints is preserved in development/institutional-background.md. HFCs are distinguished from ozone-depleting substances; their replacement role did not eliminate climate effects.
 
 ## S63
 
@@ -420,49 +420,49 @@ Background for the two-reservoir balances in chapter 2. The manuscript states it
 
 **Reactive and proactive aggression.** Richard W. Wrangham, [“Two types of aggression in human evolution”](https://doi.org/10.1073/pnas.1713611115), *PNAS* 115 (2018), 245–253; [indexed abstract](https://pubmed.ncbi.nlm.nih.gov/29279379/).
 
-The abstract and indexed author passages support chapter 7's distinction between forms of aggression. The cross-species comparison is the author's argument, not a claim that all humans are gentle or all violence follows one mechanism. Direct PMC retrieval was blocked; no full-text review is claimed for this paper.
+The abstract and indexed author passages support chapter 9's distinction between forms of aggression. The cross-species comparison is the author's argument, not a claim that all humans are gentle or all violence follows one mechanism. Direct PMC retrieval was blocked; no full-text review is claimed for this paper.
 
 ## S70
 
 **Coalitionary execution as an evolutionary hypothesis.** Richard W. Wrangham, [“Hypotheses for the Evolution of Reduced Reactive Aggression in the Context of Human Self-Domestication”](https://pmc.ncbi.nlm.nih.gov/articles/PMC6710405/), *Frontiers in Psychology* 10 (2019), 1914, DOI 10.3389/fpsyg.2019.01914.
 
-The abstract, execution discussion, and conclusion were read. Chapter 7 distinguishes the proposed selective mechanism from demonstrated prehistoric frequencies or genetic effects, and separates it from the book's energetic interpretation. The article's comparison does not settle the relative contributions of alternative mechanisms.
+The abstract, execution discussion, and conclusion were read. Chapter 9 distinguishes the proposed selective mechanism from demonstrated prehistoric frequencies or genetic effects, and separates it from the book's energetic interpretation. The article's comparison does not settle the relative contributions of alternative mechanisms.
 
 ## S71
 
 **An alternative emphasis on emotional control.** Dor Shilton, Mati Breski, Daniel Dor, and Eva Jablonka, [“Human Social Evolution: Self-Domestication or Self-Control?”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7033472/), *Frontiers in Psychology* 11 (2020), 134, DOI 10.3389/fpsyg.2020.00134.
 
-The abstract and comparative discussion were consulted for the authors' challenge to the domestication analogy and emphasis on socially mediated emotional plasticity. Chapter 7 presents an alternative hypothesis, not an established replacement theory or a detailed reconstruction of language origins.
+The abstract and comparative discussion were consulted for the authors' challenge to the domestication analogy and emphasis on socially mediated emotional plasticity. Chapter 9 presents an alternative hypothesis, not an established replacement theory or a detailed reconstruction of language origins.
 
 ## S72
 
 **Evidence for earlier movement beyond Africa.** Israel Hershkovitz et al., [“The earliest modern humans outside Africa”](https://pubmed.ncbi.nlm.nih.gov/29371468/), *Science* 359 (2018), 456–459, DOI 10.1126/science.aap8369. Compare Warren D. Sharp and James B. Paces, [comment on the dating](https://pubmed.ncbi.nlm.nih.gov/30361342/), and Hershkovitz et al., [response](https://pubmed.ncbi.nlm.nih.gov/30361343/), *Science* 362 (2018).
 
-Indexed abstracts support the reported Misliya range of 177,000–194,000 years and the existence of a methodological dispute. Chapter 7 uses this narrow case against a single late departure narrative, without claiming to resolve the dating, identify the earliest migration, or reconstruct all later dispersals.
+Indexed abstracts support the reported Misliya range of 177,000–194,000 years and the existence of a methodological dispute. Chapter 9 uses this narrow case against a single late departure narrative, without claiming to resolve the dating, identify the earliest migration, or reconstruct all later dispersals.
 
 ## S73
 
 **Climatic feasibility of migration.** Robert M. Beyer, Mario Krapp, Anders Eriksson, and Andrea Manica, [“Climatic windows for human migration out of Africa in the past 300,000 years”](https://www.nature.com/articles/s41467-021-24779-1), *Nature Communications* 12 (2021), 4889; [institutional copy](https://publications.pik-potsdam.de/rest/items/item_26608_5/component/file_26609/content?download=true).
 
-The indexed abstract and results passages support the limited account of modeled rainfall constraints in chapter 7. Publisher retrieval was restricted; no comprehensive methods review is claimed. The chapter does not infer actual movement from climatic suitability, a unique departure date, or an explanation of self-domestication from this model.
+The indexed abstract and results passages support the limited account of modeled rainfall constraints in chapter 9. Publisher retrieval was restricted; no comprehensive methods review is claimed. The chapter does not infer actual movement from climatic suitability, a unique departure date, or an explanation of self-domestication from this model.
 
 ## S74
 
 **Shared care and comparative prosociality.** Judith M. Burkart et al., [“The evolutionary origin of human hyper-cooperation”](https://www.nature.com/articles/ncomms5747), *Nature Communications* 5 (2014), 4747; [institutional paper copy](https://www.eva.mpg.de/documents/Nature/Burkart_Evolutionary_NatComm_2014_2067750.pdf).
 
-The indexed abstract and results support the reported relationship between allomaternal care and unsolicited helping across the study's fifteen primate species. This comparative result supplies an additional starting point for chapter 7, not proof of human self-domestication, a complete history of childcare, or the thermodynamic hypothesis. Subsequent care and investment scenarios are explicitly original illustrations.
+The indexed abstract and results support the reported relationship between allomaternal care and unsolicited helping across the study's fifteen primate species. This comparative result supplies an additional starting point for chapter 9, not proof of human self-domestication, a complete history of childcare, or the thermodynamic hypothesis. Subsequent care and investment scenarios are explicitly original illustrations.
 
 ## S75
 
 **Dissipation and a particle-population instability.** Jens Eggers, [“Sand as Maxwell's Demon”](https://people.maths.bris.ac.uk/~majge/p5322_1.pdf), *Physical Review Letters* 83 (1999), 5322–5325, DOI 10.1103/PhysRevLett.83.5322.
 
-The primary paper's setup, dissipation mechanism, simulations, and flux-balance discussion were read. Chapter 6 uses the account of unequal stationary populations in a driven granular system; it does not identify granular temperature with the grains' molecular temperature or infer a universal entropy-production maximum from clustering.
+The primary paper's setup, dissipation mechanism, simulations, and flux-balance discussion were read. Chapter 7 uses the account of unequal stationary populations in a driven granular system; it does not identify granular temperature with the grains' molecular temperature or infer a universal entropy-production maximum from clustering.
 
 ## S76
 
 **Experimental transition from balanced to unequal populations.** K. van der Weele, D. van der Meer, M. Versluis, and D. Lohse, [“Hysteretic clustering in granular gas”](https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf), *Europhysics Letters* 53 (2001), 328–334, DOI 10.1209/epl/i2001-00157-x.
 
-The setup and two-compartment analysis were read for the 600-bead experiment and its stable and unstable regimes. Chapter 6 does not claim universal symmetry loss or present the paper's three-compartment hysteresis as a two-compartment result. Experimental counts were taken after shaking stopped; the prose consequently makes no claim of an exact measured in-motion population split.
+The setup and two-compartment analysis were read for the 600-bead experiment and its stable and unstable regimes. Chapter 7 does not claim universal symmetry loss or present the paper's three-compartment hysteresis as a two-compartment result. Experimental counts were taken after shaking stopped; the prose consequently makes no claim of an exact measured in-motion population split.
 
 ## S77
 
@@ -474,19 +474,19 @@ The author text's abstract, asymmetry derivation, and measurement passages were 
 
 **Spatial matter–antimatter domains.** A. G. Cohen, A. De Rújula, and S. L. Glashow, [“A Matter-Antimatter Universe?”](https://arxiv.org/abs/astro-ph/9707087), *The Astrophysical Journal* 495 (1998), 539–549; [paper PDF](https://arxiv.org/pdf/astro-ph/9707087).
 
-The abstract and opening model discussion were read for annihilation at domain boundaries and the resulting radiation constraints. Chapter 6 gives a bounded account of this cosmological patchwork calculation, without adopting its strongest conclusion as an exclusion of every conceivable distribution or claiming knowledge beyond the observable universe.
+The abstract and opening model discussion were read for annihilation at domain boundaries and the resulting radiation constraints. Chapter 7 gives a bounded account of this cosmological patchwork calculation, without adopting its strongest conclusion as an exclusion of every conceivable distribution or claiming knowledge beyond the observable universe.
 
 ## S79
 
 **War making and organized protection.** Charles Tilly, [“War Making and State Making as Organized Crime”](https://doi.org/10.1017/CBO9780511628283.008), in *Bringing the State Back In* (1985), 169–191.
 
-The publisher's accessible opening was read for the protection-racket comparison and its European scope. The institutional-repository working paper could not be fetched. Chapter 9 uses the bounded comparison, while its hypothetical defense cycle and regenerative interpretation are original constructions. It does not present a verified universal origin of taxation.
+The publisher's accessible opening was read for the protection-racket comparison and its European scope. The institutional-repository working paper could not be fetched. Chapter 11 uses the bounded comparison, while its hypothetical defense cycle and regenerative interpretation are original constructions. It does not present a verified universal origin of taxation.
 
 ## S80
 
 **Tax obligations and demand for currency.** L. Randall Wray, [“What Are Taxes For? The MMT Approach”](https://www.levyinstitute.org/blog/what-are-taxes-for-the-mmt-approach/), Levy Economics Institute (May 16, 2014).
 
-The author's explanation was read for the chartalist demand mechanism, the issuance-before-settlement sequence, and distinctions among currency regimes. Chapter 9 identifies this theoretical position and uses a simplified issuer. It does not claim that all money originated through taxation, adopt the essay's current-at-publication figures, or infer that all governments face identical constraints.
+The author's explanation was read for the chartalist demand mechanism, the issuance-before-settlement sequence, and distinctions among currency regimes. Chapter 11 identifies this theoretical position and uses a simplified issuer. It does not claim that all money originated through taxation, adopt the essay's current-at-publication figures, or infer that all governments face identical constraints.
 
 ## S81
 
@@ -498,9 +498,9 @@ The translated letter was read. It describes duties between a lord and vassal, i
 
 **Ideas within material activity.** Karl Marx and Friedrich Engels, [*The German Ideology*, Part I.A](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm), and [Part I.B, ruling ideas](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm), manuscript of 1845–46.
 
-The passages on consciousness, material practice, and ruling relationships were consulted. Chapter 9 develops its own account of ideology within social self-production. It distinguishes a representation's truth from the existence and consequences of the practices carrying it. No passage marked as deleted in the manuscript is presented as an unqualified final formulation.
+The passages on consciousness, material practice, and ruling relationships were consulted. Chapter 11 develops its own account of ideology within social self-production. It distinguishes a representation's truth from the existence and consequences of the practices carrying it. No passage marked as deleted in the manuscript is presented as an unqualified final formulation.
 
-The author's compressed assertion that ideas are false and only material conditions exist is preserved in I26 as a working formulation. Chapter 9 develops its materialist and reification argument while retaining the reality of embodied representations and operative formal relations. The blanket falsity of all ideas is not attributed to this source.
+The author's compressed assertion that ideas are false and only material conditions exist is preserved in I26 as a working formulation. Chapter 11 develops its materialist and reification argument while retaining the reality of embodied representations and operative formal relations. The blanket falsity of all ideas is not attributed to this source.
 
 ## S83
 
@@ -530,25 +530,25 @@ The passages on benefits, assistance reaching available work, and protection of 
 
 **Control and communication across organisms and machines.** Norbert Wiener, [*Cybernetics: Or Control and Communication in the Animal and the Machine*](https://mitpress.mit.edu/9780262537841/cybernetics-or-control-and-communication-in-the-animal-and-the-machine/), first published 1948; MIT Press reissue, 2019.
 
-The publisher's description and edition information were checked for the historical framing of the new chapter 10. No full reading of the book is claimed here. Pair this framing with Ashby's regulation treatment under S45. Modern neural learning is not treated as confirmation of every part of Wiener's program.
+The publisher's description and edition information were checked for the historical framing of the new chapter 12. No full reading of the book is claimed here. Pair this framing with Ashby's regulation treatment under S45. Modern neural learning is not treated as confirmation of every part of Wiener's program.
 
 ## S88
 
 **Anatomical hierarchy and bidirectional cortical pathways.** Nikola T. Markov et al., [“Anatomy of hierarchy: Feedforward and feedback pathways in macaque visual cortex”](https://sbri.fr/wp-content/uploads/marko14jcn.pdf), *Journal of Comparative Neurology* 522 (2014), 225–259, DOI 10.1002/cne.23458.
 
-The abstract and opening account of tract-tracing evidence were read. They support chapter 10's bounded discussion of cortical hierarchy and feedforward and feedback organization. They do not establish a single hierarchy for the whole brain, recursive self-representation, consciousness, or the book's thermodynamic mechanism.
+The abstract and opening account of tract-tracing evidence were read. They support chapter 12's bounded discussion of cortical hierarchy and feedforward and feedback organization. They do not establish a single hierarchy for the whole brain, recursive self-representation, consciousness, or the book's thermodynamic mechanism.
 
 ## S89
 
 **A proposed self-model account of awareness.** Michael S. A. Graziano, [“A conceptual framework for consciousness”](https://pmc.ncbi.nlm.nih.gov/articles/PMC9170028/), *PNAS* 119 (2022), e2116933119, DOI 10.1073/pnas.2116933119.
 
-The abstract and discussion of models and attention schema theory were consulted. This is the author's theoretical framework, not consensus proof that self-modeling produces subjective experience. Chapter 10's broader account of the self remains a proposal; the more limited artificial-agent intervention is separately sourced under S94.
+The abstract and discussion of models and attention schema theory were consulted. This is the author's theoretical framework, not consensus proof that self-modeling produces subjective experience. Chapter 12's broader account of the self remains a proposal; the more limited artificial-agent intervention is separately sourced under S94.
 
 ## S90
 
 **McCarthy's account of his methodological choice.** John McCarthy, [oral history conducted by Peter Asaro with Selma Šabanović, June 8, 2011](https://ethw.org/Oral-History:John_McCarthy), IEEE History Center; and [“The Dartmouth Workshop—as planned and as it happened”](https://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html), author's retrospective.
 
-The interview passages comparing feedback with logical deduction and the retrospective's account of the workshop's intended focus were read. They document McCarthy's recollections of his aims, not the correctness of his approach or a complete history of AI. Use paraphrase, not reconstructed dialogue. Chapter 10 assesses the subsequent methodological development separately.
+The interview passages comparing feedback with logical deduction and the retrospective's account of the workshop's intended focus were read. They document McCarthy's recollections of his aims, not the correctness of his approach or a complete history of AI. Use paraphrase, not reconstructed dialogue. Chapter 12 assesses the subsequent methodological development separately.
 
 ## S91
 
@@ -560,7 +560,7 @@ The passages on learning representations and the historical sequence of cybernet
 
 **A trained capability and its computing requirements.** Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, [“ImageNet Classification with Deep Convolutional Neural Networks”](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c-Abstract.html), *Advances in Neural Information Processing Systems* 25 (2012).
 
-The proceedings abstract was read for the trained convolutional network, improved classification result, and GPU implementation. Chapter 10 introduces the combination as a bounded historical example; chapter 11 develops the general assembly argument without repeating the experiment. It does not attribute the result to compute alone or infer an entropy-production maximum from benchmark performance. No detailed methods review is claimed here.
+The proceedings abstract was read for the trained convolutional network, improved classification result, and GPU implementation. Chapter 12 introduces the combination as a bounded historical example; chapter 13 develops the general assembly argument without repeating the experiment. It does not attribute the result to compute alone or infer an entropy-production maximum from benchmark performance. No detailed methods review is claimed here.
 
 ## S93
 
@@ -578,7 +578,7 @@ The significance statement, abstract, and opening description of the artificial 
 
 **Reasoning elicited through examples.** Jason Wei et al., [“Chain-of-Thought Prompting Elicits Reasoning in Large Language Models”](https://arxiv.org/abs/2201.11903), 2022.
 
-The abstract was read. It reports improved performance from intermediate-reasoning demonstrations on specified tasks. Chapter 11 uses this as a prompting intervention, without treating it as a universal account of reasoning or an unbounded scaling result.
+The abstract was read. It reports improved performance from intermediate-reasoning demonstrations on specified tasks. Chapter 13 uses this as a prompting intervention, without treating it as a universal account of reasoning or an unbounded scaling result.
 
 ## S96
 
@@ -596,13 +596,13 @@ The current abstract was read for the reported training mechanism and verifiable
 
 **Allocation of additional inference computation.** Charlie Snell, Jaehoon Lee, Kelvin Xu, and Aviral Kumar, [“Scaling LLM Test-Time Compute Optimally Can Be More Effective than Scaling Model Parameters”](https://arxiv.org/abs/2408.03314), 2024.
 
-The abstract was read for verifier-guided search, adaptive responses, and difficulty-dependent allocation. Chapter 11 distinguishes fixed weights from variable total inference work. The study does not establish indefinitely increasing cognition, and no universal scaling curve is claimed.
+The abstract was read for verifier-guided search, adaptive responses, and difficulty-dependent allocation. Chapter 13 distinguishes fixed weights from variable total inference work. The study does not establish indefinitely increasing cognition, and no universal scaling curve is claimed.
 
 ## S99
 
 **Training plus control of generation length.** Niklas Muennighoff et al., [“s1: Simple Test-Time Scaling”](https://arxiv.org/abs/2501.19393), 2025.
 
-The abstract was read. Its method combines supervised training on reasoning examples with budget forcing, including a continuation cue. Chapter 11 identifies both interventions. The reported gains concern the evaluated tasks; the cue is not represented as a standalone universal mechanism.
+The abstract was read. Its method combines supervised training on reasoning examples with budget forcing, including a continuation cue. Chapter 13 identifies both interventions. The reported gains concern the evaluated tasks; the cue is not represented as a standalone universal mechanism.
 
 ## S100
 
@@ -614,13 +614,13 @@ The abstract was read for the interleaving of generated reasoning, task actions,
 
 **Limits of intrinsic self-correction in tested settings.** Jie Huang et al., [“Large Language Models Cannot Self-Correct Reasoning Yet”](https://arxiv.org/abs/2310.01798), 2023; ICLR 2024.
 
-The abstract was read. Its reported failures and degradation concern reasoning correction without external feedback in the tested models and tasks. Chapter 11 does not generalize this dated result into a proof that all present or future models cannot correct themselves.
+The abstract was read. Its reported failures and degradation concern reasoning correction without external feedback in the tested models and tasks. Chapter 13 does not generalize this dated result into a proof that all present or future models cannot correct themselves.
 
 ## S102
 
 **Autoregressive execution with a retained architecture.** Ashish Vaswani et al., [“Attention Is All You Need”](https://arxiv.org/abs/1706.03762), 2017.
 
-The abstract and [section 3 model-architecture passages](https://arxiv.org/html/1706.03762v7) were read. They describe generation consuming previously generated symbols. Chapter 11 uses this as a concrete illustration of repeated computation, not a claim that all AI uses the original Transformer or has constant per-token cost. The frozen-parameter inference setup is stated explicitly.
+The abstract and [section 3 model-architecture passages](https://arxiv.org/html/1706.03762v7) were read. They describe generation consuming previously generated symbols. Chapter 13 uses this as a concrete illustration of repeated computation, not a claim that all AI uses the original Transformer or has constant per-token cost. The frozen-parameter inference setup is stated explicitly.
 
 ## S103
 
@@ -656,7 +656,7 @@ The abstract and indexed discussion of precise sorting at the cutoff were consul
 
 **Bottlenecks and technology adoption.** Réka Juhász, [research article on the Napoleonic blockade](https://www.aeaweb.org/articles?id=10.1257/aer.20151730), *American Economic Review* 108 (2018), 3339–3376; [author paper](https://www.rjuhasz.com/research/juhasz_blockade.pdf); [replication archive](https://doi.org/10.3886/E113114V1).
 
-Article information and indexed primary-paper passages identify the blockade comparison and 1803/1812 spinning-capacity observations. The archive returned HTTP 403 here. Chapter 1's script requires a documented regional extract; its simplified change regression is not a claimed full replication. Geographic and wartime confounding, spatial dependence, and the difference between adoption and invention remain material limits.
+Article information and indexed primary-paper passages identify the blockade comparison and 1803/1812 spinning-capacity observations. The public archive inventory was located; the download route redirected to ICPSR login and direct retrieval returned HTTP 403. No extract was acquired. Chapter 1's script requires a documented regional extract; its simplified change regression is not a claimed full replication. Geographic and wartime confounding, spatial dependence, and the difference between adoption and invention remain material limits.
 
 ## S109
 
@@ -668,19 +668,19 @@ The public annual energy CSV was downloaded, inspected, and analyzed for Japan a
 
 **Living-system maintenance and ecological collapse.** Laura Rogers-Bennett and Cynthia A. Catton, [California kelp-collapse study](https://doi.org/10.1038/s41598-019-51114-y), *Scientific Reports* (2019); Michael L. McPherson et al., [kelp-forest transformation study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7935997/) (2021); [historical California kelp dataset](https://doi.org/10.5061/dryad.xpnvx0khq).
 
-Research descriptions and the public Dryad metadata/file inventory were consulted. File downloads returned 401/403. The inventory is a possible data source, not a verified treatment/control panel. Disease, thermal exposure, species differences, and survey coverage require harmonization. Chapter 3's ecological component comparison does not establish organism-level autopoiesis or interchangeable northern/southern control sites.
+McPherson et al.'s public [supplementary workbook](https://static-content.springer.com/esm/art%3A10.1038%2Fs42003-021-01827-6/MediaObjects/42003_2021_1827_MOESM4_ESM.xlsx) was downloaded and its regional canopy series analyzed: 35 annual observations, 1985–2019. Mean canopy fell 98.23% between the specified 2008–2012 and 2017–2019 windows. This outcome-only analysis has no verified untreated comparison or independent exposure assignment. The separate historical central-California Dryad inventory was inspected but is not an interchangeable control. Disease, thermal exposure, species differences, and survey coverage require harmonization. Chapter 3 does not establish organism-level autopoiesis from this ecological decline.
 
 ## S111
 
 **Discovery networks and unexpected deaths.** Pierre Azoulay, Joshua Graff Zivin, and Jialan Wang, [NBER working paper](https://www.nber.org/papers/w14577); [published study](https://doi.org/10.1162/qjec.2010.125.2.549), *Quarterly Journal of Economics* 125 (2010), 549–589.
 
-The source identifies a death-based comparison of scientific collaborators. A usable matched panel was not located. The proposed chapter 4 adapter requires preselected networks, verified unexpected deaths, calendar-matched controls, and treatment of overlapping collaborations. It tests dependence of output on knowledge supports; it does not identify the thermodynamic cause of relativity or prove inevitable convergence.
+The source identifies a death-based comparison of scientific collaborators and describes licensed AAMC Faculty Roster inputs alongside publication data. The paper, publication record, and author study page were checked; a usable matched panel was not located. The proposed chapter 4 adapter requires preselected networks, verified unexpected deaths, calendar-matched controls, and treatment of overlapping collaborations. It tests dependence of output on knowledge supports; it does not identify the thermodynamic cause of relativity or prove inevitable convergence.
 
 ## S112
 
 **Accessible electricity and productive participation.** Taryn Dinkelman, [rural electrification study](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3078), *American Economic Review* 101 (2011), 3078–3108; [working paper](https://www.energia.org/assets/2015/09/dinkelman_electricity_0810.pdf); [replication archive](https://doi.org/10.3886/E112474V1).
 
-The source motivates terrain-related construction costs as an instrument for electrification. The archive returned 403. The chapter 5 adapter is a specified community-level component analysis, not the paper's complete replication. Direct effects of terrain on agriculture, transport, and development challenge exclusion. A strong first stage alone cannot resolve them. This is a modern analogue, not direct evidence for the first steam engine's location.
+The source motivates terrain-related construction costs as an instrument for electrification. The public archive inventory lists the dataset folder; direct retrieval and a legacy AEA data URL returned 403. No package was acquired. The chapter 5 adapter is a specified community-level component analysis, not the paper's complete replication. Direct effects of terrain on agriculture, transport, and development challenge exclusion. A strong first stage alone cannot resolve them. This is a modern analogue, not direct evidence for the first steam engine's location.
 
 ## S113
 
@@ -692,13 +692,13 @@ The abstract supplies the conditional 95% bound |Δα/α| < 1.1 × 10⁻⁸ and 
 
 **Social development and cognitive performance.** Christian N. Brinch and Taryn Ann Galloway, [Norwegian schooling-reform study](https://doi.org/10.1073/pnas.1106077109), *PNAS* 109 (2012), 425–430; [Statistics Norway research account](https://www.ssb.no/forskning/offentlig-okonomi/utdanningsokonomi/forlenget-grunnskole-ga-hoyere-iq).
 
-The reform provides a concrete modern component comparison for chapter 7. No authorized municipality/cohort data extract is available here. The adapter computes unadjusted group-time reduced-form contrasts, not the original IV specification, and currently provides no uncertainty estimate. Municipal rollout, migration, participation, male conscript sampling, and consistent test scales require scrutiny. It cannot identify ancient genetic self-domestication.
+The reform provides a concrete modern component comparison for chapter 9. No authorized municipality/cohort data extract is available here; [Statistics Norway's access policy](https://www.ssb.no/en/data-til-forskning) restricts research microdata to eligible institutions. The adapter computes unadjusted group-time reduced-form contrasts, not the original IV specification, and currently provides no uncertainty estimate. Municipal rollout, migration, participation, male conscript sampling, and consistent test scales require scrutiny. It cannot identify ancient genetic self-domestication.
 
 ## S115
 
 **Formal rules, classroom organization, and learning.** Joshua D. Angrist and Victor Lavy, [class-size study](https://doi.org/10.1162/003355399556061), *Quarterly Journal of Economics* 114 (1999), 533–575; [MIT author data archive](https://economics.mit.edu/people/faculty/josh-angrist/angrist-data-archive).
 
-The fifth-grade Stata file and the author's Table 3 cleaning instructions were downloaded and read. Chapter 8 reanalyzes the first enrollment threshold with fixed bandwidth sensitivities and school clustering. It does not reproduce all tables or supply bias-corrected RD inference. The primary first-stage diagnostic falls below the reporting screen; wider-bandwidth conventional intervals include zero. The results are not presented as a confirmed general learning mechanism.
+The fifth-grade Stata file and the author's Table 3 cleaning instructions were downloaded and read. Chapter 10 reanalyzes the first enrollment threshold with fixed bandwidth sensitivities and school clustering. It does not reproduce all tables or supply bias-corrected RD inference. The primary first-stage diagnostic falls below the reporting screen; wider-bandwidth conventional intervals include zero. The results are not presented as a confirmed general learning mechanism.
 
 ## S116
 
@@ -710,7 +710,7 @@ The data, fixed-width codebook, and SAS reader were inspected. The script uses t
 
 **Maintenance schedules and regulated performance.** Austin C. Smith, [daylight-saving and fatal-crash study](https://www.aeaweb.org/articles?id=10.1257/app.20140100), *American Economic Journal: Applied Economics* 8 (2016), 65–91; [replication archive](https://doi.org/10.3886/E113608V1); NHTSA, [FARS data program](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars).
 
-The study motivates chapter 10's component comparison. The archive returned 403 and no harmonized daily extract is supplied. The adapter uses year-specific spring dates and balanced-weekday event/placebo windows. It is not the paper's full design. Daylight, travel, weather, and sleep effects remain distinct possible mechanisms; state aggregates need verified DST coverage. Fatal crashes do not measure selfhood or the entire autopoietic loop.
+The study motivates chapter 12's component comparison. Sixteen official NHTSA national FARS CSV archives, 2000–2015, were acquired independently of the paper's replication archive. The reproducible builder counts known-date crashes on complete calendars, excludes Indiana and specified Arizona counties, and retains incomplete-date records for accounting bounds. Exact URLs, hashes, exclusions, and annual audits are embedded in the result. The adapter uses year-specific spring dates and balanced-weekday event/placebo windows; it is not the paper's full design. The mean event contrast is +0.03525 crashes per geography-day, versus −0.13374 in the earlier placebo. The larger placebo, two non-DST controls, unnormalized counts, and inseparable daylight/travel/weather/sleep effects weaken causal interpretation. Incomplete-date bounds are not confidence intervals. Fatal crashes do not measure selfhood or the entire autopoietic loop.
 
 ## S118
 
@@ -722,27 +722,29 @@ The studies distinguish developer productivity from circumvention behavior. The 
 
 **Computational infrastructure interruption.** OVHcloud, [Strasbourg incident information](https://corporate.ovhcloud.com/en-gb/newsroom/news/informations-site-strasbourg/); RIPEstat, [historical announced-prefix API](https://stat.ripe.net/docs/data-api/api-endpoints/announced-prefixes).
 
-The incident record and public historical prefix timelines provide the chapter 12 event and secondary diagnostic. Actual affected-facility service outcomes are absent. The script explicitly refuses to equate AS16276 with Strasbourg exposure or BGP visibility with service uptime. A facility-mapped primary extract is required. Even an identified outage effect would establish a physical dependency, not AI inevitability or productive returns sufficient to fund further computation.
+The incident record and public historical prefix timelines provide the chapter 14 event and secondary diagnostic. Actual affected-facility service outcomes are absent. The script explicitly refuses to equate AS16276 with Strasbourg exposure or BGP visibility with service uptime. A facility-mapped primary extract is required. Even an identified outage effect would establish a physical dependency, not the proposed natural emergence of AI or productive returns sufficient to fund further computation.
 
 ## Outstanding research and attribution
 
-**Revision status, November 15, 2026, with the extended hypothesis:** the outline and manuscript place disequilibrium-driven maximization of energy extraction and entropy production at the center of the proposed account of assembly, discovery, and intelligence. They now state AI and data centers as inevitable outcomes and the universe and fundamental constants as probably assembled. These are the author's hypotheses; the cited research has not established their necessity or probability. Relativity is chapter 4; self-domestication and society are chapter 7; collective intelligence is chapter 8; intertwined cybernetics and autopoiesis, followed by self-modeling, are developed in chapter 10; AI explained through the thesis and its operational limits are developed in chapter 11; data centers and productive deployment are chapter 12; physical origins are chapter 6. Chapter 9 centers economic autopoiesis and the hypothesis of lost regenerative closure, with a bounded labor-history thread from medieval obligations to organized wage labor. Disequilibrium, assembly, and autopoiesis have distinct roles across the connected chapters. Shared conditions remain constraints and mediators. The historical sources do not establish the proposed thermodynamic cause of relativity.
+**Revision status, November 15, 2026:** the physical argument now separates ontological uncertainty (6), symmetry breaking and disequilibrium (7), and fine-tuning and assembled laws (8); the later chapters are 9–14. The universe and AI are proposed to emerge through natural processes. The common disequilibrium-driven explanation remains a hypothesis requiring domain-specific mechanisms and evidence.
 
-- **Structure:** twelve chapter files match the outline; all twelve now contain prose drafts; the previous cognition plans are preserved in [development material](development/cognition-chapter-plans.md). Chapters 4–6 work backward from familiar physical discoveries through the steam engine to the conjectured assembly of the universe. Chapter 7 integrates human self-domestication and development, followed directly by collective intelligence in chapter 8. Chapter 9 develops economic self-production, chapter 10 covers cybernetics and self-modeling, chapter 11 explains AI through the thesis, and chapter 12 develops data centers and productive deployment. The complete pre-merge constraint-transformation and self-domestication texts remain in [human-development revision material](development/human-development-revision.md). The earlier grain, steam, ammonia, and factory drafts remain in [historical development material](development/historical-drafts/README.md), retaining their original numbering and source qualifications.
+**Research acquisition update:** the original kelp supplementary workbook and all sixteen FARS national archives were acquired and analyzed. The [dataset search audit](scripts/dataset-search.md) records the remaining missing primary extracts for chapters 1, 4, 5, 9, 13, and 14, plus chapter 3's missing counterfactual. The [results](scripts/results/summary.md) distinguish acquired observations from identified causal effects.
+
+- **Structure:** fourteen chapter files match the outline; all fourteen now contain prose drafts; the previous cognition plans are preserved in [development material](development/cognition-chapter-plans.md). Chapters 4–8 work backward from familiar physical discoveries through the steam engine to the conjectured assembly of the universe. Chapter 9 integrates human self-domestication and development, followed directly by collective intelligence in chapter 10. Chapter 11 develops economic self-production, chapter 12 covers cybernetics and self-modeling, chapter 13 explains AI through the thesis, and chapter 14 develops data centers and productive deployment. The complete pre-merge constraint-transformation and self-domestication texts remain in [human-development revision material](development/human-development-revision.md). The earlier grain, steam, ammonia, and factory drafts remain in [historical development material](development/historical-drafts/README.md), retaining their original numbering and source qualifications.
 - **Causal demonstration standard:** natural experiments and explicit causal inference now govern empirical causal claims throughout the manuscript. S103–S107 establish the methodological foundation. The afterword and each chapter plan specify comparisons, assignment, assumptions, and scope. Locate and assess actual historical data before reporting identified effects; proposed designs remain proposals. Controlled experiments remain valid, and cosmic origins require appropriate physical models and distinguishing observations.
 - **Mechanism:** specify a measurable coupling from physical disequilibrium through inquiry and retention to changed productive pathways. The afterword's graph model and causal comparisons are proposals, not completed validation. A simulation that assumes the driver is not independent empirical confirmation; natural experiments must test specified links and alternatives.
 - **Relativity and dialectics:** the 1905 comparison is deliberately bounded. A fuller chronology and the separate 1915 case require further work. Negation of the negation is the book's interpretation, not a verified Einstein self-description.
-- **Ontological foundation:** chapter 6 and I68 state the author's position that absolute nothingness is impossible, uncertainty constitutes physical reality, and the universe needs nothing additional to begin its continual becoming. Statistical description, epistemic limitation, and ontological indeterminacy remain distinct. S20–S21 support the physical distinctions, not the conclusion of necessary existence. The proposed incompatibility between a determinate absence and constitutive indeterminacy requires philosophical justification; an infinite cosmological past and a physical genesis mechanism have not been derived. The afterword identifies the connecting premises and observable consequences needed.
-- **Cosmology and material fine-tuning:** chapter 6 advances the conjecture that the universe itself and fundamental constants are probably assembled, and I66 states the stronger hypothesis that the universe was unavoidable. Progressive constraints, stationary principles, symmetry breaking, recursive maintenance, and cumulative assembly are joined into a proposed material and practical account of fine-tuning. This is the author's synthesis, not a result jointly established by S05, S22, S29, and S33. The manuscript supplies no calibrated probability, derived constants, or derivation of existence. Peculiarity alone cannot establish a low probability, but challenging an unjustified distribution does not establish necessity. The afterword now specifies target outcomes, admissible histories, robustness, justified measures, and counterexamples to unavoidability.
-- **Symmetry and fundamental disequilibrium:** chapter 6 and I67 connect matter predominance, parity violation, spatial dimensionality, temporal direction, and assembled laws and constants through a proposed material history. They explicitly state the author's hypothesis that disequilibrium is inevitable and fundamental, with a tendency toward maximum entropy-production rates. S07 and the baryogenesis review under S23 were revisited for their restricted scope. The chapter retains distinctions among unstable populations, asymmetric interactions, net baryon production, and spatial segregation. An asymmetric state can be at equilibrium; neither granular clustering nor collider CP measurements establishes a universal entropy-production maximum, selects three dimensions, or explains the low-entropy past. The afterword separates tests of necessary disequilibrium from tests of a maximal rate.
+- **Ontological foundation:** chapter 6 and I68 distinguish constitutive indeterminacy from statistical descriptions, incomplete knowledge, and the structured vacuum. The rejection of absolute nothingness is a philosophical commitment, not a derivation of the universe. S20–S21 do not identify its origin; a physical model and distinguishing observables remain needed.
+- **Cosmology and material fine-tuning:** chapter 8 and I66 develop natural cosmic emergence through progressive constraints, stationary principles, symmetry breaking, recursive maintenance, and cumulative assembly. S05, S22, S29, and S33 support components, not their combined extension to fundamental constants. The model must derive parameter relations and observable consequences without relocating unexplained fine-tuning into its assumptions.
+- **Symmetry and fundamental disequilibrium:** chapter 7 and I67 connect distinct questions about matter predominance, parity, dimensionality, and the temporal arrow. Explain how gradients arise and persist before testing a maximum-rate principle. S75–S76 document a controlled granular instability, not a cosmic-origin experiment or a demonstration of universal maximization.
 - **Economic self-production and closure:** identify the operations, boundaries, replacements, and interruptions that test the social extension of autopoiesis. The feudal-decline account is a hypothesis requiring regional histories; the 1349 ordinance does not by itself establish failure or replacement. Distinguish a promised guarantee, delivered support, and regeneration of the institution. The labor episodes are a comparative thread rather than a single institutional genealogy.
 - **Historical depth:** extend regional English–Chinese comparisons, industrial labor evidence, agricultural histories, and Chinese accounts of imperial conflict before adding detailed scenes or stronger causal estimates.
-- **Self-domestication and society:** chapter 7 uses human development to explain the regeneration and transformation of constraints. It distinguishes reactive aggression, organized violence, shared care, individual learning, cultural transmission, genetic selection, and the social extension of autopoiesis. Self-domestication is one proposed mechanism, not a complete explanation of intelligence. Rates and consequences of prehistoric sanctions, the developmental analogy, and the coupling to entropy production remain unresolved. The expanded learning and comparison scenes are explicitly illustrative.
+- **Self-domestication and society:** chapter 9 uses human development to explain the regeneration and transformation of constraints. It distinguishes reactive aggression, organized violence, shared care, individual learning, cultural transmission, genetic selection, and the social extension of autopoiesis. Self-domestication is one proposed mechanism, not a complete explanation of intelligence. Rates and consequences of prehistoric sanctions, the developmental analogy, and the coupling to entropy production remain unresolved. The expanded learning and comparison scenes are explicitly illustrative.
 - **Cognition and AI:** distinguish biological evolution, individual learning, cultural retention, artificial cognitive functions, consciousness, and recursive industrial growth. The proposed common driver does not erase the separate mechanisms or establish future general intelligence.
-- **AI and data-center inevitability:** chapters 1 and 12, the prologue, and the epilogue state the extended claim. S30–S31 support material dependencies and possible applications, not inevitability. Define both predicted outcomes and prerequisites before testing histories. Investigate why development favors concentrated facilities rather than only dispersed computing, and keep emergence distinct from continued growth or guaranteed productive returns.
-- **Cybernetics and self-modeling:** chapter 10 now develops I57–I60, including reciprocal regulation and renewal. Extend the historical and neuroscience reading before adding detailed episodes or broader anatomical claims. Separate regulation from self-production, hierarchy from recurrence, and functional self-modeling from subjective experience. Evaluate the methodological reversal through specified capabilities, retaining the distinction between the limits of a logic-first program and the continuing uses of formal verification.
-- **AI as assembly and its limits:** chapter 11 develops I61–I62. S95–S102 distinguish prompting, trained reasoning, finite and variable inference work, agent execution, and tested limits of self-correction. Extend full-method and replication review before making stronger comparative claims. The manuscript distinguishes initiating a computation from requiring a new human prompt for each action, and frozen weights from fixed total compute. Neither these studies nor the bounded formal-verification example establish a thermodynamic cause or AI inevitability.
+- **AI and data-center emergence:** chapters 1 and 14, the prologue, and the epilogue state the extended claim. S30–S31 support material dependencies and possible applications, not a general generative explanation. Define both predicted outcomes and prerequisites before testing histories. Investigate why development favors concentrated facilities rather than only dispersed computing, and keep emergence distinct from continued growth or guaranteed productive returns.
+- **Cybernetics and self-modeling:** chapter 12 now develops I57–I60, including reciprocal regulation and renewal. Extend the historical and neuroscience reading before adding detailed episodes or broader anatomical claims. Separate regulation from self-production, hierarchy from recurrence, and functional self-modeling from subjective experience. Evaluate the methodological reversal through specified capabilities, retaining the distinction between the limits of a logic-first program and the continuing uses of formal verification.
+- **AI as assembly and its limits:** chapter 13 develops I61–I62. S95–S102 distinguish prompting, trained reasoning, finite and variable inference work, agent execution, and tested limits of self-correction. Extend full-method and replication review before making stronger comparative claims. The manuscript distinguishes initiating a computation from requiring a new human prompt for each action, and frozen weights from fixed total compute. Neither these studies nor the bounded formal-verification example establish a thermodynamic cause or the proposed natural emergence of AI.
 - **Learning and the energetic hypothesis:** connect resource support, training, deployment, and changed physical flows with specified boundaries. A learning-loss gradient is not a thermodynamic gradient. The afterword now includes self-model interventions and comparisons separating prompts, inference budgets, training, and external feedback; the epilogue incorporates reciprocal regulation and renewal alongside bounded artificial cognition. These are proposed tests, not completed empirical work.
-- **Archived cases:** the complete earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). Their longer factual claims retain their original source limitations; the revised narrative uses narrower selections. The former chapter 8 is preserved in [institutional development material](development/institutional-background.md), including enclosure, cotton, the extended theoretical comparison, and the Montreal discussion.
+- **Archived cases:** the complete earlier grid, housing, and Montreal chapters remain in [development material](development/earlier-case-studies.md). Their longer factual claims retain their original source limitations; the revised narrative uses narrower selections. The former chapter 10 is preserved in [institutional development material](development/institutional-background.md), including enclosure, cotton, the extended theoretical comparison, and the Montreal discussion.
 - **Unverified attributions:** the supplied [YouTube reference](https://youtu.be/D5in5EdjhD0) and Russell/Newton/Darwin/Harari fragments remain unused as quotations. No dialogue or missing source has been reconstructed.
 - **Publication review:** specialist review, a fuller account of predecessors, and discriminating empirical comparisons remain necessary. A coherent manuscript is not a validated universal theory.

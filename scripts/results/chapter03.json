@@ -3,39 +3,71 @@
   "title": "Life Makes Its Conditions",
   "case": "Northern California kelp collapse after predator loss and marine heatwaves",
   "claim_tested": "Disruption of ecological maintenance can produce persistent loss of a living system's conditions of continuation.",
-  "design": "Matched-site change comparison: 2008–2012 versus 2017–2019 mean canopy area, with exposure fixed by independently measured disease/thermal stress rather than subsequent kelp loss.",
+  "design": "Primary design retained: matched-site before/after comparison. Available public reanalysis: published regional canopy series, mean 2008–2012 versus 2017–2019, with no untreated counterfactual.",
   "identification_limits": [
     "No verified exchangeable control group has yet been assembled",
     "Disease and heatwave are compound exposures",
-    "Ecological regeneration is an analogue, not proof that an ecosystem is an autopoietic organism"
+    "Ecological regeneration is an analogue, not proof that an ecosystem is an autopoietic organism",
+    "The regional before/after decline is descriptive; years or latitude bins do not supply independently assigned untreated controls"
   ],
   "sources": [
     "https://doi.org/10.1038/s41598-019-51114-y",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC7935997/",
-    "https://doi.org/10.5061/dryad.xpnvx0khq"
+    "https://doi.org/10.5061/dryad.xpnvx0khq",
+    "https://static-content.springer.com/esm/art%3A10.1038%2Fs42003-021-01827-6/MediaObjects/42003_2021_1827_MOESM4_ESM.xlsx"
   ],
   "result": {
-    "status": "needs_data",
-    "error": "Provide chapter03.csv and its .metadata.json sidecar; see templates and README"
+    "status": "descriptive_outcome_only",
+    "primary_status": "needs_comparison_data",
+    "area": "Mendocino and Sonoma counties, published region of interest",
+    "units": "km²",
+    "pre_window": [
+      2008,
+      2012
+    ],
+    "post_window": [
+      2017,
+      2019
+    ],
+    "pre_mean": 2.6067880000000003,
+    "post_mean": 0.046150000000000004,
+    "absolute_change": -2.5606380000000004,
+    "percent_change": -98.22962204828318,
+    "inference_reported": false,
+    "series": "chapter03_kelp_canopy.csv",
+    "conclusion": "Observed regional canopy collapse only. A single exposed regional series has no verified untreated counterfactual; it does not isolate predator loss, heat, or a maintenance mechanism."
   },
-  "data_provenance": [],
+  "data_provenance": [
+    {
+      "file": "McPherson2021_SupplementaryData.xlsx",
+      "source_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs42003-021-01827-6/MediaObjects/42003_2021_1827_MOESM4_ESM.xlsx",
+      "resolved_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs42003-021-01827-6/MediaObjects/42003_2021_1827_MOESM4_ESM.xlsx",
+      "retrieved_utc": "2026-11-16T00:18:01.651526+00:00",
+      "bytes": 1961711,
+      "content_type": "application/octet-stream",
+      "sha256": "5db49c7a629434b48b3ae3ede90e4c24de952ebcac3d8cb7421820b80dbb39f5"
+    }
+  ],
   "run_metadata": {
-    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "generated_utc": "2026-11-16T00:25:24.354279+00:00",
     "python": "3.14.5",
     "dependencies": {
       "numpy": "2.5.5",
       "pandas": "3.1.1",
       "scipy": "1.18.1",
-      "statsmodels": "0.15.0"
+      "statsmodels": "0.15.0",
+      "openpyxl": "3.1.5",
+      "et-xmlfile": "2.0.0"
     },
     "code_sha256": {
-      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "acquire.py": "a57ebbd42400837ddef2d6c7c609898e28129bd459d5c52019b904e2fb68927d",
+      "cases.py": "00380e430d120be3207189d8b2206add6f2cd2a27704dfed3bf30869e587b87a",
       "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
       "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
-      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+      "run.py": "9295ac7aedb6f36b200edf557e92f4539fb57e88f7486cc9058dc25bf1712494"
     },
-    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
-    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "registry_sha256": "1f3207fc1f5177c8d49c2c6ae5114426896c2967603ab69fdf8e5fda7b13d33a",
+    "requirements_sha256": "79f4ddec970cf3a2dca8e09bdb8895cf6326f3bfb833f3f0e2f8804404fb9988",
     "chapters": [
       1,
       2,
@@ -48,7 +80,9 @@
       9,
       10,
       11,
-      12
+      12,
+      13,
+      14
     ]
   }
 }

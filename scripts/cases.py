@@ -27,6 +27,27 @@ def energy(case, ctx):
             "conclusion": "Estimated mix changes relative to a fitted comparison; the compound shock and counterfactual remain identification limitations."}
 
 
+def kelp(case, ctx):
+    # Preserve the original matched-site design if a documented extract arrives.
+    if (ctx.inputs / case["input"]).exists():
+        return {"status": "conditional_effect_estimate", "analysis": two_period(ctx.local(case), case.get("controls", [])),
+                "conclusion": "Matched-site comparison; assignment and exchangeability still require justification."}
+    url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs42003-021-01827-6/MediaObjects/42003_2021_1827_MOESM4_ESM.xlsx"
+    path = ctx.public("McPherson2021_SupplementaryData.xlsx", url, "zip")
+    raw = pd.read_excel(path, sheet_name="Figure 2d - Canopy Area", header=2)
+    frame = raw[["Year", "Full ROI Area (km^2)"]].rename(columns={"Year":"year", "Full ROI Area (km^2)":"canopy_km2"})
+    if frame.isna().any().any() or frame.year.tolist() != list(range(1985,2020)) or (frame.canopy_km2 < 0).any():
+        raise ValueError("Unexpected kelp years, missing canopy data, or invalid area")
+    pre = float(frame.loc[frame.year.between(2008,2012),"canopy_km2"].mean())
+    post = float(frame.loc[frame.year.between(2017,2019),"canopy_km2"].mean())
+    return {"status":"descriptive_outcome_only", "primary_status":"needs_comparison_data",
+            "area":"Mendocino and Sonoma counties, published region of interest", "units":"km²",
+            "pre_window":[2008,2012], "post_window":[2017,2019], "pre_mean":pre, "post_mean":post,
+            "absolute_change":post-pre, "percent_change":100*(post/pre-1), "inference_reported":False,
+            "series":ctx.csv("chapter03_kelp_canopy.csv",frame.set_index("year")),
+            "conclusion":"Observed regional canopy collapse only. A single exposed regional series has no verified untreated counterfactual; it does not isolate predator loss, heat, or a maintenance mechanism."}
+
+
 def class_size(case, ctx):
     p = ctx.public("final5.dta", "https://economics.mit.edu/sites/default/files/inline-files/final5.dta", "stata")
     ctx.public("AngristLavy_Table3.do", "https://economics.mit.edu/sites/default/files/inline-files/AngristLavy_Table3.do", "text")
@@ -154,8 +175,33 @@ def spring_transition(year):
     return pd.Timestamp(first + timedelta(days=(6 - first.weekday()) % 7 + 7 * (occurrence - 1)))
 
 
+def unknown_date_bounds(records, year, event, before, after, units, point):
+    lower = upper = float(point)
+    treated = {u for u, exposed in units.items() if exposed}
+    controls = set(units) - treated
+    calendar = pd.date_range(f"{year}-01-01",f"{year}-12-31")
+    rel = (calendar-event).days
+    signed = np.where((rel>=after[0]) & (rel<=after[1]),1.,
+                      np.where((rel>=before[0]) & (rel<=before[1]),-1.,0.))
+    affected = 0
+    for row in records:
+        if row["year"] != year or row["state"] not in units:
+            continue
+        possible = np.ones(len(calendar),dtype=bool)
+        if row["month"] != 99: possible &= calendar.month == row["month"]
+        if row["day"] != 99: possible &= calendar.day == row["day"]
+        if not possible.any(): raise ValueError("Unknown-date record has no admissible calendar date")
+        factor = (1/len(treated) if row["state"] in treated else -1/len(controls))/14
+        contribution = signed[possible]*factor*row["crashes"]
+        lower += float(contribution.min()); upper += float(contribution.max())
+        if np.any(signed[possible]): affected += int(row["crashes"])
+    return {"lower":lower,"upper":upper,"potentially_relevant_unknown_date_crashes":affected,
+            "note":"Accounting bounds from assigning unknown-date crashes to all compatible dates; not sampling or causal confidence intervals."}
+
+
 def dst(case, ctx):
     f = ctx.local(case)
+    metadata = ctx.provenance[-1]["metadata"]
     f["date"] = pd.to_datetime(f.date, format="%Y-%m-%d", errors="raise")
     if f.duplicated(["state", "date"]).any() or not set(f.observes_dst) <= {0, 1} or (f.crashes < 0).any():
         raise ValueError("Invalid daily state observations")
@@ -189,11 +235,26 @@ def dst(case, ctx):
             result.pop("standard_errors", None)
             result["inference_reported"] = False
             result["inference_note"] = "Few non-DST policy clusters; yearly point contrast only."
+            if "unknown_date_counts" in metadata:
+                result["unknown_date_bounds"] = unknown_date_bounds(metadata["unknown_date_counts"], year, event, before, after,
+                    year_data.groupby("state").observes_dst.first().to_dict(), result["coefficients"]["exposure"])
             output[f"{year}_{label}"] = result
     if not output:
         raise ValueError("No observations in 2000–2015 study window")
-    return {"status": "descriptive_comparison", "yearly_contrasts": output,
-            "conclusion": "Schedule/performance component comparison; daylight, travel, weather, and sleep mechanisms are not separated."}
+    summaries = {}
+    for label in ["event", "placebo"]:
+        fits = [v for k,v in output.items() if k.endswith("_"+label)]
+        summary = {"years":len(fits), "mean_contrast":float(np.mean([v["coefficients"]["exposure"] for v in fits]))}
+        if all("unknown_date_bounds" in v for v in fits):
+            summary["mean_unknown_date_bounds"] = {edge:float(np.mean([v["unknown_date_bounds"][edge] for v in fits])) for edge in ["lower","upper"]}
+        summaries[label] = summary
+    table = pd.DataFrame([{"comparison":key,"contrast":v["coefficients"]["exposure"]} for key,v in output.items()]).set_index("comparison")
+    conclusion = "Schedule/performance component comparison; daylight, travel, weather, and sleep mechanisms are not separated."
+    if abs(summaries["placebo"]["mean_contrast"]) > abs(summaries["event"]["mean_contrast"]):
+        conclusion += " The earlier-window placebo is larger in absolute magnitude than the event contrast, weakening a clean causal interpretation."
+    return {"status": "descriptive_comparison", "yearly_contrasts": output, "summary":summaries,
+            "series":ctx.csv("chapter12_dst_contrasts.csv",table), "annual_data_audit":metadata.get("annual_audit", []),
+            "conclusion": conclusion}
 
 
 def country_comparison(panel, label, ctx, allow_missing=False):
@@ -213,7 +274,7 @@ def country_comparison(panel, label, ctx, allow_missing=False):
     fit, series = synthetic_control(complete, "it", countries[1:], pre, post, validation)
     fit.update(missing_by_country=missing, omitted_dates=omitted,
                missingness_policy="No interpolation or zero imputation; common observed dates only.",
-               series=ctx.csv(f"chapter11_{label}.csv", series))
+               series=ctx.csv(f"chapter13_{label}.csv", series))
     return fit
 
 
@@ -268,7 +329,7 @@ def infrastructure(case, ctx):
                     active.add(entry["prefix"])
             rows.append({"timestamp_utc": timestamp, "announced_prefixes": len(active)})
         table = pd.DataFrame(rows).set_index("timestamp_utc")
-        output["asn_diagnostic"] = {"series": ctx.csv("chapter12_bgp_prefixes.csv", table),
+        output["asn_diagnostic"] = {"series": ctx.csv("chapter14_bgp_prefixes.csv", table),
             "minimum_visible_prefixes": int(table.announced_prefixes.min()),
             "maximum_visible_prefixes": int(table.announced_prefixes.max()),
             "service_effect_estimated": False,
@@ -283,6 +344,9 @@ def infrastructure(case, ctx):
 
 def run_case(case, ctx):
     adapter = case["adapter"]
+    if adapter == "evidence_record":
+        return {"status": case["evidence_status"], "analysis_performed": False,
+                "conclusion": case["evidence_summary"]}
     if adapter == "two_period":
         fit = two_period(ctx.local(case), case.get("controls", []))
         return {"status": "conditional_effect_estimate", "analysis": fit,
@@ -290,7 +354,7 @@ def run_case(case, ctx):
     if adapter == "schooling":
         return {"status": "conditional_point_estimate", "analysis": group_time_att(ctx.local(case)),
                 "conclusion": "Unadjusted cohort-specific contrasts; no uncertainty estimate or ancient self-domestication effect."}
-    dispatch = {"energy": energy, "class_size": class_size, "minimum_wage": minimum_wage,
+    dispatch = {"kelp": kelp, "energy": energy, "class_size": class_size, "minimum_wage": minimum_wage,
                 "oklo": oklo, "electrification": electrification, "dst": dst,
                 "ai_access": ai_access, "infrastructure": infrastructure}
     return dispatch[adapter](case, ctx)

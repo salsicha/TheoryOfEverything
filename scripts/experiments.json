@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "scope": "Twelve proposed component tests, not twelve demonstrations of the universal hypothesis. These specifications were written after consulting published studies and are not preregistrations.",
+  "version": 2,
+  "scope": "Fourteen chapter evidence records: twelve existing component research designs, one unidentified ontological claim, and one published controlled mechanism without raw-data reanalysis. These do not validate the universal hypothesis and are not preregistrations.",
   "cases": [
     {
       "chapter": 1,
@@ -11,15 +11,36 @@
       "design": "Regional changes in mechanized spinning capacity, 1803 to 1812, regressed on predetermined blockade exposure and baseline capacity.",
       "adapter": "two_period",
       "input": "chapter01.csv",
-      "columns": ["unit", "period", "outcome", "exposure", "cluster", "baseline_capacity"],
-      "controls": ["baseline_capacity"],
+      "columns": [
+        "unit",
+        "period",
+        "outcome",
+        "exposure",
+        "cluster",
+        "baseline_capacity"
+      ],
+      "controls": [
+        "baseline_capacity"
+      ],
       "window": "period 0 = 1803; period 1 = 1812. Outcome = mechanized spindles per region. Exposure = documented regional trade-protection measure, not a label inferred from adoption.",
       "counterfactual": "Less exposed French regions; use the paper's exposure construction and geographic units consistently.",
       "prediction": "More exposed regions increase mechanized capacity more, conditional on baseline capacity.",
-      "diagnostics": ["Document exposure construction and geographic clustering", "Compare baseline industrial capacity and geography", "Repeat with alternative pre-specified trade-cost controls; investigate direct wartime destruction"],
-      "identification_limits": ["Geography, war damage, demand, and protection may jointly change", "Only two snapshots do not establish parallel pretrends", "Profitability of adoption does not measure creative search or entropy maximization"],
-      "data_status": "Replication archive identified but returned HTTP 403 in this environment. Adapter needs a documented regional extract; it is not a reproduction of every published specification.",
-      "sources": ["https://www.aeaweb.org/articles?id=10.1257/aer.20151730", "https://doi.org/10.3886/E113114V1", "https://www.rjuhasz.com/research/juhasz_blockade.pdf"]
+      "diagnostics": [
+        "Document exposure construction and geographic clustering",
+        "Compare baseline industrial capacity and geography",
+        "Repeat with alternative pre-specified trade-cost controls; investigate direct wartime destruction"
+      ],
+      "identification_limits": [
+        "Geography, war damage, demand, and protection may jointly change",
+        "Only two snapshots do not establish parallel pretrends",
+        "Profitability of adoption does not measure creative search or entropy maximization"
+      ],
+      "data_status": "Archive and file inventory located; project download redirects to ICPSR login. Direct archive access returned 403; original public journal locations did not yield a usable package. No observations acquired.",
+      "sources": [
+        "https://www.aeaweb.org/articles?id=10.1257/aer.20151730",
+        "https://doi.org/10.3886/E113114V1",
+        "https://www.rjuhasz.com/research/juhasz_blockade.pdf"
+      ]
     },
     {
       "chapter": 2,
@@ -31,13 +52,37 @@
       "adapter": "energy",
       "primary_outcome": "Fossil share of electricity, percentage points",
       "secondary_outcome": "Nuclear share of electricity, percentage points",
-      "donors": ["Canada", "United States", "France", "United Kingdom", "South Korea", "Sweden", "Spain", "Finland", "Belgium", "Switzerland"],
+      "donors": [
+        "Canada",
+        "United States",
+        "France",
+        "United Kingdom",
+        "South Korea",
+        "Sweden",
+        "Spain",
+        "Finland",
+        "Belgium",
+        "Switzerland"
+      ],
       "counterfactual": "A convex combination of the named countries; Germany excluded because of its contemporaneous nuclear policy shift.",
       "prediction": "Nuclear share falls and fossil share increases relative to the fitted comparison.",
-      "diagnostics": ["Pre-fit error and held-out preperiod fit", "Leave-one-donor-out sensitivity", "Donor placebo gaps and fit quality", "Electricity shares do not quantify useful energy or total demand"],
-      "identification_limits": ["Earthquake damage and demand changes cannot be separated from the nuclear response", "Other countries may respond to the same disaster", "One treated country: placebo ranks are not randomization p-values", "Substitution does not establish an entropy-production maximum"],
+      "diagnostics": [
+        "Pre-fit error and held-out preperiod fit",
+        "Leave-one-donor-out sensitivity",
+        "Donor placebo gaps and fit quality",
+        "Electricity shares do not quantify useful energy or total demand"
+      ],
+      "identification_limits": [
+        "Earthquake damage and demand changes cannot be separated from the nuclear response",
+        "Other countries may respond to the same disaster",
+        "One treated country: placebo ranks are not randomization p-values",
+        "Substitution does not establish an entropy-production maximum"
+      ],
       "data_status": "Public annual data; executable comparison, causal interpretation conditional on unverified counterfactual assumptions.",
-      "sources": ["https://github.com/owid/energy-data", "https://www.iaea.org/publications/10962/the-fukushima-daiichi-accident"]
+      "sources": [
+        "https://github.com/owid/energy-data",
+        "https://www.iaea.org/publications/10962/the-fukushima-daiichi-accident"
+      ]
     },
     {
       "chapter": 3,
@@ -45,18 +90,40 @@
       "case": "Northern California kelp collapse after predator loss and marine heatwaves",
       "claim_tested": "Disruption of ecological maintenance can produce persistent loss of a living system's conditions of continuation.",
       "assignment": "2013 sea-star wasting disease and 2014–2016 marine heatwaves; exposure and biological vulnerability vary geographically.",
-      "design": "Matched-site change comparison: 2008–2012 versus 2017–2019 mean canopy area, with exposure fixed by independently measured disease/thermal stress rather than subsequent kelp loss.",
-      "adapter": "two_period",
+      "design": "Primary design retained: matched-site before/after comparison. Available public reanalysis: published regional canopy series, mean 2008–2012 versus 2017–2019, with no untreated counterfactual.",
+      "adapter": "kelp",
       "input": "chapter03.csv",
-      "columns": ["unit", "period", "outcome", "exposure", "cluster", "stratum"],
+      "columns": [
+        "unit",
+        "period",
+        "outcome",
+        "exposure",
+        "cluster",
+        "stratum"
+      ],
       "controls": [],
       "window": "period 0 = mean annual canopy hectares 2008–2012; period 1 = 2017–2019. Use fixed survey polygons and coverage. Match on pre-shock trends, species, depth, and wave exposure.",
       "counterfactual": "Less exposed, pretrend-comparable sites with the same kelp species; do not automatically equate southern giant kelp with northern bull kelp.",
       "prediction": "Maintenance disruption predicts persistent canopy loss after the immediate shock.",
-      "diagnostics": ["Plot site pretrends before constructing window means", "Separate temperature from predator-loss exposure", "Check survey effort, species, and missing coverage", "Cluster by independent coastal exposure region"],
-      "identification_limits": ["No verified exchangeable control group has yet been assembled", "Disease and heatwave are compound exposures", "Ecological regeneration is an analogue, not proof that an ecosystem is an autopoietic organism"],
-      "data_status": "Public Dryad inventory located; downloads returned HTTP 401/403. Historical kelp data alone do not supply independent exposure or credible controls. Needs a harmonized site panel.",
-      "sources": ["https://doi.org/10.1038/s41598-019-51114-y", "https://pmc.ncbi.nlm.nih.gov/articles/PMC7935997/", "https://doi.org/10.5061/dryad.xpnvx0khq"]
+      "diagnostics": [
+        "Plot site pretrends before constructing window means",
+        "Separate temperature from predator-loss exposure",
+        "Check survey effort, species, and missing coverage",
+        "Cluster by independent coastal exposure region"
+      ],
+      "identification_limits": [
+        "No verified exchangeable control group has yet been assembled",
+        "Disease and heatwave are compound exposures",
+        "Ecological regeneration is an analogue, not proof that an ecosystem is an autopoietic organism",
+        "The regional before/after decline is descriptive; years or latitude bins do not supply independently assigned untreated controls"
+      ],
+      "data_status": "Published 1985–2019 regional canopy workbook retrieved and executable; matched-site exposure/control panel still absent.",
+      "sources": [
+        "https://doi.org/10.1038/s41598-019-51114-y",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7935997/",
+        "https://doi.org/10.5061/dryad.xpnvx0khq",
+        "https://static-content.springer.com/esm/art%3A10.1038%2Fs42003-021-01827-6/MediaObjects/42003_2021_1827_MOESM4_ESM.xlsx"
+      ]
     },
     {
       "chapter": 4,
@@ -67,15 +134,33 @@
       "design": "Matched scientist-network change comparison, frozen collaborators and matches selected before death; star-specific calendar windows and matched-set fixed effects.",
       "adapter": "two_period",
       "input": "chapter04.csv",
-      "columns": ["unit", "period", "outcome", "exposure", "cluster", "stratum"],
+      "columns": [
+        "unit",
+        "period",
+        "outcome",
+        "exposure",
+        "cluster",
+        "stratum"
+      ],
       "controls": [],
       "window": "period 0 = mean annual publications in event years -5 through -1; period 1 = +1 through +5. Unit = pre-death collaborator network, cluster = deceased/matched star, stratum = matched set. Death year excluded.",
       "counterfactual": "Matched networks of still-active, similar scientists observed in the same calendar years.",
       "prediction": "Loss of an active collaborator depresses output beyond the counterfactual trend.",
-      "diagnostics": ["Pre-death trends, death predictability, collaborator selection", "Handle overlapping networks before aggregation", "Check field-wide funding and topic shocks"],
-      "identification_limits": ["Illness anticipation, grants, and personnel moves may confound effects", "Network interference violates independent-cluster assumptions", "Tests knowledge dependence, not simultaneous relativity discovery or its thermodynamic cause"],
-      "data_status": "Published design identified; no usable public matched panel located. Requires a documented bibliometric extract.",
-      "sources": ["https://www.nber.org/papers/w14577", "https://doi.org/10.1162/qjec.2010.125.2.549"]
+      "diagnostics": [
+        "Pre-death trends, death predictability, collaborator selection",
+        "Handle overlapping networks before aggregation",
+        "Check field-wide funding and topic shocks"
+      ],
+      "identification_limits": [
+        "Illness anticipation, grants, and personnel moves may confound effects",
+        "Network interference violates independent-cluster assumptions",
+        "Tests knowledge dependence, not simultaneous relativity discovery or its thermodynamic cause"
+      ],
+      "data_status": "Primary paper and author/institutional pages located; no usable public matched publication/death panel found. Paper uses licensed AAMC Faculty Roster access; no extract was reconstructed from summaries.",
+      "sources": [
+        "https://www.nber.org/papers/w14577",
+        "https://doi.org/10.1162/qjec.2010.125.2.549"
+      ]
     },
     {
       "chapter": 5,
@@ -86,53 +171,161 @@
       "design": "Community-level two-stage least squares: change in female employment on electrification, instrumented by terrain slope, with baseline controls.",
       "adapter": "electrification",
       "input": "chapter05.csv",
-      "columns": ["unit", "employment_change", "electrification_change", "slope", "baseline_employment", "baseline_population", "district"],
+      "columns": [
+        "unit",
+        "employment_change",
+        "electrification_change",
+        "slope",
+        "baseline_employment",
+        "baseline_population",
+        "district"
+      ],
       "counterfactual": "Communities induced into electrification by lower construction costs, conditional on observed preconditions.",
       "prediction": "Electrification increases female employment where the instrument affects access.",
-      "diagnostics": ["Cluster first-stage strength and reduced form", "Slope may directly affect agriculture, transport, and local development", "Compare baseline covariates and alternative controls before causal interpretation"],
-      "identification_limits": ["Exclusion and monotonicity are assumptions, not consequences of first-stage strength", "Local IV effect, not a population-wide law", "Modern analogue; does not identify why the first steam engine appeared in England rather than China"],
-      "data_status": "AEA archive located but HTTP 403. Needs a documented community extract; adapter is a component analysis, not the original paper's complete replication.",
-      "sources": ["https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3078", "https://doi.org/10.3886/E112474V1", "https://www.energia.org/assets/2015/09/dinkelman_electricity_0810.pdf"]
+      "diagnostics": [
+        "Cluster first-stage strength and reduced form",
+        "Slope may directly affect agriculture, transport, and local development",
+        "Compare baseline covariates and alternative controls before causal interpretation"
+      ],
+      "identification_limits": [
+        "Exclusion and monotonicity are assumptions, not consequences of first-stage strength",
+        "Local IV effect, not a population-wide law",
+        "Modern analogue; does not identify why the first steam engine appeared in England rather than China"
+      ],
+      "data_status": "Replication archive and 20080791_dataset folder located. Direct requests returned 403; attempted original AEA public archive locations returned 403/404. No usable data acquired.",
+      "sources": [
+        "https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3078",
+        "https://doi.org/10.3886/E112474V1",
+        "https://www.energia.org/assets/2015/09/dinkelman_electricity_0810.pdf"
+      ]
     },
     {
       "chapter": 6,
-      "title": "Could the Laws Have a History?",
+      "title": "Ontological Uncertainty",
+      "case": "Ontological indeterminacy and the emergence of physical structure",
+      "claim_tested": "The proposed ontology would need a physical model with observable consequences distinct from competing accounts.",
+      "assignment": "No observed treatment/control assignment identifies the origin of existence or the impossibility of absolute nothingness.",
+      "design": "Conceptual evidence record only; no empirical estimator is available for this claim.",
+      "adapter": "evidence_record",
+      "evidence_status": "unidentified",
+      "evidence_summary": "No natural experiment or numerical result identifies the proposed ontology. Quantum uncertainty and a structured vacuum do not derive the emergence of the universe.",
+      "counterfactual": "Requires competing physical models with discriminating observables; an observed state of absolute nothingness is unavailable.",
+      "prediction": "No quantitative prediction has yet been derived from the proposed ontology.",
+      "diagnostics": [
+        "Specify the ontology and connecting premises",
+        "Derive distinguishable observable consequences before claiming empirical identification"
+      ],
+      "identification_limits": [
+        "This is a philosophical proposal, not an empirical result",
+        "No numerical effect, confidence interval, or probability of cosmic emergence is estimated"
+      ],
+      "data_status": "Unidentified: no empirical bridge supplied.",
+      "sources": [
+        "https://doi.org/10.1103/PhysRev.34.163",
+        "https://doi.org/10.1103/PhysRev.85.166",
+        "https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html"
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Symmetry Breaking and Disequilibrium",
+      "case": "Clustering in a driven two-compartment granular gas",
+      "claim_tested": "A symmetric arrangement can become unstable through density-dependent dissipation and escape rates.",
+      "assignment": "Laboratory manipulation of the drive; this is a controlled experiment, not a historical natural experiment.",
+      "design": "Record the published mechanism and its limits; no raw observations or effect-size estimator have been added.",
+      "adapter": "evidence_record",
+      "evidence_status": "published_mechanism_only",
+      "evidence_summary": "Published experiments report approximately balanced populations under strong shaking and persistent unequal populations in an unstable regime at reduced driving. No raw-data reanalysis was conducted here.",
+      "counterfactual": "Compare stable and unstable driving regimes in the same defined apparatus, with repeated runs and perturbations.",
+      "prediction": "Imbalance should grow in the unstable regime and be restored in the stable regime; side selection need not be fixed.",
+      "diagnostics": [
+        "Obtain run-level counts, drive settings, geometry, and repeated trials",
+        "Account for hysteresis and imperfections",
+        "Measure total dissipation and competing pathways before testing an entropy-rate maximum"
+      ],
+      "identification_limits": [
+        "Published controlled mechanism only, not a new natural-experiment estimate",
+        "No raw granular dataset has been fitted in this repository",
+        "The mechanism does not identify baryogenesis, cosmic origins, or a universal entropy-production maximum"
+      ],
+      "data_status": "Published result available (S75–S76); raw-data reanalysis and thermodynamic comparison absent.",
+      "sources": [
+        "https://people.maths.bris.ac.uk/~majge/p5322_1.pdf",
+        "https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf"
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Fine-Tuning and Assembled Laws",
       "case": "Oklo's ancient natural nuclear reactors",
       "claim_tested": "A model predicting changes in the fine-structure constant must respect isotope-based constraints.",
       "assignment": "Ancient nuclear reaction conditions supply a physical record, not a treatment/control assignment for the birth of the universe.",
       "design": "Compare a proposed fractional change in alpha against a published conditional 95% bound; no raw-isotope re-estimation.",
       "adapter": "oklo",
-      "input": "chapter06_models.csv",
-      "columns": ["model", "fractional_alpha_change"],
-      "published_abs_fractional_bound": 1.1e-8,
+      "input": "chapter08_models.csv",
+      "columns": [
+        "model",
+        "fractional_alpha_change"
+      ],
+      "published_abs_fractional_bound": 1.1e-08,
       "confidence_level": 0.95,
       "counterfactual": "A specified varying-alpha history evaluated against the isotope record and nuclear sensitivity model.",
       "prediction": "Any proposed assembly model that also predicts late-time drift must satisfy this conditional bound or explain why its assumptions fail.",
-      "diagnostics": ["Check nuclear-model assumptions", "Check restrictions on simultaneous changes in quark-mass/QCD-scale ratios", "Do not derive a drift rate without a time dependence model"],
-      "identification_limits": ["The bound is conditional on the source's restriction relating changes in other fundamental parameters", "No likelihood, new confidence interval, or raw isotope analysis is supplied", "Constancy after formation neither proves nor refutes assembled origins", "No credible natural experiment identifies the creation of the universe or its constants"],
+      "diagnostics": [
+        "Check nuclear-model assumptions",
+        "Check restrictions on simultaneous changes in quark-mass/QCD-scale ratios",
+        "Do not derive a drift rate without a time dependence model"
+      ],
+      "identification_limits": [
+        "The bound is conditional on the source's restriction relating changes in other fundamental parameters",
+        "No likelihood, new confidence interval, or raw isotope analysis is supplied",
+        "Constancy after formation neither proves nor refutes assembled origins",
+        "No credible natural experiment identifies the creation of the universe or its constants"
+      ],
       "data_status": "Published-summary constraint available. The chapter's origin claim remains unidentified; optional model predictions can be checked.",
-      "sources": ["https://arxiv.org/abs/1503.06011", "https://doi.org/10.1103/PhysRevC.92.014319"]
+      "sources": [
+        "https://arxiv.org/abs/1503.06011",
+        "https://doi.org/10.1103/PhysRevC.92.014319"
+      ]
     },
     {
-      "chapter": 7,
+      "chapter": 9,
       "title": "The Species That Changed Its Own Conditions",
       "case": "Norway's staggered compulsory-schooling reform",
       "claim_tested": "Changes in a socially maintained developmental environment can alter measured cognitive performance.",
       "assignment": "Municipal adoption of nine-year compulsory schooling, phased in during 1955–1972; treatment depends on birth cohort and municipality.",
       "design": "Cohort-specific difference-in-differences using never/not-yet-treated municipalities; no already-treated controls or ordinary staggered TWFE.",
       "adapter": "schooling",
-      "input": "chapter07.csv",
-      "columns": ["unit", "period", "adoption", "outcome"],
+      "input": "chapter09.csv",
+      "columns": [
+        "unit",
+        "period",
+        "adoption",
+        "outcome"
+      ],
       "window": "unit = municipality; period = birth cohort, not examination year; adoption = first birth cohort exposed to reform (0 = never treated); outcome = cohort mean conscript IQ on one consistent scale. Include at least two pre-cohorts and five post-cohorts.",
       "counterfactual": "Same birth cohorts in municipalities that have not yet adopted, compared with g-1; g-2 to g-1 placebo contrast.",
       "prediction": "Exposed cohorts have improved test performance relative to the local counterfactual.",
-      "diagnostics": ["Pre-reform cohort differences and anticipation", "Municipal adoption timing, migration, and test participation", "Use consistent IQ scale and age", "Report changing cohort composition"],
-      "identification_limits": ["Municipal rollout may correlate with changing conditions", "Adapter gives unadjusted cohort points, without inference; not the original IV specification", "Male conscript sample limits generalization", "Cannot identify ancient genetic self-domestication or its proposed violence mechanism"],
-      "data_status": "Requires authorized administrative microdata or a vetted municipality/cohort extract; no such extract is in this repository.",
-      "sources": ["https://doi.org/10.1073/pnas.1106077109", "https://www.ssb.no/forskning/offentlig-okonomi/utdanningsokonomi/forlenget-grunnskole-ga-hoyere-iq"]
+      "diagnostics": [
+        "Pre-reform cohort differences and anticipation",
+        "Municipal adoption timing, migration, and test participation",
+        "Use consistent IQ scale and age",
+        "Report changing cohort composition"
+      ],
+      "identification_limits": [
+        "Municipal rollout may correlate with changing conditions",
+        "Adapter gives unadjusted cohort points, without inference; not the original IV specification",
+        "Male conscript sample limits generalization",
+        "Cannot identify ancient genetic self-domestication or its proposed violence mechanism"
+      ],
+      "data_status": "Study identified; required linked municipality, schooling and conscription records not acquired. Statistics Norway restricts microdata access to approved research institutions/public authorities.",
+      "sources": [
+        "https://doi.org/10.1073/pnas.1106077109",
+        "https://www.ssb.no/forskning/offentlig-okonomi/utdanningsokonomi/forlenget-grunnskole-ga-hoyere-iq"
+      ]
     },
     {
-      "chapter": 8,
+      "chapter": 10,
       "title": "The World That Learned to Think",
       "case": "Maimonides' class-size rule in Israeli schools",
       "claim_tested": "A formal rule changes the material organization of teaching and can change learning outcomes.",
@@ -143,13 +336,26 @@
       "secondary_outcome": "Fifth-grade classroom mean verbal score",
       "counterfactual": "Schools just below versus just above the first enrollment threshold.",
       "prediction": "The threshold reduces class size; additional pupils per class lower scores locally if the proposed support mechanism operates.",
-      "diagnostics": ["First-stage size and clustered t-squared", "Disadvantage-index discontinuity and enrollment counts", "Fixed bandwidth sensitivity", "Author data corrections and sample restrictions are explicit"],
-      "identification_limits": ["Enrollment manipulation and other discontinuous policies threaten identification", "Integer enrollment makes continuous-density tests inappropriate without modification", "Conventional Wald interval suppressed when first stage is weak or there are few schools", "Local class-size effect, not genetic intelligence or thermodynamic optimization"],
+      "diagnostics": [
+        "First-stage size and clustered t-squared",
+        "Disadvantage-index discontinuity and enrollment counts",
+        "Fixed bandwidth sensitivity",
+        "Author data corrections and sample restrictions are explicit"
+      ],
+      "identification_limits": [
+        "Enrollment manipulation and other discontinuous policies threaten identification",
+        "Integer enrollment makes continuous-density tests inappropriate without modification",
+        "Conventional Wald interval suppressed when first stage is weak or there are few schools",
+        "Local class-size effect, not genetic intelligence or thermodynamic optimization"
+      ],
       "data_status": "Public author Stata data and original cleaning instructions. Reanalysis at the first cutoff, not a replication of all published tables.",
-      "sources": ["https://economics.mit.edu/people/faculty/josh-angrist/angrist-data-archive", "https://doi.org/10.1162/003355399556061"]
+      "sources": [
+        "https://economics.mit.edu/people/faculty/josh-angrist/angrist-data-archive",
+        "https://doi.org/10.1162/003355399556061"
+      ]
     },
     {
-      "chapter": 9,
+      "chapter": 11,
       "title": "The System That Produces Its Tomorrow",
       "case": "New Jersey's 1992 minimum-wage increase versus Pennsylvania",
       "claim_tested": "A changed material wage guarantee need not undermine employment in the sector sustaining it.",
@@ -159,65 +365,140 @@
       "primary_outcome": "Full-time-equivalent employees = full-time + managers + 0.5 part-time",
       "counterfactual": "Pennsylvania fast-food restaurants surveyed in the same waves.",
       "prediction": "If the higher wage guarantee disrupts this productive loop, employment should fall relative to the comparison; no fall rejects that narrow prediction.",
-      "diagnostics": ["Missing pre/post staffing and closure status by state", "Balanced-pair versus confirmed-closure coding", "Baseline differences and chains", "No pretrend check is possible from two waves"],
-      "identification_limits": ["Only two state-level policy assignments: restaurant-level standard errors are not policy-level uncertainty", "State-specific shocks and survey error remain possible", "One employment outcome cannot establish institutional closure, money's origin, or feudalism's collapse"],
+      "diagnostics": [
+        "Missing pre/post staffing and closure status by state",
+        "Balanced-pair versus confirmed-closure coding",
+        "Baseline differences and chains",
+        "No pretrend check is possible from two waves"
+      ],
+      "identification_limits": [
+        "Only two state-level policy assignments: restaurant-level standard errors are not policy-level uncertainty",
+        "State-specific shocks and survey error remain possible",
+        "One employment outcome cannot establish institutional closure, money's origin, or feudalism's collapse"
+      ],
       "data_status": "Public author archive. Descriptive DiD point estimates; no policy-level p-value or confidence interval.",
-      "sources": ["https://davidcard.berkeley.edu/data_sets.html", "https://davidcard.berkeley.edu/data_sets/njmin.zip", "https://doi.org/10.2307/2118030"]
+      "sources": [
+        "https://davidcard.berkeley.edu/data_sets.html",
+        "https://davidcard.berkeley.edu/data_sets/njmin.zip",
+        "https://doi.org/10.2307/2118030"
+      ]
     },
     {
-      "chapter": 10,
+      "chapter": 12,
       "title": "The System That Models Itself",
       "case": "Daylight-saving transitions and fatal road crashes",
       "claim_tested": "Disrupting a maintenance schedule can impair subsequent regulated performance.",
       "assignment": "Legally scheduled spring clock changes, including the 2007 US rule change; Arizona/Hawaii do not observe DST statewide.",
       "design": "Within-year difference-in-differences comparing mean daily fatal crashes in weeks -2/-1 and +1/+2 in DST and non-DST states, omitting transition day.",
       "adapter": "dst",
-      "input": "chapter10.csv",
-      "columns": ["state", "date", "crashes", "observes_dst"],
+      "input": "chapter12.csv",
+      "columns": [
+        "state",
+        "date",
+        "crashes",
+        "observes_dst"
+      ],
       "window": "Full daily state counts 2000–2015, including real zero-crash days; events use first Sunday of April through 2006, second Sunday of March from 2007. Exclude Indiana and geographically mixed DST observations; confirm AZ tribal exclusions before using the state aggregate.",
       "counterfactual": "Non-DST states observed on the same calendar dates, with day-of-week-balanced windows.",
       "prediction": "Fatal crashes rise immediately after sleep disruption, conditional on driving exposure and other temporal changes.",
-      "diagnostics": ["Pre-event placebo windows", "Driving exposure, daylight, weather, holidays", "2007 date change separates some seasonal mechanisms", "State policy assignment has very few untreated clusters"],
-      "identification_limits": ["Clock changes alter daylight as well as sleep; crashes do not directly measure maintenance or cognition", "Arizona tribal exceptions complicate state aggregates", "This adapter gives yearly point contrasts, not a replication of Smith's richer design", "Does not identify self-modeling, consciousness, or the complete autopoietic loop"],
-      "data_status": "FARS primary data source and replication archive identified; no harmonized daily extract available here. Adapter requires documented coverage and DST classification.",
-      "sources": ["https://www.aeaweb.org/articles?id=10.1257/app.20140100", "https://doi.org/10.3886/E113608V1", "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars"]
+      "diagnostics": [
+        "Pre-event placebo windows",
+        "Driving exposure, daylight, weather, holidays",
+        "2007 date change separates some seasonal mechanisms",
+        "State policy assignment has very few untreated clusters"
+      ],
+      "identification_limits": [
+        "Clock changes alter daylight as well as sleep; crashes do not directly measure maintenance or cognition",
+        "This adapter gives yearly point contrasts, not a replication of Smith's richer design",
+        "Does not identify self-modeling, consciousness, or the complete autopoietic loop",
+        "Indiana excluded throughout; Arizona excludes counties 001, 005, 017 and unknown county codes; controls remain geographically different",
+        "Unknown-date crashes are not imputed; compatible-date accounting bounds are not confidence intervals",
+        "Raw crash counts are not adjusted for miles driven or population; only two non-DST comparison units"
+      ],
+      "data_status": "2000–2015 national FARS CSV archives retrieved; audited daily extract built by scripts/acquire.py. Unknown crash dates retained for accounting bounds. Descriptive contrasts available.",
+      "sources": [
+        "https://www.aeaweb.org/articles?id=10.1257/app.20140100",
+        "https://doi.org/10.3886/E113608V1",
+        "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars",
+        "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip",
+        "https://www.transportation.gov/regulations/time-act"
+      ]
     },
     {
-      "chapter": 11,
+      "chapter": 13,
       "title": "Why the World Builds Artificial Intelligence",
       "case": "Italy's temporary ChatGPT restriction, March 31–April 28, 2023",
       "claim_tested": "Use of an AI service depends on externally maintained access; removing it may change productive behavior or trigger substitution.",
       "assignment": "Country-level legal restriction with imperfect compliance, anticipation, and VPN substitution.",
       "design": "Primary: daily coding-output synthetic control from a fixed pre-ban developer cohort. Available secondary diagnostic: official Tor estimated-user series, Italy versus France, Germany, Spain, UK, Sweden.",
       "adapter": "ai_access",
-      "input": "chapter11.csv",
-      "columns": ["date", "country", "outcome"],
+      "input": "chapter13.csv",
+      "columns": [
+        "date",
+        "country",
+        "outcome"
+      ],
       "window": "Primary preperiod Jan 1–Mar 30, 2023; postperiod Mar 31–Apr 27. Country codes it/fr/de/es/gb/se. Outcome = daily contributions per fixed pre-ban active developer, with an explicitly documented fixed denominator. Tor uses common observed dates only and audits gaps.",
       "counterfactual": "A fixed European donor pool; no outcome-driven selection of countries or developer cohorts.",
       "prediction": "Blocking a useful service changes exposed developers' work; circumvention may rise. The latter is a separate secondary prediction.",
-      "diagnostics": ["Pre-fit and held-out preperiod fit", "Leave-one-country-out and donor placebos", "Country-series missingness", "Separate heterogeneous coding effects from circumvention", "One country cannot supply user-level policy assignment inference"],
-      "identification_limits": ["Tor users are not ChatGPT users, and Tor is not all VPN activity", "The Tor comparison cannot estimate coding productivity or model cognition", "Other country-specific shocks and international spillovers remain", "Access effects cannot establish infinite cognition, trained reasoning mechanisms, or AI inevitability"],
-      "data_status": "Tor secondary data are public. Primary coding panel still needed; the secondary run is explicitly descriptive.",
-      "sources": ["https://arxiv.org/abs/2403.01964", "https://arxiv.org/abs/2304.09339", "https://metrics.torproject.org/userstats-relay-country.html"]
+      "diagnostics": [
+        "Pre-fit and held-out preperiod fit",
+        "Leave-one-country-out and donor placebos",
+        "Country-series missingness",
+        "Separate heterogeneous coding effects from circumvention",
+        "One country cannot supply user-level policy assignment inference"
+      ],
+      "identification_limits": [
+        "Tor users are not ChatGPT users, and Tor is not all VPN activity",
+        "The Tor comparison cannot estimate coding productivity or model cognition",
+        "Other country-specific shocks and international spillovers remain",
+        "Access effects cannot establish infinite cognition, trained reasoning mechanisms, or the proposed formation of AI"
+      ],
+      "data_status": "Updated paper and author/project pages checked; no public fixed-cohort daily country coding panel located. Tor diagnostic remains secondary only.",
+      "sources": [
+        "https://arxiv.org/abs/2403.01964",
+        "https://arxiv.org/abs/2304.09339",
+        "https://metrics.torproject.org/userstats-relay-country.html"
+      ]
     },
     {
-      "chapter": 12,
+      "chapter": 14,
       "title": "The Machines That Build the Next Machines",
       "case": "OVHcloud's Strasbourg data-center fire, March 10, 2021",
       "claim_tested": "Loss and restoration of physical infrastructure changes the availability of computation.",
       "assignment": "Unanticipated facility fire; tenant placement, backups, and network routing are not random.",
       "design": "Primary: matched-service availability changes for preidentified Strasbourg versus unaffected facilities. Available secondary diagnostic: historical BGP-prefix visibility for OVH's entire ASN.",
       "adapter": "infrastructure",
-      "input": "chapter12.csv",
-      "columns": ["unit", "period", "outcome", "exposure", "cluster", "stratum"],
+      "input": "chapter14.csv",
+      "columns": [
+        "unit",
+        "period",
+        "outcome",
+        "exposure",
+        "cluster",
+        "stratum"
+      ],
       "controls": [],
       "window": "period 0 = mean service availability fraction March 1–8 UTC; period 1 = March 10–17 UTC. Omit March 9 because the fire began after midnight local time March 10 (March 9 UTC). exposure fixed from pre-fire facility mapping; cluster = facility; stratum = pre-matched service category.",
       "counterfactual": "Services in demonstrably unaffected facilities, with pre-matched functions, loads, and backup arrangements.",
       "prediction": "Affected services lose availability and recover as physical support or backups are restored.",
-      "diagnostics": ["Pre-fire facility map and service availability required", "Backup placement and routing spillovers", "Facility-level assignment has few clusters", "BGP announcements can remain intact while hosted services fail"],
-      "identification_limits": ["AS16276 includes many unaffected facilities; it is not a Strasbourg treatment indicator", "BGP prefix counts are not server uptime or AI output", "No service effect is estimated from the public ASN diagnostic", "A physical dependency does not establish AI/data-center inevitability or a productive growth loop"],
-      "data_status": "RIPE historical prefix timelines available. Primary matched-facility service data still required.",
-      "sources": ["https://corporate.ovhcloud.com/en-gb/newsroom/news/informations-site-strasbourg/", "https://stat.ripe.net/docs/data-api/api-endpoints/announced-prefixes"]
+      "diagnostics": [
+        "Pre-fire facility map and service availability required",
+        "Backup placement and routing spillovers",
+        "Facility-level assignment has few clusters",
+        "BGP announcements can remain intact while hosted services fail"
+      ],
+      "identification_limits": [
+        "AS16276 includes many unaffected facilities; it is not a Strasbourg treatment indicator",
+        "BGP prefix counts are not server uptime or AI output",
+        "No service effect is estimated from the public ASN diagnostic",
+        "A physical dependency does not establish the proposed formation of AI and data centers or a productive growth loop"
+      ],
+      "data_status": "Official fire record and public BGP data located; pre-fire facility-mapped service availability with matched controls not located. BGP diagnostic remains secondary only.",
+      "sources": [
+        "https://corporate.ovhcloud.com/en-gb/newsroom/news/informations-site-strasbourg/",
+        "https://stat.ripe.net/docs/data-api/api-endpoints/announced-prefixes"
+      ]
     }
   ]
 }

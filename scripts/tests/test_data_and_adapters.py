@@ -62,8 +62,8 @@ class AdapterTests(unittest.TestCase):
         self.supply(4, frame)
         result = run_case(CASES[4], self.ctx)
         self.assertAlmostEqual(result["analysis"]["coefficients"]["exposure"], 7)
-        self.supply(12, frame)
-        result = run_case(CASES[12], self.ctx)
+        self.supply(14, frame)
+        result = run_case(CASES[14], self.ctx)
         self.assertEqual(result["primary_status"], "comparison_available")
         self.assertIn("secondary_status", result)
 
@@ -79,12 +79,19 @@ class AdapterTests(unittest.TestCase):
         result = run_case(CASES[5], self.ctx)
         self.assertAlmostEqual(result["iv"]["effect_per_unit_treatment"], 4, places=8)
 
+    def test_new_physics_records_do_not_fabricate_analyses(self):
+        for chapter, status in [(6, "unidentified"), (7, "published_mechanism_only")]:
+            result = run_case(CASES[chapter], self.ctx)
+            self.assertEqual(result["status"], status)
+            self.assertFalse(result["analysis_performed"])
+            self.assertNotIn("analysis", result)
+
     def test_oklo_has_no_fabricated_models_and_checks_supplied_predictions(self):
-        result = run_case(CASES[6], self.ctx)
+        result = run_case(CASES[8], self.ctx)
         self.assertEqual(result["models_checked"], [])
         self.assertFalse(result["origin_of_constants_identified"])
-        self.supply(6, pd.DataFrame({"model": ["synthetic_small", "synthetic_large"], "fractional_alpha_change": [1e-9, -2e-8]}))
-        result = run_case(CASES[6], self.ctx)
+        self.supply(8, pd.DataFrame({"model": ["synthetic_small", "synthetic_large"], "fractional_alpha_change": [1e-9, -2e-8]}))
+        result = run_case(CASES[8], self.ctx)
         self.assertEqual([m["within_published_bound"] for m in result["models_checked"]], [True, False])
 
     def test_primary_ai_panel_runs_without_secondary_network(self):
@@ -95,8 +102,8 @@ class AdapterTests(unittest.TestCase):
         wide = pd.DataFrame(x, index=days, columns=["fr", "de", "es", "gb", "se"])
         wide["it"] = treated
         panel = wide.rename_axis("date").reset_index().melt(id_vars="date", var_name="country", value_name="outcome")
-        self.supply(11, panel)
-        result = run_case(CASES[11], self.ctx)
+        self.supply(13, panel)
+        result = run_case(CASES[13], self.ctx)
         self.assertEqual(result["primary_status"], "comparison_available")
         self.assertAlmostEqual(result["primary_coding"]["post_mean_gap"], 5, places=4)
 
@@ -108,15 +115,15 @@ class AdapterTests(unittest.TestCase):
                 rows.append({"state": state, "date": (transition + pd.Timedelta(days=day)).date().isoformat(),
                              "crashes": 20 + (3 if dst and day > 0 else 0), "observes_dst": dst})
         frame = pd.DataFrame(rows)
-        self.supply(10, frame)
-        result = run_case(CASES[10], self.ctx)
+        self.supply(12, frame)
+        result = run_case(CASES[12], self.ctx)
         contrasts = result["yearly_contrasts"]
         self.assertAlmostEqual(contrasts["2007_event"]["coefficients"]["exposure"], 3)
         self.assertAlmostEqual(contrasts["2007_placebo"]["coefficients"]["exposure"], 0)
         self.assertFalse(contrasts["2007_event"]["inference_reported"])
-        self.supply(10, frame.iloc[:-1])
+        self.supply(12, frame.iloc[:-1])
         with self.assertRaisesRegex(ValueError, "Missing daily"):
-            run_case(CASES[10], self.ctx)
+            run_case(CASES[12], self.ctx)
 
     def test_cache_tampering_is_rejected(self):
         self.ctx.cache.mkdir()

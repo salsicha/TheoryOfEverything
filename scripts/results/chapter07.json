@@ -1,41 +1,44 @@
 {
   "chapter": 7,
-  "title": "The Species That Changed Its Own Conditions",
-  "case": "Norway's staggered compulsory-schooling reform",
-  "claim_tested": "Changes in a socially maintained developmental environment can alter measured cognitive performance.",
-  "design": "Cohort-specific difference-in-differences using never/not-yet-treated municipalities; no already-treated controls or ordinary staggered TWFE.",
+  "title": "Symmetry Breaking and Disequilibrium",
+  "case": "Clustering in a driven two-compartment granular gas",
+  "claim_tested": "A symmetric arrangement can become unstable through density-dependent dissipation and escape rates.",
+  "design": "Record the published mechanism and its limits; no raw observations or effect-size estimator have been added.",
   "identification_limits": [
-    "Municipal rollout may correlate with changing conditions",
-    "Adapter gives unadjusted cohort points, without inference; not the original IV specification",
-    "Male conscript sample limits generalization",
-    "Cannot identify ancient genetic self-domestication or its proposed violence mechanism"
+    "Published controlled mechanism only, not a new natural-experiment estimate",
+    "No raw granular dataset has been fitted in this repository",
+    "The mechanism does not identify baryogenesis, cosmic origins, or a universal entropy-production maximum"
   ],
   "sources": [
-    "https://doi.org/10.1073/pnas.1106077109",
-    "https://www.ssb.no/forskning/offentlig-okonomi/utdanningsokonomi/forlenget-grunnskole-ga-hoyere-iq"
+    "https://people.maths.bris.ac.uk/~majge/p5322_1.pdf",
+    "https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf"
   ],
   "result": {
-    "status": "needs_data",
-    "error": "Provide chapter07.csv and its .metadata.json sidecar; see templates and README"
+    "status": "published_mechanism_only",
+    "analysis_performed": false,
+    "conclusion": "Published experiments report approximately balanced populations under strong shaking and persistent unequal populations in an unstable regime at reduced driving. No raw-data reanalysis was conducted here."
   },
   "data_provenance": [],
   "run_metadata": {
-    "generated_utc": "2026-11-15T23:19:13.306110+00:00",
+    "generated_utc": "2026-11-16T00:25:24.354279+00:00",
     "python": "3.14.5",
     "dependencies": {
       "numpy": "2.5.5",
       "pandas": "3.1.1",
       "scipy": "1.18.1",
-      "statsmodels": "0.15.0"
+      "statsmodels": "0.15.0",
+      "openpyxl": "3.1.5",
+      "et-xmlfile": "2.0.0"
     },
     "code_sha256": {
-      "cases.py": "5f9a3fa3614cb1de11ce580d8786433d23161478ab3d9b076da4096c85a61e1c",
+      "acquire.py": "a57ebbd42400837ddef2d6c7c609898e28129bd459d5c52019b904e2fb68927d",
+      "cases.py": "00380e430d120be3207189d8b2206add6f2cd2a27704dfed3bf30869e587b87a",
       "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
       "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
-      "run.py": "6aa37fe6649e5d29582d67b7a994ba890efb05a8dadcc7180059048348fa160c"
+      "run.py": "9295ac7aedb6f36b200edf557e92f4539fb57e88f7486cc9058dc25bf1712494"
     },
-    "registry_sha256": "3aed534cc1c2588ae0e2d1ac3d65f26dd445c3c31dd803533ef5ad5b56c2e06b",
-    "requirements_sha256": "333daab2ab43a1abaa146f7101ae2ebbb1c4b62e8e3fe2b1c4ea517669a68a0d",
+    "registry_sha256": "1f3207fc1f5177c8d49c2c6ae5114426896c2967603ab69fdf8e5fda7b13d33a",
+    "requirements_sha256": "79f4ddec970cf3a2dca8e09bdb8895cf6326f3bfb833f3f0e2f8804404fb9988",
     "chapters": [
       1,
       2,
@@ -48,7 +51,9 @@
       9,
       10,
       11,
-      12
+      12,
+      13,
+      14
     ]
   }
 }
