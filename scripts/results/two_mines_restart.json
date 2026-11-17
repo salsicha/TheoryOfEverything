@@ -1,0 +1,227 @@
+{
+  "question": "After an explicit full year of zero production, did previously producing mines resume coal extraction in the following year?",
+  "2019_geographic_comparison_status": "no_common_support",
+  "design": "Use the main comparison's producing Appalachian mine cohort in each initial year. Fix method and area at that initial observation. Require an explicit zero-ton underground or surface record in the middle year. Count positive underground or surface production under the same MSHA identifier in the third year.",
+  "interpretation": "Endpoints in 2017 and 2018 precede the tax cut. The endpoint in 2019 coincides with the cut. Each window starts with a distinct baseline cohort. A full zero year is a production interruption of unknown cause. Annual records do not identify equipment failure, timing of a repair, or shifts worked.",
+  "missingness": "A missing conventional-production observation leaves output unknown. Follow-up bounds assign unknown mines first no positive output and then positive output. A null interval means the cohort is empty. The separate reporting-gap counts include mines with unknown interruption status and cannot furnish verified restarts.",
+  "windows": [
+    {
+      "baseline_year": 2015,
+      "zero_year": 2016,
+      "outcome_year": 2017,
+      "groups": {
+        "Underground": {
+          "positive_baseline": 129,
+          "recorded_positive_in_intervening_year": 128,
+          "after_recorded_zero": {
+            "mines": 1,
+            "positive": 0,
+            "zero": 1,
+            "unknown": 0,
+            "without_positive_record": 1,
+            "positive_fraction_bounds": [
+              0.0,
+              0.0
+            ]
+          },
+          "after_unobserved_intervening_year": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          }
+        },
+        "Surface": {
+          "positive_baseline": 222,
+          "recorded_positive_in_intervening_year": 205,
+          "after_recorded_zero": {
+            "mines": 1,
+            "positive": 0,
+            "zero": 1,
+            "unknown": 0,
+            "without_positive_record": 1,
+            "positive_fraction_bounds": [
+              0.0,
+              0.0
+            ]
+          },
+          "after_unobserved_intervening_year": {
+            "mines": 16,
+            "positive": 3,
+            "zero": 0,
+            "unknown": 13,
+            "without_positive_record": 13,
+            "positive_fraction_bounds": [
+              0.1875,
+              1.0
+            ]
+          }
+        }
+      },
+      "zero_year_cohort_by_baseline_area": {
+        "Ohio": {
+          "Underground": 1,
+          "Surface": 0
+        },
+        "West Virginia (Northern)": {
+          "Underground": 0,
+          "Surface": 1
+        }
+      },
+      "areas_with_both_methods_after_zero": []
+    },
+    {
+      "baseline_year": 2016,
+      "zero_year": 2017,
+      "outcome_year": 2018,
+      "groups": {
+        "Underground": {
+          "positive_baseline": 150,
+          "recorded_positive_in_intervening_year": 150,
+          "after_recorded_zero": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          },
+          "after_unobserved_intervening_year": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          }
+        },
+        "Surface": {
+          "positive_baseline": 222,
+          "recorded_positive_in_intervening_year": 210,
+          "after_recorded_zero": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          },
+          "after_unobserved_intervening_year": {
+            "mines": 12,
+            "positive": 2,
+            "zero": 1,
+            "unknown": 9,
+            "without_positive_record": 10,
+            "positive_fraction_bounds": [
+              0.16666666666666666,
+              0.9166666666666666
+            ]
+          }
+        }
+      },
+      "zero_year_cohort_by_baseline_area": {},
+      "areas_with_both_methods_after_zero": []
+    },
+    {
+      "baseline_year": 2017,
+      "zero_year": 2018,
+      "outcome_year": 2019,
+      "groups": {
+        "Underground": {
+          "positive_baseline": 154,
+          "recorded_positive_in_intervening_year": 154,
+          "after_recorded_zero": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          },
+          "after_unobserved_intervening_year": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          }
+        },
+        "Surface": {
+          "positive_baseline": 223,
+          "recorded_positive_in_intervening_year": 220,
+          "after_recorded_zero": {
+            "mines": 0,
+            "positive": 0,
+            "zero": 0,
+            "unknown": 0,
+            "without_positive_record": 0,
+            "positive_fraction_bounds": null
+          },
+          "after_unobserved_intervening_year": {
+            "mines": 3,
+            "positive": 1,
+            "zero": 0,
+            "unknown": 2,
+            "without_positive_record": 2,
+            "positive_fraction_bounds": [
+              0.3333333333333333,
+              1.0
+            ]
+          }
+        }
+      },
+      "zero_year_cohort_by_baseline_area": {},
+      "areas_with_both_methods_after_zero": []
+    }
+  ],
+  "provenance": [
+    {
+      "file": "EIA_coalpublic2015.xls",
+      "source_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2015.xls",
+      "resolved_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2015.xls",
+      "retrieved_utc": "2026-11-17T19:22:13.029093+00:00",
+      "bytes": 361984,
+      "content_type": "application/vnd.ms-excel",
+      "sha256": "48dce35a2e20ba024a80d1dce4dddacf4593f37cc2a728fad5305d55be40a84a"
+    },
+    {
+      "file": "EIA_coalpublic2016.xls",
+      "source_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2016.xls",
+      "resolved_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2016.xls",
+      "retrieved_utc": "2026-11-17T19:22:13.306244+00:00",
+      "bytes": 312832,
+      "content_type": "application/vnd.ms-excel",
+      "sha256": "fa40f0a99cc0e17541d6f62bda56687e6b5120288c9ee6bf405df5e19804277c"
+    },
+    {
+      "file": "EIA_coalpublic2017.xls",
+      "source_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2017.xls",
+      "resolved_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2017.xls",
+      "retrieved_utc": "2026-11-17T19:22:13.557821+00:00",
+      "bytes": 297472,
+      "content_type": "application/vnd.ms-excel",
+      "sha256": "cea3e879db15efa6525df6cb8744e2baf635c55bba140b7d3c228e61a89dcc0b"
+    },
+    {
+      "file": "EIA_coalpublic2018.xls",
+      "source_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2018.xls",
+      "resolved_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2018.xls",
+      "retrieved_utc": "2026-11-17T19:22:13.816113+00:00",
+      "bytes": 293888,
+      "content_type": "application/vnd.ms-excel",
+      "sha256": "28b02163a18c595d7ec77a80c2f7bedbecf5fee9122906340c3a60fad5918211"
+    },
+    {
+      "file": "EIA_coalpublic2019.xls",
+      "source_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2019.xls",
+      "resolved_url": "https://www.eia.gov/coal/data/public/xls/coalpublic2019.xls",
+      "retrieved_utc": "2026-11-17T19:22:14.136810+00:00",
+      "bytes": 294912,
+      "content_type": "application/vnd.ms-excel",
+      "sha256": "c0d98010a1abe683f50df5d722b5a080cb0a6700b55566a2da3632857c0b52ac"
+    }
+  ]
+}

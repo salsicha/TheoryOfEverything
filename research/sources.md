@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during drafting and structural revision on November 14–17, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in [ideas](../editorial/ideas.md), [outline](../editorial/outline.md), and chapter notes; the prologue and all twelve prose chapters have numbered notes. The afterword sets the causal-inference standard and identifies its proposed research designs. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
+Sources checked during drafting and structural revision on November 14–17, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in [ideas](../editorial/ideas.md), [outline](../editorial/outline.md), and chapter notes; the prologue and all twelve prose chapters have numbered notes. The [research methods guide](causal-inference.md) gives the causal-inference standard. The afterword asks what would make the synthesis testable. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
 
 ## S01
 
@@ -196,6 +196,8 @@ Supports the prologue's limited background about computing equipment, power dist
 
 Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Chapter 12 now includes the bounded TCV control demonstration under S54 and separates it from the proposed future loop.
 
+Chris Gamble and Jim Gao give a firsthand account of moving from cooling recommendations to automatic adjustments at Google data centers. Operators found it laborious to carry out each recommendation. In the later system local controls checked instructions and operators could take control back. The authors report savings for cooling equipment. Determining what happened to the capacity released by those savings would require a separate account. [Gamble and Gao, 2018](https://deepmind.google/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/)
+
 ## S32
 
 **Assembly-theory criticism.** Abicumaran Uthamacumaran et al., [“On the salient limitations of the methods of assembly theory and their classification of molecular biosignatures”](https://www.nature.com/articles/s41540-024-00403-y), *npj Systems Biology and Applications* 10, 82 (2024).
@@ -226,7 +228,7 @@ The Dhraʿ case supports purpose-built storage and raised floors in a predomesti
 
 **Newcomen and Watt.** Science Museum Group, [Newcomen engine model](https://collection.sciencemuseumgroup.org.uk/objects/co8231705/replica-of-model-of-newcomen-engine), [Watt's second separate condenser, 1765](https://collection.sciencemuseumgroup.org.uk/objects/co50928/watts-second-separate-condenser-1765-condensers), and [separate-condenser history](https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/). ASME, [Newcomen engine engineering landmark account](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/70-newcomen-engine.pdf).
 
-Supports the atmospheric-engine cycle, repeated heating and cooling, and the separate condenser. No invented efficiency figure, cost series, mine visit, or conversation is used.
+The Science Museum also reproduces John Robison’s recollection of Watt sliding a tin model under a table and identifies the surviving models in its collection. These sources support the atmospheric-engine cycle, repeated heating and cooling, and the separate condenser. No invented efficiency figure, cost series, mine visit, or conversation is used.
 
 ## S37
 
@@ -262,7 +264,7 @@ The Cromford site, date, and water-power context now remain in the archived fact
 
 **Electrification and organizational complements.** Paul A. David, [“The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox”](https://gwern.net/doc/economics/automation/1990-david.pdf), *American Economic Review* 80 (1990), 355–361. David, [“Understanding Digital Technology's Evolution and the Path of Measured Productivity Growth”](https://siepr.stanford.edu/publications/working-paper/understanding-digital-technologys-evolution-and-path-measured), SIEPR working paper (1999).
 
-Supports the interpretation that organizational complements can affect the realization of technical benefits. Chapter 7's factory example is hypothetical, not a newly documented installation; no fixed diffusion lag is projected onto AI.
+Supports the interpretation that organizational complements can affect the realization of technical benefits. The hypothetical factory comparison is preserved in the [human-development archive](../editorial/archive/human-development-revision.md).
 
 ## S43
 
@@ -310,7 +312,7 @@ Supports learning of sound-sequence regularities in a controlled segmentation ta
 
 **Machine representations.** Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean, [“Efficient Estimation of Word Representations in Vector Space”](https://arxiv.org/abs/1301.3781) (2013).
 
-Provides a concrete example of learned word vectors. Chapter 12's map analogy and claims about representation costs are explanatory arguments, not results of a neural theory in this paper.
+The paper supplies the example of learned word vectors in the book’s development notes on representation (I38). The chip-layout case in chapter 12 draws on a different kind of learned representation, covered under [S155](#s155).
 
 ## S51
 
@@ -364,7 +366,7 @@ The accessible abstract supports the bounded claim that organisms, including thr
 
 **Technological combination and lock-in.** W. Brian Arthur and Wolfgang Polak, [“The Evolution of Technology within a Simple Computer Model”](https://sites.santafe.edu/~wbarthur/Papers/AP-Complexity.pdf), Santa Fe Institute Working Paper 2004-12-042. W. Brian Arthur, [“Competing Technologies, Increasing Returns, and Lock-In by Historical Events”](https://sites.santafe.edu/~wbarthur/Papers/EJ.pdf), *The Economic Journal* 99 (1989), 116–131; author-hosted prepublication version.
 
-The first model retains useful circuit combinations for further construction. The second investigates path dependence under increasing returns to adoption. Chapter 7 uses them as short comparisons within the human-development argument, separating retained capabilities from reinforcement of an established route. Neither model establishes human self-domestication, the proposed thermodynamic driver, or the book's whole historical synthesis. The longer factory treatment remains in the archived pre-merge draft.
+The first model retains useful circuit combinations for further construction. The second investigates path dependence under increasing returns to adoption. The earlier human-development draft used them to distinguish retaining capabilities from reinforcing an established route. Neither model establishes human self-domestication, the proposed thermodynamic driver, or the book's whole historical synthesis. The longer factory treatment remains in the archived pre-merge draft.
 
 ## S60
 
@@ -402,6 +404,8 @@ Supports the dated findings of declining controlled ODS abundances, recovery wit
 
 The translated primary text was read for Einstein's proposal to combine features of wave and emission theories of light and his account of reconciling the relativity principle with light-speed constancy by revising assumptions about time. It does not establish that Einstein used “negation of the negation,” that relativity and wave–particle duality were the same discovery, or that matter-wave theory was his work alone. I51–I52 use these as distinct starting points for the author's dialectical interpretation. Before direct quotation in the manuscript, check the translation against the scholarly edition. The bounded 1905 comparison is now supported separately under S67. A detailed 1915 Einstein–Hilbert reconstruction remains a research task. No priority dispute or probability of inevitability is settled by the 1909 lecture.
 
+For the sequence of electron arrivals that builds into an interference pattern in chapter 4, see Tonomura, Endo, Matsuda, Kawasaki and Ezawa’s [1989 electron biprism study](https://doi.org/10.1119/1.16104).
+
 ## S66
 
 **Relative input costs and the viability of early assemblies.** Robert C. Allen, [British Academy lecture on the Industrial Revolution in global perspective](https://www.thebritishacademy.ac.uk/documents/2079/pba167p199_0.pdf), especially printed pp. 211–212 on English and Chinese pottery kilns and p. 218 on early steam engines and cheap colliery fuel. Read alongside S04 and the competing interpretations in S37.
@@ -413,6 +417,8 @@ Supports Allen's comparison of fuel-conserving and fuel-intensive designs under 
 **Convergent work on relativity in 1905.** Henri Poincaré, “Sur la dynamique de l'électron,” *Comptes rendus* 140 (1905), 1504–1508, [Academy scan](https://www.academie-sciences.fr/pdf/dossiers/Poincare/Poincare_pdf/Poincare_CR1905.pdf), with the [readable English translation](https://en.wikisource.org/wiki/Translation:On_the_Dynamics_of_the_Electron_(June)). Albert Einstein, [“On the Electrodynamics of Moving Bodies”](https://www.fourmilab.ch/etexts/einstein/specrel/www/), June 30, 1905, English translation based on the 1923 edition.
 
 The Poincaré translation and Einstein's opening and simultaneity discussion were read for the narrow comparison in chapter 4. Poincaré's note develops Lorentz transformations and their group property; Einstein reorganizes the account around relativity, light speed, and clock synchronization. Their nearby dates and overlapping problems do not establish identical theories, complete independence, or a thermodynamic cause. The scan supplied bibliographic context; its text was not treated as fully machine-readable. No Einstein–Hilbert priority conclusion is asserted.
+
+Michelson and Morley describe the rotating instrument, their expected fringe shift and the support supplied by the Bache Fund in their [1887 paper](https://doi.org/10.2475/ajs.s3-34.203.333). Poincaré describes two moving observers setting their watches by exchanged signals in his [1904 St. Louis lecture](https://henripoincarepapers.univ-nantes.fr/chp/hp-pdf/hp1905mo.pdf). The later timing example draws on Buisson, Easton and McCaskill’s report on NTS-2, which documents the transition from quartz to cesium operation, the comparison in Panama and the spacecraft’s frequency adjustment. [Flight team’s report](https://ntrs.nasa.gov/citations/19780016585)
 
 ## S68
 
@@ -450,6 +456,8 @@ Indexed abstracts support the reported Misliya range of 177,000–194,000 years 
 
 The indexed abstract and results passages support the limited account of modeled rainfall constraints in chapter 7. Publisher retrieval was restricted; no comprehensive methods review is claimed. The chapter does not infer actual movement from climatic suitability, a unique departure date, or an explanation of self-domestication from this model.
 
+Hallett, Leonardi and colleagues compare dated African occupation sites with reconstructions of their environments. They find a widening range of occupied habitat types beginning around 70,000 years ago. Chapter 7 uses this result to distinguish the experience populations acquired within Africa from the dates of subsequent dispersals. [“Major expansion in the human niche preceded out of Africa dispersal”](https://www.nature.com/articles/s41586-025-09154-0)
+
 ## S74
 
 **Shared care and comparative prosociality.** Judith M. Burkart et al., [“The evolutionary origin of human hyper-cooperation”](https://www.nature.com/articles/ncomms5747), *Nature Communications* 5 (2014), 4747; [institutional paper copy](https://www.eva.mpg.de/documents/Nature/Burkart_Evolutionary_NatComm_2014_2067750.pdf).
@@ -484,13 +492,13 @@ The abstract and opening model discussion were read for annihilation at domain b
 
 **War making and organized protection.** Charles Tilly, [“War Making and State Making as Organized Crime”](https://doi.org/10.1017/CBO9780511628283.008), in *Bringing the State Back In* (1985), 169–191.
 
-The publisher's accessible opening was read for the protection-racket comparison and its European scope. The institutional-repository working paper could not be fetched. Chapter 9 uses the bounded comparison, while its hypothetical defense cycle and regenerative interpretation are original constructions. It does not present a verified universal origin of taxation.
+The publisher's accessible opening was read for the protection-racket comparison and its European scope. The institutional-repository working paper could not be fetched. Chapter 9 uses the bounded comparison alongside the Massachusetts order documented under S80. Its interpretation of the return from payments to material provisioning belongs to the book. It does not present a verified universal origin of taxation.
 
 ## S80
 
 **Tax obligations and demand for currency.** L. Randall Wray, [“What Are Taxes For? The MMT Approach”](https://www.levyinstitute.org/blog/what-are-taxes-for-the-mmt-approach/), Levy Economics Institute (May 16, 2014).
 
-The author's explanation was read for the chartalist demand mechanism, the issuance-before-settlement sequence, and distinctions among currency regimes. Chapter 9 identifies this theoretical position and uses a simplified issuer. It does not claim that all money originated through taxation, adopt the essay's current-at-publication figures, or infer that all governments face identical constraints.
+The author's explanation was read for the chartalist demand mechanism, the issuance-before-settlement sequence, and distinctions among currency regimes. Chapter 9 illustrates what accepting a bill for public payments can do using the Massachusetts Bay General Court’s issue of December 10, 1690. Its order sets a ceiling of seven thousand pounds and provides for replacing a worn bill. The broadside documents a particular issue into a society that already had creditors and reckoned debts in pounds. [Broadside held by the Library of Congress](https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe03/rbpe033/03302500/03302500.pdf)
 
 ## S81
 
@@ -518,6 +526,8 @@ The edition information and opening definition were checked for the limited desc
 
 The preamble and provisions on compulsory service, departure, and remuneration were read. They support an account of the authority's attempted response to scarcity. The ordinance alone does not establish enforcement outcomes or the end of feudalism. The regenerative-closure interpretation is the book's hypothesis.
 
+Mark Bailey’s study of English tenure follows successive arrangements at Walsham, ending with Alice Chaucer’s grants of twenty-two parcels of demesne arable for fixed rents in 1453. It gives the book a documented change in one set of obligations a century after the ordinance. [Study based on manorial records](https://doi.org/10.1111/ehr.70110)
+
 ## S85
 
 **Rules of collective labor organization.** [An Act to repeal the Laws relative to the Combination of Workmen; and for other Purposes therein mentioned](https://www.legislation.gov.uk/ukpga/Geo4/5/95/pdfs/ukpga_18240095_en.pdf), 5 Geo. IV c. 95 (1824).
@@ -534,7 +544,7 @@ The passages on benefits, assistance reaching available work, and protection of 
 
 **Control and communication across organisms and machines.** Norbert Wiener, [*Cybernetics: Or Control and Communication in the Animal and the Machine*](https://mitpress.mit.edu/9780262537841/cybernetics-or-control-and-communication-in-the-animal-and-the-machine/), first published 1948; MIT Press reissue, 2019.
 
-The publisher's description and edition information were checked for the historical framing of the new chapter 10. No full reading of the book is claimed here. Pair this framing with Ashby's regulation treatment under S45. Modern neural learning is not treated as confirmation of every part of Wiener's program.
+Five years before the book, Arturo Rosenblueth, Wiener and Julian Bigelow used the act of raising a glass of water to study what happens when feedback steadies a movement and what happens when successive corrections amplify its error. Chapter 10 takes its glass from their paper. Wiener's 1947 open letter records his reasons for refusing a request for wartime work. The letter and the 1955 Dartmouth proposal under S90 document decisions by their authors. A historical claim that funders diverted money from cybernetics because of Wiener's stance would require funding records. [Rosenblueth, Wiener and Bigelow, “Behavior, Purpose and Teleology,” pp. 19–20](https://home.csulb.edu/~cwallis/382/readings/482/wiener.behavior.purpose.teleology.1943.pdf) · [Wiener, “A Scientist Rebels”](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf)
 
 ## S88
 
@@ -554,6 +564,8 @@ The abstract and discussion of models and attention schema theory were consulted
 
 The interview passages comparing feedback with logical deduction and the retrospective's account of the workshop's intended focus were read. They document McCarthy's recollections of his aims, not the correctness of his approach or a complete history of AI. Use paraphrase, not reconstructed dialogue. Chapter 10 assesses the subsequent methodological development separately.
 
+The original proposal dated August 31, 1955, lists neural networks as well as language, abstraction and self-improvement among the questions for the following summer. [McCarthy, Minsky, Rochester and Shannon, Dartmouth proposal](https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
+
 ## S91
 
 **Learned representations and the neural research lineage.** Ian Goodfellow, Yoshua Bengio, and Aaron Courville, [*Deep Learning*, chapter 1](https://www.deeplearningbook.org/contents/intro.html), MIT Press (2016), especially the opening comparison and section 1.2.1.
@@ -564,7 +576,7 @@ The passages on learning representations and the historical sequence of cybernet
 
 **A trained capability and its computing requirements.** Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, [“ImageNet Classification with Deep Convolutional Neural Networks”](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c-Abstract.html), *Advances in Neural Information Processing Systems* 25 (2012).
 
-The proceedings abstract was read for the trained convolutional network, improved classification result, and GPU implementation. Chapter 10 introduces the combination as a bounded historical example; chapter 11 develops the general assembly argument without repeating the experiment. It does not attribute the result to compute alone or infer an entropy-production maximum from benchmark performance. No detailed methods review is claimed here.
+Figure 4 includes the off-center mite in a group of classifications from the 2010 test set. Section 6 and table 2 give the separate 2012 competition results, including the combined entry's top-five error of 15.3 percent. Chapter 10 uses the image to ask where the rules for recognizing a mite came from. [Authors’ paper](https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf)
 
 ## S93
 
@@ -576,7 +588,7 @@ The abstract and opening description of AlphaProof's reinforcement learning and 
 
 **A functional test of an attention model.** Andrew I. Wilterson and Michael S. A. Graziano, [“The attention schema theory in a neural network agent: Controlling visuospatial attention using a descriptive model of attention”](https://pmc.ncbi.nlm.nih.gov/articles/PMC8379943/), *PNAS* 118 (2021), e2102421118, DOI 10.1073/pnas.2102421118.
 
-The significance statement, abstract, and opening description of the artificial agent and its attention schema were read. The authors compared performance with and without access to the schema in a defined task. The study supports a functional benefit within that setup. It does not demonstrate a conscious agent, spontaneous emergence of a complete self-model, or a full explanation of human selfhood.
+Figure 1 shows the two arrays available to the player. One contains the ball, paddle and visual noise. The second locates the player's attention on the first. Figure 4 separates the information about attention from the action of attention by switching access to the second array off and on after training. The authors measure tracking and catching. Chapter 10 uses that finding to explain what a partial self-model can contribute to an action and identifies the emergence of a personal self as the book's wider conjecture.
 
 ## S95
 
@@ -606,7 +618,7 @@ The abstract was read for verifier-guided search, adaptive responses, and diffic
 
 **Training plus control of generation length.** Niklas Muennighoff et al., [“s1: Simple Test-Time Scaling”](https://arxiv.org/abs/2501.19393), 2025.
 
-The abstract was read. Its method combines supervised training on reasoning examples with budget forcing, including a continuation cue. Chapter 11 identifies both interventions. The reported gains concern the evaluated tasks; the cue is not represented as a standalone universal mechanism.
+In figure 3 the model's first pass counts two r’s in *raspberry*. The researchers’ program supplies “Wait” when the model attempts to stop. The continuation spells out the word and finds three. The experiment combines supervised training and control over when generation ends. The trace gives one example of a successful correction. [s1, figure 3](https://arxiv.org/pdf/2501.19393v1#page=4)
 
 ## S100
 
@@ -890,13 +902,45 @@ Reported reaction, control comparisons, and discussion checked November 17. A co
 
 **Cornish pumping duty and its public trial.** Dionysius Lardner describes the proprietors’ monthly reports, the measurements and the unit of duty. William Pole reproduces the Leans’ account of Austen’s engine at Fowey Consols, West’s earlier experience, the objections and the October 1834 trial. The monthly and trial values cover different intervals. Nuvolari and Verspagen reconstruct how comparable numbers were produced and used. [Lardner, §178](https://www.gutenberg.org/files/42602/old/42602-h/42602-h.htm) · [Pole, §84](https://doi.org/10.3931/e-rara-43037) · [Nuvolari and Verspagen, “Unravelling the duty”](https://pure.tue.nl/ws/portalfiles/portal/2303996/612886.pdf)
 
+The witnesses at Fowey recorded 6,287 strokes during the October trial. One lift stopped for two hours and forty-three minutes when a component of its bucket broke. The committee deducted three hours of that lift’s work in calculating duty. [Signed account reproduced by Pole, §84, pp. 65–68](https://www.e-rara.ch/download/pdf/12665405.pdf)
+
 ## S147
 
-**The woven portrait.** The Henry Ford dates the Lyon silk portrait to 1839 and identifies the weaver Michel-Marie Carquillat, the source portrait by Claude Bonnefond and the manufacturer Didier Petit et Cie. The Metropolitan Museum explains the commission and mechanism. The book’s workshop handover and interrupted payroll are thought experiments. [Henry Ford object record](https://www.thehenryford.org/collections/explore/artifact/219008) · [Metropolitan Museum object record](https://www.metmuseum.org/art/collection/search/222531)
+**The woven portrait.** The Henry Ford dates the Lyon silk portrait to 1839 and identifies the weaver Michel-Marie Carquillat, the source portrait by Claude Bonnefond and the manufacturer Didier Petit et Cie. The Metropolitan Museum explains the commission and mechanism. The imagined apprentice in chapter 8 illustrates diagnosis at a loom. The separate wage dispute in chapter 9 comes from the Lyon labor council reports collected under S154. [Henry Ford object record](https://www.thehenryford.org/collections/explore/artifact/219008) · [Metropolitan Museum object record](https://www.metmuseum.org/art/collection/search/222531)
+
+The Musée des Tissus holds the partial workshop drawing, inventory MT 25800. Its record and J.-L. Moulin’s correspondence with the curator reconstruct how he prepared the squared pattern from Bonnefond’s painting, why he used brown for black silk, who could give him credit and how he later borrowed his own work to have it copied. The surviving pattern is the later copy. [Lyon exhibition dossier and object record, MT 25800](https://www.museedestissus.fr/media/expositions/jacquard-point-a-la-ligne/jacquard-point-a-la-ligne_dp.pdf)
 
 ## S148
 
-**From selectable threads to selectable operations.** Ada Lovelace’s 1843 notes to her translation of Menabrea set out the distinction between operation cards and variable cards for the proposed Analytical Engine. Babbage also describes adapting Jacquard’s method. The design history supports a specific transfer of a control mechanism. The discussion of training and learned representations draws on the AI sources in chapters 10 and 11. [Lovelace, especially Note A](https://psychclassics.yorku.ca/Lovelace/lovelace.htm) · [Babbage, chapter VIII of *Passages from the Life of a Philosopher*](https://fourmilab.ch/babbage/lpae.html)
+**From selectable threads to selectable operations.** Ada Lovelace’s 1843 notes to her translation of Menabrea distinguish operation cards and variable cards for the proposed Analytical Engine. Note G traces how the engine would compute a Bernoulli number, starting with the product of two inputs copied to three columns. Babbage later recalled offering to do the algebra and receiving it back from Lovelace with a mistake identified. The published table records the design. The exchange is known here through Babbage’s recollection. [Lovelace, Notes A and G](https://www.fourmilab.ch/babbage/sketch.html) · [Babbage, chapter VIII of *Passages from the Life of a Philosopher*](https://fourmilab.ch/babbage/lpae.html)
+
+## S149
+
+**Operating coal mines, tax exposure and reported disruptions.** The IRS’s 2019 return and GAO’s testimony document the temporary reduction in federal excise rates and the cap on taxable coal sales. EIA’s detailed mine workbooks record extraction methods and annual production under MSHA identifiers. MSHA’s incident and production files allow a second comparison at a quarterly interval. The incident dictionary distinguishes an employee’s return-to-work date from an equipment or mine restart. The [study and reproducible results](two-mines.md) document source editions, missing reports, and comparison groups. For a separate historical estimate involving transfers among mines under common ownership, see Fischer’s 2024 working paper. [IRS Form 720](https://www.irs.gov/pub/irs-prior/f720--2019.pdf) · [GAO testimony](https://www.gao.gov/assets/gao-22-105546.pdf) · [EIA detailed data](https://www.eia.gov/coal/data.php) · [MSHA data catalogue](https://arlweb.msha.gov/OpenGovernmentData/OGIMSHA.asp) · [Fischer, table 2](https://www.cerge-ei.cz/pdf/events/papers/Paper_20241031.pdf)
+
+## S150
+
+**Wind plant generation and the ten-year production credit.** Sofia Hamilton, Dev Millstein, Mark Bolinger, Ryan Wiser, and Seongeun Jeong studied US wind plant output over time. Their archived panel supports a reproduction of their published age-window estimate as well as a narrower birthday comparison with ninth- and eleventh-year checks. The study and the IRS rule support the proposed timing of the incentive. Recipient status, cash actually received and equipment repair are unobserved in the panel. [Berkeley Lab study](https://eta.lbl.gov/publications/how-does-wind-project-performance) · [Hamilton and colleagues’ analysis files](https://drive.google.com/drive/folders/1MwKfsrPkeaf4I43ydZIK936vQW5Pbf4U) · [IRS credit instructions](https://www.irs.gov/instructions/i8835) · [Wind reanalysis](two-mines.md#a-comparison-at-wind-plants)
+
+## S151
+
+**When could chemistry suitable for life have arisen?** Population I is a broad stellar population associated with relatively metal-rich material and a range of ages. Lineweaver, Fenner and Gibson model galactic habitability and find many candidate stars older than the Sun under their assumptions. Campante and colleagues report five close-in planets smaller than Earth around the metal-poor star Kepler-444 and estimate its age at 11.2 ± 1.0 billion years. García-Berro and colleagues analyze white dwarfs in the roughly eight-billion-year-old, metal-rich cluster NGC 6791. These observations constrain the chronology of small planets and stellar death. The proposed cutoff for planetary chemical gradients and for life is the author’s hypothesis. [Stellar populations](https://www.astronomy.ohio-state.edu/thompson.1847/1144/Lecture24.html) · [Galactic habitable zone model](https://arxiv.org/abs/astro-ph/0401024) · [Kepler-444](https://arxiv.org/abs/1501.06227) · [NGC 6791](https://www.nature.com/articles/nature09045)
+
+## S152
+
+**Probes, settlement and the evolution of a home star.** The Voyagers returned observations from beyond the heliopause, making information a concrete return for an uncrewed journey. Hansen and Zuckerman consider migration under stellar evolution and the effect of waiting for a closer stellar passage. Carroll-Nellenback and colleagues model how different assumptions about settlement can leave inhabited and unoccupied regions in the same galaxy. Tipler’s argument about self-reproducing machines exposes a difficulty for any explanation based on the expense of carrying living travelers. These sources distinguish a measured crossing, a long-term motive, and possible patterns of spread. The rewards that alien societies would actually choose remain unknown. [Voyager Interstellar Mission](https://science.nasa.gov/mission/voyager/interstellar-mission/) · [Hansen and Zuckerman](https://arxiv.org/abs/2102.05703) · [Carroll-Nellenback and colleagues](https://arxiv.org/abs/1902.04450) · [Tipler](https://adsabs.harvard.edu/pdf/1980QJRAS..21..267T)
+
+## S153
+
+**Learning what people owe one another.** Richard Borshay Lee’s first-person account of his Christmas ox records the judgments of the people he hoped to thank and his own initial misreading. Among BaYaka communities in the Republic of the Congo, researchers observed younger children watching an adolescent distribute meat and a younger girl watching six-year-old twins gather mushrooms on a different occasion. In Tanzania, Kristen Hawkes and colleagues recorded how childcare and digging fit together on Hadza foraging trips. These accounts identify particular people learning and enforcing distinctions. The evolutionary argument about selection over many generations draws on separate sources, particularly S69–S74. [Lee, “Eating Christmas in the Kalahari”](https://public.gettysburg.edu/~dperry/Class%20Readings%20Scanned%20Documents/Intro/lee_eating_christmas_kalahari_14_eoa.pdf) · [Salali and colleagues on social learning among BaYaka children](https://doi.org/10.1038/s41598-019-47515-8) · [Hawkes and colleagues on Hadza foraging](https://content.csbs.utah.edu/~hawkes/Hawkes_al89hardworkingHadzaGrams.pdf) · [Hadza provisioning and weight change](https://content.csbs.utah.edu/~hawkes/Hawkes_al97HadzaTimeAllocationGrams%20CA.pdf)
+
+## S154
+
+**Workers’ claims and the Lyon labor council.** A contemporary report in the January 1841 issue of *L’Écho des ouvriers* records Mlle Pommet’s claim for forty francs, the widow Vieux’s account of illness, advances and a relief fund’s claim, and the council’s request that Pommet allow her more time. The same issue reports Burgat and Chinard’s dispute over two shawl looms, and the dissolution of Bron’s apprenticeship. The report records rulings and attributed testimony. In Pommet’s case it leaves the eventual payment unknown. The earlier silk workers’ paper reports how the price schedule was negotiated on October 25, 1831. [Lyon municipal library, January 1841 issue](https://collections.bm-lyon.fr/BML_01PER0030214781/ISSUE_PDF) · [October 1831 negotiations in the workers’ paper](https://www.pseweb.eu/ydepot/semin/texte0809/DTH2009FOR.pdf) · [Municipal archives on the 1831 uprising](https://www.archives-lyon.fr/pages/1831-1834-la-revolte-des-canuts) · [Contemporary report of the December order](https://collections.bm-lyon.fr/BML_01PER0030212859/ISSUE_PDF)
+
+## S155
+
+**A machine helping to design its successor.** Azalia Mirhoseini, Anna Goldie and colleagues describe a learned method for arranging large circuit blocks on a chip. Goldie identifies a manufactured processor in her account of the work. Chung-Kuan Cheng and colleagues compared the approach with other placement methods on public test cases. The original production blocks and the public cases provide different comparisons. Norman Jouppi and colleagues describe how optical switches connect chips in the TPU v4 system. These sources let chapter 12 follow a proposed layout into a wider computing system. Assigning the gain of an entire system to its placement method would require additional measurements. [Mirhoseini et al.](https://doi.org/10.1038/s41586-021-03544-w) · [Goldie on the manufactured chip](https://www.nature.com/articles/d41586-021-01558-y) · [Cheng et al., 2023 version](https://arxiv.org/abs/2302.11014v1) · [Jouppi et al.](https://arxiv.org/abs/2304.01433)
 
 ## Outstanding research and attribution
 
@@ -911,7 +955,7 @@ Reported reaction, control comparisons, and discussion checked November 17. A co
 **Research acquisition update:** the original kelp supplementary workbook and all sixteen FARS national archives were acquired and analyzed. The [dataset search audit](../scripts/dataset-search.md) records the remaining missing primary extracts for chapters 1, 4, 5, 7, 11, and 12, plus chapter 3's missing counterfactual. The [results](../scripts/results/summary.md) distinguish acquired observations from identified causal effects.
 
 - **Structure:** twelve chapter files match the outline; all twelve now contain prose drafts; the previous cognition plans are preserved in [development material](../editorial/archive/cognition-chapter-plans.md). Chapters 4–6 work backward from familiar physical discoveries through the steam engine to the conjectured assembly of the universe. Chapter 7 integrates human self-domestication and development, followed directly by collective intelligence in chapter 8. Chapter 9 develops economic self-production, chapter 10 covers cybernetics and self-modeling, chapter 11 explains AI through the thesis, and chapter 12 develops data centers and productive deployment. The complete pre-merge constraint-transformation and self-domestication texts remain in [human-development revision material](../editorial/archive/human-development-revision.md). The earlier grain, steam, ammonia, and factory drafts remain in [historical development material](../editorial/archive/historical-drafts/README.md), retaining their original numbering and source qualifications.
-- **Causal demonstration standard:** natural experiments and explicit causal inference now govern empirical causal claims throughout the manuscript. S103–S107 establish the methodological foundation. The afterword and each chapter plan specify comparisons, assignment, assumptions, and scope. Locate and assess actual historical data before reporting identified effects; proposed designs remain proposals. Controlled experiments remain valid, and cosmic origins require appropriate physical models and distinguishing observations.
+- **Causal demonstration standard:** The research companion uses natural experiments and explicit causal inference where the evidence supports a comparison. S103–S107 establish the methodological foundation. The [methods guide](causal-inference.md) and [research registry](../scripts/experiments.json) describe assignment, assumptions and scope. Locate and assess actual historical data before reporting identified effects; proposed designs remain proposals. Controlled experiments remain valid, and cosmic origins require appropriate physical models and distinguishing observations.
 - **Mathematical foundations:** S120–S127 support search structure, instability, physical computation, autocatalytic closure, production maintenance, predictive memory, and driven chemical development. S45 and S60 supply control and technological combination. Distinguish source results from the book's cross-domain applications; no new validation follows from adding the frameworks.
 - **Creation cycle and dialectics:** I70–I71 organize the current argument. S128–S129 distinguish maintenance costs, replication, and contested universal thermodynamic interpretations; S130 supplies the historical dialectical vocabulary. The energetic preference, higher-assembly prediction, and ontological grounding are the book’s hypotheses. Research outputs retain their existing numerical findings and identification limits.
 - **Mechanism:** specify a measurable coupling from physical disequilibrium through inquiry and retention to changed productive pathways. The afterword's graph model and causal comparisons are proposals, not completed validation. A simulation that assumes the driver is not independent empirical confirmation; natural experiments must test specified links and alternatives.
@@ -921,7 +965,7 @@ Reported reaction, control comparisons, and discussion checked November 17. A co
 - **Symmetry and fundamental disequilibrium:** chapter 6 and I67 connect distinct questions about matter predominance, parity, dimensionality, and the temporal arrow. Explain how gradients arise and persist before testing a maximum-rate principle. S75–S76 document a controlled granular instability, not a cosmic-origin experiment or a demonstration of universal maximization.
 - **Economic self-production and closure:** identify the operations, boundaries, replacements, and interruptions that test the social extension of autopoiesis. The feudal-decline account is a hypothesis requiring regional histories; the 1349 ordinance does not by itself establish failure or replacement. Distinguish a promised guarantee, delivered support, and regeneration of the institution. The labor episodes are a comparative thread rather than a single institutional genealogy.
 - **Historical depth:** extend regional English–Chinese comparisons, industrial labor evidence, agricultural histories, and Chinese accounts of imperial conflict before adding detailed scenes or stronger causal estimates.
-- **Self-domestication and society:** chapter 7 uses human development to explain the regeneration and transformation of constraints. It distinguishes reactive aggression, organized violence, shared care, individual learning, cultural transmission, genetic selection, and the social extension of autopoiesis. Self-domestication is one proposed mechanism, not a complete explanation of intelligence. Rates and consequences of prehistoric sanctions, the developmental analogy, and the coupling to entropy production remain unresolved. The expanded learning and comparison scenes are explicitly illustrative.
+- **Self-domestication and society:** chapter 7 uses human development to explain the regeneration and transformation of constraints. It distinguishes reactive aggression, organized violence, shared care, individual learning, cultural transmission, genetic selection, and the social extension of autopoiesis. Self-domestication is one proposed mechanism, not a complete explanation of intelligence. Rates and consequences of prehistoric sanctions, the developmental analogy, and the coupling to entropy production remain unresolved. S153 documents the food-sharing and learning episodes used in the chapter. Modern observations of care and teaching provide grounds for examining the proposed mechanisms across generations.
 - **Cognition and AI:** distinguish biological evolution, individual learning, cultural retention, artificial cognitive functions, consciousness, and recursive industrial growth. The proposed common driver does not erase the separate mechanisms or establish future general intelligence.
 - **AI and data-center emergence:** chapters 11 and 12, the prologue, and the epilogue state the extended claim. S30–S31 support material dependencies and possible applications, not a general generative explanation. Define both predicted outcomes and prerequisites before testing histories. Investigate why development favors concentrated facilities rather than only dispersed computing, and keep emergence distinct from continued growth or guaranteed productive returns.
 - **Cybernetics and self-modeling:** chapter 10 now develops I57–I60, including reciprocal regulation and renewal. Extend the historical and neuroscience reading before adding detailed episodes or broader anatomical claims. Separate regulation from self-production, hierarchy from recurrence, and functional self-modeling from subjective experience. Evaluate the methodological reversal through specified capabilities, retaining the distinction between the limits of a logic-first program and the continuing uses of formal verification.

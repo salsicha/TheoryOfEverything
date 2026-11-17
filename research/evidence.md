@@ -1,6 +1,10 @@
 # Evidence by chapter
 
-The November 15, 2026 research update adds two analyses from primary public data: northern California kelp canopy and US fatal crashes around daylight-saving transitions. The current run contains four primary comparisons/reanalyses, one outcome-only analysis, two secondary diagnostics, one combined published-evidence record, and four cases without their required datasets. Chapter 6 keeps its unidentified ontological foundation, published granular mechanism, and conditional Oklo bound distinct within the combined record. These are component studies; they do not demonstrate the book's universal hypothesis.
+These studies accompany the book. For the assumptions behind the estimates, see the [causal-inference guide](causal-inference.md).
+
+The November 15, 2026 research update adds two analyses from primary public data: northern California kelp canopy and US fatal crashes around daylight-saving transitions. The current run contains four primary comparisons/reanalyses, one outcome-only analysis, two secondary diagnostics, one combined published-evidence record, and four cases without their required datasets. The research record for chapter 6 distinguishes its unidentified ontological foundation, the published granular mechanism, and the conditional Oklo bound. These are component studies; they do not demonstrate the book's universal hypothesis.
+
+A separate chapter 2 study follows US coal mines through the 2019 tax cut and reported interruptions, and wind plants through the tenth anniversary of first production. The mine continuation gap widened by 3.11 percentage points, with missing records allowing a change between −0.76 and +3.88. All 75 underground incident-quarters had positive output the following quarter. No surface incident-quarter supplied a comparison. At wind plants the estimated change at ten years depended on the comparison window and calendar controls. The link from retained proceeds to a dated repair is still open. [Two-mine study and results](two-mines.md)
 
 | Chapter | Current finding | What remains unresolved |
 | --- | --- | --- |

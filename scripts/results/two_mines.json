@@ -1,0 +1,324 @@
+{
+  "status": "differential_policy_exposure_comparison",
+  "cohort": "Prior-year active, positive, single-method extraction in bituminous Appalachian areas; excludes Pennsylvania anthracite. Unit is MSHA mine ID.",
+  "outcome": "Any positive reported underground or surface production under the same ID in the following calendar year. Missing and reported zero are separately counted.",
+  "exposure": "2019 federal excise relief on taxable domestic sales; underground and surface both receive relief. Group denotes prior-year extraction method, not tax paid or retained cash.",
+  "primary_weighting": "Within county each mine counts once; equal weight across state/county labels containing both methods in all four baseline cohorts.",
+  "source_files": [
+    {
+      "year": 2015,
+      "url": "https://www.eia.gov/coal/data/public/xls/coalpublic2015.xls",
+      "sha256": "48dce35a2e20ba024a80d1dce4dddacf4593f37cc2a728fad5305d55be40a84a"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.eia.gov/coal/data/public/xls/coalpublic2016.xls",
+      "sha256": "fa40f0a99cc0e17541d6f62bda56687e6b5120288c9ee6bf405df5e19804277c"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.eia.gov/coal/data/public/xls/coalpublic2017.xls",
+      "sha256": "cea3e879db15efa6525df6cb8744e2baf635c55bba140b7d3c228e61a89dcc0b"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.eia.gov/coal/data/public/xls/coalpublic2018.xls",
+      "sha256": "28b02163a18c595d7ec77a80c2f7bedbecf5fee9122906340c3a60fad5918211"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.eia.gov/coal/data/public/xls/coalpublic2019.xls",
+      "sha256": "c0d98010a1abe683f50df5d722b5a080cb0a6700b55566a2da3632857c0b52ac"
+    }
+  ],
+  "primary": {
+    "common_strata": 26,
+    "rates": [
+      {
+        "baseline": 2015,
+        "followup": 2016,
+        "underground_minus_surface_pp": 2.93298,
+        "underground": {
+          "equal_stratum_continuation_pct": 98.07692,
+          "mines": 96,
+          "positive": 95,
+          "zero": 1,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 95.14394,
+          "mines": 139,
+          "positive": 129,
+          "zero": 0,
+          "missing": 10
+        }
+      },
+      {
+        "baseline": 2016,
+        "followup": 2017,
+        "underground_minus_surface_pp": 2.31643,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 114,
+          "positive": 114,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 97.68357,
+          "mines": 151,
+          "positive": 143,
+          "zero": 0,
+          "missing": 8
+        }
+      },
+      {
+        "baseline": 2017,
+        "followup": 2018,
+        "underground_minus_surface_pp": 0.76313,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 123,
+          "positive": 123,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 99.23687,
+          "mines": 155,
+          "positive": 153,
+          "zero": 0,
+          "missing": 2
+        }
+      },
+      {
+        "baseline": 2018,
+        "followup": 2019,
+        "underground_minus_surface_pp": 3.87764,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 125,
+          "positive": 125,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 96.12236,
+          "mines": 153,
+          "positive": 146,
+          "zero": 0,
+          "missing": 7
+        }
+      }
+    ],
+    "2019_change_in_gap_missing_outcome_bounds_pp": [
+      -0.76313,
+      3.87764
+    ],
+    "change_in_gap_pp": {
+      "2017_vs_2016_followup": -0.61655,
+      "2018_vs_2017_followup": -1.55331,
+      "2019_vs_2018_followup": 3.11452
+    },
+    "leave_one_stratum_out_2019_contrast_range_pp": [
+      2.4391,
+      3.81053
+    ]
+  },
+  "size_sensitivity": {
+    "common_strata": 25,
+    "rates": [
+      {
+        "baseline": 2015,
+        "followup": 2016,
+        "underground_minus_surface_pp": 0.57143,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 78,
+          "positive": 78,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 99.42857,
+          "mines": 68,
+          "positive": 67,
+          "zero": 0,
+          "missing": 1
+        }
+      },
+      {
+        "baseline": 2016,
+        "followup": 2017,
+        "underground_minus_surface_pp": 1.33333,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 90,
+          "positive": 90,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 98.66667,
+          "mines": 81,
+          "positive": 80,
+          "zero": 0,
+          "missing": 1
+        }
+      },
+      {
+        "baseline": 2017,
+        "followup": 2018,
+        "underground_minus_surface_pp": 1.33333,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 100,
+          "positive": 100,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 98.66667,
+          "mines": 83,
+          "positive": 82,
+          "zero": 0,
+          "missing": 1
+        }
+      },
+      {
+        "baseline": 2018,
+        "followup": 2019,
+        "underground_minus_surface_pp": 2.33333,
+        "underground": {
+          "equal_stratum_continuation_pct": 100.0,
+          "mines": 104,
+          "positive": 104,
+          "zero": 0,
+          "missing": 0
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 97.66667,
+          "mines": 83,
+          "positive": 81,
+          "zero": 0,
+          "missing": 2
+        }
+      }
+    ],
+    "2019_change_in_gap_missing_outcome_bounds_pp": [
+      -1.33333,
+      2.33333
+    ],
+    "change_in_gap_pp": {
+      "2017_vs_2016_followup": 0.7619,
+      "2018_vs_2017_followup": 0.0,
+      "2019_vs_2018_followup": 1.0
+    },
+    "leave_one_stratum_out_2019_contrast_range_pp": [
+      -0.34722,
+      2.43056
+    ]
+  },
+  "all_producing_statuses_sensitivity": {
+    "common_strata": 38,
+    "rates": [
+      {
+        "baseline": 2015,
+        "followup": 2016,
+        "underground_minus_surface_pp": 10.65554,
+        "underground": {
+          "equal_stratum_continuation_pct": 84.59291,
+          "mines": 196,
+          "positive": 152,
+          "zero": 2,
+          "missing": 42
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 73.93738,
+          "mines": 295,
+          "positive": 206,
+          "zero": 1,
+          "missing": 88
+        }
+      },
+      {
+        "baseline": 2016,
+        "followup": 2017,
+        "underground_minus_surface_pp": 7.58668,
+        "underground": {
+          "equal_stratum_continuation_pct": 86.43593,
+          "mines": 168,
+          "positive": 143,
+          "zero": 0,
+          "missing": 25
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 78.84924,
+          "mines": 248,
+          "positive": 195,
+          "zero": 0,
+          "missing": 53
+        }
+      },
+      {
+        "baseline": 2017,
+        "followup": 2018,
+        "underground_minus_surface_pp": 5.61092,
+        "underground": {
+          "equal_stratum_continuation_pct": 93.75522,
+          "mines": 166,
+          "positive": 154,
+          "zero": 0,
+          "missing": 12
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 88.1443,
+          "mines": 251,
+          "positive": 218,
+          "zero": 0,
+          "missing": 33
+        }
+      },
+      {
+        "baseline": 2018,
+        "followup": 2019,
+        "underground_minus_surface_pp": 7.9956,
+        "underground": {
+          "equal_stratum_continuation_pct": 85.52133,
+          "mines": 166,
+          "positive": 145,
+          "zero": 0,
+          "missing": 21
+        },
+        "surface": {
+          "equal_stratum_continuation_pct": 77.52573,
+          "mines": 258,
+          "positive": 207,
+          "zero": 0,
+          "missing": 51
+        }
+      }
+    ],
+    "2019_change_in_gap_missing_outcome_bounds_pp": [
+      -26.33437,
+      28.71905
+    ],
+    "change_in_gap_pp": {
+      "2017_vs_2016_followup": -3.06885,
+      "2018_vs_2017_followup": -1.97576,
+      "2019_vs_2018_followup": 2.38468
+    },
+    "leave_one_stratum_out_2019_contrast_range_pp": [
+      0.28697,
+      5.53298
+    ]
+  },
+  "size_weighting": "Equal county-size-cell weight, requiring both methods in all four cohorts; two bands split at 100,000 baseline short tons.",
+  "coverage_before_common_support": {
+    "2015": 351,
+    "2016": 372,
+    "2017": 377,
+    "2018": 380
+  },
+  "identification": "National policy, nonrandom methods, uncertain incidence and taxability, changing export and power demand. Two earlier gap changes and leave-one-area-out range are diagnostics. No policy-level standard error."
+}

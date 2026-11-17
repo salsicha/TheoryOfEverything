@@ -6,7 +6,7 @@ Newton Henry Black and Harvey Nathaniel Davis, *Practical Physics for Secondary 
 
 ## Jacquard portrait
 
-Michel-Marie Carquillat after Claude Bonnefond, produced by Didier Petit et Cie, Lyon, 1839. Silk woven on a Jacquard loom. This edition uses a reduced-size reproduction of the whole portrait. Wikimedia Commons credits the photograph to Bonhams and marks the reproduction as public domain. [Image and rights record](https://commons.wikimedia.org/wiki/File:A_la_m%C3%A9moire_de_J.M._Jacquard.jpg) · [Museum record for the design](https://www.thehenryford.org/collections/explore/artifact/219008)
+Woven by Michel-Marie Carquillat after a painting by Claude Bonnefond, from a pattern drawn on squared paper by J.-L. Moulin. Produced by Didier Petit et Cie, Lyon, 1839, on a Jacquard loom. This edition uses a reduced-size reproduction of the whole portrait. Wikimedia Commons credits the photograph to Bonhams and marks the reproduction as public domain. [Image and rights record](https://commons.wikimedia.org/wiki/File:A_la_m%C3%A9moire_de_J.M._Jacquard.jpg) · [Museum record for the silk](https://www.thehenryford.org/collections/explore/artifact/219008) · [Musée des Tissus record for Moulin’s pattern, MT 25800](https://www.museedestissus.fr/media/expositions/jacquard-point-a-la-ligne/jacquard-point-a-la-ligne_dp.pdf)
 
 ## Lost City vent
 

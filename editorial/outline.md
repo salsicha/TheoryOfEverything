@@ -2,7 +2,7 @@
 
 ## A Material History of Everything
 
-**Current chapter outline:** twelve chapters in three parts, with a prologue, epilogue, and methodological afterword. Chapters 1–3 establish the framework; chapters 4–6 work backward from familiar discoveries through steam engines to the possible assembly of the universe; chapters 7–12 follow human society through collective intelligence, economic self-production, cybernetics, AI as assembly, and productive deployment. All twelve chapters have prose drafts. This outline and the chapter files use the same reading order.
+Twelve chapters in four parts, with a prologue, epilogue, and methodological afterword. Chapters 1–3 introduce the creation cycle. Chapters 4–6 work backward from familiar discoveries through steam engines to the possible assembly of the universe. Chapters 7–9 follow human cooperation into collective knowledge and economic self-production. Part IV, Cybernetics, follows feedback from the acting body into artificial intelligence and the productive systems in which it is put to work.
 
 ## Central argument
 
@@ -18,7 +18,7 @@ This is a hypothesis about effective access, recurring organization, and its aut
 
 **Differentiation, symmetry, and disequilibrium:** within chapter 6, the proposed emergence of definite relations leads to the question of differentiation. Symmetry breaking supplies physical mechanisms once states and interactions are specified. The chapter then distinguishes matter predominance, interaction handedness, dimensions, time, and usable gradients before extending the account to laws and constants.
 
-**Fine-tuning extension:** from this ontological foundation, progressive constraints, stationary principles, symmetry breaking, recursive maintenance, and cumulative assembly could explain apparently coordinated physical conditions as products of development. Chapter 6 joins the foundation and the proposed mechanism in one argument. Derive the parameter relations and their dependence on prior states; do not assume a distribution over independently selected settings.
+**Fine-tuning.** The book proposes that fundamental constants express relations established and sustained by autopoietic physical assemblies. Their values govern which gradients can supply work. Part of that work renews the arrangements that set the values. The stronger claim is that the combinations that endure maximize the sustainable rate of energy extraction among those physically accessible. Chapter 6 asks what it would take to derive one observed value from this history.
 
 Constraints do more than exclude alternatives. They can concentrate search, reduce the cost of a transition, or direct enough existing energy and organized effort toward a barrier to make a costly first assembly viable. A successful assembly can then increase the resources and knowledge available for subsequent transitions.
 
@@ -32,28 +32,7 @@ For social systems, the book synthesizes Marx and Luhmann through cybernetics. M
 
 **Scope:** the creation cycle and its energetic preference are the central hypothesis. The maximum-entropy-production conjecture is a stronger claim requiring additional physical conditions and comparisons. Chapter 2 defines extraction, costs, boundaries, levels, and rates; chapter 3 distinguishes autopoiesis from reproduction; chapter 6 develops the ontological premise. Historical evidence, physical mechanisms, and the synthesis have distinct roles.
 
-**Standard of demonstration:** use natural experiments and explicit causal inference to demonstrate empirical causal arguments. Historical and observational evidence can identify effects without a newly conducted experiment when the comparison and its assumptions are defensible. Each claim must specify the proposed cause, outcome, population or system, time interval, counterfactual comparison, assignment process, competing explanations, and uncertainty. Distinguish an illustration, an association, an identified effect, and a broader causal hypothesis. A historical event is not automatically a natural experiment; mathematical deductions and cosmological origin models require evidence appropriate to their claims. The [afterword](../manuscript/afterword.md) develops this standard. The adoption of a method is not a claim that the manuscript's proposed studies have been completed.
-
-## Empirical research program
-
-Each chapter has an evidence record: proposed natural experiments, a published physical mechanism, a conditional physical bound, or an explicitly unidentified ontological claim. The [research guide](../scripts/README.md) and [machine-readable registry](../scripts/experiments.json) specify assignments, estimands, data requirements, alternative explanations, and possible disproofs. [Generated reports](../scripts/results/summary.md) record what actually ran. These are component tests; some require missing data or stronger identification and must not be presented as completed causal demonstrations.
-
-| Chapter | Candidate comparison | Connection and scope |
-| --- | --- | --- |
-| 1 | Napoleonic blockade and cotton mechanization | Trade restrictions can change the viability of a new assembly; not a general proof that bottlenecks create |
-| 2 | Japan's 2011 disaster and electricity substitution | Closing one pathway redirects production; disaster and policy effects remain entangled |
-| 3 | Kelp collapse after predator loss and heatwaves | Disrupted maintenance can destroy conditions of continuation; ecosystem-level analogue |
-| 4 | Unexpected deaths of leading scientists | Knowledge-network interruption tests dependence of discovery on its supports; does not identify relativity's proposed driver |
-| 5 | South African rural electrification | Accessible energy can change productive participation; modern analogue for pathway formation |
-| 6 | Ontological foundation, granular instability, and Oklo | Distinct evidence levels within one cosmic-assembly argument; origins remain unidentified |
-| 7 | Norwegian compulsory-schooling reform | Socially altered development can affect measured cognition; no identification of ancient genetic self-domestication |
-| 8 | Maimonides' class-size rule | Formal constraints change teaching resources and potentially learning; local threshold effect |
-| 9 | New Jersey minimum-wage change | Wage guarantees and productive participation can be compared; not a complete test of institutional closure |
-| 10 | Daylight-saving transitions and fatal crashes | Maintenance scheduling and regulated performance; does not identify self-modeling or consciousness |
-| 11 | Italy's temporary ChatGPT restriction | Access dependence and substitution; public Tor data are only a secondary proxy |
-| 12 | Strasbourg data-center fire | Infrastructure interruption and computational availability; provider-wide BGP data cannot identify service effects |
-
-Sources S108–S119 support twelve component research designs. Chapter 6 combines the unidentified ontology, the published granular mechanism under S75–S76, and the conditional Oklo bound. The current run contains four primary comparisons, one outcome-only analysis, two secondary diagnostics, one combined published-evidence record, and four cases missing their datasets. Chapters 11–12 still lack primary coding/service panels; chapter 3 still lacks a defensible counterfactual. These results do not validate the universal synthesis. I64 preserves the distinctions.
+The chapters follow physical mechanisms and documented histories, with explicit distinctions between observation, illustration and conjecture. The afterword asks which predictions could distinguish the creation cycle from rival explanations. The separate research companion houses the natural experiments, their methods, datasets and results. [Companion evidence by chapter](../research/evidence.md) · [Causal inference methods](../research/causal-inference.md)
 
 ## Narrative threads
 
@@ -65,11 +44,15 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 **Prologue — The Machine Waiting for Electricity.** Open on the flooded seam and the woven silk. Carry the questions of first fuel and retained skill into the imagined data center, then into the Sudoku puzzle.
 
+**Part I · How Possibility Becomes Actual**
+
 1. **The Square with One Answer.** Follow Sudoku → the flooded mine → new possibilities. A restriction directs work; supported construction yields a pump; increased access can maintain and reproduce the capability; the retained achievement changes the next attempt. Keep the wider philosophy for later chapters.
 
-2. **The Gradient and the Barrier.** Two imagined collieries uncover coal. When a rod breaks, the destination of the surplus determines which can restart. Introduce the energetic and regenerative predictions with a boundary and a clock.
+2. **The Gradient and the Barrier.** Heat passes between hot and cold iron. Follow what changes when that flow can do work, then when its proceeds buy a replacement pump rod. A driven chemical model raises the question of which arrangements persist. The route to the vent leads from a flow of energy to a system able to renew the structures that use it.
 
-3. **Life Makes Its Conditions.** Open on the Argo II watch at Lost City. Follow a modern vent community back to the proposed chemistry of origins, then use the citrate replays to ask how readiness could be known before a lineage succeeds.
+3. **Life Makes Its Conditions.** A camera watch at Lost City reveals a modern vent community. Move from the renewing cell to the timing of life’s origins, then to the Fermi paradox. When could a world first keep this chemistry going, and what would make its inhabitants leave? Follow oxygen into the atmosphere and end with a frozen bacterial lineage that reveals what readiness can depend on.
+
+**Part II · The Physical Argument**
 
 4. **The Discovery That Became Possible.** Read Einstein and Poincaré as a test with a capable rival. Mathematical inheritance can predict overlap. Ask which additional differences in access, timing or retention an energetic account predicts, then turn separately to wave and particle.
 
@@ -77,21 +60,25 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 6. **From Uncertainty to an Assembled Universe.** Ask how an outcome of one history becomes a rule for later things. Follow ontological uncertainty through symmetry breaking and disequilibrium to fine-tuning. End with what a vacuum model supplies as inputs and what an account of assembled laws must derive.
 
-7. **The Species That Changed Its Own Conditions.** Make human development and self-domestication a cycle of changed social constraints, cooperation, provisioning, renewal, and altered developmental conditions. Test how resource access supports the practices that produce it.
+**Part III · Human Society and Collective Intelligence**
 
-8. **The World That Learned to Think.** Read Carquillat’s woven portrait twice, first as a recognizable face and then as a record of thread selections. Follow the rest of the knowledge into the workshop and a handover between weavers.
+7. **The Species That Changed Its Own Conditions.** Richard Lee buys an ox and expects to be thanked. His hosts teach him what a gift of meat can cost the people who accept it. Follow restraint, care and childhood learning into the question of how human communities came to shape their own evolution.
 
-9. **The System That Produces Its Tomorrow.** The loom is ready and wages are overdue. Follow who can claim the cloth’s proceeds through protection, guarantees, economic closure and the Marx–Luhmann argument.
+8. **The World That Learned to Think.** Look for J.-L. Moulin’s signature on the woven portrait. His account of the gridded drawing, his request for credit and his attempt to recover a copy let the reader follow one face through many hands. A fault in the weave reveals what those hands still have to know.
 
-10. **The System That Models Itself.** Follow a stroke of the loom with a broken thread. A card sequence issues commands, a weaver corrects the cloth, and teaching renews the capacity for correction. Extend the distinction to recursive self-modeling and the history of AI.
+9. **The System That Produces Its Tomorrow.** A Lyon weaver is owed forty francs. The widow who owes her agrees, and the money still fails to appear. Follow that failed payment through the guarantees that sustain trade and labor. End in the same council with an apprentice who cannot stay awake.
 
-11. **Why the World Builds Artificial Intelligence.** Start with Lovelace’s account of cards for operations and variables. Compare a powered, waiting model, the acquisition of its parameters and the bounded work it does after a prompt.
+**Part IV · Cybernetics**
 
-12. **The Machines That Build the Next Machines.** Follow a computational design into fabrication, a trial and ordinary service. Bring back the Cornish duty report to test a performance claim, and the workshop to ask who can put a gain back into production.
+10. **The System That Models Itself.** Chapter 9 leaves us with a tired apprentice. Rosenblueth, Wiener and Bigelow offer us a glass of water. Watch what happens when a hand's corrections make it shake harder. Then ask what changes when the person holding the glass can recognize a limit of their own. Follow that question into a game with a partly obscured screen and a historical disagreement about how machines could learn.
 
-**Epilogue — The World That Builds Its Next Question.** Return from the connected data center to a challenged performance claim, the face in silk and the first load raised from the shaft. Who decides what the next shift can build?
+11. **Why the World Builds Artificial Intelligence.** Ada Lovelace catches a mistake in a calculation for a machine that has yet to be built. Nearly two centuries later a language model miscounts the r’s in *raspberry*. Follow the corrections to see what people can teach a machine, what another moment of computation can buy, and which questions require someone to look at the equipment.
 
-**Afterword — What Would Make This a Theory?** Test gradient and constraint jointly, the next level's access capability, autopoietic recurrence, and dialectical further creation. Predeclare hierarchy, boundaries, and occurrence measures. Separate the definition of an energy-enabling assembly from predictions about net gain and sustained production. Include counterexamples to the necessity claim and tests of all three dialectical relations.
+12. **The Machines That Build the Next Machines.** A camera records two plasmas held apart for a fifth of a second. A different learned system helps place circuits on a chip of the kind that trains its successors. Follow the gain into an operating data center and ask the question the Cornish duty report left open. Who gets to decide what the saving buys?
+
+**Epilogue — The World That Builds Its Next Question.** Power reaches the hall. An operator recognizes her own work in the quietest hour of a cooling graph. The question of who paid for the first cart of coal comes back when the crew can spend the saving on two people sharing a shift.
+
+**Afterword — What Would Make This a Theory?** Distinguish the definition of assembly from predictions about renewal, energy access and further creation. Consider rival mechanisms, the conditions under which the proposed connection fails, and physical models that could yield a new observable consequence.
 
 ## Prologue — The Machine Waiting for Electricity
 
@@ -101,13 +88,13 @@ Open with a flooded seam that cannot pay for its own first firing, then the port
 
 State the full thesis early, including the natural emergence of AI and data centers and the probable assembly of the universe and fundamental constants. Then introduce the possibility that computation can help redesign the productive system that supports it. The machine becomes an entry into a larger question: how does the world build capacities that change what it can build next?
 
-Promise the inquiry through living organization, the formation and transformation of pathways, economic self-production, discovery, human society and intelligence, and AI, ending with the physical conditions that make the entire history possible. Close with the author's encounter with constrained search in Sudoku.
+Let the unpaid cartload and the light woven through a curtain carry the argument. The engineer’s cooling question brings the two promises of a machine together. Move from the possibility of historically assembled laws to cybernetic self-modeling. Leave the data center awaiting power and end at the Sudoku grid just before the solver makes its first move.
 
 ## Part I — How Possibility Becomes Actual
 
 ### 1. The Square with One Answer
 
-**Current material:** [chapter1](../manuscript/01-the-square-with-one-answer.md). **Ideas:** I70, I05, I63, I69. **Sources:** S01, S04, S108, S120.
+**Current material:** [chapter1](../manuscript/01-the-square-with-one-answer.md). **Ideas:** I70, I05, I69. **Sources:** S01, S04, S120.
 
 **Question:** Do bottlenecks help in creation?
 
@@ -120,57 +107,39 @@ Promise the inquiry through living organization, the formation and transformatio
 3. Move to the illustrative flooded mine. Drainage makes further extraction possible and defines the useful work a pump must perform. Follow available components, workshop skills, trials, and support for an imperfect first machine. Keep the detailed industrial comparison for chapter 5.
 4. Let the pump succeed. Follow changed access to coal, operating experience, repair skills, and reusable components into the different starting conditions for the next attempt. Define creation through the new capacity gained.
 5. Follow the energetic return in the mine: additional access may support repairs and repeated construction. Preserve the focused story and keep ontology and dialectical terminology for later chapters.
-6. Compare mines with adequate drainage, a limiting drainage problem and resources to respond, and flooding that exhausts the means to act. Distinguish a bottleneck that directs supported invention from a dead end or the use of an existing solution. Briefly explain why historical comparisons must include failures.
+6. Compare mines with adequate drainage, a limiting drainage problem and resources to respond, and flooding that exhausts the means to act. Distinguish a bottleneck that directs supported invention from a dead end or the use of an existing solution. Keep the shaft that floods in view alongside the one that gains a pump.
 7. Return to the square: its answer depends on the existing board, while the mine's response has to be constructed. Trace the steps from a limiting dependency through supported work to a retained capability. End with the water still needing to be lifted, leading directly to chapter 2's account of what supplies the work.
-
-**Causal demonstration:** Distinguish the logical Sudoku illustration from the empirical effect of a bottleneck on invention. Seek independently explained changes in restrictions and resource allocation; include blocked and unsuccessful cases. The opening chapter introduces the common standard. See I63 and the afterword for the shared identification standard.
 
 **Transition:** A bottleneck may concentrate search or direct effort, but it does not supply that effort. The next chapter examines disequilibrium and the physical work needed to realize a new pathway.
 
 ### 2. The Gradient and the Barrier
 
-**Current material:** [chapter2](../manuscript/02-the-gradient-and-the-barrier.md). **Ideas:** I70, I71, I69, I07–I09, I41–I42, I53. **Sources:** S07–S08, S56, S68, S128.
+**Current material:** [chapter2](../manuscript/02-the-gradient-and-the-barrier.md). **Ideas:** I70, I71, I69, I07–I09, I41–I42, I53. **Sources:** S02, S04, S07–S08, S33, S68, S126, S128, S130.
 
-**Question:** Why does an available difference sometimes generate a new pathway and sometimes remain inaccessible?
+**Question:** What lets an available energy difference do work, and what makes the capacity to do it last?
 
-**Argument:** The creation cycle proposes an energetic advantage acting through renewal and reproduction. Specify the next level and its access mechanism, then test net returns and recurrence with costs and boundaries fixed in advance. Explain why support for a transition and support for continued operation are distinct; investigate quantity into quality at a specified threshold. Walk the two collieries through a broken rod and one year of repair accounts.
+1. Bring hot and cold iron together. Follow the heat as the temperature difference falls and consider what changes if the flow can drive a machine.
+2. Follow a stroke from the hot boiler to the water below ground. A better-fitting piston can make the same firing lift more water. Cheap fuel can buy a crew time to learn how to make a better piston.
+3. Give two imagined collieries identical pumps and the same first sale. Follow one payment to a spare rod, then let a rod break at each mine. The price of delay changes when water covers the seam.
+4. Return to the hot and cold iron. Follow the same heat input down two routes, one of which lifts a weight. Show why a claim about maximum entropy production depends on the boundary and the available routes.
+5. Use a driven chemical model to show how earlier interactions can change which arrangements persist under a continuing supply. Ask what a system can maintain through the flows it makes accessible.
 
-**Narrative mechanism (S126):** Use driven reaction networks to show how physical dynamics can favor unusual configurations. Retain both strong- and weak-coupling outcomes and compare trajectories under specified forcing.
-
-1. Use hot and cold bodies, followed by sustained reservoirs, to introduce gradients, flow, and equilibration.
-2. State the clarified creation cycle: both gradient and constraint, next-level energy access, autopoietic recurrence, and all three dialectical principles. Distinguish qualifying capabilities from measured net returns. Use pumping rates to make quantity into quality concrete.
-3. Specify energy, useful work, power, and entropy production through the existing reservoir examples. State where maximizing one quantity does and does not imply maximizing another.
-4. Present maximum entropy production as a rate-selection proposal beyond the second law alone, using the research identified in the notes and source ledger.
-5. Distinguish three routes across a transition: lower a barrier, direct more resources toward crossing it, or assemble a different pathway. Separate construction costs from the cost of continuing operation.
-6. Use the existing infrastructure example briefly to show why installed equipment and potential energy do not establish an accessible flow.
-
-**Causal demonstration:** Specify physical boundaries, forcing, rates, and timescales. Compare the maximizing prediction with alternative dynamics under observed or experimentally varied conditions. An energy-using system is not itself evidence of a maximum; keep laboratory findings and the cross-domain extension distinct. See I63 and the afterword for the shared identification standard.
-
-**Transition:** Living systems make and repair some of the structures through which their own flows continue.
+**Transition:** At a hydrothermal vent, rock and water supply an energy difference. A living cell has also to renew the structures that let it use that difference.
 
 ### 3. Life Makes Its Conditions
 
-**Current material:** [chapter3](../manuscript/03-life-makes-its-conditions.md). **Ideas:** I75, I74, I72, I70, I69, I06, I12–I15, I31, I33, I42, I54. **Sources:** S145, S02–S03, S07, S19, S32–S34, S55, S58, S123–S124, S129, S131–S135, S140–S144.
+**Current material:** [chapter3](../manuscript/03-life-makes-its-conditions.md). **Ideas:** I77, I75, I74, I72, I70, I69, I06, I12–I15, I31, I33, I42, I54. **Sources:** S145, S02–S03, S07, S19, S32–S34, S55, S58, S123–S124, S129, S131–S135, S140–S144, S151–S152.
 
-**Question:** What changes when an assembly contributes to producing the conditions of its own continuation?
+**Question:** What changes when an assembly helps make the conditions of its own continuation?
 
-**Argument:** Assembly inherits a constrained set of pathways from earlier material organization and formal relations. The hypothesis predicts prompt formation when the required hierarchy and usable-energy coupling are available; it does not infer origin probabilities by counting imagined complete organisms. Greater energy access can support repair and reproduction through identified biological operations. Autopoiesis renews the individual organization; reproduction carries capacities into further individuals. Organisms change the environment that constrains later assembly, making the return endogenous.
+1. Join the Argo II watch over the Atlantis Massif and the subsequent Alvin dive. Follow the carbonate chimneys from an image on a screen to an ecosystem supplied by rock and water. [S145](../research/sources.md#s145) · [S143](../research/sources.md#s143)
+2. Move inside a living cell. Follow the linked work of making components, keeping a boundary and replacing losses. Distinguish the renewal of an individual from the production of descendants and from the question of how life began.
+3. Ask when the young Earth could have sustained such chemistry. Give the evidence for liquid water, early life and the modeled window for persistent RNA chemistry their respective roles. Explain the vent-origin hypothesis and the work a chemical gradient might do along a constrained pathway. [S131](../research/sources.md#s131)–[S135](../research/sources.md#s135) · [S140](../research/sources.md#s140)–[S144](../research/sources.md#s144)
+4. Ask who would make the crossing between stars. Put the late-chemistry hypothesis beside ancient small planets, then follow what a probe can send home, what a settlement must renew, and how a failing home star changes the return. [S151](../research/sources.md#s151) · [S152](../research/sources.md#s152)
+5. Widen the boundary to the changes living systems make in their surroundings. Follow oxygen through the sinks that consume it and the atmosphere that later organisms inherit. What one generation does can change the conditions for the next.
+6. Follow the citrate-using lineage in Lenski’s long-running laboratory study. The resource was present even in the eleven populations still unable to use it. The frozen record brings inherited capability into the explanation.
 
-**Narrative mechanism (S123–S124):** Introduce collectively catalytic networks through an ingredient-and-catalyst example. Distinguish feasible production from replacement fast enough to withstand losses.
-
-1. Join the camera watch over the Atlantis Massif, then the Alvin dive. Move from the carbonate towers to the renewing cell. [S145](../research/sources.md#s145)
-2. Explain collectively catalytic networks and maintenance thresholds, separating structural feasibility from adequate reaction rates.
-3. Examine early-life chronology and I72's constrained-accessibility argument. Define readiness independently; distinguish prompt-formation predictions from observed origin dates.
-4. Develop Smith and Morowitz's energetic hypothesis through a vent ecosystem, chemically constrained metabolism, and a controlled reaction. Separate optimal-channel conjecture, field observation, and laboratory evidence; preserve the missing steps to living renewal. [S140](../research/sources.md#s140)–[S144](../research/sources.md#s144)
-5. Introduce assembly theory as an account of construction histories and retained combinations, alongside its measurement limits and critics.
-6. Follow oxygen production through environmental change and niche construction. A successful activity can transform conditions for later activity.
-7. Connect greater usable-energy access to renewal and offspring through distinct operations. Identify the higher organization and its costs before comparing returns.
-8. Set the eleven other populations beside the one that gains access, then follow the replay evidence. Ask what an independent test of readiness would require at a vent.
-9. Identify what remains to be established between evolutionary retention and the proposed wider energetic tendency.
-
-**Causal demonstration:** Retain the causal leverage of the existing evolution experiments and distinguish it from observational evidence. Identify how changed conditions alter assembly or renewal; do not generalize a laboratory effect into a universal driver without further comparisons. The vent reaction is a published controlled experiment, not a newly run natural experiment. [S144](../research/sources.md#s144) See I63 and the afterword for the shared identification standard.
-
-**Transition:** Begin the physical argument with familiar discoveries. Ask why related answers become accessible along different paths and why reaching them can require reconstructing inherited concepts.
+**Transition:** Human investigators inherit a world in which the work of earlier investigators has also changed what is accessible. Turn from the emergence of a capacity to the convergence of discoveries.
 
 ## Part II — The Physical Argument
 
@@ -178,24 +147,19 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 
 ### 4. The Discovery That Became Possible
 
-**Current material:** [chapter4](../manuscript/04-the-discovery-that-became-possible.md). **Ideas:** I70, I71, I69, I50–I52, I56. **Sources:** S65, S67, S130.
+**Current material:** [chapter4](../manuscript/04-the-discovery-that-became-possible.md). **Ideas:** I70, I71, I69, I50–I52, I56. **Sources:** S65, S67, S127, S130, S147.
 
 **Question:** Could convergent discovery and dialectical reconstruction be expressions of the same disequilibrium-driven process?
 
-**Argument:** Ontological uncertainty is proposed as the basis for revisable categorical oppositions. Interpenetration and negation of the negation organize the conceptual question; quantity into quality directs attention to the physical transitions enabling new capabilities. Trace support, formation, correction, retention, and the possible energetic return through the wider research organization. Compare the timing of mathematical correspondence, instrument access and specific tests. Specify what would favor the mathematical explanation.
+**Argument:** Ontological uncertainty is proposed as the basis for revisable categorical oppositions. Interpenetration and negation of the negation organize the conceptual question; quantity into quality directs attention to the physical transitions enabling new capabilities. Trace support, formation, correction, retention, and the possible energetic return through the wider research organization. Let the two papers show where the inherited mathematics narrows the field and where the broader energetic account remains a conjecture.
 
 **Narrative mechanism (S127):** Use search theory to ask which inherited observations and representations make inquiry non-arbitrary. Connect conceptual reconstruction to changed search without deriving its physical cause from convergence alone.
 
-1. Begin with familiar ideas from relativity and wave–particle discussions, keeping their distinct histories clear. Use Poincaré and Einstein in 1905 as the bounded convergence case: overlapping problems and distinct approaches, rather than identical independent discoveries.
-2. Develop the apparent improbability of duplicate solutions in an enormous search space. Use the matching-probability model to show why concentrated searches differ from uniform random sampling.
-3. Ask what physically produces and sustains this concentration: training, instruments, experimental expenditure, mathematical representations, communication, and retention. These are the proposed mechanisms connecting the energetic history to inquiry.
-4. Define conditional convergence through a specified class of outcomes, interval, and counterfactual loss of an individual discoverer. Historical proximity alone does not prove it.
-5. Explain the proposed ontological uncertainty of categorical opposition through interpenetration of opposites, negation of the negation, and quantity into quality. Distinguish this interpretation from formal double negation, Einstein’s own vocabulary, and evidence uniquely identifying the ontology.
-6. Explain conceptual reconstruction through relativity, then the distinct wave/emission discussion. Develop negation of the negation as the book's interpretation of preserving successful relations while replacing an inadequate exclusivity.
-7. Join the two puzzles: constraints that expose an inherited framework's limits also restrict possible successors. Investigate the proposed common energetic cause without equating a conceptual contradiction with a temperature difference.
-8. State what could discriminate this explanation from accounts that stop at shared tools or institutions. Include failed discoveries, delayed transitions, and cases where more expenditure produces less knowledge.
-
-**Causal demonstration:** Investigate historical variation in research support and access whose assignment can be defended independently of discovery prospects. Address communication spillovers and comparable failed lines. Simultaneous publication does not identify energetic causation or prove counterfactual inevitability. See I63 and the afterword for the shared identification standard.
+1. Read Poincaré’s June note and Einstein’s June paper side by side. Use a train, a clock and the travel time of a signal to make the two routes into the problem legible.
+2. Go back to the stone slab Michelson and Morley floated on mercury. Follow the grant, mirrors and slow rotation that made a nearly stationary stripe mean enough to trouble Poincaré years later.
+3. Ask how two searches could converge in June 1905. Which results did the available evidence make likely? Which decisions still depended on who was asking? Give shared mathematics and shared error their due.
+4. Turn from motion to the distinct problem of radiation. Follow Einstein’s account of waves and quanta into the image built by single electron arrivals. Read the three dialectical principles through what the observations force a successor theory to retain.
+5. Follow the argument back into hardware. A navigation clock can embody a relation developed on paper. What does the instrument reveal about the physical cost and return of discovery, and what can its accuracy alone establish?
 
 **Transition:** Work backward from familiar discoveries to the steam engine. Use the more tangible relationship among existing resources, a costly first machine, and changed access to energy to examine the mechanism before extending it to the universe.
 
@@ -209,56 +173,43 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 
 **Narrative mechanism (S60):** Follow reusable valves, parts, skills, and repairs into later construction. Separate support for an inefficient first machine from the reduced search cost of an inherited repertoire.
 
-1. Open with a flooded mine: coal can support a pump, but the additional coal cannot supply the work that first builds and operates it. Make the transition problem explicit.
-2. Distinguish a slow pathway, an unsupported workable design, and an assembly not yet available. Separate changed routes from increased expenditure and construction costs from continued operation.
-3. Follow construction, operating threshold, energetic return, repair, and successor construction as one complete cycle. Compare the higher mine-and-pump organization with its precursor rather than ranking boiler consumption.
-4. Explain joint material and Platonic constraints through operating relations, materials, tolerances, and manufacturing. Show how each changes the practical scope of the other.
-5. Use Newcomen as the main case of a setting able to support an inefficient first assembly. Develop the causal sequence from prior resources through pumping to changed fuel access and further construction.
-6. Examine Allen's England–China comparison and Humphries's objections at the scale of actual inputs and participants. Use the kiln comparison narrowly to show how relative constraints favor different design families.
-7. Follow Watt into Cornish metal mining. Introduce Joel Lean’s reporting system, the disputed September figure at Fowey Consols and the October 1834 trial. Separate work per bushel, sustained drainage and a surplus reaching repair. [S146](../research/sources.md#s146)
-8. Condense storage into the mechanism of support across delayed returns, using the Dhraʿ evidence and an explicitly illustrative channel. Condense ammonia into the distinction between a changed chemical route and the energy and apparatus needed to operate it.
-9. State what would test the maximizing claim: specified flows, alternatives, transition costs, failed attempts, and a defined interval. Connect the material mechanism back to chapter 4's discovery puzzle, then identify the physical laws and conditions the engine still inherits.
-
-**Causal demonstration:** Seek a natural experiment in fuel access or support for costly trials, with assignment, pre-change trajectories, alternative causes, and operating outcomes documented. England–China motivates the question but is not itself an identified experiment. Separate adoption from net extraction and entropy-production effects. See I63 and the afterword for the shared identification standard.
+1. Open at the public trial of Austen’s engine at Fowey Consols in October 1834. A component of one pump breaks while witnesses are counting the work. Why were they there to count it in the first place? [S146](../research/sources.md#s146)
+2. Rewind to the early Newcomen engine. Follow the steam, the weight of the atmosphere, the beam and the water. The first firing draws on fuel the mine can already reach. A seam becomes workable once the pump can keep the water below it.
+3. Ask who could afford to run an inefficient machine long enough to improve it. Use Allen’s account of fuel and labor prices, his English and Chinese kilns, and Humphries’s account of whose labor enters the comparison.
+4. Follow Watt’s separate condenser into Cornish metal mining. Coal costs money to bring in. Joel Lean’s reports let one engine crew see what another can do with a bushel and ask how it was done.
+5. Return to the broken pump and the witnesses’ arithmetic. Separate the work a bushel bought on the trial from the daily work of keeping a mine open. Ask what had to reach the people who could repair the machine or build its successor.
 
 **Transition:** The engine makes the proposed mechanism tangible while inheriting matter, gradients, and physical laws. Could the same principles have built the universe itself and determined its fundamental constants?
 
 ### 6. From Uncertainty to an Assembled Universe
 
-**Current material:** [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md). **Ideas:** I73, I72, I70, I71, I02–I04, I31, I40–I42, I54, I56, I66–I69. **Sources:** S05, S07, S20–S29, S33, S75–S78, S113, S121, S130, S136–S139.
+**Current material:** [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md). **Ideas:** I73, I72, I70, I71, I02–I04, I31, I40–I42, I54, I56, I66–I69. **Sources:** S05, S07, S20–S29, S33, S75–S78, S121, S130, S136–S139.
 
 **Question:** How could an ontologically uncertain reality acquire definite structure, develop asymmetries and gradients, and assemble the coordinated conditions described as fine-tuning?
 
 **Argument:** Indeterminacy is the proposed foundation beneath repeated creation. Categorical oppositions can be reorganized; quantitative changes can enable qualitative transitions through specified dynamics. Metastable retention supplies a candidate route from formation to enduring physical conditions. Distinguish retained physical conditions from the autopoietic recurrence required by the full cycle. The cosmic extension must explain gradients, relations, and ordering rather than import a completed energetic cycle. Keep returning to a single question. How does an outcome become a rule? Use the assumed vacuum potential to locate the limit of the explanation.
 
-**Narrative mechanism:** Follow the chain from indeterminacy to definite relations, then through magnets, shaken grains, and reaction patterns to cosmic asymmetries and gradients. The coin in the bowl introduces conditions with histories; stability and correlated parameter development then sharpen the fine-tuning argument. Keep mathematics in explanatory examples and source notes.
+**Narrative mechanism:** A coin appears over the rim of a bowl when water changes the path of its light. Return to the distinction between the condition the pour created and the physical regularity the demonstration assumes.
 
-1. Begin with the engine's inherited physical world and the premise of ontological uncertainty. Distinguish constitutive indeterminacy from missing information, statistical distributions, and a structured quantum vacuum.
-2. Explain the philosophical rejection of absolute nothingness and the proposed emergence of material realizations and formal relations together. Identify the ordering problem if time itself is assembled.
-3. Develop I71’s ontological interpretation of dialectics within I70’s cycle. Distinguish stability, autopoiesis, and reproduction; require the cosmic extension to derive gradients, temporal ordering, and the relevant comparisons.
-4. Move from the emergence of definite structure to differentiation. Explain why a symmetric description can permit an asymmetric realization, while specifying the further dynamics needed for an instability.
-5. Use magnetization, the shaken-grain experiment, and Turing patterns to distinguish stable balance from growing disturbances. Explain exchange rates, dissipation, and the conditions under which balance remains stable.
-6. Distinguish the Higgs mechanism, parity violation, CP violation, baryogenesis, and matter–antimatter distributions. Treat dimensions and the temporal arrow as further questions about physical history.
-7. Develop I73 through decoherence, vacuum barriers, and conditional quantum Zeno suppression. Connect retained field configurations to fundamental assembly while distinguishing them from the origin of laws and constants.
-8. Explain why asymmetry, a usable gradient, positive entropy production, and a maximum production rate require different physical claims. Investigate the origin of gradients and the low-entropy past.
-9. Use the coin in the bowl, stationary action, and effective theories to show how a condition can be physically real and have a history. Separate stationary principles from foresight and from entropy maximization.
-10. Develop fine-tuning from the ontological foundation through progressive constraints, symmetry breaking, recursive maintenance, and cumulative assembly. Distinguish sensitivity calculations from justified probability distributions and examine dependent parameter values.
-11. Use attraction and the relaxion to explain what a developmental model must specify: changing quantities, restoring or stopping mechanisms, reachable outcomes, and sensitivity to prior conditions. Address circularity and displaced fine-tuning.
-12. Apply the Oklo constraint only to specified later changes in constants. Close by reconnecting the full sequence to the human capacity to investigate it.
+1. Begin with the coin, then ask whether any of the physical conditions the engine and the bowl inherit could themselves have acquired a history. State ontological indeterminacy as the book’s premise and explain why absolute nothingness and a quantum vacuum pose different questions. Consider how one condition can depend on another if time itself is at issue.
+2. Follow 600 shaken beads between identical compartments. Why does an accidental excess sometimes disappear and sometimes grow? Connect the change at the threshold to the dialectical argument and identify what supplies the energy.
+3. Carry the question of symmetry to the weak interaction, Wu’s mirror test and the cosmic excess of matter. Distinguish an asymmetric state from an asymmetric law. Ask what must change physically to explain an excess of matter, the number of dimensions or a temporal arrow.
+4. Ask where usable gradients came from. Distinguish the tendency toward equilibrium in a particular process from the stronger conjecture that assemblies favor the largest accessible rate of entropy production.
+5. Follow the fate of competing vacuum states. Decoherence can affect how long a metastable state persists. Identify what the model assumes about the states and the barrier. Contrast a persistent field with a cell that can rebuild its own boundary.
+6. Return to the path of light through the bowl, then to two dials whose needles share a shaft. Their dependence explains why they agree. What fixes their reading? Give the book's fine-tuning hypothesis here. The interactions that set the constants route work back into their own renewal, favoring the combination of values that maximizes sustained energy extraction. Ask what this would have to explain about the cosmological constant. Use the relaxion to illustrate the narrower achievement of giving a physical scale a dynamical stopping point.
+7. Remove the water a spoonful at a time until the coin disappears. Ask what present observations could distinguish one physical history of the vacuum from another. Carry the question of inheritance into a child’s first lessons in who gets a share of the food.
 
 **Early-life comparison:** Chapter 3 proposes that inherited material supports and formal constraints can make self-renewing chemistry promptly accessible. Distinguish this readiness hypothesis from a measured origin probability and from evidence about the formation of laws.
 
-**Evidence:** The [combined report](../scripts/results/chapter06.json) preserves three distinct records: the unidentified ontological foundation, the published granular mechanism without a new raw-data fit, and the conditional published Oklo bound. None independently identifies cosmic assembly. S136–S139 add published theory and its limits to the chapter, without adding a new empirical result to that report.
-
 **Transition:** Turn from the proposed formation of physical conditions to the human communities whose care, cooperation, restraint, and learning make those conditions intelligible.
 
-## Part III — Human Society and Artificial Intelligence
+## Part III — Human Society and Collective Intelligence
 
-Follow the physical hypothesis into the development of people, collective competence, economic self-production, self-modeling, and AI. Keep human development and collective intelligence adjacent, then explain the material support and regulation through which their capabilities continue and change.
+A guest brings meat, a draftsman turns a face into a set of instructions, and a weaver asks for her earnings. In each case, follow what the recipient actually gets. Food can buy the time to learn a skill. A drawing can carry part of that skill into another workshop. A worker can have a recognized claim on the cloth she made and still go home empty-handed.
 
 ### 7. The Species That Changed Its Own Conditions
 
-**Current material:** [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md). **Ideas:** I70, I69, I13, I19, I31, I34–I39, I44, I46–I49, I53–I54. **Sources:** S13, S15, S33, S35, S42, S51, S59, S69–S74.
+**Current material:** [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md). **Ideas:** I70, I69, I13, I19, I31, I34–I39, I44, I46–I49, I53–I54. **Sources:** S13, S15, S33, S35, S51, S69–S74, S153.
 
 **Question:** How can a community reproduce the capacities of its members while changing the conditions under which later members develop?
 
@@ -266,49 +217,34 @@ Follow the physical hypothesis into the development of people, collective compet
 
 **Narrative mechanism (S123–S124):** Map the dependencies among care, provisioning, practice, and teaching. Distinguish an immediate loss of learned capability from evidence of biological selection.
 
-1. Open with the explicitly imagined shared food return. Show why a successful undertaking depends on what happens to its proceeds, then connect repeated cooperation to the renewal of a community.
-2. Introduce autopoiesis and the distinction between maintaining an organization and changing its constraints. Identify external energy and materials, provisioning, care, teaching, and recognized obligations. Separate biological reproduction, genetic selection, individual learning, and social regeneration.
-3. Trace whether additional collective resource access reaches care, teaching, renewal, and subsequent undertakings. Specify the higher social organization and its possible failures.
-4. Develop self-domestication through the distinction between reactive and proactive aggression. Examine coalitionary execution as a proposed selective mechanism, keeping prehistoric rates and genetic consequences unestablished. Collective restraint can change the consequences of individual strength without eliminating planned violence.
-5. Give shared care and costly learning a central role. Follow an illustrative learner through support, practice, acquired competence, and the ability to teach or revise a practice. Explain how intelligence becomes effective through an assembled developmental environment.
-6. Compare the neural-crest proposal, criticisms of a general domestication syndrome, and socially shaped emotional control. Preserve alternative mechanisms and avoid deriving all human intelligence from reduced aggression.
-7. Clarify chronology: early Homo sapiens, multiple dispersals, environmental constraints, and agricultural transitions are different events. Reject a finished mind waiting passively for history and a single date for the origin of society.
-8. Make joint material and Platonic change explicit through sharing rules, recognized contributions, support for learning, and access to stores. Formal relations have physical consequences through embodied practices that must be renewed and can be revised.
-9. Connect the cycle to chapter 5: existing food, time, and protection carry costly intermediates before a return. Separate cheaper coordination from increased support for difficult learning; follow the later capacity into changed productive possibilities without equating it automatically with maximum entropy production.
-10. Develop the dialectical consequence. Collective restraint can become concentrated power; conformity can preserve competence and suppress correction. Ask how a successor preserves cooperation while changing the authority or rule obstructing development.
-11. Keep electrification and the technological combination and lock-in models as brief comparisons. Their role is to clarify preservation through transformation, without making the factory the main story or treating a technological model as evidence of human biological selection.
-12. Compare the operations that renew learning and correction with those that maintain only current output. Specify interruptions, reserves, substitutes, boundaries, and rival explanations before judging the outcome.
-13. Return to the food-sharing group with the causal sequence explicit: social capacities create arrangements; those arrangements shape development and possibly selection; changed capacities alter the organization again. End with the teaching, tools, and shared practices through which those capacities can accumulate beyond one individual.
-
-**Causal demonstration:** Separate cooperation, cultural retention, developmental support, and genetic selection. Evaluate independently explained changes in exposure where records allow; address climate, migration, demographic differences, and preservation. A later social effect cannot automatically identify prehistoric self-domestication. See I63 and the afterword for the shared identification standard.
+1. Join Richard Lee at a Christmas feast in the Kalahari. He has chosen a large ox. His hosts insist he has bought a disappointment. Follow the difference between giving people meat and acquiring a claim on the people who eat it.
+2. Use this encounter to pose the self-domestication hypothesis. Separate the sanction a community can impose in a lifetime from selection over many generations. Set the proposal about reduced reactive aggression beside organized coercion, learned self-control and shared care.
+3. Among Hadza foragers, follow the older child who holds an infant while the mother digs. Among BaYaka children, follow six-year-old twins selecting mushrooms as a younger girl watches, then an adolescent distributing meat. Ask who feeds the child while she learns what to gather and whom to feed.
+4. Connect care and learning to collective energy access. A meal, the rule for dividing it and time for another attempt together give a community access to food that isolated individuals might miss. Someone still has to receive enough of the return to learn or teach again.
+5. Give each historical question its own clock. Early *Homo sapiens*, movements out of Africa and the transition to farming left different records. Bring the reader back to the scale at which one can see a capacity becoming another person’s inheritance.
 
 **Transition:** The social conditions that shape human development also make transmission possible. The next chapter follows individual capacities into a collective competence that can accumulate across lives.
 
 ### 8. The World That Learned to Think
 
-**Current material:** [chapter8](../manuscript/08-the-world-that-learned-to-think.md). **Ideas:** I70, I69, I34, I38, I47, I54. **Sources:** S147, S12, S53.
+**Current material:** [chapter8](../manuscript/08-the-world-that-learned-to-think.md). **Ideas:** I70, I69, I34, I38, I47, I54. **Sources:** S12, S53, S125, S147.
 
 **Question:** How can limited individual minds participate in a system of competence that no one mind contains?
 
 **Argument:** The higher assembly is a community capable of preserving and combining competencies. Greater effective access is proposed to sustain the learners, instruments, and teaching that reproduce that capacity. Test the material return separately from a learning score or a component’s energy saving.
 
-**Narrative mechanism (S125):** Use a technician and workshop records to distinguish useful predictive memory from sheer data volume or randomness. Ask which retained distinctions improve action.
+**Narrative mechanism:** Look for the keepers of a single piece of knowledge in the portrait, the squared drawing, the card chain and the people who can diagnose a spoiled passage of cloth.
 
-1. Start with the seated figure in Carquillat’s silk. Inspect a single crossing of thread and ask where the decisions that made it were kept.
-2. Distinguish biological inheritance, individual development, and cultural transmission. Connect them to the support for learning established in chapter 7 and develop the collective mechanisms anticipated by chapter 4's account of concentrated scientific search.
-3. Trace painter, weaver, card sequence, compatible loom and materials. Imagine inheriting the entire chain and having to make the portrait again. [S147](../research/sources.md#s147)
-4. Define the higher assembly as retained collective competence and follow its energetic consequences back to learners, instruments, and teaching. Keep the class-size result a component comparison.
-5. Give the apprentice a pale streak in a woven cheek to diagnose. Observe what the reference cloth preserves and what the teacher can demonstrate.
-6. Follow standards and communication into authority. Conformity can preserve useful procedures while suppressing warnings or concentrating error.
-7. Connect accumulated knowledge to production through the general-intellect discussion. Specify how knowledge becomes usable and who can direct its use.
-
-**Causal demonstration:** Investigate changes in access to teaching, records, and communication with defensible comparison groups. Track retained competence and productive consequences separately; knowledge spillovers can compromise group comparisons. See I63 and the afterword for the shared identification standard.
+1. Read the woven credits and visit Babbage’s copy of the portrait, which artists mistook for an engraving. Then meet J.-L. Moulin through his correspondence with the Lyon textile museum. Trace Claude Bonnefond’s painting into a brown wash on ruled paper, a pattern that can be counted and a face Carquillat can weave. [S147](../research/sources.md#s147)
+2. Follow a card through the loom. Its order preserves the selection for another crossing. Consider what its successor does when the last crossing has gone wrong.
+3. Give an apprentice access to the cards, a reference cloth and an experienced weaver. Use a visible fault to distinguish repeating a pattern, recognizing a fault and discovering what to change. Who can afford to stop the loom for long enough to teach that distinction?
+4. Return to the drawing. Moulin had to ask to borrow his own work. Even with four draftsmen, the available time determined how much could be copied. Use the fate of the pattern and its maker’s name to connect collective competence to ownership, credit and the power to give another person access.
 
 **Transition:** Collective competence requires continuing support for people, tools, and learning. The next chapter examines the economic claims and operations that organize this support, and when their regenerative closure can fail or change.
 
 ### 9. The System That Produces Its Tomorrow
 
-**Current material:** [chapter9](../manuscript/09-the-system-that-produces-its-tomorrow.md). **Ideas:** I70, I71, I69, I20–I27, I31, I48–I49, I53, I65. **Sources:** S09–S11, S33, S45, S60, S79–S86.
+**Current material:** [chapter9](../manuscript/09-the-system-that-produces-its-tomorrow.md). **Ideas:** I70, I71, I69, I20–I27, I31, I48–I49, I53, I65. **Sources:** S09–S11, S33, S45, S60, S79–S86, S154.
 
 **Question:** Which operations regenerate an economic organization, and when does that reproduction transform or undermine the conditions sustaining it?
 
@@ -316,20 +252,18 @@ Follow the physical hypothesis into the development of people, collective compet
 
 **Narrative mechanism (S124):** Make closure operational through feasible replenishment, losses, reserves, and substitutes. Apply those questions to the wage interruption and the feudal/union comparison.
 
-1. Open with a hypothetical weaving payroll. Follow wages, silk, sale and creditor claims into the next run or its interruption.
-2. Trace production, receipts, provisioning, maintenance, and renewed commitments. State the boundary, external energy and material inputs, and dependencies on households, suppliers, care, and public systems.
-3. Use interdependent production and guarantees to develop the dialectical return. Identify measurable changes and an institutional viability threshold; trace energy gains through provision rather than equating them with revenue.
-4. State the synthesis of Marx and Luhmann through cybernetics explicitly. Follow both directions: material activity sustains communication, while distinctions and recognized obligations direct material activity. Use the wage interruption and its reported consequences to show feedback preserving or changing formal relations. Present one jointly material and Platonic system; retain the differences among biological autopoiesis, social reproduction, and regulation.
-5. Put ideology and reification inside self-production: historically produced relationships can appear as independently existing powers or natural necessities. Explain materially sustained institutions through their operations, distinguishing false ideological representations from the real effects of embodied ideas and formal relations.
-6. State the compressed money–tax–war–protection argument, then develop its recurrent operations. Use Tilly and the chartalist mechanism with their scopes explicit; distinguish demand for currency to pay taxes, issuance, settlement, bank-created deposits, and a universal claim about monetary origins.
-7. Trace changing labor relationships and guarantees through the feudalism–union comparison. State the functional account of labor unions as mutual protection pacts. Begin with Fulbert's reciprocal duties; examine the 1349 English labor ordinance, the 1824 Act, and the 1871 parliamentary account of union benefits and assistance reaching work. Distinguish declared obligations, enforceable claims, and delivered protection. Develop the hypothesis that particular feudal relations failed when their regenerative closure broke, testing compensation and transformation rather than assigning a single cause or end date to all feudalism. Preserve differences in hierarchy, membership, coercion, and the ability to refuse.
-8. State the hypothesis that capitalism remains dominant while it delivers jobs and affordable goods. Explain how material delivery reproduces participation, capacities, and dependence, while testing whose employment and necessities are secured. Growing markets do not by definition supply a job to everyone. Investigate coercion, compensating operations, and the distinction between institutional survival and participants' well-being.
-9. Use an illustrative conflict between shelter and collateral to show how one organization's self-production can block a wider productive transition. Connect this to dialectical transformation and the extra explanation required by the energetic hypothesis.
-10. Make interruptions and substitutions tests of the account. Return to chapter 4's inquiry problem through the reproduction of its material supports. End with the participants' capacities for interpretation, regulation, and learning, preparing the cognitive mechanisms of the next chapter.
+1. Read the Lyon labor council report in which Mlle Pommet claims forty francs from the widow Vieux. The widow acknowledges the debt, but a family illness, advances and a relief fund’s prior claim have exhausted the money. Follow what the council can do for each woman. [S154](../research/sources.md#s154)
+2. Put the two interruptions at Burgat’s shawl looms beside Pommet’s missed payment. Connect Marx’s account of material and class reproduction to Luhmann’s account of communication through the cybernetics of who hears a complaint and can act on it.
+3. Return to Lyon in 1831. Count what goes into weaving a piece, watch delegates negotiate minimum rates, then follow what happens to the agreement when the minister of war intervenes. Ask how much human work it takes to produce what looks to a buyer like a property of cloth.
+4. Read the 1690 Massachusetts Bay order for printed bills. Follow a wartime obligation out of the treasury and a bill back in payment of taxes. Distinguish a reason people need a currency from the means by which bills or deposits enter circulation.
+5. Put Fulbert’s reciprocal oath beside the guarantees of a union. Follow the changing claims on labor through England’s 1349 ordinance, the division of the Walsham demesne into twenty-two holdings and a union fare that takes a member where there is paid work.
+6. Ask what sustains capitalism when the price of cloth falls for a buyer while its maker waits for her pay. Close with Bron, an apprentice who cannot stay awake through his evening work. A person can notice a limit while someone else holds the authority to act on it. Carry that distinction into chapter 10.
 
-**Causal demonstration:** Use historically documented interruptions and substitutions to identify regenerative dependencies. Separate an initiating failure from symptoms of prior decline, specify reserves and replacement intervals, and test the defined organization rather than labeling every survivor closed. See I63 and the afterword for the shared identification standard.
+**Transition:** Close Part III on the workers and institutions whose continued participation makes correction possible. Part IV takes up what happens during a correction, how one level of control can change another, and when the actor’s own condition becomes part of what is modeled.
 
-**Transition:** Carry the Marx–Luhmann synthesis into the reciprocal relationship between regulation and renewal. Economic operations sustain the people and institutions that regulate production; their communications and decisions organize its next round. The next chapter develops this circuit and asks how a system can model aspects of its own activity.
+## Part IV — Cybernetics
+
+Follow a correction through three settings. A person learns to take their own fatigue into account. A trained machine draws on earlier corrections when a new task arrives. An organization tests a machine’s proposed design and decides whether to build it. The book uses cybernetics to explain how the consequences of action can guide further action at several levels. It proposes that a human sense of self can emerge when a mind recursively models its own activity. *Artificial intelligence* is the conventional name for a family of systems with different capacities for learning, control, and self-modeling.
 
 ### 10. The System That Models Itself
 
@@ -341,17 +275,15 @@ Follow the physical hypothesis into the development of people, collective compet
 
 **Narrative mechanism (S45):** Use requisite variety to distinguish better information, more effective responses, and reduced disturbance. Connect a useful self-model to improved action under specified disturbances.
 
-1. Open with an illustrative person carrying a cup and anticipating fatigue. Separate correction of movement, renewal of the acting body, and a judgment about the actor's capacity.
+1. Pick up Bron’s story where the council report runs out. The early cybernetics paper gives us a glass of water to raise and a hand whose corrections can amplify its tremor. Distinguish correction of movement, renewal of the acting body and a judgment about the actor’s capacity.
 2. Introduce Wiener and Ashby through feedback, available responses, and disturbances. A thermostat regulates a variable while another organization supplies its repair and power.
 3. Locate regulation within the creation cycle: it may improve access or prevent losses, while the organization renews its regulator. Compare that whole arrangement with a specified precursor.
 4. Develop the reciprocal relationship of cybernetics and autopoiesis through a schematic cell, the embodied cup carrier, and social provisioning. Extend chapter 9's Marx–Luhmann synthesis: material production renews communicative and regulatory capacities, whose formal distinctions direct subsequent material action. Identify both directions of dependence, reserves, and delayed failure. Distinguish organizational closure from isolation, stability, and an information loop.
 5. Connect regulated and regenerated capability to assembly and the chapter 1 bottleneck question. Local control can succeed while a wider productive dependency fails. Constraints can make action reliable or prevent necessary adjustment.
 6. Introduce interacting hierarchies and recurrent pathways with bounded macaque visual-cortex evidence. Distinguish hierarchy, recurrence, recursive procedures, and self-modeling; reject a single all-knowing executive as an explanation.
 7. Develop a partial model of the body, attention, capacities, and limits without a complete internal duplicate. Use attention schema theory and the artificial-agent intervention within their evidence limits. Connect socially learned self-descriptions to chapter 8; functional advantage does not establish consciousness.
-8. Trace the methodological reversal from an explicit logic-first ambition to trained representations, using McCarthy's recollections, the neural research lineage, and AlexNet. Retain the uses of formal verification through AlphaProof. Connect support for costly learning to the first steam engine.
-9. Specify interventions on self-models and reciprocal renewal dependencies. Return to the energetic hypothesis through actual actions and physical consequences, distinguishing a learning-loss gradient from physical disequilibrium.
-
-**Causal demonstration:** Combine existing controlled self-model interventions with historical variation in regulatory access and renewal where credible. Identify both directions through time; distinguish improved regulation, regeneration, and subjective experience. See I63 and the afterword for the shared identification standard.
+8. Put Wiener’s refusal beside the Dartmouth proposal and McCarthy’s recollection of teaching a machine legal chess moves. Trace the turn toward learned representations through AlexNet’s photograph of an off-center mite. Return to the uses of formal rules in AlphaProof.
+9. Bring back the first load of dry coal. Someone has to carry the expense of training before a machine can make a useful distinction. End with a photograph beside the portrait and a trained machine waiting for something to do.
 
 **Transition:** Artificial cognition can be assembled within this history while remaining dependent on initiation, finite computation, and an organization that renews its operating conditions.
 
@@ -365,24 +297,22 @@ Follow the physical hypothesis into the development of people, collective compet
 
 **Narrative mechanism (S122):** Connect formal operations to physical implementations. Separate the cost of acquiring a useful representation from its later savings, and measure both within a stated horizon.
 
-1. Follow Lovelace’s account of operation and variable cards into the unbuilt Analytical Engine, then consider a trained model waiting for input. Distinguish instruction, learned weights and inference. [S148](../research/sources.md#s148)
+1. Open with Babbage’s recollection that Lovelace found a mistake in his calculation. Read the first operation in her Bernoulli diagram, then compare a trained language model waiting for input. Distinguish the instructions written for the unbuilt Analytical Engine from a capacity acquired through training. [S148](../research/sources.md#s148)
 2. Explain joint material and Platonic organization through architecture, parameters, hardware, and execution. Distinguish specification, training, retention, inference, and deployment. Follow constraints that concentrate search or reward misleading shortcuts.
 3. Trace supported training, learned organization, deployment, regenerative return, and further construction. Evaluate energy-access gains at the productive-system boundary while preserving the model’s operational limits.
 4. Connect costly initial learning to chapter 5's first engine. Distinguish lowering learning costs from committing more resources before a return exists.
 5. Separate fixed model weights from variable total inference computation. Autoregressive generation, candidates, checks, and tools incur additional work; every actual run still has finite resource and execution limits.
-6. Unpack “thinking mode” into prompting, reasoning-oriented training, and inference-time allocation. Use chain-of-thought and zero-shot prompting, DeepSeek-R1, s1's training and continuation cue, and test-time scaling research. Explain why prompting is part of the mechanism but “just prompt hacking” is not an adequate general account.
+6. Count the r’s in *raspberry* alongside the s1 model. The program supplies “Wait” just as the model tries to stop. Trace the successful correction back through the instruction, the additional computation and the training that made either useful. Place the example beside the broader evidence about prompting, learned reasoning and the limits of extra time.
 7. Explain task-dependent returns, unavailable evidence, repeated errors, imperfect verification, and the limits of self-correction. Distinguish contextual adaptation, external memory, and weight updates. More computation may improve results without guaranteeing indefinite improvement.
 8. Connect cybernetic action and observation to the conditions of effective checking. A continuing program does not automatically regenerate its chips, power, maintenance, or operators; locate any autopoietic claim in a specified productive network.
 9. Restate AI as a natural outcome of assembly under the book's hypothesis, with mechanisms, prerequisites, and counterfactual comparisons requiring specification. Distinguish the emergence claim from consciousness, guaranteed benefits, and endless recursive acceleration. Trace cognitive gains into physical outcomes before invoking an energetic maximum.
-10. Compare the same model under different prompts, execution budgets, and access to external feedback; separately compare training. Record correctness, costs, failures, and plateaus. Then test whether the resulting gains change productive pathways beyond what rival explanations predict.
-
-**Causal demonstration:** Compare prompting, training, compute allocation, and external feedback separately. Existing logs or assignment rules may support causal inference, but hard tasks receiving more resources confound naive comparisons. State model versions, task selection, costs, uncertainty, and failure cases. See I63 and the afterword for the shared identification standard.
+10. Put the engineer in an older, working hall while the new site awaits its connection. A spreadsheet records which temperature trace jumped. Its missing sensor labels force a choice about what someone must learn at the site. End with an improved proposal and the meter that will tell the crew what following it costs.
 
 **Transition:** Follow a bounded cognitive capability into the organization supplying it and the physical production it can help change; chapter 12 develops data centers and the possible productive return.
 
 ### 12. The Machines That Build the Next Machines
 
-**Current material:** [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md). **Ideas:** I70, I69, I31, I38, I43, I53–I55, I60. **Sources:** S31, S50, S54.
+**Current material:** [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md). **Ideas:** I70, I69, I31, I38, I43, I53–I55, I60. **Sources:** S30–S31, S54, S124, S155.
 
 **Question:** How do AI and data centers emerge through natural processes, and which comparisons could test their proposed material dependencies?
 
@@ -395,10 +325,8 @@ Follow the physical hypothesis into the development of people, collective compet
 3. Test a full turn from supported AI deployment to greater usable-energy access, renewal, and further assembly. Count construction and validation costs and preserve failures of reinvestment.
 4. Relate this support to the first steam engine and to the social support for learning. Distinguish a viable early function from its later, more efficient form.
 5. Define the emergence claim around both cognitive capabilities and the organization of data centers under independently specified conditions. Explain how the process produces those conditions. Specify histories that could count against either component. Keep architecture, site, date, consciousness, and indefinite acceleration as separate questions.
-6. Follow an AI-assisted proposal through evaluation, physical validation, manufacture, operation, and reinvestment. Identify where the return connection could fail.
+6. Follow a learned chip placement into production. Compare the original team's account with an independent assessment on other designs. Then follow a cooling instruction from a prediction to a local control system and an operator with the authority to take back control. Ask where the savings go before claiming that one generation of machines pays for the next.
 7. Examine ownership and the distribution of gains. The emergence of a capability does not determine its political use.
-
-**Causal demonstration:** Identify effects of resource access on AI deployment and facility formation separately from effects on productive return. Investigate anticipated demand, shared infrastructure, spillovers, and alternative pathways. Local effects support specified links, while the common energetic explanation requires additional tests. See I63 and the afterword for the shared identification standard.
 
 **Transition:** Return to the data center as a system that may help change its own productive supports. Reconnect the proposed emergence of AI to chapter 6's conjecture about physical origins, then ask what an assembled intelligence can help build and how its uses are chosen.
 
@@ -406,17 +334,17 @@ Follow the physical hypothesis into the development of people, collective compet
 
 **Current material:** [epilogue](../manuscript/epilogue.md). **Ideas:** I50–I62.
 
-Return to the connected data center through the waterline and the woven cheek. Set the design beside its test record and ask who can challenge the figure or authorize the next shift.
+Open when the new hall can finally take the engineer’s request. The proposed design credits automatic controls for an hour when an operator intervened. Her shift log changes the question. Moulin’s brown wash and the first cart of coal each show what someone had to provide for the next worker.
 
-Bring convergent discovery and dialectical transformation back to the proposed common driver. Restate AI and data centers as products of natural processes and the universe and fundamental constants as probably assembled, preserving the distinction between the claims and their outstanding proof. End with the possibility of intelligence deliberately investigating and changing the process through which further intelligence and productive capacity arise. Keep human purposes visible: greater throughput cannot supply its own ethical justification.
+Connect the cooling plant to the creation cycle, then widen the question to the two paths toward relativity and the wager that fundamental constants record self-renewing arrangements. Return to the crew when there is a saving to spend. Paid time together lets a newer operator notice a second quiet afternoon and ask a question of her own.
 
 ## Afterword — What Would Make This a Theory?
 
-**Current material:** [afterword](../manuscript/afterword.md). **Ideas:** I45, I49–I63. **Sources:** S07, S10, S33, S59, S65–S68, S69–S74, S81, S84–S86, S88–S89, S92–S107.
+**Current material:** [afterword](../manuscript/afterword.md). **Ideas:** I45, I49–I62. **Sources:** S07, S10, S33, S59, S65–S68, S69–S74, S81, S84–S86, S88–S89, S92–S102.
 
-Make natural experiments and causal inference the standard for demonstrating the empirical arguments, with new experiments optional rather than mandatory. Define cause, outcome, counterfactual, assignment process, identification assumptions, and uncertainty before selecting an estimator. Explain difference-in-differences, threshold, and instrumental-variable designs with their limits. Keep proposed historical studies separate from completed findings, and retain observational tests appropriate to cosmology.
+Follow the difference between a successful illustration and a theory that takes a risk. Ask what the creation cycle predicts, what a simpler mechanism already explains, and what outcome would make the claim untenable.
 
-Develop the remaining inquiry and prediction:
+Develop the argument through the following questions.
 
 1. Define the system boundary, disequilibrium, relevant rates, and observation interval before evaluating a case. Identify the operations that regenerate the organization, what enters from outside, and which interruption or substitution could test a claimed dependency.
 2. Map accessible assemblies, construction and operating costs, retention, and changes to subsequent pathways.
@@ -430,6 +358,6 @@ Develop the remaining inquiry and prediction:
 
 ## Integration and development material
 
-The twelve chapter numbers, file names, and reading sequence agree. Chapters 4–6 work backward from familiar discoveries through steam engines to the conjectured assembly of the universe. Chapter 7 combines self-domestication with the transformation of developmental constraints, followed directly by collective intelligence in chapter 8. Economic self-production is chapter 9. Chapter 10 covers cybernetics and self-modeling; chapter 11 explains artificial intelligence through the thesis; chapter 12 develops data centers and productive deployment. All twelve chapters are prose drafts. The [cognition chapter plans](archive/cognition-chapter-plans.md) preserve the previous outlines for then-chapters 10 and 11 (now 10 and 11). The complete pre-merge human drafts remain in [human-development revision material](archive/human-development-revision.md). Longer industrial cases and their source notes remain in [historical development material](archive/historical-drafts/README.md). The epilogue connects regulation, renewal, and bounded cognition; the afterword adds interventions on self-models and comparisons separating inference resources, prompting, training, and feedback.
+The twelve chapter numbers, file names, and reading sequence agree. Chapters 4–6 work backward from familiar discoveries through steam engines to the conjectured assembly of the universe. Chapter 7 combines self-domestication with the transformation of developmental constraints, followed directly by collective intelligence in chapter 8. Economic self-production is chapter 9. Chapter 10 covers cybernetics and self-modeling; chapter 11 explains artificial intelligence through the thesis; chapter 12 develops data centers and productive deployment. All twelve chapters are prose drafts. The [cognition chapter plans](archive/cognition-chapter-plans.md) preserve the previous outlines for then-chapters 10 and 11 (now 10 and 11). The complete pre-merge human drafts remain in [human-development revision material](archive/human-development-revision.md). Longer industrial cases and their source notes remain in [historical development material](archive/historical-drafts/README.md). The epilogue connects regulation, renewal and bounded cognition. The afterword asks when the creation cycle can predict an outcome that a rival theory would miss.
 
-The institutional development draft and the earlier grid, housing, and Montreal cases remain outside the reading sequence. Historical drafts retain their former chapter numbering and are labeled accordingly. Preserve the original note text and its dated author clarification; append future clarifications when requested. Research commitments remain in [ideas](ideas.md); evidence and unresolved attribution remain in `sources.md`. The afterword specifies the causal-inference standard and further tests required by the scientific synthesis. Each chapter's demonstration plan distinguishes potential identification from evidence already established.
+The institutional development draft and the earlier grid, housing, and Montreal cases remain outside the reading sequence. Historical drafts retain their former chapter numbering and are labeled accordingly. Preserve the original note text and its dated author clarification; append future clarifications when requested. Research commitments remain in [ideas](ideas.md); evidence and unresolved attribution remain in `sources.md`. The afterword returns to the mechanisms and the observations that could distinguish them.

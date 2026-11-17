@@ -31,11 +31,16 @@ This book follows those questions through the origins of life, human cooperation
 5. [How Disequilibrium Builds a New Pathway](manuscript/05-how-disequilibrium-builds-a-new-pathway.md)
 6. [From Uncertainty to an Assembled Universe](manuscript/06-from-uncertainty-to-an-assembled-universe.md)
 
-### Part III · Human Society and Artificial Intelligence
+### Part III · Human Society and Collective Intelligence
 
 7. [The Species That Changed Its Own Conditions](manuscript/07-the-species-that-changed-its-own-conditions.md)
 8. [The World That Learned to Think](manuscript/08-the-world-that-learned-to-think.md)
 9. [The System That Produces Its Tomorrow](manuscript/09-the-system-that-produces-its-tomorrow.md)
+
+### Part IV · Cybernetics
+
+A hand shakes as it raises a glass. A language model misses a letter in *raspberry*. A controller holds two plasmas apart for a fifth of a second. The final part follows what each can sense and correct, then asks who keeps the machinery of correction running.
+
 10. [The System That Models Itself](manuscript/10-the-system-that-models-itself.md)
 11. [Why the World Builds Artificial Intelligence](manuscript/11-why-the-world-builds-artificial-intelligence.md)
 12. [The Machines That Build the Next Machines](manuscript/12-the-machines-that-build-the-next-machines.md)
@@ -46,6 +51,10 @@ This book follows those questions through the origins of life, human cooperation
 
 ## Sources and working material
 
-The [source ledger](research/sources.md) records the evidence behind specific claims. The [research guide](scripts/README.md) links the datasets, scripts and results for the twelve chapter comparisons. The [afterword](manuscript/afterword.md) explains how to distinguish a causal test from an illustration and where evidence is still missing.
+The [source ledger](research/sources.md) documents the book’s scientific and historical references. A separate [research companion](research/evidence.md) holds the chapter-linked natural experiments, including [the two-mines study](research/two-mines.md), with [methods](research/causal-inference.md) and [data and scripts](scripts/README.md). The book closes with an [afterword](manuscript/afterword.md) on the predictions and observations that could distinguish its theory from an alternative.
 
 The [expanded ideas](editorial/ideas.md), [original notes](editorial/notes.md) and [manuscript guide](editorial/manuscript-guide.md) document the book’s development. Earlier drafts are in the [editorial archive](editorial/archive).
+
+## Quoting the book
+
+You may quote excerpts with attribution. Keep the book title, chapter or section, source, and any supplied author credits with the passage whenever you share it. [Quotation license](LICENSE) · [Illustration credits](assets/images/README.md)

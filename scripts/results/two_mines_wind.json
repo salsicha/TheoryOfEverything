@@ -1,0 +1,100 @@
+{
+  "study": "Output from operating US wind plants around the ten-year production-tax-credit horizon",
+  "source": {
+    "authors": "Hamilton, Millstein, Bolinger, Wiser and Jeong (2020)",
+    "article": "https://doi.org/10.1016/j.joule.2020.04.005",
+    "landing_page": "https://eta.lbl.gov/publications/how-does-wind-project-performance",
+    "archive": "https://drive.google.com/drive/folders/1MwKfsrPkeaf4I43ydZIK936vQW5Pbf4U",
+    "panel_url": "https://drive.usercontent.google.com/download?id=1cndvsROebHxS9sppA9WQd5M0RXl4ZAT5&export=download&confirm=t",
+    "panel_sha256": "ee8493d80070d687a30d6219f684a13e4ae49fe0b41e15aea5c0cdea7b2a3717",
+    "rows": 77093,
+    "plants": 917,
+    "calendar_years": [
+      2001,
+      2017
+    ]
+  },
+  "primary_specification": "First production recorded after 2001. Same plants with complete observed ages 96-143 months. For each birthday, use 12 months before and 12 after. Regress metered monthly net MWh divided by installed MW times calendar hours on a post-birthday indicator, modeled wind resource (ICF), plant fixed effects and calendar year-month fixed effects. Unit is capacity-factor percentage points. Every plant-month has equal weight.",
+  "primary_birthdays": {
+    "9": {
+      "plants": 68,
+      "plant_months": 1632,
+      "pre_mean_capacity_factor_pct": 32.32485,
+      "post_mean_capacity_factor_pct": 31.99419,
+      "post_minus_pre_adjusted_pp": 1.20862,
+      "plant_cluster_95pct_interval_pp": [
+        -1.62051,
+        4.03776
+      ]
+    },
+    "10": {
+      "plants": 68,
+      "plant_months": 1632,
+      "pre_mean_capacity_factor_pct": 31.99419,
+      "post_mean_capacity_factor_pct": 30.91735,
+      "post_minus_pre_adjusted_pp": 0.96048,
+      "plant_cluster_95pct_interval_pp": [
+        -2.43398,
+        4.35494
+      ]
+    },
+    "11": {
+      "plants": 68,
+      "plant_months": 1632,
+      "pre_mean_capacity_factor_pct": 30.91735,
+      "post_mean_capacity_factor_pct": 29.88815,
+      "post_minus_pre_adjusted_pp": 0.99247,
+      "plant_cluster_95pct_interval_pp": [
+        -1.09755,
+        3.0825
+      ]
+    }
+  },
+  "balanced_sample_first_generation_years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "without_calendar_effects_age_10": {
+    "plants": 68,
+    "plant_months": 1632,
+    "pre_mean_capacity_factor_pct": 31.99419,
+    "post_mean_capacity_factor_pct": 30.91735,
+    "post_minus_pre_adjusted_pp": -1.48162,
+    "plant_cluster_95pct_interval_pp": [
+      -3.04733,
+      0.08409
+    ]
+  },
+  "curtailment_adjusted_age_10": {
+    "plants": 68,
+    "plant_months": 1632,
+    "pre_mean_capacity_factor_pct": 32.40408,
+    "post_mean_capacity_factor_pct": 31.7088,
+    "post_minus_pre_adjusted_pp": 1.12462,
+    "plant_cluster_95pct_interval_pp": [
+      -2.22134,
+      4.47058
+    ]
+  },
+  "authors_age_10_specification": {
+    "plants": 103,
+    "plant_months": 6051,
+    "pre_mean_capacity_factor_pct": 30.44988,
+    "post_mean_capacity_factor_pct": 29.86783,
+    "post_minus_pre_adjusted_pp": -1.16054,
+    "plant_cluster_95pct_interval_pp": [
+      -2.14276,
+      -0.17832
+    ]
+  },
+  "authors_specification_details": "Point-estimate replication of the published notebook: all plants observed at age >=12 years; age 7 through exactly 12 inclusive; regression of curtailment-adjusted CF on post-ten, ICF and plant fixed effects. Our intervals cluster by plant. Coefficient is expressed in capacity-factor percentage points, distinct from a loss as a percent of baseline output.",
+  "identification": [
+    "US production tax credits ran for ten years. The public panel records first production and physical output, without recipient status or each project's tax eligibility date. The estimated exposure is a birthday proxy.",
+    "The timing comparison requires other influences on generation to change smoothly at age ten. Contracts, warranties, market dispatch and repowering can also change; the mechanism is not identified.",
+    "Age-nine and age-eleven comparisons assess other age-related changes on the same plants. Plant-cluster intervals describe sampling variability under independence across plants; regional or common vintage-specific shocks can widen uncertainty.",
+    "Requiring uninterrupted reporting selects plants that remained observable and can include reported zero generation. Repair expenditure, allocation of own proceeds, stoppage and restart are not observed."
+  ]
+}

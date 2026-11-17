@@ -6,6 +6,8 @@ The November 15, 2026 update contains **four primary empirical reanalyses/compar
 
 The prologue, epilogue, and methodological afterword frame the twelve chapters; they are not additional empirical studies.
 
+The [two-mine supplement](../research/two-mines.md) asks whether earlier returns help an operating mine resume after an interruption. It includes separate [annual continuation](results/two_mines.json), [annual restart](results/two_mines_restart.json), [reported incident](results/two_mines_events.json), and [wind-plant](results/two_mines_wind.json) analyses. The supplement includes commands for fetching the original inputs and rerunning each comparison. The twelve chapter records retain the original chapter 2 electricity case.
+
 ## Chapter map
 
 | Chapter | Case or evidence boundary | What it tests | Current implementation |

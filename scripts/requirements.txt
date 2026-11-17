@@ -5,3 +5,4 @@ scipy==1.18.1
 statsmodels==0.15.0
 openpyxl==3.1.5
 et-xmlfile==2.0.0
+xlrd==2.0.2
