@@ -1,0 +1,140 @@
+# Chapter 12 — The Machines That Build the Next Machines
+
+*The world can assemble tools that help assemble its next tools.*
+
+In 2022, Jonas Degrave and collaborators reported an experiment in which reinforcement-learning controllers, trained using simulation, operated magnetic coils on the TCV tokamak in Switzerland. The controllers helped shape and position plasma in the physical apparatus.[1] Computation had crossed from a simulated training environment into the control of a demanding experiment.
+
+The result concerned plasma control, not a commercial fusion power station or net electricity supplied to society. Its significance is more precise: a learned controller could contribute to the operation of machinery used to investigate an energy technology. The experiment required the apparatus, the simulation, the researchers, and the engineers. AI supplied a capability within that organization.
+
+The preceding chapter explains artificial cognition through the book's thesis: a materially supported process assembles learned relations that change what a system can search for and do. That capability remains bounded by its execution resources, available evidence, and the organization sustaining it. Here the question moves into deployment: what changes when that capability acts within a physical production system? The plasma experiment gives the transition a specific form. A learned policy contributes to control, while the wider organization supplies the apparatus and the means of continuing the experiment.
+
+Now consider a possibility that the experiment does not establish. If computational assistance improves the energy and manufacturing systems on which computing depends, some of the improvement could support further computational development. Better computation could then contribute to another round of productive improvement. A tool for working on the world could help change its own material conditions.
+
+The larger hypothesis is that AI and data centers emerge through the creation cycle. An energy gradient and constrained productive pathways create the opening. AI integrated with equipment and work becomes the next assembly level when it enables new access to that energy. Continuing deployment must be explained through an autopoietic organization that produces the capability recurrently. Further creation is dialectical: computation and material provision sustain one another; their relation is reorganized beyond earlier limits while preserving capabilities; a quantitative change can make a new productive regime possible. The predicted net return and recurrence must be measured after the costs of that organization.
+
+The data center is part of the outcome to explain. Computation, power delivery, cooling, communication, repair, and coordinated work have to become a dependable organization. The book proposes that development produces such organized concentrations alongside the capabilities they support. It must account for the construction of the facility as well as the training of a model, and for the continuing operations that make both usable.
+
+There is a candidate mechanism behind this proposed concentration. A research effort can need a costly interval of computation before it yields a useful result; several undertakings can share equipment and the operations that maintain it. Coordinating these requirements can make a facility capable of supporting work that isolated resources cannot reliably carry. This is a mechanism to investigate through costs, dependencies, and comparisons with dispersed alternatives, not a conclusion obtained merely by observing a large building full of computers.
+
+The proposed natural process produces a class of capabilities and organizations. It does not select the address of a facility or guarantee that every investment succeeds. A claim about data centers must nevertheless remain specific enough to fail: if the same developmental conditions consistently supported artificial cognition without favoring such concentrations, the prediction about physical organization would need revision. The theory has to explain why its prerequisites arise and why they favor these outcomes.
+
+An engineered learning system requires materials, manufacturing, power, methods of representation, and procedures for changing its behavior from data or experience. Those capabilities have separate histories before they can be combined. Their assembly can make a broad class of functions reachable through several architectures and several groups of researchers. The claim concerns the natural emergence of that class of functions under specified conditions; a particular company, model, or date requires a more specific history.
+
+This is a causal claim about the energetic process, not a prediction inferred solely from several organizations sharing a technical fashion. The same process is proposed to have produced the infrastructure, the knowledge, and the capacity to direct resources into costly experiments. Institutions and incentives are mechanisms through which the physical drive acts. Their actual operations must connect the drive to the emerging function.
+
+There is a useful distinction between a costly first capability and a mature one. A research system may sustain training runs, unreliable prototypes, or expensive inference before a useful operation becomes economical. Existing productive capacity carries that interval. Successful results can then alter the cost of subsequent attempts. The first version does not need to embody all the efficiencies that later make deployment widespread.
+
+The analogy to steam is specific. Cheap colliery fuel helped sustain an inefficient early engine. Available computation and an organization willing to supply it can help sustain a costly early cognitive function. The analogy does not predict that every larger training run will work, or identify an economic budget with physical energy. It asks whether support across a costly intermediate is a recurring step in the assembly of new productive pathways.
+
+The natural emergence of some artificial cognition does not establish a route to human-level general intelligence, consciousness, or indefinite acceleration. The latter claims would need further mechanisms and definitions. The immediate thesis is that the physical process that assembled cognitive capacities in living systems can, through historically developed engineering, make aspects of those capacities reproducible in other materials. The observed systems establish particular functions; the universal explanation remains the hypothesis being investigated.
+
+Evidence must include the industrial steps. A gain on a benchmark may concern one operation without demonstrating the whole sequence. We need to follow a proposal into testing, production, sustained use, and the allocation of whatever benefit it creates.
+
+The mechanism has precedents in the histories already examined. The coal engine could help obtain the fuel that powered engines. A factory could make equipment for another factory. The proposed computational loop adds the possibility that some work of searching, modeling, or controlling those improvements can itself be performed with machine assistance. Whether that produces continuing acceleration depends on which step was limiting and what becomes limiting next.
+
+
+Machine learning supplies a narrower technical example of representation. An embedding represents an item through a collection of numerical coordinates. The coordinates are learned or constructed so that relationships useful for a particular task can be captured by operations on those vectors. Mikolov and colleagues' work on word representations helped demonstrate useful regularities in such learned spaces.[2]
+
+The numbers are not little definitions hidden in a computer. Their significance depends on the training procedure, the data, and how the representation is used. Two items can be close in one learned space and distant in another because the tasks preserve different relations. An embedding is a way of organizing information, not a universal proof that all thought has one data structure.
+
+A map offers a familiar comparison. It can preserve distance, direction, routes, or administrative boundaries, but not every property with equal fidelity. Its usefulness depends on which differences matter to the traveler. A representation makes some operations easier by discarding or reorganizing detail. That economy is part of its power and part of its vulnerability.
+
+The same is true of a predictive model. If it preserves distinctions relevant to the task, it can help select actions without reconstructing every physical detail. If it omits a crucial condition, it may confidently recommend a failure. Compression is useful when the world can tolerate the omissions for the purpose at hand.
+
+We should therefore ask what a representation enables, how it was acquired, and how errors are corrected. Fluency in producing symbols does not settle whether a system can act reliably under a particular set of physical constraints. Conversely, the fact that a system uses symbols does not make its achievements unreal. A map can guide a journey without being the territory.
+
+A model therefore needs a route by which the world can correct it. This route may include measurements, a prototype, independent analysis, or experience in operation. An error shared by the model and its evaluator can survive a large amount of apparent testing. The organization of evaluation matters as much as the ease of generating another candidate.
+
+
+Consider a hypothetical project in which AI assists the design of a component for an energy system. The system proposes several candidates, using a model to estimate performance. Engineers choose candidates for testing. A prototype performs well under one set of conditions and poorly under another. The model is revised, the manufacturing process adjusted, and a later version enters a pilot installation.
+
+Every sentence contains a possible bottleneck. Candidate generation may be fast while testing is slow. A useful shape may be difficult to manufacture. A material may depend on a scarce input. A laboratory improvement may increase maintenance costs in the field. A design may meet technical goals while failing to offer a useful advantage over an established alternative.
+
+Successful AI assistance would change some of these costs and probabilities. It would not make them disappear by changing the speed of the first step. The system's effective rate is determined by its dependencies: which tasks can proceed in parallel, which require the result of another, and which require physical time that cannot be compressed by additional computation.
+
+This is why inference costs matter without being the whole argument. More computation can permit more candidate evaluation or a longer sequence of reasoning. But a task may require external information, a new experiment, or a decision by someone with authority to act. Additional processing of the same inadequate evidence does not guarantee correction.
+
+Parallelism also has limits. Several independent tests can accelerate learning when results can be combined. A thousand variants sharing the same modeling error can produce a thousand correlated failures. The value of increased search depends on diversity, evaluation, and the relation between modeled conditions and actual operation.
+
+The productive loop must therefore be measured across the system. Suppose a hypothetical control improvement reduces the energy required for a service. We would need to count the costs of developing and operating the control system, the equipment changes required, and the scale over which the improvement persists. A local reduction in one meter reading is not automatically a net improvement across all relevant boundaries.
+
+The comparison should also distinguish additional activity from improved efficiency. A more effective industrial process may enable more output, with total energy use rising even as energy per unit falls. Whether this is desirable depends on what is produced, what alternatives it displaces, and the effects on people and environments. Computational growth is not itself a measure of social benefit.
+
+The International Energy Agency's assessment of AI and energy discusses possible applications in operations, optimization, and innovation while emphasizing deployment conditions.[3] The evidence supports investigating these pathways. It does not establish a guaranteed accelerating cycle in which each generation of AI finances and physically constructs an ever more capable successor.
+
+Such acceleration would require several links to hold together. Better models would need to produce improvements that survive real-world tests. Those improvements would need to be deployable at sufficient scale. Their gains would need to exceed the resources used to obtain them. Some of the gains would then have to be directed toward the conditions for further improvement. Ownership and investment enter the loop at that last step, and often much earlier.
+
+The networks of production and the networks of control now meet in the same proposed cycle. One set of operations keeps chips, power, cooling, and skilled work available. Another uses information to change what that supported machinery does. The closure questions from chapter 3 identify what must be renewed; the control questions from chapter 10 identify what an intervention can improve. Neither circuit closes merely because a model produces a good answer.
+
+Increasing returns can strengthen the connection while also making it selective. Arthur's models show how adoption can reinforce one technological route and lock out alternatives without ensuring that the retained route is the most efficient.[4] For data centers, the corresponding research question is whether existing power connections, tools, trained users, and supplier arrangements favor further concentration. The book should compare those inherited advantages with the productivity gained from additional computation. Otherwise the growth of a familiar architecture could be mistaken for evidence that it is the uniquely favored energetic pathway.
+
+There are also balancing effects. A growing computational system can increase demand for chips, power, cooling, construction, and skilled work. It may compete with other uses of those resources. A successful improvement in one input can reveal another as the limiting factor. The loop can accelerate in one interval and slow in another without either result disproving the existence of feedback.
+
+The prologue's data center waiting for electricity belongs here. The computers can be delivered while the connection remains unavailable. A better design tool may help plan a grid improvement, but the improvement still requires equipment, labor, coordination, and permission under actual institutions. The productive network has several clocks, and the fastest clock cannot simply command the others to match it.
+
+The existence of several clocks changes what an improvement can accomplish. Suppose, purely for illustration, that producing a candidate design takes one day while qualifying a physical component takes several months. Halving the design interval has little effect on the total time if the steps are sequential and qualification remains unchanged. It may matter more if better candidates reduce the number of failed qualification cycles. The causal question is where computation changes the actual path through development.
+
+Parallel trials can help when equipment and skilled attention are available. They can also move the bottleneck into the test facility. A flood of candidates may increase the queue without increasing the rate at which reliable knowledge emerges. The useful outcome is therefore not the number of proposals per hour but the time and resources required to obtain a validated improvement.
+
+Manufacturing introduces another clock. A component that performs well once may be difficult to make repeatedly within tolerance. Production equipment, supplier qualification, and repair procedures can matter more to adoption than the original demonstration. Chapter 7's distinction between preserving a description and regenerating a capability returns in an industrial setting.
+
+An illustrative maintenance assistant offers a less dramatic route. Suppose it helps technicians interpret fault records and identify a replacement before a service stops. Its contribution could be reduced downtime and a better preserved record of what went wrong. That benefit would not require inventing a new source of energy. It would require reliable recommendations, usable records, available parts, and people able to inspect and challenge the suggestion.
+
+These are two different hypotheses: AI may accelerate invention, and it may improve the use of existing capacity. Either could support the material conditions of further computation. Neither should receive credit for the other without evidence. A spectacular new design can fail to spread, while a modest maintenance improvement can become widely useful.
+
+Autopoiesis makes the proposed return more specific. A model file does not manufacture replacement chips, renew an electrical supply, or teach an operator to judge a hazardous recommendation. The relevant candidate is a wider organization: computation contributes to design or maintenance; physical work realizes the result; some resulting capacity supports the equipment, knowledge, and operations required for continued computation. Each connection must be demonstrated.
+
+We should therefore ask what part of the organization an AI-assisted operation actually regenerates. Does it preserve equipment, train people, improve a process, or merely produce an unused description? Which inputs still arrive from outside, and what interruption would break the return? This keeps the self-production claim connected to observable work while leaving the proposed energetic mechanism and productive return open to test.
+
+
+Ownership determines who can attempt to close the loop. A firm with compute but no access to industrial facilities faces one set of constraints. A public laboratory with useful knowledge but insecure funding faces another. A community affected by new infrastructure may bear costs without having a meaningful voice in design. These relationships influence which improvements are developed and which consequences are counted.
+
+The collective origin of knowledge does not settle how its gains will be distributed. A system trained on widely produced material and supported by public infrastructure may still operate under concentrated control. Conversely, public ownership does not automatically ensure useful access or competent management. Governance must address accountability, correction, and the ability of different people to benefit from the capability.
+
+Automation can weaken some forms of bargaining while strengthening others. A task becoming cheaper may reduce the market value of one skill. It may also make a useful service more accessible or allow a worker to accomplish more. The outcome depends on demand, complementary work, the distribution of ownership, and the institutions through which people share gains and losses.
+
+Universal basic income is one possible institutional proposal in such a discussion, not an automatic consequence of a technical result. It requires decisions about financing, entitlement, scale, and its relation to public services and work. Other proposals concern shared ownership, shorter working time, bargaining rights, or direct provision. Their merits cannot be inferred solely from a model's benchmark score.
+
+Nor would very cheap intelligence abolish every scarcity. Physical space, materials, human attention, trust, and time can remain limiting. Care involves relationships as well as information. A system may generate excellent plans while people lack the authority or resources to carry them out. The social question remains even when a technical question is answered.
+
+Reinvestment is where an energetic opportunity becomes a renewed capacity, or fails to. A gain might lower a household's bill, increase a firm's margin, support another service, or fund more computing. Only tracing the subsequent work tells us whether a return has renewed the assembly or enabled a successor. The higher assembly must be defined before this comparison: compute-assisted energy production, for example, compared with the same undertaking without that capability. Counting additional servers or higher electricity demand alone would miss the proposed advantage.
+
+A firm controlling several connected stages may be able to direct gains around the loop. That can ease coordination while concentrating the authority to decide its purpose. A distributed arrangement needs agreements that let benefits and knowledge pass between organizations. It may preserve more independent judgment while making investment harder to coordinate. Neither structure can be assessed only by the speed of its fastest model.
+
+The housing example in chapter 9 gives a further warning. Existing valuations and obligations can make people depend on a particular form of provision. A technically superior system may threaten revenue that funds maintenance or employment before its replacement can do either. A transition must connect the new capability to the work and livelihoods needed during adoption. Calling resistance irrational would miss that mechanism.
+
+A test should follow a complete turn of the cycle. Compare a supported new capability with a credible alternative specified before its outcome is known. Measure construction and validation costs, usable-energy access during operation, and the resources devoted to repair, replacement, and further construction. Then ask whether the resulting organization lasts or reproduces its capability more successfully. The plasma-control experiment establishes a narrower technical achievement; the energetic and regenerative return remains a further prediction.
+
+Then test the return connection separately. Did the improvement make power more reliable, manufacturing more effective, or another support for computation more accessible? Did that benefit actually contribute to a later capability? If a successful design never enters production, the first industrial link is missing. If production improves but the gain goes elsewhere, a local success has occurred without closing the proposed loop.
+
+The comparison must allow failure to remain informative. If adding computation produces no improvement because the relevant evidence is missing, the constraint is epistemic. If a validated design cannot be manufactured, the constraint lies elsewhere. If the design is feasible but nobody can finance adoption, another relationship is decisive. More of the same input need not solve any of these problems.
+
+What would play the part of the Cornish duty report here? Suppose a design team claims that a revised cooling system delivers more hours of computation per unit of electricity. Publish the load, the weather, the temperatures maintained and the hours over which power was measured. Give another operator enough information to look for the same gain under ordinary service. A short witnessed run could still outperform a working month, as West’s engine did. Then open a different account. Did that saving pay for replacement equipment or the next installation, and who could spend it?
+
+We should also compare effects outside the project’s immediate boundary. Additional demand for power, cooling, materials, or skilled work may impose costs on other users. An improvement per unit can coexist with greater total consumption if deployment expands. Judging the result requires saying what service increased, what it displaced, and whose conditions improved or deteriorated.
+
+The book explains the emergence of a capability through an identifiable dynamic and its constraints. The benefits of that capability require their own explanation. Artificial cognition can be assembled while its use concentrates power, amplifies error, or fails to close the productive loop. The return connection has to be demonstrated separately from the function that makes it conceivable.
+
+Historical natural experiments can test particular prerequisites and consequences. For example, an independently explained difference in access to power or computing could help identify an effect on deployment, provided it did not simply follow anticipated demand. A disruption affecting an entire local economy would not isolate the effect of AI alone. An identified deployment effect would still differ from evidence that a facility improved the productive network sustaining it.
+
+A test of the stronger hypothesis would ask whether alternative histories retaining the relevant gradients and productive prerequisites repeatedly approach artificial cognitive functions. It would also ask whether removing a predicted prerequisite delays the transition in the way the account expects. Calling the conditions sufficient only after AI appears would turn explanation into hindsight. The theory needs to specify what it expects before counting the successes.
+
+A design returned by the waiting model is a little like a chain of loom cards set down outside a workshop. Its formal content can travel. Its effects depend on someone with materials, authority and skill taking it up. The mine supplies the second test. Once built, can it keep the workings open long enough to pay for its successor?
+
+The conjecture in chapter 6 now returns from another direction. A universe whose conditions may themselves have been assembled has produced systems able to investigate and alter some of their own conditions. AI could extend that activity. Its development does not establish the proposed origin of physical laws; it makes the instruments of inquiry part of the same history the book is trying to explain.
+
+The epilogue returns to the data center with both claims in view: the proposed natural emergence of artificial cognition and its physical supports, and the probable assembly of the universe and fundamental constants. A useful answer must still survive testing, construction, and operation. The question becomes what an assembled intelligence can help the world build next, and how people choose the purposes that guide its use.
+
+## Chapter notes
+
+1. Degrave et al., [“Magnetic control of tokamak plasmas through deep reinforcement learning”](https://www.nature.com/articles/s41586-021-04301-9) (2022). The result concerns TCV plasma control and makes no claim to commercial fusion power. See [S54](../research/sources.md#s54).
+
+2. Mikolov et al., [“Efficient Estimation of Word Representations in Vector Space”](https://arxiv.org/abs/1301.3781) (2013). This is a specific family of machine representations, not a general theory of all human thought. See [S50](../research/sources.md#s50).
+
+3. International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation) (2025). See [S31](../research/sources.md#s31). The prospective component-development sequence is an explicitly hypothetical scenario.
+
+4. W. Brian Arthur, [“Competing Technologies, Increasing Returns, and Lock-In by Historical Events”](https://sites.santafe.edu/~wbarthur/Papers/EJ.pdf) (1989). The data-center application is a proposed comparison. Together with production-network and control theory, it distinguishes expansion, viability, and efficient selection. See [S60](../research/sources.md#s60), [S124](../research/sources.md#s124), and [S45](../research/sources.md#s45).
+
+---
+
+[← Why the World Builds Artificial Intelligence](11-why-the-world-builds-artificial-intelligence.md) · [Contents](../README.md) · [The World That Builds Its Next Question →](epilogue.md)

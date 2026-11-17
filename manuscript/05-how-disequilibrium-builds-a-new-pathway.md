@@ -1,0 +1,117 @@
+# Chapter 5 — How Disequilibrium Builds a New Pathway
+
+*The return from a new capability cannot supply the work that first makes it possible.*
+
+Imagine a flooded mine. Coal lies beneath the water, and coal already extracted can supply heat. A pump could make more of the deposit accessible. Yet the pump has to be built, powered, and kept working before the additional coal can be reached. The proposed solution depends on resources that its own success has not yet supplied.
+
+This is the transition problem at the center of the book. Disequilibrium can drive a transformation through an available pathway. How does it participate in producing a pathway that does not yet exist?
+
+The opening combines a gradient with a constrained problem. Coal supplies a potential source of work, while flooding and the available components determine which pathways can make more of it accessible. The pump is the next assembly level because its organization enables that access. Continuation concerns repeated operation, repair, and construction through the mine's productive network. The hypothesis requires this organization to regenerate the means of its recurrence. Greater extraction that never returns to those operations cannot explain the continuing assembly.
+
+The preceding chapter began with familiar physical discoveries and asked how their search became concentrated. We now step backward to the steam engine to examine the proposed mechanism where energy, work, and a costly first assembly can be followed more directly. Grain storage and ammonia synthesis isolate parts of the mechanism. After the engine, chapter 6 will ask whether the same principles could have built the universe itself, including the physical conditions this account still takes as given.
+
+Begin with three distinguishable situations. A pathway may exist but operate too slowly. A workable pathway may be known but lack the resources needed to build or run it. Or no existing assembly may perform the required transformation. These situations call for different changes. More expenditure through the same arrangement, a modified arrangement, and the construction of a new one can alter different constraints.
+
+The distinction is especially important when describing a barrier. A catalyst can change a chemical route. A reserve can sustain people while they perform work that yields no immediate food. A supply of cheap fuel can make a wasteful first machine usable. In each case a transition becomes more accessible, but what changed must be specified. The word constraint should tell us where the causal work occurs.
+
+A system's joint material and Platonic character enters at precisely this point. A pump must embody relations among pressure, movement, and a load. Those relations constrain what counts as a functioning pump even before anyone writes a complete description of them. Its realization also requires materials, tolerances, construction skills, and a supply capable of maintaining the necessary conditions.
+
+The two aspects can change together. A vessel that tolerates a different pressure makes another operating regime accessible. A revised arrangement can reduce the demands placed on a material. A manufacturing practice can make a previously impractical specification repeatable. The space of physically reachable designs changes through the development of both relationships and their realization.
+
+An engineer can also inherit a whole piece of an earlier solution. A valve that works reliably need not be redesigned from its raw materials each time another machine needs one. Arthur and Polak's model of technological evolution makes this accumulation explicit: available devices become components from which further devices can be constructed.[1] A growing repertoire changes which combinations can be attempted at a tolerable cost.
+
+<img src="../assets/images/newcomen-engine.png" alt="Cutaway of a Newcomen engine showing the boiler, piston, overhead beam and pump rod." width="370">
+
+*A Newcomen atmospheric engine. As the piston descends on the right, the beam raises the pump rod on the left. Black and Davis, 1913.* [Plate credit](../assets/images/README.md#newcomen-engine)
+
+The first pump therefore changes more than the quantity of coal reached. It leaves working parts, practical tolerances, repair procedures, and people who have learned which arrangements fail. Later builders search with those achievements already available. This suggests a comparison within the England–China question: alongside fuel prices, investigate access to reusable components and the operations that reproduce them. Cheap energy may carry an inefficient first trial; a retained repertoire may reduce the work needed for the next. The two contributions can reinforce one another without being the same cause.
+
+The flooded mine makes the distinction tangible. Thomas Newcomen's early eighteenth-century engine used steam condensation to lower the pressure in a cylinder. Atmospheric pressure then drove a piston whose motion could operate a pump. Repeatedly heating and cooling the cylinder consumed substantial fuel.[2] Its usefulness depended on whether the setting could support that expenditure while obtaining valuable pumping work.
+
+A small increase in pumping performance can have a qualitative consequence if it changes whether the working area remains accessible. The quantities to compare are water entering and leaving, the level at which work can proceed, and the time over which drainage can be maintained. The assembled machine and those relations determine the transition. This is the chapter's concrete instance of quantity into quality: the gain becomes a new capacity at an identifiable operating threshold, after which access to coal can support another turn of the cycle.
+
+An inefficient engine could therefore become the beginning of a productive trajectory. Where coal was available cheaply enough, an existing organization could carry a fuel-hungry machine through its early operation. The initial assembly did not have to match the efficiency of later designs. It had to cross the thresholds for construction and continued use in a particular setting.
+
+This is more than a story of the engine releasing energy. Existing energy access helped make the engine possible. Mining, transport, metalworking, provisioning, and practical investigation preceded the newly drained workings. Some of those activities supplied the effort required to assemble and operate the pump. The later gain could reinforce the connection only after that work had occurred.
+
+There are consequently two intervals to investigate. During construction and testing, the new assembly may produce little or nothing useful. During initial operation, it may yield a useful result at a cost that later users would reject. A setting capable of supporting both intervals can preserve an otherwise fragile route long enough for experience and modification to accumulate.
+
+The available support also has an organization. A stock of fuel cannot decide which workshop receives it. A person must be able to obtain materials, commit labor, and continue after an unsuccessful trial. Payments, claims, expectations, and authority affect those activities through physical consequences. The economic account explains how existing capacity is directed; the proposed energetic account asks how this direction participates in the formation of new pathways.
+
+Robert Allen's interpretation of British industrialization emphasizes relatively high wages and cheap energy as conditions favoring labor-saving, energy-using techniques.[3] Its relevance here is that different costs change which combinations can be attempted and retained. A design that consumes more fuel can be practical where another setting rewards a more fuel-conserving route.
+
+The comparison has to be reconstructed at the scale of actual participants. A national average can conceal the costs faced by households, women, children, or people far from a coal source. Jane Humphries's critique of the high-wage interpretation makes the household and gender assumptions particularly important.[4] The chapter's mechanism depends on resources being accessible to the people performing the transition, rather than merely present somewhere in the economy.
+
+Allen's comparison of English and Chinese pottery kilns gives the constraint argument a separate material example. He contrasts arrangements that tolerated greater fuel use with Chinese designs investing more in heat conservation through successive chambers.[5] The comparison does not establish that Britain and China were uniform environments, or independently explain where steam engines had to appear. It shows how different input constraints can favor different families of designs.
+
+For steam, the question becomes which setting could carry the expenditure of a first energy-hungry pump. Technical intelligence need not produce the same route under different constraints. Nor does a machine's existence elsewhere make it locally viable. The required fuel, construction methods, maintenance, and use must become connected in the place where it is expected to operate.
+
+The proposed driver remains disequilibrium. Fuel transformations supply energy to work carried out through an assembled organization. When pumping opens additional coal, the organization changes the reservoir access available to subsequent activity. If some of that capacity supports further construction, the transition has created a return through which a new route can persist and spread.
+
+Human purposes operate within that sequence. An investor's expectation can help direct resources before a result exists, and a mechanic's judgment can change the arrangement being tested. These are embodied mechanisms by which activity is organized. The future gain itself supplies no backward cause: an expectation can be wrong, an engine can fail, and a successful pump can encounter a different bottleneck underground.
+
+The maximizing claim concerns the wider development of accessible flows. It would need to explain why particular pathways are generated, retained, and expanded over alternatives. Showing that coal was burned, or that one owner received a return, is insufficient. The relevant comparison includes construction and operating expenditure, changed access, competing routes, and a defined observation interval. Chapter 2 established why energy throughput and entropy-production rates also require their own physical accounting.
+
+The proposed energetic preference is visible at the returning connection. The mine, pump, fuel supply, workforce, and repair network constitute the declared higher assembly. Its new access capability qualifies the transition; whether it repeatedly produces its operating conditions must still be shown. Track repaired pumps, renewed skills, workable shifts, and new installations over a specified interval. These occurrences become evidence for autopoiesis only when connected to the operations regenerating them. The theory predicts a sustained advantage from the return, not from fuel consumption alone.
+
+Later improvement changes the problem again. Watt's separate condenser allowed condensation to occur outside the working cylinder, reducing a major source of heat waste. The Science Museum preserves a condenser from his 1765 experimental work.[6] Once a useful function existed, a different arrangement could preserve it while altering the expenditure required for its performance.
+
+## The figure at Fowey Consols
+
+Now move from a colliery with fuel at hand to the metal mines of Cornwall. Coal had to come into the district. A pump there gave its owners access to ore, and the next cargo of fuel came with a bill. Around 1811 a group of mine proprietors put Captain Joel Lean in charge of a monthly accounting. Set down the coal consumed, the strokes, the lift and the load. An owner could open the report and see how many pounds an engine could raise one foot on a bushel of coal. The engineers called this its duty.[7]
+
+A good number could make an engineer’s reputation. A number that looked too good could bring his neighbors to the mine. In September 1834 the report credited William West’s engine at Fowey Consols with nearly 98 million foot-pounds per bushel. Engineers and miners elsewhere publicly questioned the figure. The principal proprietor, Austen, invited observers to a trial beginning October 22. The result they reported after two days was about 125 million. West’s engine had done better under scrutiny than its doubters had thought possible.[7]
+
+Look carefully at those two numbers. One described a month at work and one a short witnessed trial. A proprietor buying next winter’s coal had reason to care about both. Neither entry gives the number of days the mine could keep the workings dry or the cost of putting an idle engine back in service. For that we would want the shift book, the fuel bills and the repair account as well. Cornwall gives us a public argument about a measure precise enough to check, and a reason to ask what the measure leaves out.
+
+The monthly sheet changed what a different engineer could do on Monday morning. A figure from another shaft gave a reason to visit it, question a reported load, or try a modification. Cornish crews still had to pay for mistakes. Now they could choose a trial in light of work someone else had already paid for. The sheet joins fuel prices and an inherited stock of parts as an explanation of where the next improvement was sought.
+
+This is the route toward the book's question about convergent discovery. Several investigators may approach related outcomes because a history has concentrated the reachable search. The energetic hypothesis asks how the same development produces and supports that concentration. Common equipment and knowledge identify its mediating structure; the work is to explain how their production and retention connect to the underlying physical flows.
+
+Historical causal inference can test this mechanism without constructing another eighteenth-century economy. We would reconstruct the inaccessible resource, operating requirement, components, and support for an initial attempt from evidence predating success. Then we would seek a change in fuel access or committed resources whose allocation supplies a credible comparison between exposed and unexposed settings. A transport improvement built in anticipation of industrial expansion would not automatically qualify. Failed trials and delayed adoption must remain visible. The England–China contrast motivates the question; it is not by itself an identified natural experiment. The afterword specifies how an appropriate comparison could demonstrate a causal link.
+
+A smaller example isolates the support required during an unproductive interval. Archaeologists at Dhraʿ in the Jordan Valley reported purpose-built granaries more than eleven thousand years old, including evidence of raised floors and storage before crop domestication.[8] The case establishes constructed storage. Its role in the present argument is the material possibility of moving food across time.
+
+Imagine a community using a reserve while some members build a channel. The example is illustrative. A partly completed channel may provide no additional food, while its builders still need to eat. Existing production sustains them until the new arrangement can operate. Storage and recognized access to it make that interval bearable; the channel's future harvest cannot feed its first builders.
+
+The formal allocation matters alongside the grain. The same physical store can support different activities under different rules of access. Someone may be allowed to draw food while constructing a shared resource, or required to supply an immediate return they cannot yet produce. An effective change in that rule redirects material support toward a different possible assembly. It must itself be maintained through records, practices, cooperation, or enforcement.
+
+This is the limited work agriculture needs to perform in the chapter. It reveals the temporal organization of support across a barrier. It does not require a separate history of all farming, or a claim that storage inevitably generated one political order. Human cooperation and its biological history receive their own treatment in chapter 7.
+
+Ammonia synthesis isolates a different distinction. A field can lack usable nitrogen beneath an atmosphere containing abundant N₂. The practical problem concerns a pathway that supplies nitrogen in a form crops can use. Industrial synthesis combines nitrogen and hydrogen under conditions whose pressure, temperature, catalysis, and equipment have to work together.[9]
+
+A catalyst changes the rate at which a reaction can approach equilibrium; it does not independently provide the energy, reactants, pressure apparatus, or maintenance required by the plant. Compression and circulation require expenditure. The material of a vessel constrains the operating regime, while the reaction's formal relationships constrain which regime is useful. Neither an equation nor a larger energy budget supplies the whole assembly.
+
+The chemical case therefore prevents the mechanism from becoming a single slogan about lowering barriers. A transition can require a changed route and increased organized expenditure at the same time. It can also need a supporting network that keeps those conditions available repeatedly. Opening one pathway introduces further dependencies whose continuation requires explanation.
+
+The mine has carried us through the cycle. Changed constraints and existing resources make construction possible. A new assembly opens a pathway. Its energetic return can sustain the operations that maintain and reproduce the capability. Those operations retain components and knowledge while creating further resources and dependencies. The higher assembly changes the starting conditions for its successor.
+
+The process can stop at every connection. Resources may be diverted, a prototype may remain unmaintainable, or a new route may damage the conditions sustaining it. These possibilities belong inside a theory of pathway formation. The energetic hypothesis must explain where the returning connection actually operates and where it fails.
+
+The engine makes the proposed connection concrete: existing flows support a new assembly, constraints direct that support, and the assembly changes the pathways available for later activity. Yet pressure, heat, matter, and the relations permitting the machine to work have all been inherited. Could the same principles have built the universe itself and set the values of its fundamental constants? The next chapter begins with ontological uncertainty and follows the emergence of definite structure through symmetry breaking and disequilibrium to fine-tuning and assembled laws. That inquiry distinguishes the demonstrated machine from the conjecture about the conditions of existence.
+
+## Chapter notes
+
+1. W. Brian Arthur and Wolfgang Polak, [“The Evolution of Technology within a Simple Computer Model”](https://sites.santafe.edu/~wbarthur/Papers/AP-Complexity.pdf) (2004 working paper), models recursive construction using logic circuits. The transfer to historical engine production requires evidence about components, skills, and costs. See [S60](../research/sources.md#s60).
+
+2. Science Museum Group, [Newcomen engine model](https://collection.sciencemuseumgroup.org.uk/objects/co8231705/replica-of-model-of-newcomen-engine); ASME, [Newcomen engine engineering landmark account](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/70-newcomen-engine.pdf). See [S36](../research/sources.md#s36). The opening mine and the discussion of transition intervals are explanatory constructions, not a reconstructed event.
+
+3. Allen, [“Why the industrial revolution was British”](https://doi.org/10.1111/j.1468-0289.2010.00532.x) (2011). See [S04](../research/sources.md#s04). The connection to disequilibrium-driven assembly is the book's hypothesis.
+
+4. Humphries, [“The lure of aggregates and the pitfalls of the patriarchal perspective”](https://doi.org/10.1111/j.1468-0289.2012.00663.x) (2013). See [S37](../research/sources.md#s37) for the critique's scope.
+
+5. Allen, [British Academy lecture](https://www.thebritishacademy.ac.uk/documents/2079/pba167p199_0.pdf), printed pp. 211–212 and 218. See [S66](../research/sources.md#s66). The kiln comparison illustrates relative input constraints; it is not a controlled test of whole countries or proof of a thermodynamic maximum.
+
+6. Science Museum Group, [Watt's second separate condenser, 1765](https://collection.sciencemuseumgroup.org.uk/objects/co50928/watts-second-separate-condenser-1765-condensers). See [S36](../research/sources.md#s36).
+
+7. Dionysius Lardner, [*The Steam Engine Explained and Illustrated*](https://www.gutenberg.org/files/42602/old/42602-h/42602-h.htm), §178 (1840), describes Joel Lean’s monthly reports. William Pole, [*A Treatise on the Cornish Pumping Engine*](https://doi.org/10.3931/e-rara-43037), §84 (1844), reproduces the reporters’ account of the Fowey Consols challenge. [S146](../research/sources.md#s146).
+
+8. Kuijt and Finlayson, [“Evidence for food storage and predomestication granaries 11,000 years ago in the Jordan Valley”](https://doi.org/10.1073/pnas.0812764106) (2009). See [S35](../research/sources.md#s35). The channel and its support from a reserve are hypothetical; no local social arrangement is inferred from the archaeological remains alone.
+
+9. Haber, [“The synthesis of ammonia from its elements”](https://www.nobelprize.org/uploads/2018/06/haber-lecture.pdf) (1920); Bosch, [“The development of the chemical high pressure method during the establishment of the new ammonia industry”](https://www.nobelprize.org/uploads/2018/06/bosch-lecture.pdf) (1932). See [S39](../research/sources.md#s39). The condensed case distinguishes kinetics, equilibrium, and the apparatus sustaining operating conditions. The full former grain, steam, ammonia, and factory drafts remain in [historical development material](../editorial/archive/historical-drafts/README.md).
+
+10. **Empirical research design (S112).** Rural electrification in South Africa, 1996–2001. Making an energy pathway available can change productive participation. The [chapter-specific specification](../scripts/experiments.json) and [research guide](../scripts/README.md) document the comparison, assumptions, and limits; the [run report](../scripts/results/chapter05.json) records the actual data status. This component test does not by itself establish the chapter's broader synthesis.
+
+---
+
+[← The Discovery That Became Possible](04-the-discovery-that-became-possible.md) · [Contents](../README.md) · [From Uncertainty to an Assembled Universe →](06-from-uncertainty-to-an-assembled-universe.md)
