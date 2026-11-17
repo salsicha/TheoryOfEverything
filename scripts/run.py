@@ -17,8 +17,8 @@ from data import Context, NeedsData, ROOT, sha256, write_json
 def registry():
     document = json.loads((ROOT / "experiments.json").read_text())
     chapters = [c["chapter"] for c in document["cases"]]
-    if chapters != list(range(1, 15)):
-        raise ValueError("Registry must contain chapters 1–14 once, in order")
+    if chapters != list(range(1, 13)):
+        raise ValueError("Registry must contain chapters 1–12 once, in order")
     return document
 
 
@@ -33,27 +33,27 @@ def numerical_summary(report):
     if ch == 3 and result["status"] == "descriptive_outcome_only":
         return (f"Regional canopy mean {result['pre_mean']:.5f} → {result['post_mean']:.5f} km² "
                 f"({result['percent_change']:+.2f}%), 2008–2012 versus 2017–2019. No identified untreated comparison.")
-    if ch == 12 and "summary" in result:
+    if ch == 10 and "summary" in result:
         a = result["summary"]
         diagnostic = (" The larger absolute placebo contrast weakens causal interpretation."
                       if abs(a['placebo']['mean_contrast']) > abs(a['event']['mean_contrast']) else "")
         return (f"Mean 2000–2015 spring-DST contrast {a['event']['mean_contrast']:+.4f} known-date fatal crashes per geography-day; "
                 f"earlier-window placebo {a['placebo']['mean_contrast']:+.4f}. Descriptive points; no policy-level interval." + diagnostic)
+    if ch == 6:
+        return "Published granular instability and conditional |Δα/α| < 1.1 × 10⁻⁸ bound recorded. Ontological foundation and cosmic origins remain unidentified; no new raw-data fit."
     if ch == 8:
-        return "Published conditional |Δα/α| < 1.1 × 10⁻⁸ bound recorded; no raw-data fit and no origin claim identified."
-    if ch == 10:
         a = result["analyses_by_bandwidth"]["10"]["avgmath"]
         strength = a['first_stage_cluster_t_squared']
         return (f"Primary math estimate {a['effect_per_unit_treatment']:+.3f} score points per additional pupil; "
                 f"{a['clusters']} schools; first-stage clustered t² = {strength:.2f}. "
                 f"Wald interval reported: {a['inference_reported']}. Local IV assumptions and bandwidth sensitivity apply.")
-    if ch == 11:
+    if ch == 9:
         a = result["analyses"]["confirmed_permanent_closures_zero"]
         return f"NJ–PA employment change difference {a['coefficients']['exposure']:+.3f} FTE per restaurant; two policy clusters, no policy-level interval."
-    if ch == 13 and "tor_circumvention_proxy" in result:
+    if ch == 11 and "tor_circumvention_proxy" in result:
         a = result["tor_circumvention_proxy"]
         return f"Tor estimated-user gap {a['post_mean_gap']:+.0f} on common observed ban dates; circumvention proxy only. Coding panel: {result['primary_status']}."
-    if ch == 14 and "asn_diagnostic" in result:
+    if ch == 12 and "asn_diagnostic" in result:
         a = result["asn_diagnostic"]
         return (f"Provider-wide BGP visibility ranges from {a['minimum_visible_prefixes']} to {a['maximum_visible_prefixes']} prefixes. "
                 f"Service effect not estimated by this diagnostic; primary panel: {result['primary_status']}.")
@@ -84,7 +84,7 @@ def report_markdown(reports, run_meta):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("command", choices=["list", "run"])
-    parser.add_argument("--chapter", default="all", help="all or chapter number 1–14")
+    parser.add_argument("--chapter", default="all", help="all or chapter number 1–12")
     parser.add_argument("--fetch", action="store_true", help="Download missing public data; never overwrite cached data")
     parser.add_argument("--inputs", type=Path, default=ROOT / "inputs")
     parser.add_argument("--cache", type=Path, default=ROOT / "data")
@@ -96,9 +96,9 @@ def main(argv=None):
         try:
             selected = int(args.chapter)
         except ValueError:
-            parser.error("--chapter must be all or 1–14")
-        if selected not in range(1, 15):
-            parser.error("--chapter must be all or 1–14")
+            parser.error("--chapter must be all or 1–12")
+        if selected not in range(1, 13):
+            parser.error("--chapter must be all or 1–12")
         cases = [c for c in cases if c["chapter"] == selected]
     if args.command == "list":
         for case in cases:
@@ -133,7 +133,7 @@ def main(argv=None):
     statuses = {r["result"]["status"] for r in reports}
     if "error" in statuses:
         return 1
-    incomplete = {"needs_data", "secondary_diagnostic_only", "published_constraint_only", "conditional_point_estimate", "unidentified", "published_mechanism_only", "descriptive_outcome_only"}
+    incomplete = {"needs_data", "secondary_diagnostic_only", "published_constraint_only", "published_evidence_only", "conditional_point_estimate", "unidentified", "published_mechanism_only", "descriptive_outcome_only"}
     return 2 if args.strict and statuses & incomplete else 0
 
 

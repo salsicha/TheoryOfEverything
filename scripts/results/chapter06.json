@@ -1,26 +1,90 @@
 {
   "chapter": 6,
-  "title": "Ontological Uncertainty",
-  "case": "Ontological indeterminacy and the emergence of physical structure",
-  "claim_tested": "The proposed ontology would need a physical model with observable consequences distinct from competing accounts.",
-  "design": "Conceptual evidence record only; no empirical estimator is available for this claim.",
+  "title": "From Uncertainty to an Assembled Universe",
+  "case": "Ontological foundation, granular symmetry breaking, and Oklo stability constraint",
+  "claim_tested": "Separate the proposed ontology, a demonstrated bounded instability, and a conditional late-time constant constraint within the cosmic-assembly argument.",
+  "design": "Combined evidence record: unidentified ontology; published controlled granular mechanism; conditional Oklo bound with optional model checks. No new raw-data fit or empirical origin identification.",
   "identification_limits": [
-    "This is a philosophical proposal, not an empirical result",
-    "No numerical effect, confidence interval, or probability of cosmic emergence is estimated"
+    "The bound is conditional on the source's restriction relating changes in other fundamental parameters",
+    "No likelihood, new confidence interval, or raw isotope analysis is supplied",
+    "Constancy after formation neither proves nor refutes assembled origins",
+    "No credible natural experiment identifies the creation of the universe or its constants",
+    "Ontological uncertainty is the foundational premise; the Oklo bound does not establish it or derive cosmic assembly",
+    "Published controlled mechanism only, not a new natural-experiment estimate",
+    "No raw granular dataset has been fitted in this repository",
+    "The mechanism does not identify baryogenesis, cosmic origins, or a universal entropy-production maximum"
   ],
   "sources": [
+    "https://arxiv.org/abs/1503.06011",
+    "https://doi.org/10.1103/PhysRevC.92.014319",
     "https://doi.org/10.1103/PhysRev.34.163",
     "https://doi.org/10.1103/PhysRev.85.166",
-    "https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html"
+    "https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html",
+    "https://people.maths.bris.ac.uk/~majge/p5322_1.pdf",
+    "https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf"
   ],
   "result": {
-    "status": "unidentified",
-    "analysis_performed": false,
-    "conclusion": "No natural experiment or numerical result identifies the proposed ontology. Quantum uncertainty and a structured vacuum do not derive the emergence of the universe."
+    "status": "published_evidence_only",
+    "published_bound": 1.1e-08,
+    "source_confidence_level": 0.95,
+    "new_estimation": false,
+    "origin_of_constants_identified": false,
+    "models_checked": [],
+    "ontological_foundation": {
+      "case": "Ontological indeterminacy and the emergence of physical structure",
+      "claim_tested": "The proposed ontology would need a physical model with observable consequences distinct from competing accounts.",
+      "assignment": "No observed treatment/control assignment identifies the origin of existence or the impossibility of absolute nothingness.",
+      "design": "Conceptual evidence record only; no empirical estimator is available for this claim.",
+      "evidence_status": "unidentified",
+      "evidence_summary": "No natural experiment or numerical result identifies the proposed ontology. Quantum uncertainty and a structured vacuum do not derive the emergence of the universe.",
+      "counterfactual": "Requires competing physical models with discriminating observables; an observed state of absolute nothingness is unavailable.",
+      "prediction": "No quantitative prediction has yet been derived from the proposed ontology.",
+      "diagnostics": [
+        "Specify the ontology and connecting premises",
+        "Derive distinguishable observable consequences before claiming empirical identification"
+      ],
+      "identification_limits": [
+        "This is a philosophical proposal, not an empirical result",
+        "No numerical effect, confidence interval, or probability of cosmic emergence is estimated"
+      ],
+      "data_status": "Unidentified: no empirical bridge supplied.",
+      "sources": [
+        "https://doi.org/10.1103/PhysRev.34.163",
+        "https://doi.org/10.1103/PhysRev.85.166",
+        "https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html"
+      ],
+      "role": "Foundational premise for the chapter's fine-tuning and cosmological assembly hypothesis; no independent empirical identification."
+    },
+    "symmetry_breaking": {
+      "case": "Clustering in a driven two-compartment granular gas",
+      "claim_tested": "A symmetric arrangement can become unstable through density-dependent dissipation and escape rates.",
+      "assignment": "Laboratory manipulation of the drive; this is a controlled experiment, not a historical natural experiment.",
+      "design": "Record the published mechanism and its limits; no raw observations or effect-size estimator have been added.",
+      "evidence_status": "published_mechanism_only",
+      "evidence_summary": "Published experiments report approximately balanced populations under strong shaking and persistent unequal populations in an unstable regime at reduced driving. No raw-data reanalysis was conducted here.",
+      "counterfactual": "Compare stable and unstable driving regimes in the same defined apparatus, with repeated runs and perturbations.",
+      "prediction": "Imbalance should grow in the unstable regime and be restored in the stable regime; side selection need not be fixed.",
+      "diagnostics": [
+        "Obtain run-level counts, drive settings, geometry, and repeated trials",
+        "Account for hysteresis and imperfections",
+        "Measure total dissipation and competing pathways before testing an entropy-rate maximum"
+      ],
+      "identification_limits": [
+        "Published controlled mechanism only, not a new natural-experiment estimate",
+        "No raw granular dataset has been fitted in this repository",
+        "The mechanism does not identify baryogenesis, cosmic origins, or a universal entropy-production maximum"
+      ],
+      "data_status": "Published result available (S75–S76); raw-data reanalysis and thermodynamic comparison absent.",
+      "sources": [
+        "https://people.maths.bris.ac.uk/~majge/p5322_1.pdf",
+        "https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf"
+      ]
+    },
+    "conclusion": "The published granular mechanism and conditional late-time stability bound concern different physical claims. The ontological foundation and assembled origins remain unidentified."
   },
   "data_provenance": [],
   "run_metadata": {
-    "generated_utc": "2026-11-16T00:25:24.354279+00:00",
+    "generated_utc": "2026-11-16T01:49:13.497710+00:00",
     "python": "3.14.5",
     "dependencies": {
       "numpy": "2.5.5",
@@ -31,13 +95,13 @@
       "et-xmlfile": "2.0.0"
     },
     "code_sha256": {
-      "acquire.py": "a57ebbd42400837ddef2d6c7c609898e28129bd459d5c52019b904e2fb68927d",
-      "cases.py": "00380e430d120be3207189d8b2206add6f2cd2a27704dfed3bf30869e587b87a",
+      "acquire.py": "76e3e7d7843258f63be5c0789999d2e41741ad697ddf4b57acdf64a472212216",
+      "cases.py": "bdc5913130b3f90c3a37036b16ab41d08ec2b1ed8534be8ac7bb76a321dc1165",
       "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
       "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
-      "run.py": "9295ac7aedb6f36b200edf557e92f4539fb57e88f7486cc9058dc25bf1712494"
+      "run.py": "e07ddcf196ca82e4daee386e46de60ccfdc1f67d2a9139a461ad54c9713188c8"
     },
-    "registry_sha256": "1f3207fc1f5177c8d49c2c6ae5114426896c2967603ab69fdf8e5fda7b13d33a",
+    "registry_sha256": "61168a771370615536b10f4e0d5001eaeb05d93b1659ecba2a015f4faca22606",
     "requirements_sha256": "79f4ddec970cf3a2dca8e09bdb8895cf6326f3bfb833f3f0e2f8804404fb9988",
     "chapters": [
       1,
@@ -51,9 +115,7 @@
       9,
       10,
       11,
-      12,
-      13,
-      14
+      12
     ]
   }
 }

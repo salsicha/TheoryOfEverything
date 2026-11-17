@@ -83,7 +83,7 @@ def acquire_fars(fetch, cache, inputs):
         annual = list(pool.map(year_data,range(2000,2016)))
     frame = pd.concat([d for d,_,_,_ in annual],ignore_index=True)
     inputs.mkdir(parents=True,exist_ok=True)
-    path = inputs/'chapter12.csv'
+    path = inputs/'chapter10.csv'
     if path.exists():
         raise FileExistsError(f'{path} exists; choose a new --inputs directory to preserve the existing extract')
     frame.to_csv(path,index=False,date_format='%Y-%m-%d')
@@ -105,7 +105,7 @@ def acquire_fars(fetch, cache, inputs):
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--chapter',choices=['12'],required=True)
+    parser.add_argument('--chapter',choices=['10'],required=True)
     parser.add_argument('--fetch',action='store_true')
     parser.add_argument('--cache',type=Path,default=ROOT/'data')
     parser.add_argument('--inputs',type=Path,default=ROOT/'inputs')

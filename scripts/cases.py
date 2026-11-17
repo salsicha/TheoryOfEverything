@@ -143,10 +143,12 @@ def minimum_wage(case, ctx):
 
 def oklo(case, ctx):
     bound = case["published_abs_fractional_bound"]
-    result = {"status": "published_constraint_only", "published_bound": bound,
+    result = {"status": "published_evidence_only", "published_bound": bound,
               "source_confidence_level": case["confidence_level"], "new_estimation": False,
               "origin_of_constants_identified": False, "models_checked": [],
-              "conclusion": "A conditional late-time stability constraint; no experiment here identifies assembled origins."}
+              "ontological_foundation": case["ontological_foundation"],
+              "symmetry_breaking": case["symmetry_breaking"],
+              "conclusion": "The published granular mechanism and conditional late-time stability bound concern different physical claims. The ontological foundation and assembled origins remain unidentified."}
     if (ctx.inputs / case["input"]).exists():
         models = ctx.local(case)
         finite(models.fractional_alpha_change)
@@ -253,7 +255,7 @@ def dst(case, ctx):
     if abs(summaries["placebo"]["mean_contrast"]) > abs(summaries["event"]["mean_contrast"]):
         conclusion += " The earlier-window placebo is larger in absolute magnitude than the event contrast, weakening a clean causal interpretation."
     return {"status": "descriptive_comparison", "yearly_contrasts": output, "summary":summaries,
-            "series":ctx.csv("chapter12_dst_contrasts.csv",table), "annual_data_audit":metadata.get("annual_audit", []),
+            "series":ctx.csv("chapter10_dst_contrasts.csv",table), "annual_data_audit":metadata.get("annual_audit", []),
             "conclusion": conclusion}
 
 
@@ -274,7 +276,7 @@ def country_comparison(panel, label, ctx, allow_missing=False):
     fit, series = synthetic_control(complete, "it", countries[1:], pre, post, validation)
     fit.update(missing_by_country=missing, omitted_dates=omitted,
                missingness_policy="No interpolation or zero imputation; common observed dates only.",
-               series=ctx.csv(f"chapter13_{label}.csv", series))
+               series=ctx.csv(f"chapter11_{label}.csv", series))
     return fit
 
 
@@ -329,7 +331,7 @@ def infrastructure(case, ctx):
                     active.add(entry["prefix"])
             rows.append({"timestamp_utc": timestamp, "announced_prefixes": len(active)})
         table = pd.DataFrame(rows).set_index("timestamp_utc")
-        output["asn_diagnostic"] = {"series": ctx.csv("chapter14_bgp_prefixes.csv", table),
+        output["asn_diagnostic"] = {"series": ctx.csv("chapter12_bgp_prefixes.csv", table),
             "minimum_visible_prefixes": int(table.announced_prefixes.min()),
             "maximum_visible_prefixes": int(table.announced_prefixes.max()),
             "service_effect_estimated": False,

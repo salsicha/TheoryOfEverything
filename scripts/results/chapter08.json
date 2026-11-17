@@ -1,31 +1,712 @@
 {
   "chapter": 8,
-  "title": "Fine-Tuning and Assembled Laws",
-  "case": "Oklo's ancient natural nuclear reactors",
-  "claim_tested": "A model predicting changes in the fine-structure constant must respect isotope-based constraints.",
-  "design": "Compare a proposed fractional change in alpha against a published conditional 95% bound; no raw-isotope re-estimation.",
+  "title": "The World That Learned to Think",
+  "case": "Maimonides' class-size rule in Israeli schools",
+  "claim_tested": "A formal rule changes the material organization of teaching and can change learning outcomes.",
+  "design": "Fuzzy local-linear regression discontinuity at enrollment 40.5, triangular weights, separate slopes, school-clustered inference. Bandwidth 10 primary; 5 and 15 sensitivity.",
   "identification_limits": [
-    "The bound is conditional on the source's restriction relating changes in other fundamental parameters",
-    "No likelihood, new confidence interval, or raw isotope analysis is supplied",
-    "Constancy after formation neither proves nor refutes assembled origins",
-    "No credible natural experiment identifies the creation of the universe or its constants"
+    "Enrollment manipulation and other discontinuous policies threaten identification",
+    "Integer enrollment makes continuous-density tests inappropriate without modification",
+    "Conventional Wald interval suppressed when first stage is weak or there are few schools",
+    "Local class-size effect, not genetic intelligence or thermodynamic optimization"
   ],
   "sources": [
-    "https://arxiv.org/abs/1503.06011",
-    "https://doi.org/10.1103/PhysRevC.92.014319"
+    "https://economics.mit.edu/people/faculty/josh-angrist/angrist-data-archive",
+    "https://doi.org/10.1162/003355399556061"
   ],
   "result": {
-    "status": "published_constraint_only",
-    "published_bound": 1.1e-08,
-    "source_confidence_level": 0.95,
-    "new_estimation": false,
-    "origin_of_constants_identified": false,
-    "models_checked": [],
-    "conclusion": "A conditional late-time stability constraint; no experiment here identifies assembled origins."
+    "status": "conditional_effect_estimate",
+    "raw_classrooms": 2029,
+    "classrooms_after_author_filters": 2019,
+    "primary_bandwidth": 10,
+    "cutoff": 40.5,
+    "analyses_by_bandwidth": {
+      "10": {
+        "avgmath": {
+          "n": 322,
+          "clusters": 207,
+          "effect_per_unit_treatment": -0.40636572694700135,
+          "first_stage": {
+            "n": 322,
+            "clusters": 207,
+            "inference_reported": true,
+            "coefficients": {
+              "instrument": -8.46238616965699,
+              "control_0": 30.992575349693773,
+              "control_1": 0.38512840001617255,
+              "control_2": -0.17277449514617738
+            },
+            "standard_errors": {
+              "instrument": 2.744869449352214,
+              "control_0": 2.633088380867457,
+              "control_1": 0.5002631385913304,
+              "control_2": 0.5203524315522217
+            },
+            "ci95": {
+              "instrument": [
+                -13.8740243905893,
+                -3.0507479487246787
+              ],
+              "control_0": [
+                25.801318722039614,
+                36.183831977347936
+              ],
+              "control_1": [
+                -0.6011637247197807,
+                1.3714205247521258
+              ],
+              "control_2": [
+                -1.1986735985106853,
+                0.8531246082183306
+              ]
+            }
+          },
+          "first_stage_cluster_t_squared": 9.504784897314721,
+          "inference_reported": false,
+          "inference_note": "Wald interval suppressed: few clusters or weak/undetermined first stage. No weak-IV-robust interval implemented.",
+          "reduced_form": {
+            "n": 322,
+            "clusters": 207,
+            "inference_reported": true,
+            "coefficients": {
+              "threshold": 3.438823707537271,
+              "intercept": 58.39233723313381,
+              "running": -0.5571150603964226,
+              "slope_change": 1.2713798257615554
+            },
+            "standard_errors": {
+              "threshold": 2.8412656246563017,
+              "intercept": 2.247136540734966,
+              "running": 0.4274801319266616,
+              "slope_change": 0.5546764628456875
+            },
+            "ci95": {
+              "threshold": [
+                -2.1628640717630714,
+                9.040511486837614
+              ],
+              "intercept": [
+                53.96200267045912,
+                62.822671795808496
+              ],
+              "running": [
+                -1.3999120907504383,
+                0.2856819699575932
+              ],
+              "slope_change": [
+                0.17780929281848112,
+                2.36495035870463
+              ]
+            }
+          },
+          "excluded_missing": 0
+        },
+        "avgverb": {
+          "n": 322,
+          "clusters": 207,
+          "effect_per_unit_treatment": -0.6134379146849369,
+          "first_stage": {
+            "n": 322,
+            "clusters": 207,
+            "inference_reported": true,
+            "coefficients": {
+              "instrument": -8.46238616965699,
+              "control_0": 30.992575349693773,
+              "control_1": 0.38512840001617255,
+              "control_2": -0.17277449514617738
+            },
+            "standard_errors": {
+              "instrument": 2.744869449352214,
+              "control_0": 2.633088380867457,
+              "control_1": 0.5002631385913304,
+              "control_2": 0.5203524315522217
+            },
+            "ci95": {
+              "instrument": [
+                -13.8740243905893,
+                -3.0507479487246787
+              ],
+              "control_0": [
+                25.801318722039614,
+                36.183831977347936
+              ],
+              "control_1": [
+                -0.6011637247197807,
+                1.3714205247521258
+              ],
+              "control_2": [
+                -1.1986735985106853,
+                0.8531246082183306
+              ]
+            }
+          },
+          "first_stage_cluster_t_squared": 9.504784897314721,
+          "inference_reported": false,
+          "inference_note": "Wald interval suppressed: few clusters or weak/undetermined first stage. No weak-IV-robust interval implemented.",
+          "reduced_form": {
+            "n": 322,
+            "clusters": 207,
+            "inference_reported": true,
+            "coefficients": {
+              "threshold": 5.191148525172851,
+              "intercept": 67.08316842136767,
+              "running": -0.618720429966471,
+              "slope_change": 0.8366188183065875
+            },
+            "standard_errors": {
+              "threshold": 3.0205732587794762,
+              "intercept": 2.5627795181119124,
+              "running": 0.4722259315481891,
+              "slope_change": 0.5682227929989945
+            },
+            "ci95": {
+              "threshold": [
+                -0.7640526229891398,
+                11.146349673334843
+              ],
+              "intercept": [
+                62.03052899791169,
+                72.13580784482366
+              ],
+              "running": [
+                -1.5497358925359728,
+                0.3122950326030307
+              ],
+              "slope_change": [
+                -0.28365893673344456,
+                1.9568965733466195
+              ]
+            }
+          },
+          "excluded_missing": 0
+        },
+        "disadvantage_balance": {
+          "n": 207,
+          "clusters": 207,
+          "inference_reported": true,
+          "coefficients": {
+            "intercept": 22.368064806127165,
+            "threshold": 2.6976658602464503,
+            "running": 0.5153557994000229,
+            "slope_change": -1.331062043065382
+          },
+          "standard_errors": {
+            "intercept": 3.595178325666832,
+            "threshold": 5.106368800004457,
+            "running": 0.6859576855011285,
+            "slope_change": 0.9882299474437649
+          },
+          "ci95": {
+            "intercept": [
+              15.280002952097057,
+              29.456126660157274
+            ],
+            "threshold": [
+              -7.369778540361356,
+              12.765110260854257
+            ],
+            "running": [
+              -0.8370417908300831,
+              1.8677533896301288
+            ],
+            "slope_change": [
+              -3.2794035045941676,
+              0.6172794184634041
+            ]
+          }
+        },
+        "schools_by_enrollment": {
+          "31": 7,
+          "32": 9,
+          "33": 8,
+          "34": 11,
+          "35": 10,
+          "36": 7,
+          "37": 7,
+          "38": 9,
+          "39": 8,
+          "40": 7,
+          "41": 16,
+          "42": 15,
+          "43": 13,
+          "44": 10,
+          "45": 10,
+          "46": 10,
+          "47": 16,
+          "48": 14,
+          "49": 11,
+          "50": 9
+        }
+      },
+      "5": {
+        "avgmath": {
+          "n": 160,
+          "clusters": 102,
+          "effect_per_unit_treatment": -0.15328090069851896,
+          "first_stage": {
+            "n": 160,
+            "clusters": 102,
+            "inference_reported": true,
+            "coefficients": {
+              "instrument": -8.469375475316104,
+              "control_0": 31.16818243796013,
+              "control_1": 0.42382056176703764,
+              "control_2": -0.28016061000997394
+            },
+            "standard_errors": {
+              "instrument": 4.092237010759786,
+              "control_0": 3.9270919406060747,
+              "control_1": 1.5267251384684102,
+              "control_2": 1.5927488840683734
+            },
+            "ci95": {
+              "instrument": [
+                -16.587272905002663,
+                -0.351478045629543
+              ],
+              "control_0": [
+                23.377888403922764,
+                38.95847647199749
+              ],
+              "control_1": [
+                -2.604791428404438,
+                3.4524325519385135
+              ],
+              "control_2": [
+                -3.4397459512593507,
+                2.8794247312394026
+              ]
+            }
+          },
+          "first_stage_cluster_t_squared": 4.283326856509397,
+          "inference_reported": false,
+          "inference_note": "Wald interval suppressed: few clusters or weak/undetermined first stage. No weak-IV-robust interval implemented.",
+          "reduced_form": {
+            "n": 160,
+            "clusters": 102,
+            "inference_reported": true,
+            "coefficients": {
+              "threshold": 1.298193501211987,
+              "intercept": 60.56272994761308,
+              "running": 0.6410912088258305,
+              "slope_change": -0.004967870083276482
+            },
+            "standard_errors": {
+              "threshold": 3.3744424289103034,
+              "intercept": 2.2832166120303534,
+              "running": 1.0595654051843084,
+              "slope_change": 1.4812296360494628
+            },
+            "ci95": {
+              "threshold": [
+                -5.3957925627062,
+                7.992179565130174
+              ],
+              "intercept": [
+                56.033442367865206,
+                65.09201752736095
+              ],
+              "running": [
+                -1.4608015350975008,
+                2.742983952749162
+              ],
+              "slope_change": [
+                -2.9433290216112447,
+                2.9333932814446912
+              ]
+            }
+          },
+          "excluded_missing": 0
+        },
+        "avgverb": {
+          "n": 160,
+          "clusters": 102,
+          "effect_per_unit_treatment": -0.4042554212313689,
+          "first_stage": {
+            "n": 160,
+            "clusters": 102,
+            "inference_reported": true,
+            "coefficients": {
+              "instrument": -8.469375475316104,
+              "control_0": 31.16818243796013,
+              "control_1": 0.42382056176703764,
+              "control_2": -0.28016061000997394
+            },
+            "standard_errors": {
+              "instrument": 4.092237010759786,
+              "control_0": 3.9270919406060747,
+              "control_1": 1.5267251384684102,
+              "control_2": 1.5927488840683734
+            },
+            "ci95": {
+              "instrument": [
+                -16.587272905002663,
+                -0.351478045629543
+              ],
+              "control_0": [
+                23.377888403922764,
+                38.95847647199749
+              ],
+              "control_1": [
+                -2.604791428404438,
+                3.4524325519385135
+              ],
+              "control_2": [
+                -3.4397459512593507,
+                2.8794247312394026
+              ]
+            }
+          },
+          "first_stage_cluster_t_squared": 4.283326856509397,
+          "inference_reported": false,
+          "inference_note": "Wald interval suppressed: few clusters or weak/undetermined first stage. No weak-IV-robust interval implemented.",
+          "reduced_form": {
+            "n": 160,
+            "clusters": 102,
+            "inference_reported": true,
+            "coefficients": {
+              "threshold": 3.423790950340222,
+              "intercept": 68.1918588541819,
+              "running": -0.05295414624253714,
+              "slope_change": 0.6951968231689272
+            },
+            "standard_errors": {
+              "threshold": 3.7610246334088906,
+              "intercept": 3.0980495252225775,
+              "running": 1.2006284517464811,
+              "slope_change": 1.4878896536852255
+            },
+            "ci95": {
+              "threshold": [
+                -4.037070217832737,
+                10.88465211851318
+              ],
+              "intercept": [
+                62.04616196230598,
+                74.33755574605783
+              ],
+              "running": [
+                -2.4346780290026206,
+                2.328769736517546
+              ],
+              "slope_change": [
+                -2.2563760118233347,
+                3.6467696581611886
+              ]
+            }
+          },
+          "excluded_missing": 0
+        },
+        "disadvantage_balance": {
+          "n": 102,
+          "clusters": 102,
+          "inference_reported": true,
+          "coefficients": {
+            "intercept": 21.0381271971876,
+            "threshold": 5.054771153070501,
+            "running": -0.32336209651646053,
+            "slope_change": -0.9993058296668706
+          },
+          "standard_errors": {
+            "intercept": 4.720755470232178,
+            "threshold": 7.014751036968561,
+            "running": 2.0193523838771656,
+            "slope_change": 2.931274153872468
+          },
+          "ci95": {
+            "intercept": [
+              11.673418213515758,
+              30.40283618085944
+            ],
+            "threshold": [
+              -8.860607956979019,
+              18.97015026312002
+            ],
+            "running": [
+              -4.329214026305904,
+              3.682489833272983
+            ],
+            "slope_change": [
+              -6.814165246866146,
+              4.8155535875324045
+            ]
+          }
+        },
+        "schools_by_enrollment": {
+          "36": 7,
+          "37": 7,
+          "38": 9,
+          "39": 8,
+          "40": 7,
+          "41": 16,
+          "42": 15,
+          "43": 13,
+          "44": 10,
+          "45": 10
+        }
+      },
+      "15": {
+        "avgmath": {
+          "n": 499,
+          "clusters": 321,
+          "effect_per_unit_treatment": -0.5180527997217723,
+          "first_stage": {
+            "n": 499,
+            "clusters": 321,
+            "inference_reported": true,
+            "coefficients": {
+              "instrument": -8.507984511442496,
+              "control_0": 30.784009723645585,
+              "control_1": 0.30543771891895255,
+              "control_2": -0.004778329594247621
+            },
+            "standard_errors": {
+              "instrument": 2.1413996457009,
+              "control_0": 2.0530459123035243,
+              "control_1": 0.2402481920281154,
+              "control_2": 0.251777558011231
+            },
+            "ci95": {
+              "instrument": [
+                -12.720984825176506,
+                -4.2949841977084855
+              ],
+              "control_0": [
+                26.74483698444677,
+                34.8231824628444
+              ],
+              "control_1": [
+                -0.16722776901111003,
+                0.7781032068490151
+              ],
+              "control_2": [
+                -0.500126749503652,
+                0.49057009031515675
+              ]
+            }
+          },
+          "first_stage_cluster_t_squared": 15.785484940693463,
+          "inference_reported": true,
+          "inference_note": "Conventional cluster Wald inference, conditional on IV assumptions; t^2>=10 is not a weak-IV guarantee.",
+          "standard_error": 0.342492175793703,
+          "ci95": [
+            -1.191873609848055,
+            0.15576801040451016
+          ],
+          "reduced_form": {
+            "n": 499,
+            "clusters": 321,
+            "inference_reported": true,
+            "coefficients": {
+              "threshold": 4.407585196138772,
+              "intercept": 58.2883994267023,
+              "running": -0.6145508666947908,
+              "slope_change": 1.0515978806979946
+            },
+            "standard_errors": {
+              "threshold": 2.449993916151013,
+              "intercept": 1.9897082848330425,
+              "running": 0.2477388482723343,
+              "slope_change": 0.31345594779558017
+            },
+            "ci95": {
+              "threshold": [
+                -0.4125450201489054,
+                9.227715412426448
+              ],
+              "intercept": [
+                54.37383745081431,
+                62.20296140259029
+              ],
+              "running": [
+                -1.1019535089763655,
+                -0.12714822441321594
+              ],
+              "slope_change": [
+                0.434903089954098,
+                1.6682926714418913
+              ]
+            }
+          },
+          "excluded_missing": 0
+        },
+        "avgverb": {
+          "n": 499,
+          "clusters": 321,
+          "effect_per_unit_treatment": -0.6274783985260228,
+          "first_stage": {
+            "n": 499,
+            "clusters": 321,
+            "inference_reported": true,
+            "coefficients": {
+              "instrument": -8.507984511442496,
+              "control_0": 30.784009723645585,
+              "control_1": 0.30543771891895255,
+              "control_2": -0.004778329594247621
+            },
+            "standard_errors": {
+              "instrument": 2.1413996457009,
+              "control_0": 2.0530459123035243,
+              "control_1": 0.2402481920281154,
+              "control_2": 0.251777558011231
+            },
+            "ci95": {
+              "instrument": [
+                -12.720984825176506,
+                -4.2949841977084855
+              ],
+              "control_0": [
+                26.74483698444677,
+                34.8231824628444
+              ],
+              "control_1": [
+                -0.16722776901111003,
+                0.7781032068490151
+              ],
+              "control_2": [
+                -0.500126749503652,
+                0.49057009031515675
+              ]
+            }
+          },
+          "first_stage_cluster_t_squared": 15.785484940693463,
+          "inference_reported": true,
+          "inference_note": "Conventional cluster Wald inference, conditional on IV assumptions; t^2>=10 is not a weak-IV guarantee.",
+          "standard_error": 0.3570107834578583,
+          "ci95": [
+            -1.3298631895826594,
+            0.0749063925306136
+          ],
+          "reduced_form": {
+            "n": 499,
+            "clusters": 321,
+            "inference_reported": true,
+            "coefficients": {
+              "threshold": 5.338576495912438,
+              "intercept": 67.33739227447299,
+              "running": -0.5534549665041559,
+              "slope_change": 0.6485442698316575
+            },
+            "standard_errors": {
+              "threshold": 2.510220930775027,
+              "intercept": 2.1221688654974438,
+              "running": 0.25809043479943183,
+              "slope_change": 0.3101818808558347
+            },
+            "ci95": {
+              "threshold": [
+                0.3999553514994858,
+                10.27719764032539
+              ],
+              "intercept": [
+                63.16222669336031,
+                71.51255785558567
+              ],
+              "running": [
+                -1.0612233716053245,
+                -0.045686561402987325
+              ],
+              "slope_change": [
+                0.03829089466939972,
+                1.258797644993915
+              ]
+            }
+          },
+          "excluded_missing": 0
+        },
+        "disadvantage_balance": {
+          "n": 321,
+          "clusters": 321,
+          "inference_reported": true,
+          "coefficients": {
+            "intercept": 21.0345395336331,
+            "threshold": 3.7245356596676875,
+            "running": 0.0825909229995283,
+            "slope_change": -0.80237770976947
+          },
+          "standard_errors": {
+            "intercept": 2.978223179988122,
+            "threshold": 4.192341539447418,
+            "running": 0.39780917185033704,
+            "slope_change": 0.5489005420972851
+          },
+          "ci95": {
+            "intercept": [
+              15.175168436393086,
+              26.893910630873116
+            ],
+            "threshold": [
+              -4.523497936691227,
+              11.9725692560266
+            ],
+            "running": [
+              -0.7000608203013707,
+              0.8652426663004273
+            ],
+            "slope_change": [
+              -1.882287366384605,
+              0.27753194684566496
+            ]
+          }
+        },
+        "schools_by_enrollment": {
+          "26": 4,
+          "27": 12,
+          "28": 15,
+          "29": 10,
+          "30": 10,
+          "31": 7,
+          "32": 9,
+          "33": 8,
+          "34": 11,
+          "35": 10,
+          "36": 7,
+          "37": 7,
+          "38": 9,
+          "39": 8,
+          "40": 7,
+          "41": 16,
+          "42": 15,
+          "43": 13,
+          "44": 10,
+          "45": 10,
+          "46": 10,
+          "47": 16,
+          "48": 14,
+          "49": 11,
+          "50": 9,
+          "51": 15,
+          "52": 12,
+          "53": 14,
+          "54": 11,
+          "55": 11
+        }
+      }
+    },
+    "conclusion": "Local first-threshold reanalysis; read first stage, balance, and bandwidth sensitivity before any causal interpretation."
   },
-  "data_provenance": [],
+  "data_provenance": [
+    {
+      "file": "final5.dta",
+      "source_url": "https://economics.mit.edu/sites/default/files/inline-files/final5.dta",
+      "resolved_url": "https://economics.mit.edu/sites/default/files/inline-files/final5.dta",
+      "retrieved_utc": "2026-11-15T23:10:19.108556+00:00",
+      "bytes": 241713,
+      "content_type": "text/plain",
+      "sha256": "bf443edee9033926b4e74dc2c17a98b04405b899735bf4c372e0e6d468431a54"
+    },
+    {
+      "file": "AngristLavy_Table3.do",
+      "source_url": "https://economics.mit.edu/sites/default/files/inline-files/AngristLavy_Table3.do",
+      "resolved_url": "https://economics.mit.edu/sites/default/files/inline-files/AngristLavy_Table3.do",
+      "retrieved_utc": "2026-11-15T23:10:19.246609+00:00",
+      "bytes": 1527,
+      "content_type": "text/plain",
+      "sha256": "4f60d062244fde9713db9a2ed91af700a49402bdcd2d39c2e0b1aa51687dcac5"
+    }
+  ],
   "run_metadata": {
-    "generated_utc": "2026-11-16T00:25:24.354279+00:00",
+    "generated_utc": "2026-11-16T01:49:13.497710+00:00",
     "python": "3.14.5",
     "dependencies": {
       "numpy": "2.5.5",
@@ -36,13 +717,13 @@
       "et-xmlfile": "2.0.0"
     },
     "code_sha256": {
-      "acquire.py": "a57ebbd42400837ddef2d6c7c609898e28129bd459d5c52019b904e2fb68927d",
-      "cases.py": "00380e430d120be3207189d8b2206add6f2cd2a27704dfed3bf30869e587b87a",
+      "acquire.py": "76e3e7d7843258f63be5c0789999d2e41741ad697ddf4b57acdf64a472212216",
+      "cases.py": "bdc5913130b3f90c3a37036b16ab41d08ec2b1ed8534be8ac7bb76a321dc1165",
       "data.py": "dc6f580c712cdc21551d79cbf7a207a7af1b7b994149c8095361a1d4120a69f0",
       "methods.py": "73a47281a6ad6c8846c9dacbafc17bde95e6dcb2a47a1813bf02e83488fae02b",
-      "run.py": "9295ac7aedb6f36b200edf557e92f4539fb57e88f7486cc9058dc25bf1712494"
+      "run.py": "e07ddcf196ca82e4daee386e46de60ccfdc1f67d2a9139a461ad54c9713188c8"
     },
-    "registry_sha256": "1f3207fc1f5177c8d49c2c6ae5114426896c2967603ab69fdf8e5fda7b13d33a",
+    "registry_sha256": "61168a771370615536b10f4e0d5001eaeb05d93b1659ecba2a015f4faca22606",
     "requirements_sha256": "79f4ddec970cf3a2dca8e09bdb8895cf6326f3bfb833f3f0e2f8804404fb9988",
     "chapters": [
       1,
@@ -56,9 +737,7 @@
       9,
       10,
       11,
-      12,
-      13,
-      14
+      12
     ]
   }
 }
