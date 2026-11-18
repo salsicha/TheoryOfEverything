@@ -5,7 +5,7 @@
 | [notes](notes.md) | Original source notes with a dated author clarification appended |
 | [ideas](ideas.md) | Expanded ideas I01–I77 and current coverage map |
 | [outline](outline.md) | Current twelve-chapter sequence, section plans, and causal argument |
-| [sources.md](../research/sources.md) | Source keys S01–S155, evidence limits, and outstanding research |
+| [sources.md](../research/sources.md) | Source keys S01–S156, evidence limits, and outstanding research |
 | [Natural-experiment scripts](../scripts/README.md) | Twelve evidence records, with estimators, data contracts, and explicit identification limits |
 | [Experiment results](../scripts/results/summary.md) | Completed comparisons, diagnostic checks, and explicit missing-data statuses |
 | [Dataset search audit](../scripts/dataset-search.md) | Located primary data, access limits, and the observations still needed |
@@ -22,25 +22,25 @@ The chapters use constraint satisfaction, nonlinear dynamics, autocatalytic and 
 
 ## Draft extent
 
-The prologue, twelve drafted chapters, and epilogue contain **35,652 words** before notes. The methodological afterword adds **3,616**, for **39,268 words** of drafted prose in the reading sequence. Counts use whitespace-separated words and include titles, part headings and epigraphs. Plates, navigation, source notes and research appendices are excluded.
+The prologue, twelve drafted chapters, and epilogue contain **35,313 words** before notes. The methodological afterword adds **3,616**, for **38,929 words** of drafted prose in the reading sequence. Counts use whitespace-separated words and include titles, part headings and epigraphs. Plates, navigation, source notes and research appendices are excluded.
 
 The original 65,000–80,000-word ambition remains a possible longer revision. Expansion should add explanatory mechanisms, historical depth, and discriminating comparisons.
 
 | Section | Words before notes |
 | --- | ---: |
-| [prologue](../manuscript/prologue.md) | 1,247 |
+| [prologue](../manuscript/prologue.md) | 751 |
 | [chapter1](../manuscript/01-the-square-with-one-answer.md) | 1,128 |
 | [chapter2](../manuscript/02-the-gradient-and-the-barrier.md) | 1,879 |
-| [chapter3](../manuscript/03-life-makes-its-conditions.md) | 3,038 |
-| [chapter4](../manuscript/04-the-discovery-that-became-possible.md) | 2,751 |
-| [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md) | 2,584 |
+| [chapter3](../manuscript/03-life-makes-its-conditions.md) | 2,791 |
+| [chapter4](../manuscript/04-the-discovery-that-became-possible.md) | 2,810 |
+| [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md) | 2,830 |
 | [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md) | 3,782 |
 | [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md) | 3,058 |
 | [chapter8](../manuscript/08-the-world-that-learned-to-think.md) | 2,466 |
 | [chapter9](../manuscript/09-the-system-that-produces-its-tomorrow.md) | 3,600 |
-| [chapter10](../manuscript/10-the-system-that-models-itself.md) | 2,949 |
-| [chapter11](../manuscript/11-why-the-world-builds-artificial-intelligence.md) | 2,642 |
-| [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md) | 2,968 |
+| [chapter10](../manuscript/10-the-system-that-models-itself.md) | 3,010 |
+| [chapter11](../manuscript/11-why-the-world-builds-artificial-intelligence.md) | 2,670 |
+| [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md) | 2,978 |
 | [epilogue](../manuscript/epilogue.md) | 1,560 |
 | [afterword](../manuscript/afterword.md) | 3,616 |
 

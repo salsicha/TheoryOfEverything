@@ -6,6 +6,8 @@ The November 15, 2026 research update adds two analyses from primary public data
 
 A separate chapter 2 study follows US coal mines through the 2019 tax cut and reported interruptions, and wind plants through the tenth anniversary of first production. The mine continuation gap widened by 3.11 percentage points, with missing records allowing a change between −0.76 and +3.88. All 75 underground incident-quarters had positive output the following quarter. No surface incident-quarter supplied a comparison. At wind plants the estimated change at ten years depended on the comparison window and calendar controls. The link from retained proceeds to a dated repair is still open. [Two-mine study and results](two-mines.md)
 
+The [Elwha River study](elwha.md) tests a prediction shared by chapters 2 and 3. Removing two dams let Chinook carry marine material into upstream habitat again. The public surveys record that return, and separate brood-year data let us ask whether the fish replaced themselves.
+
 | Chapter | Current finding | What remains unresolved |
 | --- | --- | --- |
 | 1 — Bottlenecks | Replication archive located; no estimate | Download access and regional exposure/capacity extract |

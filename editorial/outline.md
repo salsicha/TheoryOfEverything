@@ -50,13 +50,13 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 2. **The Gradient and the Barrier.** Heat passes between hot and cold iron. Follow what changes when that flow can do work, then when its proceeds buy a replacement pump rod. A driven chemical model raises the question of which arrangements persist. The route to the vent leads from a flow of energy to a system able to renew the structures that use it.
 
-3. **Life Makes Its Conditions.** A camera watch at Lost City reveals a modern vent community. Move from the renewing cell to the timing of life’s origins, then to the Fermi paradox. When could a world first keep this chemistry going, and what would make its inhabitants leave? Follow oxygen into the atmosphere and end with a frozen bacterial lineage that reveals what readiness can depend on.
+3. **Life Makes Its Conditions.** Stay with the samples from Lost City. What work can a living cell take over from a wall of rock? The age of suitable planets prompts a short question about visitors from older worlds. Follow oxygen into the atmosphere, then open a freezer to ask why one of twelve bacterial populations gained access to a resource available to all.
 
 **Part II · The Physical Argument**
 
-4. **The Discovery That Became Possible.** Read Einstein and Poincaré as a test with a capable rival. Mathematical inheritance can predict overlap. Ask which additional differences in access, timing or retention an energetic account predicts, then turn separately to wave and particle.
+4. **The Discovery That Became Possible.** Two June papers reach some of the same relations from different starting points. Put what one lineage could inherit beside what a physicist could inherit from a letter or a published measurement. Ask where the papers still part company, then turn separately to wave and particle.
 
-5. **How Disequilibrium Builds a New Pathway.** From the flooded coal seam, work through Newcomen, the England–China comparison and Watt. Change the setting to Cornish metal mines. Follow Lean’s duty reports and the public challenge to West’s engine at Fowey Consols.
+5. **How Disequilibrium Builds a New Pathway.** From the flooded seam, work through Newcomen, the England–China comparison and Watt. Follow the Cornish trial at Fowey Consols. In neighboring Devon a pressure-driven train delivered its passengers and left the directors with a valve they could no longer justify replacing.
 
 6. **From Uncertainty to an Assembled Universe.** Ask how an outcome of one history becomes a rule for later things. Follow ontological uncertainty through symmetry breaking and disequilibrium to fine-tuning. End with what a vacuum model supplies as inputs and what an account of assembled laws must derive.
 
@@ -84,11 +84,11 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 **Current material:** [prologue](../manuscript/prologue.md). **Ideas:** I07, I31, I43, I50–I55. **Sources:** S147, S30–S31.
 
-Open with a flooded seam that cannot pay for its own first firing, then the portrait Carquillat wove in 1839. Bring the two questions into the unfinished data center and trace physical dependencies outward. [S147](../research/sources.md#s147)
+Leave the carter at the flooded seam with his bill still to be paid. Save the falling waterline and the first cart out for chapter 1. Give the reader time to look through the curtain Carquillat wove in 1839 and down at the punched cards on Jacquard’s table. [S147](../research/sources.md#s147)
 
-State the full thesis early, including the natural emergence of AI and data centers and the probable assembly of the universe and fundamental constants. Then introduce the possibility that computation can help redesign the productive system that supports it. The machine becomes an entry into a larger question: how does the world build capacities that change what it can build next?
+Imagine inheriting every card in order and still needing the weaver’s eye when a streak appears in the sleeve. Glimpse the engineer with a question about cooling the next hall while the racks wait for electricity.
 
-Let the unpaid cartload and the light woven through a curtain carry the argument. The engineer’s cooling question brings the two promises of a machine together. Move from the possibility of historically assembled laws to cybernetic self-modeling. Leave the data center awaiting power and end at the Sudoku grid just before the solver makes its first move.
+Give the ambition in one sentence about how making one thing changes what can be made next. Introduce the eighty-one squares and end on the solver’s first choice. The chapters introduce the formal ideas through the problems that call for them.
 
 ## Part I — How Possibility Becomes Actual
 
@@ -133,13 +133,13 @@ Let the unpaid cartload and the light woven through a curtain carry the argument
 **Question:** What changes when an assembly helps make the conditions of its own continuation?
 
 1. Join the Argo II watch over the Atlantis Massif and the subsequent Alvin dive. Follow the carbonate chimneys from an image on a screen to an ecosystem supplied by rock and water. [S145](../research/sources.md#s145) · [S143](../research/sources.md#s143)
-2. Move inside a living cell. Follow the linked work of making components, keeping a boundary and replacing losses. Distinguish the renewal of an individual from the production of descendants and from the question of how life began.
+2. Look for two boundaries in a sample from the vent. The rock slows the loss of useful material. Living chemistry supplies its own membrane. In a conjecture about origins, ask when making fresh boundary could keep pace with losing it.
 3. Ask when the young Earth could have sustained such chemistry. Give the evidence for liquid water, early life and the modeled window for persistent RNA chemistry their respective roles. Explain the vent-origin hypothesis and the work a chemical gradient might do along a constrained pathway. [S131](../research/sources.md#s131)–[S135](../research/sources.md#s135) · [S140](../research/sources.md#s140)–[S144](../research/sources.md#s144)
-4. Ask who would make the crossing between stars. Put the late-chemistry hypothesis beside ancient small planets, then follow what a probe can send home, what a settlement must renew, and how a failing home star changes the return. [S151](../research/sources.md#s151) · [S152](../research/sources.md#s152)
+4. Give the Fermi conjecture a brief turn. Put the late-chemistry hypothesis beside ancient small planets, then weigh what a probe can send home against what a settlement must renew, especially as its home star ages. [S151](../research/sources.md#s151) · [S152](../research/sources.md#s152)
 5. Widen the boundary to the changes living systems make in their surroundings. Follow oxygen through the sinks that consume it and the atmosphere that later organisms inherit. What one generation does can change the conditions for the next.
-6. Follow the citrate-using lineage in Lenski’s long-running laboratory study. The resource was present even in the eleven populations still unable to use it. The frozen record brings inherited capability into the explanation.
+6. Follow the citrate-using lineage in Lenski’s long-running study. The resource was present in all twelve populations. Ask what the early and late frozen samples reveal about the prospects for a breakthrough before one occurred.
 
-**Transition:** Human investigators inherit a world in which the work of earlier investigators has also changed what is accessible. Turn from the emergence of a capacity to the convergence of discoveries.
+**Transition:** One lineage in twelve gained a new capacity. Why, in June 1905, did two investigators approaching a problem from different directions agree on a mathematical relation?
 
 ## Part II — The Physical Argument
 
@@ -147,7 +147,7 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 
 ### 4. The Discovery That Became Possible
 
-**Current material:** [chapter4](../manuscript/04-the-discovery-that-became-possible.md). **Ideas:** I70, I71, I69, I50–I52, I56. **Sources:** S65, S67, S127, S130, S147.
+**Current material:** [chapter4](../manuscript/04-the-discovery-that-became-possible.md). **Ideas:** I70, I71, I69, I50–I52, I56. **Sources:** S03, S65, S67, S127, S130, S147.
 
 **Question:** Could convergent discovery and dialectical reconstruction be expressions of the same disequilibrium-driven process?
 
@@ -157,7 +157,7 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 
 1. Read Poincaré’s June note and Einstein’s June paper side by side. Use a train, a clock and the travel time of a signal to make the two routes into the problem legible.
 2. Go back to the stone slab Michelson and Morley floated on mercury. Follow the grant, mirrors and slow rotation that made a nearly stationary stripe mean enough to trouble Poincaré years later.
-3. Ask how two searches could converge in June 1905. Which results did the available evidence make likely? Which decisions still depended on who was asking? Give shared mathematics and shared error their due.
+3. Return to the freezer with Poincaré’s note in hand. A lineage can keep an advantage to itself. A reader can inherit an optical result and a competing explanation by post. Ask which parts of the two papers others could readily have reached and where the authors’ interpretations still differ.
 4. Turn from motion to the distinct problem of radiation. Follow Einstein’s account of waves and quanta into the image built by single electron arrivals. Read the three dialectical principles through what the observations force a successor theory to retain.
 5. Follow the argument back into hardware. A navigation clock can embody a relation developed on paper. What does the instrument reveal about the physical cost and return of discovery, and what can its accuracy alone establish?
 
@@ -165,7 +165,7 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 
 ### 5. How Disequilibrium Builds a New Pathway
 
-**Current material:** [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md). **Ideas:** I70, I71, I69, I16–I18, I31, I41–I42, I50–I53. **Sources:** S146, S04, S35–S37, S39, S66; energetic accounting in S07 and S68.
+**Current material:** [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md). **Ideas:** I70, I71, I69, I16–I18, I31, I41–I42, I50–I53. **Sources:** S146, S156, S04, S35–S37, S39, S66. Energetic accounting in S07 and S68.
 
 **Question:** How can disequilibrium participate in producing a pathway that does not yet exist?
 
@@ -178,6 +178,7 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 3. Ask who could afford to run an inefficient machine long enough to improve it. Use Allen’s account of fuel and labor prices, his English and Chinese kilns, and Humphries’s account of whose labor enters the comparison.
 4. Follow Watt’s separate condenser into Cornish metal mining. Coal costs money to bring in. Joel Lean’s reports let one engine crew see what another can do with a bushel and ask how it was done.
 5. Return to the broken pump and the witnesses’ arithmetic. Separate the work a bushel bought on the trial from the daily work of keeping a mine open. Ask what had to reach the people who could repair the machine or build its successor.
+6. Take the South Devon atmospheric train to Newton. Examine the pipe seal with Brunel and follow the directors’ choice when the same passengers could be carried by locomotive. [S156](../research/sources.md#s156)
 
 **Transition:** The engine makes the proposed mechanism tangible while inheriting matter, gradients, and physical laws. Could the same principles have built the universe itself and determined its fundamental constants?
 
@@ -263,7 +264,7 @@ A guest brings meat, a draftsman turns a face into a set of instructions, and a 
 
 ## Part IV — Cybernetics
 
-Follow a correction through three settings. A person learns to take their own fatigue into account. A trained machine draws on earlier corrections when a new task arrives. An organization tests a machine’s proposed design and decides whether to build it. The book uses cybernetics to explain how the consequences of action can guide further action at several levels. It proposes that a human sense of self can emerge when a mind recursively models its own activity. *Artificial intelligence* is the conventional name for a family of systems with different capacities for learning, control, and self-modeling.
+Follow a correction through three settings. A person learns to take their own fatigue into account. A trained machine draws on earlier corrections when a new task arrives. An organization tests a machine’s proposed design and decides whether to build it. Chapter 10 defines an intelligence as a hierarchical and recursive self-modeling system. A reader who catches herself mistaking familiarity for understanding can change how she checks her reading. The book further proposes that a human sense of self can emerge when such a mind models its own activity over time. *Artificial intelligence* is the conventional name for a family of systems with different capacities for learning, control, and self-modeling.
 
 ### 10. The System That Models Itself
 
@@ -312,7 +313,7 @@ Follow a correction through three settings. A person learns to take their own fa
 
 ### 12. The Machines That Build the Next Machines
 
-**Current material:** [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md). **Ideas:** I70, I69, I31, I38, I43, I53–I55, I60. **Sources:** S30–S31, S54, S124, S155.
+**Current material:** [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md). **Ideas:** I70, I69, I31, I38, I43, I53–I55, I60. **Sources:** S30–S31, S54, S124, S155–S156.
 
 **Question:** How do AI and data centers emerge through natural processes, and which comparisons could test their proposed material dependencies?
 
@@ -323,7 +324,7 @@ Follow a correction through three settings. A person learns to take their own fa
 1. Begin with the bounded TCV plasma-control result to establish a concrete computational contribution within physical apparatus.
 2. Carry forward chapter 11's account of AI as assembly, built on chapter 10's cognitive mechanisms, into its inherited requirements: methods, representations, data, computing equipment, manufacturing, power, and resources committed to costly initial capabilities. Develop data centers as a predicted physical organization coordinating computation, power delivery, cooling, communication, and maintenance. Compare concentrated facilities with dispersed alternatives instead of inferring concentration from energy dependence alone.
 3. Test a full turn from supported AI deployment to greater usable-energy access, renewal, and further assembly. Count construction and validation costs and preserve failures of reinvestment.
-4. Relate this support to the first steam engine and to the social support for learning. Distinguish a viable early function from its later, more efficient form.
+4. Recall the cost of a second train in Devon when asking what a second hall would cost. Trace the electricity saved on cooling and the expense of keeping the sensors and controller in working order.
 5. Define the emergence claim around both cognitive capabilities and the organization of data centers under independently specified conditions. Explain how the process produces those conditions. Specify histories that could count against either component. Keep architecture, site, date, consciousness, and indefinite acceleration as separate questions.
 6. Follow a learned chip placement into production. Compare the original team's account with an independent assessment on other designs. Then follow a cooling instruction from a prediction to a local control system and an operator with the authority to take back control. Ask where the savings go before claiming that one generation of machines pays for the next.
 7. Examine ownership and the distribution of gains. The emergence of a capability does not determine its political use.
