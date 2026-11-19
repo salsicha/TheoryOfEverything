@@ -2,9 +2,9 @@
 
 *A Material History of Everything*
 
-A coal seam lies just below the waterline. There is enough fuel down there to run a pump for years. Who pays for the first lift? In Lyon, a weaver makes Jacquard’s likeness in silk. Give another workshop every punched card in order. What else would it take to weave that face again?
+At Saltom Pit on the Cumberland coast, Carlisle Spedding put steam to work pumping water while horses still wound up the coal. Once the miners could reach the seam, they faced another problem. Getting the coal to market meant sending it back underground. In Lyon, Michel-Marie Carquillat wove a portrait so convincing that a painter took it for an engraving. Five years later the weaver made a second picture, this time of a duke visiting his workshop to see the first.
 
-This book follows those questions through the origins of life, human cooperation, scientific discovery and artificial intelligence. Its hypothesis is that an energy gradient and constraints on what can be built make some next steps reachable. A new assembly can open access to that energy. When the return supports the people or processes that produce the assembly again, today’s achievement changes what can be built tomorrow. The book calls these assemblies jointly material and Platonic. Silk and fuel matter, and so do relations such as the order of threads or the rate at which water must be lifted. It asks whether AI emerges naturally through this cycle, then turns the question back on physics. Could a rule that later things must obey have begun as the outcome of an earlier history?
+*The World That Builds Itself* asks how the world acquires a capacity it has never had. Its hypothesis is that an energy gradient and constraints on the ways to exploit it bring a new assembly within reach. The pump gave miners access to a seam. The portrait gave its weaver the occasion to commission a painting of his own. Every such assembly is jointly material and Platonic. The fuel and silk matter, and so do the relations that make them useful. An assembly that can put some of its gains into producing more of its kind may recur more often. Its successors then inherit possibilities that were absent at the start. The book follows this argument through life, civilization and AI, and asks whether the laws of the universe could themselves have formed in this way.
 
 **[Begin with the prologue](manuscript/prologue.md)** · [Explore the outline](editorial/outline.md) · [Read the evidence by chapter](research/evidence.md)
 
@@ -17,7 +17,7 @@ This book follows those questions through the origins of life, human cooperation
 
 ## Read the manuscript
 
-[Prologue · The Machine Waiting for Electricity](manuscript/prologue.md)
+[Prologue · The Portrait Behind Glass](manuscript/prologue.md)
 
 ### Part I · How Possibility Becomes Actual
 
@@ -39,7 +39,7 @@ This book follows those questions through the origins of life, human cooperation
 
 ### Part IV · Cybernetics
 
-A hand shakes as it raises a glass. A language model misses a letter in *raspberry*. A controller holds two plasmas apart for a fifth of a second. The final part follows what each can sense and correct, then asks who keeps the machinery of correction running.
+Darwin writes down the contrary evidence his memory tends to lose. A language model overlooks the eighth letter of *raspberry*. Anna Goldie follows a chip layout learned by one generation of machines into a processor designed for the next. Part IV asks what new actions become possible when a system can examine and change how it works.
 
 10. [The System That Models Itself](manuscript/10-the-system-that-models-itself.md)
 11. [Why the World Builds Artificial Intelligence](manuscript/11-why-the-world-builds-artificial-intelligence.md)

@@ -1,6 +1,6 @@
 # Working source ledger
 
-Sources checked during drafting and structural revision on November 14–17, 2026. This is a research foundation for first drafts, not a completed bibliography. Search excerpts and abstracts support only the narrow claims identified below; relevant full-text passages were also consulted for the cosmological chapter, including variational principles, the vacuum, effective theories, initial conditions, and the relaxion mechanism. Comprehensive literature review and scene-level verification remain necessary where specified. Source keys are used in [ideas](../editorial/ideas.md), [outline](../editorial/outline.md), and chapter notes; the prologue and all twelve prose chapters have numbered notes. The [research methods guide](causal-inference.md) gives the causal-inference standard. The afterword asks what would make the synthesis testable. Abstracts and indexed passages are identified as limited evidence; access restrictions are not treated as full-text review.
+Sources checked during drafting and revision, November 14–19, 2026. This working ledger identifies the source for each claim, including when the evidence is an abstract, a model, an eyewitness recollection or an archived object. The [expanded ideas](../editorial/ideas.md), [outline](../editorial/outline.md) and chapter notes use these keys. The [methods guide](causal-inference.md) documents the companion studies. The afterword sets out what would make the broader synthesis testable.
 
 ## S01
 
@@ -21,6 +21,8 @@ The author preprint abstract was rechecked November 17. I75 makes a separate nec
 **Metabolic innovation and historical contingency.** Zachary D. Blount, Christina Z. Borland, and Richard E. Lenski, [“Historical contingency and the evolution of a key innovation in an experimental population of Escherichia coli”](https://doi.org/10.1073/pnas.0803151105), *PNAS* (2008).
 
 Supports the example of aerobic citrate use in the long-term evolution experiment. Related mechanistic research: Erik M. Quandt et al., [“Recursive genomewide recombination and sequencing reveals a key refinement step…”](https://pmc.ncbi.nlm.nih.gov/articles/PMC3926077/), *PNAS* (2014). Distinguish the initial innovation, its historical preconditions, and later refinement.
+
+Blount identifies Tim Cooper as the person who noticed the cloudy flask. Lenski recalls suspecting contamination. The frozen samples showed that weak citrate use preceded the conspicuous increase in density. Caroline Turner and colleagues later traced how compounds released by the citrate users fed a coexisting lineage. [Blount, *Replaying Evolution*](https://www.blount-lab.org/uploads/2/3/0/3/23037222/blount_2017_-_replaying_evolution.pdf) · [Lenski interview](https://telliamedrevisited.wordpress.com/wp-content/uploads/2014/02/interview-with-richard-lenski-in-microbiology-textbook.pdf) · [Turner et al. on cross-feeding](https://doi.org/10.1099/mic.0.001390)
 
 ## S04
 
@@ -148,6 +150,8 @@ Tong's equilibrium-magnetization discussion was rechecked for I67. It supports s
 
 Used to separate three questions. Section II of the review was also checked for the standard Sakharov conditions: baryon-number violation, C and CP violation, and departure from thermal equilibrium. It supplies conceptual background rather than a current experimental-status survey. Chapter 6 treats the 2025 baryon measurement separately under S77 and the cosmic-domain calculation under S78.
 
+The December 27, 1956 page from Ernest Ambler’s notebook records two runs as the cobalt warmed. Reversing the polarizing field reversed the direction of change in the electron count. Ralph Hudson added his verdict to the top of the page later. [Notebook and account at NIST](https://www.nist.gov/pml/fall-parity/reversal-parity-law-nuclear-physics)
+
 ## S24
 
 **Statistical entropy and initial conditions.** Feynman, Leighton, and Sands, [I.46, “Ratchet and Pawl”](https://www.feynmanlectures.caltech.edu/I_46.html); Joel L. Lebowitz, [“Macroscopic laws, microscopic dynamics, time's arrow and Boltzmann's entropy”](https://sites.math.rutgers.edu/~lebowitz/PUBLIST/lebowitz_360.pdf), *Physica A* 194 (1993), 1–27.
@@ -160,6 +164,8 @@ Supports the statistical explanation and the need to account for low-entropy ini
 
 Supports descriptions organized by energy scale. Chapter 6 distinguishes the scale dependence of a description from historical changes in measured constants. The proposed extension to assembled fundamental laws is not a result of this source.
 
+For the microscopic response underlying a refractive index, see Feynman, Leighton and Sands, [*The Origin of the Refractive Index*](https://www.feynmanlectures.caltech.edu/I_31.html).
+
 ## S26
 
 **The vacuum-energy problem.** Sean M. Carroll, [“The Cosmological Constant”](https://arxiv.org/abs/astro-ph/0004075), *Living Reviews in Relativity* 4 (2001), 1; [HTML text](https://arxiv.org/html/astro-ph/0004075). Jérôme Martin, [“Everything You Always Wanted To Know About The Cosmological Constant Problem (But Were Afraid To Ask)”](https://arxiv.org/abs/1205.3365), *Comptes Rendus Physique* 13 (2012), 566–665.
@@ -171,6 +177,8 @@ Used for the theoretical mismatch and its dependence on assumptions and calculat
 **Evidence of cosmic acceleration.** Adam G. Riess et al., [“Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant”](https://arxiv.org/abs/astro-ph/9805201) (1998); Saul Perlmutter et al., [“Measurements of Omega and Lambda from 42 High-Redshift Supernovae”](https://arxiv.org/abs/astro-ph/9812133) (1999).
 
 Supports the historical account of the supernova evidence. Establishing acceleration is distinguished from establishing the ultimate nature of dark energy.
+
+Riess reproduces his autumn 1997 notebook page in figure 4 of his Nobel lecture. His preliminary fit with a zero cosmological constant yielded a negative matter-density parameter. The entry in the notebook and the two teams’ later published results play different roles in the chapter. [Riess, *My Path to the Accelerating Universe*](https://www.nobelprize.org/uploads/2018/06/riess_lecture.pdf)
 
 ## S28
 
@@ -188,15 +196,17 @@ Chapter 6 uses the evolving field and stopping barriers as a concrete example of
 
 **Data-center infrastructure and electricity connections.** Arman Shehabi et al., [2024 United States Data Center Energy Usage Report](https://eta-publications.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report), Lawrence Berkeley National Laboratory, report LBNL-2001637; [report PDF](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf). International Energy Agency, [Energy and AI, executive summary](https://www.iea.org/reports/energy-and-ai/executive-summary) (2025).
 
-Supports the prologue's limited background about computing equipment, power distribution, cooling, and dependence on electrical connections. The opening is an explicitly imagined installation, not a reported site or a composite presented as eyewitness experience. No numerical estimate or project forecast from these reports is asserted in the prologue.
+These reports document the energy and infrastructure behind computing. The episode in the prologue concerns Dan Fuenffinger’s specific account of using winter conditions for colder cooling water. The engineering team describes the observations, operator feedback and scope of its performance measure. [Chris Gamble and Jim Gao, 2018](https://deepmind.google/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/)
 
 ## S31
 
 **AI and productive energy capabilities.** International Energy Agency, [“AI for energy optimisation and innovation”](https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation), in Energy and AI (2025).
 
-Supports the broad description of energy applications and the distinction between individual capabilities and wider deployment. The prologue's component-design sequence is illustrative; its recursive productive loop is the book's hypothesis. Neither is presented as a completed demonstration by a particular AI system. Chapter 12 now includes the bounded TCV control demonstration under S54 and separates it from the proposed future loop.
+The report provides background on energy applications. Chapter 12 follows separate documented cases of controlling a plasma in Lausanne, placing blocks on a manufactured processor, and reducing electrical power per unit of cooling. Each answers a different part of the claim that computation can change the physical equipment available to a successor. [Chip placement](#s155) · [The winter cooling change](https://deepmind.google/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/)
 
 Chris Gamble and Jim Gao give a firsthand account of moving from cooling recommendations to automatic adjustments at Google data centers. Operators found it laborious to carry out each recommendation. In the later system local controls checked instructions and operators could take control back. The authors report savings for cooling equipment. Determining what happened to the capacity released by those savings would require a separate account. [Gamble and Gao, 2018](https://deepmind.google/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/)
+
+Jani Laine, Kaisa Kontu, Jukka Heinonen and Seppo Junnila used the 2016 monthly records for a Finnish data center, a municipal heat pump and the Mäntsälä district heating network. Table 3 reports the heat pump’s heat supply and electricity consumption separately from those of the data center. The wider emissions estimates depend on which electricity and heat production would change. [Study and monthly site figures](https://www.sdewes.org/jsdewes/pid7.0301) · [Operator’s account of the heat exchangers](https://nebius.com/sustainability/turning-heat-into-a-resource)
 
 ## S32
 
@@ -229,6 +239,8 @@ The Dhraʿ case supports purpose-built storage and raised floors in a predomesti
 **Newcomen and Watt.** Science Museum Group, [Newcomen engine model](https://collection.sciencemuseumgroup.org.uk/objects/co8231705/replica-of-model-of-newcomen-engine), [Watt's second separate condenser, 1765](https://collection.sciencemuseumgroup.org.uk/objects/co50928/watts-second-separate-condenser-1765-condensers), and [separate-condenser history](https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/). ASME, [Newcomen engine engineering landmark account](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/70-newcomen-engine.pdf).
 
 The Science Museum also reproduces John Robison’s recollection of Watt sliding a tin model under a table and identifies the surviving models in its collection. These sources support the atmospheric-engine cycle, repeated heating and cooling, and the separate condenser. No invented efficiency figure, cost series, mine visit, or conversation is used.
+
+Thomas Savery’s 1702 address to English mine investors anticipates objections from the carpenters who made winding gear. He argues that cheaper drainage would lead to new shafts needing timber and offers to employ local workers on his pipes. The prologue draws on his sales argument. [Savery, *The Miner’s Friend*](https://www.gutenberg.org/cache/epub/46879/pg46879-images.html)
 
 ## S37
 
@@ -287,6 +299,8 @@ In 1840 an enslaved worker at Blakely Plantation near Vicksburg, Mississippi, bu
 **The long interval before widespread machine picking.** Warren Whatley examines how annual Southern farm labor contracts could delay investment in mechanical harvesting. The Smithsonian preserves an International Harvester picker manufactured in 1943. Heinicke and Grove trace regional changes in hand harvesting after World War II. The National Park Service identifies Atrice Anthony picking early cotton at Magnolia around 1963 and explains the timing of hand and machine picking there. These sources document later designs and coexistence in the field. [Whatley on labor contracts](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/southern-agrarian-labor-contracts-as-impediments-to-cotton-mechanization/E4AAB46AD22B6E9BE38C8FBAAF4D8D8D) · [Smithsonian, Old Red](https://www.si.edu/object/international-harvester-mechanical-cotton-picking-machine%3Anmah_857080) · [Heinicke and Grove](https://www.cambridge.org/core/journals/social-science-history/article/abs/labor-markets-regional-diversity-and-cotton-harvest-mechanization-in-the-postworld-war-ii-united-states/73E0C9B3BFA5E87CE9FFDE29EFD99381) · [National Park Service, Magnolia](https://www.nps.gov/places/farming-transitions.htm)
 
 **Related research on gin-house processing.** A Census observer in 1880 described workers carrying lint in baskets from the lint room to the press. A 1911 textile trade history attributed the spread of labor-saving gin-house equipment to the changed cost and availability of labor after emancipation. Munger’s two patents of December 2, 1884 cover handling seed cotton on its way to the gin and lint on its way to the press. The patents identify labor saving, fire risk and cleanliness as design concerns. Magnolia’s inventory and surviving gin barn document adoption at one Louisiana site. The trade account supplies a historical explanation for the labor incentive. The patents and the Magnolia records document what changed without isolating the effect of emancipation on adoption across the South. [1880 Census, pp. 944–945](https://www2.census.gov/library/publications/decennial/1880/vol-02-manufactures/1880_v2-19.pdf#page=6) · [“Cotton Ginning,” revised by A. L. Smith, 1911, vol. I, p. 24](https://archive.org/details/lambstextileindu01brow/page/24/mode/2up) · [Munger’s seed-cotton patent](https://texashistory.unt.edu/ark:/67531/metapth170865/) · [Munger’s lint-cotton patent](https://texashistory.unt.edu/ark:/67531/metapth170862/) · [National Park Service, Magnolia gin barn](https://www.nps.gov/places/industry-vs-manpower.htm)
+
+Jourdon Anderson’s letter from Dayton on August 7, 1865 gives the family’s terms for returning to Tennessee, the wages he then earned, and the back pay that he and Mandy claimed. Lydia Maria Child printed the letter in *The Freedmen’s Book* in 1865. It supplies a worker’s account to set beside Woodward’s separate appeal from South Carolina. [Anderson’s letter](https://pressbooks.nvcc.edu/ushistory2/chapter/letter-from-jourdon-anderson/)
 
 ## S45
 
@@ -430,11 +444,15 @@ The Poincaré translation and Einstein's opening and simultaneity discussion wer
 
 Michelson and Morley describe the rotating instrument, their expected fringe shift and the support supplied by the Bache Fund in their [1887 paper](https://doi.org/10.2475/ajs.s3-34.203.333). Poincaré describes two moving observers setting their watches by exchanged signals in his [1904 St. Louis lecture](https://henripoincarepapers.univ-nantes.fr/chp/hp-pdf/hp1905mo.pdf). The later timing example draws on Buisson, Easton and McCaskill’s report on NTS-2, which documents the transition from quartz to cesium operation, the comparison in Panama and the spacecraft’s frequency adjustment. [Flight team’s report](https://ntrs.nasa.gov/citations/19780016585)
 
+Einstein begins his June paper with the magnet and conductor and closes by crediting Michele Besso. Michelson and Morley describe a revolution of the stone every six minutes and sixteen marked positions for reading a fringe. These passages support the opening scenes of chapter 4. [Einstein’s paper](https://www.fourmilab.ch/etexts/einstein/specrel/www/) · [Michelson and Morley, pp. 339–341](https://doi.org/10.2475/ajs.s3-34.203.333)
+
 ## S68
 
 **Heat, work, and entropy accounting.** Feynman, Leighton, and Sands, [The Feynman Lectures on Physics, I.44, “The Laws of Thermodynamics”](https://www.feynmanlectures.caltech.edu/I_44.html).
 
 Background for the two-reservoir balances in chapter 2. The manuscript states its own boundaries explicitly: direct heat transfer without work extraction, then a cyclic engine between fixed-temperature reservoirs exporting work. The equations do not identify maximum useful power with maximum entropy production or establish a finite-power reversible engine. The proposed extension to changing assembly pathways is separate from these thermodynamic identities.
+
+In 1824 Sadi Carnot weighed the loss of England’s steam engines against the loss of its navy. He asked what sets the limit on the work obtainable from heat, even if an inventor could choose the working fluid. He used a waterfall to explain why a temperature difference matters. [Carnot’s French original](https://fr.wikisource.org/wiki/R%C3%A9flexions_sur_la_puissance_motrice_du_feu) · [English translation, part III](https://www.gutenberg.org/cache/epub/78610/pg78610-images.html)
 
 ## S69
 
@@ -510,6 +528,8 @@ The publisher's accessible opening was read for the protection-racket comparison
 
 The author's explanation was read for the chartalist demand mechanism, the issuance-before-settlement sequence, and distinctions among currency regimes. Chapter 9 illustrates what accepting a bill for public payments can do using the Massachusetts Bay General Court’s issue of December 10, 1690. Its order sets a ceiling of seven thousand pounds and provides for replacing a worn bill. The broadside documents a particular issue into a society that already had creditors and reckoned debts in pounds. [Broadside held by the Library of Congress](https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe03/rbpe033/03302500/03302500.pdf)
 
+One of the early Massachusetts bills in the National Numismatic Collection appears to have been raised from two shillings sixpence to twenty shillings. The first order authorized bills of five shillings or more. A February order extended the range down to two shillings. [Smithsonian object record](https://www.si.edu/object/20-shillings-massachusetts-1690%3Anmah_472657) · [General Court’s February order, transcribed on p. 410 n. 1](https://www.americanantiquarian.org/proceedings/44769485.pdf)
+
 ## S81
 
 **Reciprocal duties in a medieval statement of fealty.** Fulbert of Chartres, [“On Feudal Obligations”](https://sourcebooks.fordham.edu/source/fulbert1.asp) (1020), translated in University of Pennsylvania *Translations and Reprints* (1898), vol. 4, no. 3, 23–24.
@@ -554,7 +574,9 @@ The passages on benefits, assistance reaching available work, and protection of 
 
 **Control and communication across organisms and machines.** Norbert Wiener, [*Cybernetics: Or Control and Communication in the Animal and the Machine*](https://mitpress.mit.edu/9780262537841/cybernetics-or-control-and-communication-in-the-animal-and-the-machine/), first published 1948; MIT Press reissue, 2019.
 
-Five years before the book, Arturo Rosenblueth, Wiener and Julian Bigelow used the act of raising a glass of water to study what happens when feedback steadies a movement and what happens when successive corrections amplify its error. Chapter 10 takes its glass from their paper. Wiener's 1947 open letter records his reasons for refusing a request for wartime work. The letter and the 1955 Dartmouth proposal under S90 document decisions by their authors. A historical claim that funders diverted money from cybernetics because of Wiener's stance would require funding records. [Rosenblueth, Wiener and Bigelow, “Behavior, Purpose and Teleology,” pp. 19–20](https://home.csulb.edu/~cwallis/382/readings/482/wiener.behavior.purpose.teleology.1943.pdf) · [Wiener, “A Scientist Rebels”](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf)
+Five years before the book, Arturo Rosenblueth, Wiener and Julian Bigelow used the act of raising a glass of water to study what happens when feedback steadies a movement and what happens when successive corrections amplify its error. Chapter 10 takes its glass from their paper. Wiener's 1947 open letter records his reasons for refusing a request for wartime work. The foundation’s support for Wiener and Rosenblueth, and the grant officer’s stated reasons for funding the Dartmouth meeting, are documented under S90. The wider political influence of Wiener’s stance on the allocation of research funds remains open. [Rosenblueth, Wiener and Bigelow, “Behavior, Purpose and Teleology,” pp. 19–20](https://home.csulb.edu/~cwallis/382/readings/482/wiener.behavior.purpose.teleology.1943.pdf) · [Wiener, “A Scientist Rebels”](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf)
+
+W. Grey Walter described how his mechanical tortoises reacted to their own reflected indicator lights and how changing battery conditions allowed them to reach a charger in a lighted hutch. The two behaviors let chapter 10 distinguish feedback through the world from a representation of one’s own activity. [Walter, “An Imitation of Life,” 1950](https://doi.org/10.1038/scientificamerican0550-42) · [Science Museum, tortoise](https://collection.sciencemuseumgroup.org.uk/objects/co531614) · [Science Museum, hutch](https://collection.sciencemuseumgroup.org.uk/objects/co8341929)
 
 ## S88
 
@@ -575,6 +597,8 @@ The abstract and discussion of models and attention schema theory were consulted
 The interview passages comparing feedback with logical deduction and the retrospective's account of the workshop's intended focus were read. They document McCarthy's recollections of his aims, not the correctness of his approach or a complete history of AI. Use paraphrase, not reconstructed dialogue. Chapter 10 assesses the subsequent methodological development separately.
 
 The original proposal dated August 31, 1955, lists neural networks as well as language, abstraction and self-improvement among the questions for the following summer. [McCarthy, Minsky, Rochester and Shannon, Dartmouth proposal](https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
+
+Robert Morison’s letter to McCarthy of November 30, 1955 records why the Rockefeller Foundation offered $7,500 on a request for $13,500. The archive also documents its earlier support for Wiener and Rosenblueth’s work on feedback. The letter identifies one sponsor’s reservations about committing a larger sum to an unfamiliar field. [Rockefeller Archive Center, earlier grant and Morison letter](https://resource.rockarch.org/story/a-roomful-of-brains-early-advances-in-computer-science-and-artificial-intelligence/)
 
 ## S91
 
@@ -641,6 +665,8 @@ The abstract was read for the interleaving of generated reasoning, task actions,
 **Limits of intrinsic self-correction in tested settings.** Jie Huang et al., [“Large Language Models Cannot Self-Correct Reasoning Yet”](https://arxiv.org/abs/2310.01798), 2023; ICLR 2024.
 
 The abstract was read. Its reported failures and degradation concern reasoning correction without external feedback in the tested models and tasks. Chapter 11 does not generalize this dated result into a proof that all present or future models cannot correct themselves.
+
+NASA’s investigation of the 1999 Mars Climate Orbiter loss documents a difference between the specified units and the impulse data delivered by a ground program. The board also examined missed verification and communication opportunities. Chapter 11 uses the engineering record to distinguish checking an answer against an existing document from checking the document against the process that produced it. [NASA mishap report](https://discovery.larc.nasa.gov/pdf_files/MCO_report_2.pdf) · [NASA mission chronology](https://nssdc.gsfc.nasa.gov/planetary/news/mco_19990923.html)
 
 ## S102
 
@@ -908,21 +934,31 @@ Reported reaction, control comparisons, and discussion checked November 17. A co
 
 **Discovering Lost City.** The shipboard account records the Argo II photo survey, the people on watch and the subsequent Alvin dive by Deborah Kelley and Jeff Karson. The later field study in S143 documents the chemistry and living community. [Duke expedition report, December 15, 2000](https://today.duke.edu/2000/12/alvind15.html)
 
+The ship’s December 12 dispatch places the first sighting shortly after midnight on December 4. The December 15 Duke account gives December 5 and includes the interviews about assembling mosaics and preserving animals found in the rock. Chapter 3 follows the ship’s chronology. [Expedition dispatch, December 12](https://earthguide.ucsd.edu/mar/dec12.html)
+
 ## S146
 
 **Cornish pumping duty and its public trial.** Dionysius Lardner describes the proprietors’ monthly reports, the measurements and the unit of duty. William Pole reproduces the Leans’ account of Austen’s engine at Fowey Consols, West’s earlier experience, the objections and the October 1834 trial. The monthly and trial values cover different intervals. Nuvolari and Verspagen reconstruct how comparable numbers were produced and used. [Lardner, §178](https://www.gutenberg.org/files/42602/old/42602-h/42602-h.htm) · [Pole, §84](https://doi.org/10.3931/e-rara-43037) · [Nuvolari and Verspagen, “Unravelling the duty”](https://pure.tue.nl/ws/portalfiles/portal/2303996/612886.pdf)
 
 The witnesses at Fowey recorded 6,287 strokes during the October trial. One lift stopped for two hours and forty-three minutes when a component of its bucket broke. The committee deducted three hours of that lift’s work in calculating duty. [Signed account reproduced by Pole, §84, pp. 65–68](https://www.e-rara.ch/download/pdf/12665405.pdf)
 
+The committee’s counter advanced from 660 to 6,947 strokes and Lean’s from 2,187,480 to 2,193,767. The pitmen appointed to inspect the pump work are named after the signatories. Lean gives 125,095,713 foot-pounds per bushel for the short trial and 89,964,183 averaged over six months. [Lean, *Historical Statement*, pp. 99–104](https://books.google.com/books?id=tOsDAAAAQAAJ&pg=PA99)
+
 ## S147
 
-**The woven portrait.** The Henry Ford dates the Lyon silk portrait to 1839 and identifies the weaver Michel-Marie Carquillat, the source portrait by Claude Bonnefond and the manufacturer Didier Petit et Cie. The Metropolitan Museum explains the commission and mechanism. The imagined apprentice in chapter 8 illustrates diagnosis at a loom. The separate wage dispute in chapter 9 comes from the Lyon labor council reports collected under S154. [Henry Ford object record](https://www.thehenryford.org/collections/explore/artifact/219008) · [Metropolitan Museum object record](https://www.metmuseum.org/art/collection/search/222531)
+**The woven portrait.** The Henry Ford dates the Lyon silk to 1839 and identifies Michel-Marie Carquillat, Claude Bonnefond and the manufacturer Didier Petit et Cie. The Metropolitan Museum explains the commission and the translucent curtain. The Nabenchauk weaving films are documented under S158 and the Lyon labor hearings under S154. [Henry Ford object record](https://www.thehenryford.org/collections/explore/artifact/219008) · [Metropolitan Museum object record](https://www.metmuseum.org/art/collection/search/222531)
 
 The Musée des Tissus holds the partial workshop drawing, inventory MT 25800. Its record and J.-L. Moulin’s correspondence with the curator reconstruct how he prepared the squared pattern from Bonnefond’s painting, why he used brown for black silk, who could give him credit and how he later borrowed his own work to have it copied. The surviving pattern is the later copy. [Lyon exhibition dossier and object record, MT 25800](https://www.museedestissus.fr/media/expositions/jacquard-point-a-la-ligne/jacquard-point-a-la-ligne_dp.pdf)
+
+The Musée d’Art et d’Industrie records a second silk, woven in 1844, in which Carquillat shows the first portrait to the duc d’Aumale during the duke’s 1841 visit. The names of Bonnefond, André Manin and Carquillat are woven below. Bonnefond’s receipt, transcribed by the museum, records the five hundred francs the weaver paid him for the composition. Moulin’s account in the Lyon dossier attributes his departure from Petit’s firm to the refusal of a credit on the first portrait. [French national museum catalogue, with the receipt](https://pop.culture.gouv.fr/notice/joconde/10230001974) · [Louvre, image and inscriptions on the second silk](https://collections.louvre.fr/en/ark%3A/53355/cl010101072)
+
+Charles Babbage recounts the painter David Wilkie’s successive guesses about how the portrait was made in chapter XI of his memoir, pp. 169–170. The Library of Congress identifies the damaged pane in the pictured window and the punched cards on the table. [Babbage, *Passages from the Life of a Philosopher* (1864)](https://www.gutenberg.org/cache/epub/57532/pg57532-images.html) · [Library of Congress, portrait record](https://www.loc.gov/pictures/item/2002737214/)
 
 ## S148
 
 **From selectable threads to selectable operations.** Ada Lovelace’s 1843 notes to her translation of Menabrea distinguish operation cards and variable cards for the proposed Analytical Engine. Note G traces how the engine would compute a Bernoulli number, starting with the product of two inputs copied to three columns. Babbage later recalled offering to do the algebra and receiving it back from Lovelace with a mistake identified. The published table records the design. The exchange is known here through Babbage’s recollection. [Lovelace, Notes A and G](https://www.fourmilab.ch/babbage/sketch.html) · [Babbage, chapter VIII of *Passages from the Life of a Philosopher*](https://fourmilab.ch/babbage/lpae.html)
+
+In Note G, Lovelace discusses how the need to specify operations for the Engine could in turn affect mathematical thought. In section 6 of his 1950 paper Alan Turing answers her objection and illustrates surprise with an assumption he might make about voltage at two points in a circuit. [Lovelace, Note G](https://www.fourmilab.ch/babbage/sketch.html) · [Turing, “Computing Machinery and Intelligence”](https://doi.org/10.1093/mind/LIX.236.433)
 
 ## S149
 
@@ -944,6 +980,8 @@ The Musée des Tissus holds the partial workshop drawing, inventory MT 25800. It
 
 **Learning what people owe one another.** Richard Borshay Lee’s first-person account of his Christmas ox records the judgments of the people he hoped to thank and his own initial misreading. Among BaYaka communities in the Republic of the Congo, researchers observed younger children watching an adolescent distribute meat and a younger girl watching six-year-old twins gather mushrooms on a different occasion. In Tanzania, Kristen Hawkes and colleagues recorded how childcare and digging fit together on Hadza foraging trips. These accounts identify particular people learning and enforcing distinctions. The evolutionary argument about selection over many generations draws on separate sources, particularly S69–S74. [Lee, “Eating Christmas in the Kalahari”](https://public.gettysburg.edu/~dperry/Class%20Readings%20Scanned%20Documents/Intro/lee_eating_christmas_kalahari_14_eoa.pdf) · [Salali and colleagues on social learning among BaYaka children](https://doi.org/10.1038/s41598-019-47515-8) · [Hawkes and colleagues on Hadza foraging](https://content.csbs.utah.edu/~hawkes/Hawkes_al89hardworkingHadzaGrams.pdf) · [Hadza provisioning and weight change](https://content.csbs.utah.edu/~hawkes/Hawkes_al97HadzaTimeAllocationGrams%20CA.pdf)
 
+Lorna Marshall documented Nyae Nyae practices of sharing and lending. Robert Hitchcock and colleagues describe the right of an arrow’s owner to divide the meat, the terms negotiated by hunters with owners of borrowed guns and the Nyae Nyae Farmers Cooperative’s debate over what to permit. They distinguish Lee’s earlier observations from their own work across different settlements. [Marshall’s field account](https://doi.org/10.2307/1157263) · [Hitchcock and colleagues, pp. 170 and 187–188](https://the-eis.com/elibrary/sites/default/files/downloads/literature/Subsistence%20hunting%20and%20resource%20managment_Botswana.pdf)
+
 ## S154
 
 **Workers’ claims and the Lyon labor council.** A contemporary report in the January 1841 issue of *L’Écho des ouvriers* records Mlle Pommet’s claim for forty francs, the widow Vieux’s account of illness, advances and a relief fund’s claim, and the council’s request that Pommet allow her more time. The same issue reports Burgat and Chinard’s dispute over two shawl looms, and the dissolution of Bron’s apprenticeship. The report records rulings and attributed testimony. In Pommet’s case it leaves the eventual payment unknown. The earlier silk workers’ paper reports how the price schedule was negotiated on October 25, 1831. [Lyon municipal library, January 1841 issue](https://collections.bm-lyon.fr/BML_01PER0030214781/ISSUE_PDF) · [October 1831 negotiations in the workers’ paper](https://www.pseweb.eu/ydepot/semin/texte0809/DTH2009FOR.pdf) · [Municipal archives on the 1831 uprising](https://www.archives-lyon.fr/pages/1831-1834-la-revolte-des-canuts) · [Contemporary report of the December order](https://collections.bm-lyon.fr/BML_01PER0030212859/ISSUE_PDF)
@@ -952,9 +990,29 @@ The Musée des Tissus holds the partial workshop drawing, inventory MT 25800. It
 
 **A machine helping to design its successor.** Azalia Mirhoseini, Anna Goldie and colleagues describe a learned method for arranging large circuit blocks on a chip. Goldie identifies a manufactured processor in her account of the work. Chung-Kuan Cheng and colleagues compared the approach with other placement methods on public test cases. The original production blocks and the public cases provide different comparisons. Norman Jouppi and colleagues describe how optical switches connect chips in the TPU v4 system. These sources let chapter 12 follow a proposed layout into a wider computing system. Assigning the gain of an entire system to its placement method would require additional measurements. [Mirhoseini et al.](https://doi.org/10.1038/s41586-021-03544-w) · [Goldie on the manufactured chip](https://www.nature.com/articles/d41586-021-01558-y) · [Cheng et al., 2023 version](https://arxiv.org/abs/2302.11014v1) · [Jouppi et al.](https://arxiv.org/abs/2304.01433)
 
+In the updated independent comparison, table III and section VI.A report a pair of results across the same nine cases. Simulated annealing produced shorter routed wires in seven. The fine-tuned public AlphaChip system had better total negative slack in six. Google’s account of deployment identifies blocks in v5e, v5p and Trillium. Jouppi’s description of mirror-based optical switches concerns the earlier TPU v4 system. [Cheng and colleagues, updated assessment](https://vlsicad.ucsd.edu/Publications/Journals/j148.pdf) · [Google DeepMind on three generations of chips](https://deepmind.google/blog/how-alphachip-transformed-computer-chip-design/)
+
 ## S156
 
 **The cost of the next train on the South Devon Railway.** Brunel’s report to the directors on 19 August 1848 records his diagnosis of the damaged longitudinal valve, the difficulties with the stationary pumping engines, and the expense of renewing the apparatus. The railway carried passengers by atmospheric pressure between Exeter and Newton before giving up atmospheric working in 1848. Chapter 5 compares the railway’s decision with the witnessed performance of a Cornish mine engine. Chapter 12 applies the same question about upkeep to a data center. [Brunel’s report, University of Bristol archive](https://archives.bris.ac.uk/Record.aspx?id=DM162%2F10%2F2%2Ffolio+316-324&src=CalmView.Catalog) · [Report and directors’ decision in chapter VI of Brunel’s biography](https://www.gutenberg.org/files/41210/old/41210-h/41210-h.htm) · [Devon and Dartmoor Historic Environment Record, reuse of the Starcross pumping house](https://historicengland.org.uk/listing/heritage-gateway/results/record/c39bc47e-3b72-4a06-9863-681629e456a2/MDV10259) · [Historic England, railway structures, volume 2](https://historicengland.org.uk/research/results/reports/7008/HistoricRailwayBuildingsandStructures_overviewofdevelopmentpressureandreviewofsignificanceVol2)
+
+## S157
+
+**What pumping made possible at Whitehaven.** J. E. Ward identifies Sir James Lowther’s November 19, 1715 lease at £182 a year. In a letter dated 1719 or 1720, his agent John Spedding named P. Walker and his brother Carlisle as the two men able to manage the engine or deal with a fault. J. S. Allen published the early engine history. Kitsikopoulos reproduces the passage in note 22. These records concern an early Whitehaven engine. The pumping houses of 1731 and 1739 belong to the later Saltom Pit. [Ward, the lease](https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-2055-1/dissemination/pdf/Article_Level_Pdf/tcwaas/002/1988/vol88/tcwaas_002_1988_vol88_0017.pdf) · [Allen on the early engines](https://doi.org/10.1179/tns.1972.017) · [Spedding’s letter as transcribed in note 22](https://ehes.org/conferences/ehes2015/papers/Kitsikopoulos.pdf)
+
+Saltom’s partitioned shaft, horse walk, pumping houses and wider drainage are described in the monument record. The archaeological accounts locate the short-lived harbour, damage from storms and the later route back into the hillside, up Ravenhill shaft and by wagonway to Whitehaven Harbour. The records support the change of use. They do not supply a ledger tracing an individual load of coal to its eventual purchaser. [Historic England, Saltom coal pit](https://historicengland.org.uk/listing/the-list/list-entry/1017558) · [North Pennines Archaeology, site history §§3.2.1–3.2.3](https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-704-1/dissemination/pdf/northpen3-52104_1.pdf) · [Historic England coastal survey](https://historicengland.org.uk/research/results/reports/6986/TheNorthWestRapidCoastalZoneAssessment%28NWRZA%29Phase2ProjectChapter5part2)
+
+## S158
+
+**Who asks for help at the loom.** Patricia Greenfield, Ashley Maynard and Carla Childs report two generations of weaving in Nabenchauk. Figures 3 and 4 compare Katal Pavlu in 1970 with her daughter Loxa Santis in 1991. Loxa’s older sister Xunka’ was her teacher. The authors distinguish changes in who initiates help from their broader interpretation of a community’s transition toward textile commerce. Greenfield also recorded changes in the clothes on her return and described the use of sticks to represent thread patterns. [Primary study and figures](https://doi.org/10.1177/106939710003400404) · [Authors’ text](https://greenfieldlab.psych.ucla.edu/wp-content/uploads/sites/168/2019/01/31-pac2000.pdf) · [Greenfield on representations](https://greenfieldlab.psych.ucla.edu/wp-content/uploads/sites/168/2019/01/24-greenfield1999.pdf) · [Her account of the return](https://www.culturalsurvival.org/es/publications/cultural-survival-quarterly/weaving-generations-together-evolving-creativity-maya)
+
+## S159
+
+**Darwin’s memorandum rule.** The surviving autobiographical draft and fair copy record Darwin’s habit of immediately writing down observations and thoughts that challenged a general conclusion. He explicitly connected the rule to the relative ease with which he forgot adverse evidence. His report supplies a human instance of changing a method of inquiry in response to a judgment about oneself. The definition of intelligence in chapter 10 is the book’s interpretation. [Darwin, CUL-DAR53.2.143–146, leaf 143](https://darwin-online.org.uk/converted/manuscripts/Darwin_C_R_CUL-DAR53.2.143-146.html)
+
+## S160
+
+**What a physical measurement can settle.** Léon Foucault’s rotating mirror enabled a comparison of the speed of light through air and water in 1850. Bas Hensen and colleagues report 245 trials in a Bell test using electron spins separated by 1.3 kilometres in Delft. The experiments distinguish physical predictions under specified assumptions. The further claim of ontological uncertainty and the cosmic origin of laws is the author’s. [Foucault’s account](https://www.bibnum.education.fr/sites/default/files/foucault-texte.pdf) · [Hensen and colleagues](https://doi.org/10.1038/nature15759)
 
 ## Outstanding research and attribution
 
