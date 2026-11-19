@@ -165,7 +165,7 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 
 ### 5. How Disequilibrium Builds a New Pathway
 
-**Current material:** [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md). **Ideas:** I70, I71, I69, I16–I18, I31, I41–I42, I50–I53. **Sources:** S146, S156, S04, S35–S37, S39, S66. Energetic accounting in S07 and S68.
+**Current material:** [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md). **Ideas:** I70, I71, I69, I16–I18, I21, I31, I41–I42, I50–I53. **Sources:** S146, S156, S04, S35–S37, S39, S44, S66. Energetic accounting in S07 and S68.
 
 **Question:** How can disequilibrium participate in producing a pathway that does not yet exist?
 
@@ -174,8 +174,8 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 **Narrative mechanism (S60):** Follow reusable valves, parts, skills, and repairs into later construction. Separate support for an inefficient first machine from the reduced search cost of an inherited repertoire.
 
 1. Open at the public trial of Austen’s engine at Fowey Consols in October 1834. A component of one pump breaks while witnesses are counting the work. Why were they there to count it in the first place? [S146](../research/sources.md#s146)
-2. Rewind to the early Newcomen engine. Follow the steam, the weight of the atmosphere, the beam and the water. The first firing draws on fuel the mine can already reach. A seam becomes workable once the pump can keep the water below it.
-3. Ask who could afford to run an inefficient machine long enough to improve it. Use Allen’s account of fuel and labor prices, his English and Chinese kilns, and Humphries’s account of whose labor enters the comparison.
+2. Rewind to the early Newcomen engine. Follow the steam, the weight of the atmosphere, the beam and the water. The first firing draws on fuel the mine can already reach. A seam becomes workable once the pump can keep the water below it. Follow one cartload burned under the boiler into the fires made possible by a year of mining.
+3. Ask who could afford to run an inefficient machine long enough to improve it. Use Allen’s account of fuel and labor prices, his English and Chinese kilns, and Humphries’s account of whose labor enters the comparison. At Kaiping, follow the coal as far as the carts can carry it. In the Southern cotton field, put Rembert and Prescott’s 1850 picker patent beside the Winnsboro grower’s 1869 appeal for a machine. Follow what emancipation changed about securing a harvest, then return to the hand picking that coexisted with later machines at Magnolia.
 4. Follow Watt’s separate condenser into Cornish metal mining. Coal costs money to bring in. Joel Lean’s reports let one engine crew see what another can do with a bushel and ask how it was done.
 5. Return to the broken pump and the witnesses’ arithmetic. Separate the work a bushel bought on the trial from the daily work of keeping a mine open. Ask what had to reach the people who could repair the machine or build its successor.
 6. Take the South Devon atmospheric train to Newton. Examine the pipe seal with Brunel and follow the directors’ choice when the same passengers could be carried by locomotive. [S156](../research/sources.md#s156)

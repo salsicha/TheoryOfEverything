@@ -22,7 +22,7 @@ The chapters use constraint satisfaction, nonlinear dynamics, autocatalytic and 
 
 ## Draft extent
 
-The prologue, twelve drafted chapters, and epilogue contain **35,313 words** before notes. The methodological afterword adds **3,616**, for **38,929 words** of drafted prose in the reading sequence. Counts use whitespace-separated words and include titles, part headings and epigraphs. Plates, navigation, source notes and research appendices are excluded.
+The prologue, twelve drafted chapters, and epilogue contain **35,621 words** before notes. The methodological afterword adds **3,616**, for **39,237 words** of drafted prose in the reading sequence. Counts use whitespace-separated words and include titles, part headings and epigraphs. Plates, navigation, source notes and research appendices are excluded.
 
 The original 65,000–80,000-word ambition remains a possible longer revision. Expansion should add explanatory mechanisms, historical depth, and discriminating comparisons.
 
@@ -33,7 +33,7 @@ The original 65,000–80,000-word ambition remains a possible longer revision. E
 | [chapter2](../manuscript/02-the-gradient-and-the-barrier.md) | 1,879 |
 | [chapter3](../manuscript/03-life-makes-its-conditions.md) | 2,791 |
 | [chapter4](../manuscript/04-the-discovery-that-became-possible.md) | 2,810 |
-| [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md) | 2,830 |
+| [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md) | 3,138 |
 | [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md) | 3,782 |
 | [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md) | 3,058 |
 | [chapter8](../manuscript/08-the-world-that-learned-to-think.md) | 2,466 |
