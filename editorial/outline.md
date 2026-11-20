@@ -42,7 +42,7 @@ Carlisle Spedding’s shaft at Saltom opened coal below a waterline and made a t
 
 This overview gives the narrative route through the central hypothesis. Detailed section plans and source mappings follow. All twelve chapters are drafted in full prose.
 
-**Prologue — The Portrait Behind Glass.** Savery tells carpenters what an engine might do for their trade. Lowther leases a pump. Wilkie mistakes Carquillat’s silk for an engraving. Moulin’s credit dispute and Dan Fuenffinger’s winter cooling discovery introduce the difference between possessing a finished thing and acquiring the means to make something new.
+**Prologue — The Portrait Behind Glass.** Babbage brings the painter David Wilkie closer to a portrait he takes for an engraving. Who made the cracks in the windowpane out of silk? Moulin’s account of preparing the pattern leads into Babbage’s cards. At Whitehaven a mine owner pays to try steam pumping, and at a modern data center an operator finds an unexpected use for winter cold.
 
 **Part I · How Possibility Becomes Actual**
 
@@ -50,7 +50,7 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 2. **The Gradient and the Barrier.** Carnot asks which England could better afford to lose, its engines or its navy. Joule measures falling weights warming water. John Spedding names the two men who can put a pumping engine right. Their work connects the physical difference that can drive an engine to the new seam a district can work.
 
-3. **Life Makes Its Conditions.** At Lost City, Heather Hanna finds herself preserving living animals brought up with a piece of rock. Smith and Morowitz ask what new use life could make of a gradient the rock supplies. Geological dates, other planets and a cloudy flask in Lenski’s laboratory sharpen the question of when a chemical opportunity becomes accessible.
+3. **Life Makes Its Conditions.** Peter Rivizzigno spots pale towers on the camera watch at Lost City. After the dive, Heather Hanna has living animals to preserve. Smith and Morowitz ask what new use life could make of a gradient the rock supplies. Geological dates, other planets and a cloudy flask in Lenski’s laboratory sharpen the question of when a chemical opportunity becomes accessible.
 
 **Part II · The Physical Argument**
 
@@ -58,13 +58,13 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 5. **How Disequilibrium Builds a New Pathway.** Two sealed counters go on recording strokes after a pump breaks. Follow the first fuel for Newcomen’s engine, the missing carts at Kaiping, a freed family’s wage claim and Watt’s separate condenser. Return to Fowey Consols to see what the witnesses could credit to a bushel of coal. The railway in Devon tests what happens when a different machine can carry the same paying passenger.
 
-6. **From Uncertainty to an Assembled Universe.** Foucault’s rotating mirror settles which way light changes speed in water. The Delft Bell test, shaking beads, Wu’s cobalt and Riess’s notebook distinguish an observed difference from an origin for the rules themselves. The conjecture about fine-tuning owes physics a value it can derive.
+6. **From Uncertainty to an Assembled Universe.** Foucault’s rotating mirror settles which way light changes speed in water. The Delft Bell test, shaking beads, Wu’s cobalt and Riess’s notebook distinguish an observed difference from an origin for the rules themselves. The chapter asks which measured value could distinguish assembled laws from laws that were always fixed.
 
 **Part III · Human Society and Collective Intelligence**
 
-7. **The Species That Changed Its Own Conditions.** Richard Lee goes looking for a second cow when his guests insist the first will barely feed them. Follow the right to divide the meat, a child who frees a mother’s hands to dig, and six-year-old mushroom gatherers into the question of how people came to shape one another’s development and evolution.
+7. **The Species That Changed Its Own Conditions.** Richard Lee goes looking for a second ox when his guests insist the first will barely feed them. Follow the right to divide the meat, a child who frees a mother’s hands to dig, and six-year-old mushroom gatherers into the question of how people came to shape one another’s development and evolution.
 
-8. **The World That Learned to Think.** Moulin’s brown grid makes a face reproducible in silk. Films of Katal Pavlu at a loom in Chiapas and of her daughters twenty-one years later show how even the judgment of when to ask for help can change between generations. Carquillat’s second picture records a new use for inherited skill.
+8. **The World That Learned to Think.** The duc d’Aumale visits Carquillat’s workshop to see a portrait. A second silk records the visit, and Moulin’s letter explains how the first pattern was made. Films of Katal Pavlu at a loom in Chiapas and of her daughters twenty-one years later show how even the judgment of when to ask for help can change between generations. Carquillat’s second picture records a new use for inherited skill.
 
 9. **The System That Produces Its Tomorrow.** Both women agree that Pommet is owed forty francs. Who lends to the workshop while she waits? A schedule of weaving rates, a Massachusetts bill with its denomination altered, a feudal oath and a union train fare reveal what different claims can actually deliver. The Lyon council hears one more case, that of an apprentice who cannot stay awake.
 
@@ -84,11 +84,11 @@ This overview gives the narrative route through the central hypothesis. Detailed
 
 **Current material:** [prologue](../manuscript/prologue.md). **Ideas:** I07, I31, I43, I50–I55, I75–I76. **Sources:** S30–S31, S36, S147–S148, S157.
 
-Savery promises orders to the carpenters who might lose work to a pump. Lowther’s 1715 lease records what one owner was willing to spend. Saltom’s troubled harbour foreshadows the unanticipated problem a successful pump created. [S36](../research/sources.md#s36) · [S157](../research/sources.md#s157)
+Begin in Babbage’s drawing room. Let the curtain and the cracked pane explain why Wilkie kept trying to identify the engraving technique. Name Carquillat and Moulin, then follow the punched cards into Babbage’s plans for the Analytical Engine. [S147](../research/sources.md#s147)
 
-Babbage takes Wilkie closer to the silk. Moulin recalls wanting a few letters in a corner and moving to a rival house after his employer refused. Fuenffinger offers a modern instance in which making a machine changes the options available to its makers. [S147](../research/sources.md#s147)
+Savery promises orders to the carpenters who might lose work to a pump. Lowther’s 1715 lease records what one owner was willing to spend. At Saltom, storms damage the harbour and the coal goes back underground. Fuenffinger’s winter cooling decision takes the story into a working data center. [S36](../research/sources.md#s36) · [S157](../research/sources.md#s157)
 
-Give the ambition in one sentence about how making one thing changes what can be made next. Introduce the eighty-one squares and end on the solver’s first choice. The chapters introduce the formal ideas through the problems that call for them.
+State the hypothesis about usable energy and constraints. End on the first decision the author had to make when writing a Sudoku solver.
 
 ## Part I — How Possibility Becomes Actual
 
@@ -132,7 +132,7 @@ Give the ambition in one sentence about how making one thing changes what can be
 
 **Question.** What becomes possible for the chemistry of a planet when life appears?
 
-1. Open with Heather Hanna preserving animals from a piece of rock. Return to the night she stood watch over the Atlantis Massif and the later Alvin dive that brought up the sample. Follow the carbonate chimneys from an image on a screen to an ecosystem supplied by rock and water. [S145](../research/sources.md#s145) · [S143](../research/sources.md#s143)
+1. Open on the midnight camera watch over the Atlantis Massif. Follow Rivizzigno’s photographs, the Alvin dive and the animals Kelley and Hanna examined back on deck. Use the chimneys to explain how rock and water supply a living ecosystem. [S145](../research/sources.md#s145) · [S143](../research/sources.md#s143)
 2. Compare a mineral pore at Lost City with the boundary Varela, Maturana and Uribe constructed in their simulation. Use autopoiesis to explain what becomes reproducible after a new chemical organization forms.
 3. Ask when the young Earth could have sustained such chemistry. Give the evidence for liquid water, early life and the modeled window for persistent RNA chemistry their respective roles. Explain the vent-origin hypothesis and the work a chemical gradient might do along a constrained pathway. [S131](../research/sources.md#s131)–[S135](../research/sources.md#s135) · [S140](../research/sources.md#s140)–[S144](../research/sources.md#s144)
 4. Give the Fermi conjecture a brief turn. Put the late-chemistry hypothesis beside ancient small planets, then weigh what a probe can send home against what a settlement must renew, especially as its home star ages. [S151](../research/sources.md#s151) · [S152](../research/sources.md#s152)
@@ -198,7 +198,7 @@ Start with familiar discoveries in relativity and quantum physics, then work bac
 4. Ask where usable gradients came from. Distinguish the tendency toward equilibrium in a particular process from the stronger conjecture that assemblies favor the largest accessible rate of entropy production.
 5. Follow the fate of competing vacuum states. Decoherence can affect how long a metastable state persists. Identify what the model assumes about the states and the barrier. Contrast a persistent field with a cell that can rebuild its own boundary.
 6. Follow the time a ray takes at an interface back to the material that fixes its speed. Develop the hypothesis that a physical history can constrain the values accessible to the universe. Use the minus sign in Riess’s notebook and the proposed relaxion dynamics to specify what a theory of assembled constants would have to derive.
-7. End on the observational difference an assembled law would have to make. Carry the question of inheritance into Richard Lee’s Christmas feast.
+7. End with the minus sign in Riess’s notebook and the measurement that a theory of assembled laws would have to explain.
 
 **Early-life comparison:** Chapter 3 proposes that inherited material supports and formal constraints can make self-renewing chemistry promptly accessible. Distinguish this readiness hypothesis from a measured origin probability and from evidence about the formation of laws.
 
@@ -276,7 +276,7 @@ Walter built a creature that reacted to its own reflection. Darwin adopted a rul
 
 **Narrative mechanism (S45):** Use requisite variety to distinguish better information, more effective responses, and reduced disturbance. Connect a useful self-model to improved action under specified disturbances.
 
-1. Open at Walter’s mirror in Bristol. Set its flicker beside Bron’s missing testimony and the glass of water in the early cybernetics paper. What can a person know about an impending failure of their own attention?
+1. Open at Walter’s mirror in Bristol. Compare the mirror circuit with a patient trying to raise a glass. Introduce Darwin’s account of what a person can discover about his own judgment.
 2. Follow the changes in who initiates help in the weaving films. Use the tortoise’s changing response to one light to explain Ashby’s requisite variety and a new means of reaching electricity.
 3. Locate regulation within the creation cycle: it may improve access or prevent losses, while the organization renews its regulator. Compare that whole arrangement with a specified precursor.
 4. Compare the boundary produced in Varela and colleagues’ model with the controller Walter had to build. Use Bron’s release to distinguish a ruling that changes a person’s opportunities from the work of creating a skill.
@@ -324,7 +324,7 @@ Walter built a creature that reacted to its own reflection. Darwin adopted a rul
 1. Start with Jani Laine’s 2016 figures at Mäntsälä. Follow server heat through the municipal network before turning to Degrave’s shot in Lausanne.
 2. Follow a learned placement into a manufactured processor that can run learning programs. The updated independent comparison gives different winners for wire length and timing. Ask what cost matters to the person who might order a chip.
 3. Follow a message through a mirror-based optical switch in a 4,096-chip system. Trace the physical reasons for concentrating machines and the advantage an established site can gain as more people use it.
-4. Take Dan Fuenffinger’s account of unusually cold water in winter and the operators’ request to hand over routine adjustments. Compare the cooling figure with a Cornish lift and the expense of sending a second train in Devon.
+4. Take Dan Fuenffinger’s account of unusually cold water in winter and the operators’ request to hand over routine adjustments. Compare the cooling figure with what the witnesses could measure at the Cornish pump.
 5. Return to the Finnish meters, including the electricity the heat pump consumes. Ask what the physical connection created and where the evidence for its wider consequences stops.
 6. Follow Goldie’s reported layout to a manufactured processor and distinguish a measured design gain from the claim that an entire industry is reproducing itself.
 7. Recall Pommet’s unpaid wages when asking who can dispose of a gain. Return to the physical travel time set by a design decision, then to the signed receipt behind the second Lyon silk.
@@ -359,6 +359,6 @@ Develop the argument through the following questions.
 
 ## Integration and development material
 
-The twelve chapter numbers, file names, and reading sequence agree. Chapters 4–6 work backward from familiar discoveries through steam engines to the conjectured assembly of the universe. Chapter 7 combines self-domestication with the transformation of developmental constraints, followed directly by collective intelligence in chapter 8. Economic self-production is chapter 9. Chapter 10 covers cybernetics and self-modeling; chapter 11 explains artificial intelligence through the thesis; chapter 12 develops data centers and productive deployment. All twelve chapters are prose drafts. The [cognition chapter plans](archive/cognition-chapter-plans.md) preserve the previous outlines for then-chapters 10 and 11 (now 10 and 11). The complete pre-merge human drafts remain in [human-development revision material](archive/human-development-revision.md). Longer industrial cases and their source notes remain in [historical development material](archive/historical-drafts/README.md). The epilogue connects regulation, renewal and bounded cognition. The afterword asks when the creation cycle can predict an outcome that a rival theory would miss.
+The twelve chapter numbers, file names, and reading sequence agree. Chapters 4–6 work backward from familiar discoveries through steam engines to the conjectured assembly of the universe. Chapter 7 combines self-domestication with the transformation of developmental constraints, followed directly by collective intelligence in chapter 8. Economic self-production is chapter 9. Chapter 10 covers cybernetics and self-modeling; chapter 11 explains artificial intelligence through the thesis; chapter 12 develops data centers and productive deployment. All twelve chapters are prose drafts. The [cognition chapter plans](archive/cognition-chapter-plans.md) preserve the previous outlines for then-chapters 10 and 11 (now 10 and 11). The complete pre-merge human drafts remain in [human-development revision material](archive/human-development-revision.md). Longer industrial cases and their source notes remain in [historical development material](archive/historical-drafts/README.md). The epilogue returns to Carquillat’s commission and the names on the second silk. The afterword asks when the creation cycle can predict an outcome that a rival theory would miss.
 
 The institutional development draft and the earlier grid, housing, and Montreal cases remain outside the reading sequence. Historical drafts retain their former chapter numbering and are labeled accordingly. Preserve the original note text and its dated author clarification; append future clarifications when requested. Research commitments remain in [ideas](ideas.md); evidence and unresolved attribution remain in `sources.md`. The afterword returns to the mechanisms and the observations that could distinguish them.

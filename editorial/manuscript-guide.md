@@ -22,31 +22,31 @@ The chapters use constraint satisfaction, nonlinear dynamics, autocatalytic and 
 
 ## Draft extent
 
-The prologue, twelve drafted chapters, and epilogue contain **34,747 words** before notes. The methodological afterword adds **3,698**, for **38,445 words** of drafted prose in the reading sequence. Counts use whitespace-separated words and include titles, part headings and epigraphs. Plates, navigation, source notes and research appendices are excluded.
+The prologue, twelve drafted chapters, and epilogue contain **23,603 words** before notes. The methodological afterword adds **2,878**, for **26,481 words** of drafted prose in the reading sequence. Counts use whitespace-separated words and include titles, part headings and epigraphs. Plates, navigation, source notes and research appendices are excluded.
 
 The original 65,000–80,000-word ambition remains a possible longer revision. Expansion should add explanatory mechanisms, historical depth, and discriminating comparisons.
 
 | Section | Words before notes |
 | --- | ---: |
-| [prologue](../manuscript/prologue.md) | 935 |
-| [chapter1](../manuscript/01-the-square-with-one-answer.md) | 1,005 |
-| [chapter2](../manuscript/02-the-gradient-and-the-barrier.md) | 1,839 |
-| [chapter3](../manuscript/03-life-makes-its-conditions.md) | 2,879 |
-| [chapter4](../manuscript/04-the-discovery-that-became-possible.md) | 2,695 |
-| [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md) | 3,449 |
-| [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md) | 3,627 |
-| [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md) | 2,964 |
-| [chapter8](../manuscript/08-the-world-that-learned-to-think.md) | 2,572 |
-| [chapter9](../manuscript/09-the-system-that-produces-its-tomorrow.md) | 3,451 |
-| [chapter10](../manuscript/10-the-system-that-models-itself.md) | 2,675 |
-| [chapter11](../manuscript/11-why-the-world-builds-artificial-intelligence.md) | 2,310 |
-| [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md) | 2,801 |
-| [epilogue](../manuscript/epilogue.md) | 1,545 |
-| [afterword](../manuscript/afterword.md) | 3,698 |
+| [prologue](../manuscript/prologue.md) | 637 |
+| [chapter1](../manuscript/01-the-square-with-one-answer.md) | 665 |
+| [chapter2](../manuscript/02-the-gradient-and-the-barrier.md) | 1,304 |
+| [chapter3](../manuscript/03-life-makes-its-conditions.md) | 1,963 |
+| [chapter4](../manuscript/04-the-discovery-that-became-possible.md) | 1,825 |
+| [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md) | 2,221 |
+| [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md) | 2,642 |
+| [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md) | 1,955 |
+| [chapter8](../manuscript/08-the-world-that-learned-to-think.md) | 1,583 |
+| [chapter9](../manuscript/09-the-system-that-produces-its-tomorrow.md) | 2,332 |
+| [chapter10](../manuscript/10-the-system-that-models-itself.md) | 1,937 |
+| [chapter11](../manuscript/11-why-the-world-builds-artificial-intelligence.md) | 1,625 |
+| [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md) | 1,763 |
+| [epilogue](../manuscript/epilogue.md) | 1,151 |
+| [afterword](../manuscript/afterword.md) | 2,878 |
 
 ## Writing conventions
 
-Begin with a person confronting a particular problem in an identifiable place, or with an observation, object or document whose maker can be identified. Let a discrepancy do explanatory work. Why were horses still winding at Saltom with steam engines beside them? Why did a weaver who already had the cards for one portrait need a painter for the next? Follow the decisions and their consequences before giving the relation a name.
+Begin with a person confronting a particular problem in an identifiable place, or with an observation, object or document whose maker can be identified. Use plain language for what each person saw, decided and did. Let the physical detail or the decision raise the question the chapter answers. Why were horses still winding at Saltom with steam engines beside them? Why did a weaver who already had the cards for one portrait need a painter for the next? Follow the decisions and their consequences before giving the relation a name.
 
 Where a case permits more than one explanation, identify what each would lead us to expect, then return to a feature of the record that can help decide between them. Graeber and Wengrow introduce schismogenesis through the institutions of neighboring peoples and the historical possibility of deliberate differentiation. Take that argumentative move as a craft reference. Attribute a historical investigator’s thought experiment to its author. Keep prospective tests in the afterword and the manuscript’s own natural experiments in the research companion. [Wengrow on the comparison](https://discovery.ucl.ac.uk/id/eprint/10192232/2/Wengrow_Historical_Materialism_DoE.pdf) · [Companion methods](../research/causal-inference.md) · [Evidence by chapter](../research/evidence.md)
 
