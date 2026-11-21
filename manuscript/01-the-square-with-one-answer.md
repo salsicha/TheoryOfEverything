@@ -2,36 +2,40 @@
 
 **Part I · How Possibility Becomes Actual**
 
-When I wrote a Sudoku solver, I had to decide where it should start. The easiest instruction to write was to take the first empty square in the top row. On some boards that square allowed six digits. The program could make five wrong guesses before it tried the right one.
+When I wrote a Sudoku solver, I had to decide which empty square it should fill first. Start at the top left and the first square might allow six digits. The program could fill half the board before it discovered it had guessed wrong. Elsewhere on the board a square might already have only one possible answer.[1]
 
-Elsewhere on the same board there might be a square with just one legal digit. Starting there could save work on several other squares. That led me to a broader question. Can a bottleneck help us create something?
+I wanted the program to find that square. Could a bottleneck also help people make something new? I think it can when it tells them which change would make a difference. There is an easy way to see what that means in a puzzle and a harder one in a mine.
 
-Two rows show what the program could establish before it had to guess. Each row, column and three-by-three box must contain the digits one through nine. The dots mark blanks. In the seventh row the third square already contains a five.
+Each row, column and three-by-three box must contain the digits one through nine. Here are two rows of a puzzle. The dots mark blanks. There is one other clue we need, a five in the third square of row seven.
 
 ```text
 Row 1     8 2 ·  |  9 · 4  |  7 1 6
 Row 4     7 1 6  |  8 · 3  |  9 · 4
 ```
 
-The first row lacks a three and a five. The blank after the two is in a column that already contains a five, so it must take three. The other blank takes five. Directly below it, the middle blank in row four can now take only two. The last blank takes five. Knowing where one digit couldn’t go settled four entries.
+The top row is missing a three and a five. The five lower down in the third column rules out a five beside the two. I can write three there. The square between nine and four must take five.
 
-My program counted the legal digits in each blank and chose the one with the fewest left. Computer scientists call this the *minimum-remaining-values* rule. If the smallest remaining set contains two digits, my program tries one. If that leaves another square with no legal digit, it can go back at once. It saves time because filling one square changes the choices in others.[1][2]
+Look directly below that five, in the middle of the fourth row. This row is missing a two and a five. Until a moment ago it could hold a five in the middle. Now the column already has one. In goes the two, and the five belongs over on the right. One digit printed in the seventh row has helped settle four entries, including two in a row it never touches.
 
-At Whitehaven the difficulty was equally easy to identify. Miners knew there was coal below them. Water was getting into the workings faster than they could remove it. Carlisle Spedding had to build something that would let the men reach the seam.
+A solver can keep a list of possible digits for each square. Enter a digit and cross it off the lists in the same row, column and box. If a list shrinks to one, fill the square. If it empties, undo a guess. Computer scientists call the rule of choosing the shortest list first *minimum remaining values*.[1][2]
 
-Spedding sank Saltom Pit for Sir James Lowther on a strip of rock between the Cumberland cliffs and the Irish Sea. He divided its oval shaft down the middle. Water came up one side, coal up the other. On the surface two horses walked in a circle, turning the drum that wound up the coal. Beside them stood an engine house built in 1731. Its steam engine pumped the water.[3]
+The program has gained something without making any of the other guesses. It can rule them out from what is already on the board. A mine owner faces a less obliging problem. Water in a shaft says nothing about the shape of the machine that might drain it. What it rules out is the value of certain other improvements while the water stays high.
 
-The horses could raise coal once the miners had cut and loaded it. What held up the work was the water below. A second pumping house followed in 1739. The owners were still using horses for the work the horses could do.[3]
+Beside the shaft at Saltom Pit on the Cumberland coast, a low stone wall marks the edge of a circle. Two horses once walked round it, turning a pole seven and a half metres long. The footings of their stable survive. Carlisle Spedding put one of the district’s early steam engines beside that horse walk. Why keep both?[3]
 
-There was little room for a road between the pit and the sea. A track climbed the cliff in a zigzag. In 1731–32 the owners built a small harbour so that ships could take on coal at the pit. Storms damaged it repeatedly. After 1734 it was barely used.[3]
+In 1729 Spedding began sinking the pit for Sir James Lowther on a rock platform between the cliffs and the Irish Sea, six metres above sea level. The shaft ran some 480 feet down to reach coal that extended under the sea. Spedding divided the oval shaft down the middle. Coal came up one side on a rope wound round a drum. On the other, the pump rods kept moving even when there was no load ready to raise.[3]
 
-The coal went back underground. From the pithead it traveled along a passage to the foot of Ravenhill shaft. Horses there wound it up to the top of the cliff. A wagonway carried it the rest of the way to Whitehaven Harbour.[3]
+An atmospheric engine was well suited to those rods. Its beam rocked up and down, which was just the motion a pump required. Getting a winding drum to turn smoothly from that motion was harder. Two horses walking round a pole could turn a drum directly. When another pump house went up in 1739, there was still useful work for the horses to do. The better the engine kept the mine dry, the more coal the horses could wind.[3]
 
-Saltom kept draining neighboring workings at Howgill after its main period of coal production ended. An engine installed to open one shaft helped miners work a larger part of the coalfield.[3]
+An extra winding horse could raise more loads from a dry seam. However fast it turned the drum, it could raise no coal from a seam the men could not enter. Drainage mattered because an improvement there made the effort already spent on horses, shafts and miners worth more. This is one way a constraint can direct invention. It tells people which part of a job it would pay to change first.[3]
 
-Flooding helped direct invention at Saltom. Everybody knew what an engine had to do, and Lowther could afford to try it. The damaged harbour explains why that matters. Shipping was just as serious a problem. The owners spent money on it too. They gained a dependable route to port only when they found a way through the cliff.
+Every load came out at the foot of a cliff. A steep track zigzagged up it. In 1731–32 the owners built a small harbour beside the shaft so ships could take the coal directly. Storms damaged it. After 1734 little coal went out that way.[3]
 
-In Sudoku, the four digits were already determined. At Saltom the miners had to build the pump and the passage. When they finished, they could mine coal their predecessors had left under water.[3]
+The coal went back underground. A horizontal passage led from the pithead into the cliff to a shaft sunk from the high ground at Ravenhill. A second horse gin wound the coal up. From there a wagonway took it to Whitehaven Harbour. The owners had sunk a shaft just to lift coal the miners had already brought to the surface once.[3]
+
+Saltom’s pumps went on draining the neighboring Howgill workings after the pit’s main years of production. The little harbour, built for an equally urgent need, proved of little use once storms had damaged it. A bottleneck gives people a reason to attempt a particular job. A storm can still defeat their best attempt.[3]
+
+The puzzle and the mine part company at the second shaft. Each digit my solver entered had been implied by the clues before I wrote a line of code. At Ravenhill the reason to dig arose because the men at Saltom had already reached the coal. Their first solution helped create a second problem worth solving. That is the sense in which a bottleneck can contribute to creation.[3]
 
 ## Chapter notes
 

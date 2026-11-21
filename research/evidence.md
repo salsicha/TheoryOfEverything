@@ -1,6 +1,6 @@
 # Evidence by chapter
 
-These studies accompany the book. For the assumptions behind the estimates, see the [causal-inference guide](causal-inference.md).
+Study numbers and chapter references here follow the [twelve-chapter manuscript](../editorial/archive/twelve-chapter-outline.md). The [current outline](../editorial/outline.md) reorganizes the cases by subject. For the assumptions behind the estimates, see the [causal-inference guide](causal-inference.md).
 
 The November 15, 2026 research update adds two analyses from primary public data: northern California kelp canopy and US fatal crashes around daylight-saving transitions. The current run contains four primary comparisons/reanalyses, one outcome-only analysis, two secondary diagnostics, one combined published-evidence record, and four cases without their required datasets. The research record for chapter 6 distinguishes its unidentified ontological foundation, the published granular mechanism, and the conditional Oklo bound. These are component studies; they do not demonstrate the book's universal hypothesis.
 

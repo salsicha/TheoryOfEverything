@@ -1,0 +1,57 @@
+# Chapter 15 — When Do Two Organisms Become One?
+
+On June 18, 2011, Kyoko Hagino’s team collected a bucket of seawater at Tomari Port in western Japan. They balanced a fine net on a kitchen sieve to catch the smallest plankton. Among them was a single-celled alga recognizable by its five-sided scales. One photograph in their paper shows a section through a cell. The nucleus and the chloroplasts are easy to pick out. Beside them, marked with the letter S, is a rounded body. A closer view reveals fine layers inside it. The authors had good reason to believe they had found a partner of bacterial origin. They had yet to establish what it was doing in the cell.[1]
+
+Across the Pacific, Jonathan Zehr had come at the same problem from the other end. In 1998 his group reported finding fragments of a gene involved in nitrogen fixation in ocean samples. One of those discoveries sent him looking for the organism his team came to call UCYN-A. He had evidence of what it might do before he knew whom it lived with. Hagino had an alga with something inside it. Even after genetic evidence connected the two findings, a question remained. Had she caught two organisms making a living together, or one organism with a new part?[1][2]
+
+## What the alga got from the arrangement
+
+An alga can spend a whole day in the sun and still lack the means to make another cell. It needs nitrogen to build proteins and to copy its genetic material. Nitrogen gas is dissolved in the seawater all around it. The two atoms in each gas molecule are bound so tightly that most living things have to obtain nitrogen already combined in some usable form. A scarcity of that material can limit how much living tissue a stretch of sunlit ocean produces.[2][3]
+
+Some bacteria carry an enzyme called nitrogenase. It allows them to spend energy converting nitrogen gas into ammonia, a form that can enter the chemistry of a living cell. Meanwhile a photosynthetic alga can use light to build carbon compounds from carbon dioxide. In 2012 Anne Thompson and her colleagues traced both materials in a related open-ocean partnership. They could distinguish newly fixed nitrogen from nitrogen already present, and newly incorporated carbon from carbon already in the cells. The algal partner received nitrogen fixed by the bacterium. Some of the carbon fixed by the alga went the other way. Each cell came into possession of material the other had done work to obtain.[3]
+
+It is worth asking why this arrangement put such demands on its partners. Fixing nitrogen takes energy and the enzyme that does it is vulnerable to oxygen. The host alga’s chloroplast produces oxygen in the course of capturing the sunlight that supports the exchange. UCYN-A lacks the part of the usual cyanobacterial photosynthetic equipment that evolves oxygen. Even so, its neighbor inside the alga makes oxygen in daylight, when the nitroplast fixes nitrogen. Keeping these processes running in the same cell is a more exacting achievement than bringing their ingredients together in a bucket.[3][4]
+
+The distinction matters in the search for life elsewhere. We could correctly identify sunlight, water and nitrogen on another world and still know little about how much life they could support. On Earth a large part of the nitrogen inventory is of little direct use to a photosynthetic cell. In Hagino’s alga, what makes some of it available is an arrangement small enough to fit beside a chloroplast.
+
+## What went to the daughters
+
+Hagino, a paleontologist at Kochi University, had an advantage in recognizing the organism from its scales. For the next question she needed something that a fossil or a single section could never give her. She needed living cells and their offspring. Her colleagues at Santa Cruz credit her with more than three hundred collecting trips over more than a decade before she could reliably grow the algae in culture. A succession of cells could now be examined at different stages of division.[1][2]
+
+In the images Valentina Loconte and the team made at Berkeley, X-rays passed through cells from many angles. From these views they reconstructed the arrangements inside individual cells. They could pick out the nitrogen fixer along with better-known parts of the alga. As the host prepared to divide, the nitrogen fixer divided too. The arrangement gave each daughter a copy. An exchange between neighbors in the water could end every time the partners drifted apart. In this alga a daughter began life with the means of getting usable nitrogen already in place.[4]
+
+That still left open how far the former bacterium could run its own affairs. Tyler Coale compared the proteins in the isolated nitrogen fixer with those in the whole algal cell. Some proteins that turned up inside the smaller body were encoded by genes in the alga’s nucleus. They included proteins that could supply steps missing from the bacterium’s own repertoire. The place where the instructions were kept and the place where their products did their work now belonged to different parts of one cell.[2][4]
+
+An alga can take food inside itself. It can keep a partner that supplies material for a time. Neither fact explains why the alga should make proteins for the partner’s internal use, then parcel it out when it divides. Taken together, those observations persuaded Coale and his colleagues to call the structure an organelle. In 2024 they gave it the name *nitroplast*. Organelles with a similar ancestry were familiar. A chloroplast, too, descends from an organism that once lived separately. In the nitroplast the team could examine how far such a transition has gone in a living case.[4]
+
+This is a place where the book’s dialectical argument has to earn its vocabulary. Whether to call the small body a bacterium or a part of the alga changes which account of inheritance we would expect to work. It has ancestry and a genome of its own. To explain how it functions today we must also look up instructions in a second genome, across its boundary. To explain how the association keeps turning up, we must follow both through the division of the larger cell. Repeated exchange has become an inherited capacity. There is no date on the images for the generation in which that change first occurred.
+
+## The cell that lost its partner
+
+One of Hagino’s cultures supplies a reason to be careful with the word *one*. Shigekatsu Suzuki and his colleagues followed a strain collected in Japan in 2015. Early on they could see the partner. Later they could no longer find it, and the algae continued growing. A second strain already lacked a visible partner when the researchers began examining it. For that second strain they could not tell whether the loss had happened at sea or after collection. The first gave them something rarer, a record of the change.[5]
+
+The apparent exception clarifies the achievement. The capacity at issue is making usable nitrogen from nitrogen gas. A cell that can get nitrogen from somewhere else may survive the loss of that capacity. The continued existence of an algal lineage in a laboratory says little by itself about how its descendants would fare in surface water where competitors have drawn down the available nutrients. Conversely, finding nitroplasts in the ocean gives us no measure of how much their owners have gained by supporting them.[3][5]
+
+The book proposes that a higher assembly can become common when the access it opens pays for its own reproduction. In this case the sunlight is the energy supply. Fixation spends some of that energy to relieve a shortage of material. The return that matters to a lineage is how many viable offspring it leaves. I would expect the partnership to confer its greatest advantage where sufficient light coincides with a shortage of nitrogen the competitors can use. An alga growing faster on readily available nitrogen may have little reason, in evolutionary terms, to pay the expense of running a nitrogen fixer. If the partnership conferred the same advantage regardless of nitrogen availability, some other benefit would have to carry more of the explanation. A count of daughter cells would answer a question that even the clearest X-ray picture cannot.[3][4][5]
+
+In a 2026 preprint, Ethan Li and colleagues compared cells examined in light and dark periods. They reported changes in the host-derived layers around the nitroplast and in the little membrane-bound structures gathered at its boundary during daytime fixation. The observations show where to look for traffic between the two compartments. What those structures carry, or precisely how the cell protects nitrogenase from oxygen, remains open. There is still work to do inside the small body marked S in Hagino’s photograph.[1][6]
+
+A farmer can face much the same shortage as the alga. The crop has light and water. Nitrogen has gone out of the field in the food sold at harvest. In eighteenth-century Osaka, the people who had eaten that food lived close enough for some of its nitrogen to make the return journey by boat. Before a farmer could collect it, someone had to decide who owned it.
+
+## Chapter notes
+
+1. Kyoko Hagino, Ryo Onuma, Masanobu Kawachi and Takeo Horiguchi give the dates and sites of the Japanese seawater collections. Figures 2 and 3 show sections from Tomari. The authors explain what the microscopy and sequence evidence allowed them to infer in 2013. [Hagino and colleagues, *PLOS ONE*](https://doi.org/10.1371/journal.pone.0081749)
+
+2. Zehr’s group reported the environmental gene sequences in 1998. The Santa Cruz team recounts the subsequent work with Hagino, the duration of her collecting effort and Coale’s protein comparison. [Zehr and colleagues](https://doi.org/10.1128/AEM.64.9.3444-3450.1998) · [Research team’s account](https://news.ucsc.edu/2024/04/nitrogen-fixing-organelle/)
+
+3. Anne Thompson and colleagues traced the exchange of recently fixed carbon and nitrogen in an open-ocean UCYN-A partnership. Their field specimens and the later cultured alga need to be distinguished. The study also discusses the loss of the oxygen-evolving photosystem in UCYN-A. [Thompson and colleagues, *Science*](https://pubmed.ncbi.nlm.nih.gov/22997339/)
+
+4. Tyler Coale, Valentina Loconte and colleagues report coordinated division and import of host-encoded proteins in *Braarudosphaera bigelowii*. The Advanced Light Source describes the three-dimensional images and their interpretation. [Coale and colleagues, *Science*](https://doi.org/10.1126/science.adk1075) · [Berkeley imaging account](https://als.lbl.gov/symbiotic-nitrogen-fixing-microbe-evolves-into-organelle/) · [Source ledger](../../research/sources.md#s166)
+
+5. Suzuki and colleagues distinguish the observed loss in strain KC1-P2 from the unknown starting condition of KC15-24. Their observations leave the reproductive return of retaining a nitroplast in different waters to be established. [Suzuki and colleagues, *Frontiers in Plant Science*](https://doi.org/10.3389/fpls.2021.749895)
+
+6. Li and colleagues’ April 2026 preprint describes daytime and nighttime imaging, changes at the host–organelle interface and the limits of the mechanistic interpretation. [Preprint and figures](https://doi.org/10.64898/2026.04.11.717942)
+
+---
+
+[← Has Life Had Time to Cross the Galaxy?](../../editorial/outline.md#chapter-14) · [Contents](../../README.md) · [Who Owned the Contents of Osaka’s Privies? →](16-who-owned-the-contents-of-osakas-privies.md)

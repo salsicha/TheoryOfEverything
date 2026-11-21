@@ -1,364 +1,173 @@
 # The World That Builds Itself
 
-## A Material History of Everything
+*A Material History of Everything*
 
-Twelve chapters in four parts, with a prologue, epilogue, and methodological afterword. Chapters 1–3 ask how a bottleneck, a gradient and inherited structure can make a new form of work possible. Chapters 4–6 work backward from discoveries in physics through the steam engine to the possible assembly of the universe. Chapters 7–9 follow the creation of collective human capacities. In Part IV, Cybernetics, a machine’s output starts to change what people can build with the next generation of machines.
+## The argument
 
-## Central argument
+An energy gradient makes work possible. A constraint decides which arrangements can use it. When existing parts come into a new relation that opens a route to that work, something has been created. Some assemblies can use part of the return to renew their own organization or produce descendants. What they leave behind changes the conditions of the next act of creation. The book proposes a tendency toward greater sustained energy extraction wherever that return helps a form recur. Whether a system realizes a maximum is a further question with a measurable rate and competing possibilities.
 
-The book asks how the world acquires capacities it did not possess. Its proposed foundation is ontological uncertainty. An energy gradient and constraints on the paths available to exploit it can bring a new organization of existing things within reach. Once that assembly opens access to work, its activity changes the starting conditions for further creation. The mine that gained a pump could reach a seam. Reaching it made a new transport route worth building.
+The four parts develop the case in order. Physics establishes the distinction between a conceivable state and a reachable one. Humans asks how forms can remake themselves and come to model what they do. Technology follows changes in the means of doing work, from draining a mine to learning from examples. Exploration takes the question out to the stars, then follows usable nitrogen through a cell, a city and a fertilizer works before asking what the power bills of a data center can tell us. The flooded mine returns when access to energy is at stake. The woven portrait returns when organized instructions and acquired skill make a new act possible.
 
-Autopoiesis enters at the point of recurrence. Once an assembly exists, the work it makes accessible can help produce further instances. The book predicts that arrangements that tap a greater flow and return some of the gain to their own production will tend to become more frequent. That claim needs evidence about the return. It supplies a mechanism for the accumulation of new capacities over time.
+<a id="introduction"></a>
 
-Further creation is dialectical. The thing sought can become a means of obtaining it. A successor can overcome a limit while preserving a useful part of the old arrangement. A gradual change can open a qualitatively different regime. Establish each relation in the actual history. A claim that the process maximizes the rate of entropy production also requires a boundary, a timescale and feasible physical alternatives.
+## Introduction · Could We Recognize Something That Had Been Built?
 
-**Ontological foundation:** reality is ontologically uncertain in the book's account. Chapter 6 grounds fine-tuning and cosmological assembly in that premise: physical realization and formal relations become definite together, and established relations constrain further formation. Distinguish constitutive indeterminacy from incomplete knowledge, statistical uncertainty, and the structured quantum vacuum. The foundation motivates the physical explanation; a model must still derive observable consequences.
+Heather Graham gave an assembly-theory team samples whose identities she withheld until the analysis was done. Among them was material from the Murchison meteorite. For an instrument that might someday search for life beyond Earth, knowing what usually lives in a place would be a poor substitute for recognizing something in the sample. Explain assembly index as the minimum number of joining operations needed under specified rules, with reuse of previously built parts. Explain why finding many copies of a hard-to-build molecule raises a different question from finding one complicated shape. The team compared an estimate from mass spectra with samples of known origin. This was a terrestrial trial of a proposed biosignature.
 
-**Extended hypothesis:** the emergence of the universe and the emergence of AI are proposed as natural processes of assembly. AI and its physical supports develop through material resources, formal organization, learning, and maintained institutions. The universe and fundamental constants are probably assembled in the book's working conjecture. These claims require mechanisms and evidence; they do not require a unique outcome across all possible histories.
+Now widen the question beyond the claim of the published work. What if assembly happens at quantum, chemical, biological, social and technological scales? What counts as a part or a copy will change. Across the book the reader can still ask what was available, what constrained the next change, which route to work opened, and what then became possible. Return in the last chapter to the difficulty Graham set the investigators. Can we tell an assembly’s history from the trace it leaves? [Blinded-sample paper](../research/sources.md#s161) · [Assembly theory](../research/sources.md#s02) · [Competing account of the measure](../research/sources.md#s32)
 
-**Differentiation, symmetry, and disequilibrium:** within chapter 6, the proposed emergence of definite relations leads to the question of differentiation. Symmetry breaking supplies physical mechanisms once states and interactions are specified. The chapter then distinguishes matter predominance, interaction handedness, dimensions, time, and usable gradients before extending the account to laws and constants.
+## Part I · Physics
 
-**Fine-tuning.** The book proposes that fundamental constants express relations established and sustained by autopoietic physical assemblies. Their values govern which gradients can supply work. Part of that work renews the arrangements that set the values. The stronger claim is that the combinations that endure maximize the sustainable rate of energy extraction among those physically accessible. Chapter 6 asks what it would take to derive one observed value from this history.
+<a id="chapter-01"></a>
 
-Constraints do more than exclude alternatives. They can concentrate search, reduce the cost of a transition, or direct enough existing energy and organized effort toward a barrier to make a costly first assembly viable. A successful assembly can then increase the resources and knowledge available for subsequent transitions.
+### 1. What Can Be Undetermined?
 
-**Dialectical interpretation (I71):** all three principles are required in the proposed account of further creation. Identify mutually constitutive opposites, the preserved and reorganized capabilities, and the quantitative change that enables a new qualitative regime. Ontological uncertainty supplies the proposed openness of categorical boundaries. The application belongs to this book; it does not attribute the terminology to Einstein or make observed thresholds proof of the ontology. [S130](../research/sources.md#s130)
+In Vienna, Olaf Nairz, Markus Arndt and Anton Zeilinger narrowed a slit in the path of hot carbon molecules. Confining their position side to side increased the spread in their transverse momentum. The uncertainty relation makes a quantitative prediction here. The book takes a philosophical step beyond it in proposing that some relations are unsettled in reality itself. An assembled universe would be one in which some of what now constrains matter acquired its form through earlier physical changes.
 
-**Explanatory order:** ontological uncertainty → exploitable gradient and constrained search space → next organizational level enabling energy extraction → recurring occurrence sustained through autopoiesis → dialectical further creation. Interpenetration of opposites, negation of the negation, and quantity into quality govern that last transition. Material and formal relations jointly shape the process; cybernetics regulates its productive return.
+Use wave and particle descriptions to introduce the three principles of dialectical materialism. Interpenetration asks how apparently opposed descriptions depend on each other. Negation of the negation asks what a new account retains when it gives up the opposition. Quantity into quality asks what threshold makes a genuinely different action possible. These are tools for asking what changed. A quantum measurement supplies the example and the limit of the inference. [Molecular-beam experiment](../research/sources.md#s162) · [Engels’s formulations](../research/sources.md#s130) · [Earlier uncertainty draft](../manuscript/06-from-uncertainty-to-an-assembled-universe.md#what-an-experiment-can-settle)
 
-Cybernetics supplies the account of regulation within that sequence. Hierarchical and recurrent processes can coordinate activity; self-modeling can make the system's own capacities and limits available for further regulation. Trained artificial networks extend the question of how useful internal organization is assembled. Their history also separates the success of a capability from the methodological expectations of the researchers who named its field.
+<a id="chapter-02"></a>
 
-For social systems, the book synthesizes Marx and Luhmann through cybernetics. Material production sustains the participants and communications that organize production; communications establish distinctions, obligations, and rules that direct subsequent material activity. Feedback connects consequences to the preservation or revision of those relations. Chapters 9 and 10 develop this jointly material and Platonic system through the reciprocal dependence of production and regulation. The synthesis belongs to the book and preserves both thinkers' distinct explanatory commitments.
+### 2. The Square with One Answer
 
-**Scope:** the creation cycle and its energetic preference are the central hypothesis. The maximum-entropy-production conjecture is a stronger claim requiring additional physical conditions and comparisons. Chapter 2 defines extraction, costs, boundaries, levels, and rates; chapter 3 distinguishes autopoiesis from reproduction; chapter 6 develops the ontological premise. Historical evidence, physical mechanisms, and the synthesis have distinct roles.
+A five already written in a distant row decides an empty Sudoku square. Copy the clues onto another sheet or enter them into a computer, and the same move follows. This is what *Platonic* means here. A formal relation has consequences wherever it is realized. A solver that uses those relations can avoid searching through most possible strings of digits.
 
-The chapters follow physical mechanisms and documented histories, with explicit distinctions between observation, illustration and conjecture. The afterword asks which predictions could distinguish the creation cycle from rival explanations. The separate research companion houses the natural experiments, their methods, datasets and results. [Companion evidence by chapter](../research/evidence.md) · [Causal inference methods](../research/causal-inference.md)
+Turn to the frozen ancestors in Richard Lenski’s long-running bacterial evolution study. Earlier changes made it easier for one lineage to evolve the ability to use citrate under the conditions of the experiment. Evolution can change which next steps are reachable, and can open a source of energy that earlier arrangements could scarcely use. A puzzle designer has specified a finished grid. A bacterial lineage inherits possibilities without inheriting a final answer. [Sudoku](../manuscript/01-the-square-with-one-answer.md) · [Evolution and historical contingency](../research/sources.md#s03)
 
-## Narrative threads
+<a id="chapter-03"></a>
 
-Carlisle Spedding’s shaft at Saltom opened coal below a waterline and made a transport route through Ravenhill valuable. Michel-Marie Carquillat’s 1839 silk made another picture possible. For the second one the weaver commissioned the painter. The two stories carry a question into the last part of the book. What did a particular invention enable someone else to do for the first time? [The two threads](ideas.md#i76--the-flooded-mine-and-the-woven-portrait)
+### 3. When Does an Even Split Come Apart?
 
-## Chapter overview
+At Twente, researchers put equal numbers of beads into two connected compartments and shook the apparatus. They could change whether the beads remained approximately evenly divided or collected on one side. In a dense group, more collisions dissipate motion and fewer beads can jump the partition. Explain how a small excess can bring about the conditions for its own growth and why the investigators counted the beads after stopping the apparatus.
 
-This overview gives the narrative route through the central hypothesis. Detailed section plans and source mappings follow. All twelve chapters are drafted in full prose.
+The author’s question is how apparent equilibrium repeatedly gives way to new differences. A balanced head count can conceal a flow of energy. At true thermal equilibrium, fluctuations alone cannot supply a steady source of work. Specify the input, instability or change of boundary that lets a fluctuation leave a lasting difference. Gravity in a cooling cloud carries that question into the next chapter. [Driven granular gas](../research/sources.md#s75) · [Stable and unstable regimes](../research/sources.md#s76) · [Feynman’s ratchet at one temperature](https://www.feynmanlectures.caltech.edu/I_46.html)
 
-**Prologue — The Portrait Behind Glass.** Babbage brings the painter David Wilkie closer to a portrait he takes for an engraving. Who made the cracks in the windowpane out of silk? Moulin’s account of preparing the pattern leads into Babbage’s cards. At Whitehaven a mine owner pays to try steam pumping, and at a modern data center an operator finds an unexpected use for winter cold.
+<a id="chapter-04"></a>
 
-**Part I · How Possibility Becomes Actual**
+### 4. What Lights a Star?
 
-1. **The Square with One Answer.** In the author’s Sudoku program, one constraint makes four entries easier to find. At Saltom Pit, Carlisle Spedding’s pumps open a seam, storms batter the little harbour, and the coal goes back underground to reach a new way out. Solving one bottleneck brings another project within reach.
+In the Webb image of L1527 a dark disk cuts across the light around a young star. Gravity has already drawn material together. Explain why infalling gas heats up, why it must lose energy for contraction to continue, and how a sufficiently massive core reaches conditions for sustained hydrogen fusion. A brown dwarf can go through much of the same history and stop short of that stage.
 
-2. **The Gradient and the Barrier.** Carnot asks which England could better afford to lose, its engines or its navy. Joule measures falling weights warming water. John Spedding names the two men who can put a pumping engine right. Their work connects the physical difference that can drive an engine to the new seam a district can work.
+Underground at Gran Sasso the Borexino collaboration detected neutrinos from the reaction that starts the Sun’s main fusion chain. Fusion releases binding energy and establishes a long-lived stellar structure. Later stages in stars make heavier nuclei, and winds and stellar deaths put some of those products back into space. A later planet inherits chemical possibilities its source material once lacked. Self-regulation in a star and self-production in a cell will require different explanations. [Observatory and detector records](../research/sources.md#s163) · [Stellar nucleosynthesis](../research/sources.md#s55)
 
-3. **Life Makes Its Conditions.** Peter Rivizzigno spots pale towers on the camera watch at Lost City. After the dive, Heather Hanna has living animals to preserve. Smith and Morowitz ask what new use life could make of a gradient the rock supplies. Geological dates, other planets and a cloudy flask in Lenski’s laboratory sharpen the question of when a chemical opportunity becomes accessible.
+<a id="chapter-05"></a>
 
-**Part II · The Physical Argument**
+### 5. What the Water Brings to Lost City
 
-4. **The Discovery That Became Possible.** Einstein opens his 1905 paper with a magnet and a conductor. Poincaré starts from a failed search for motion through the ether and a requirement on Lorentz’s equations. The two June papers show how a shared constraint can make convergence intelligible while leaving room for distinct discoveries.
+Follow the expedition watch that recognized pale towers in seafloor photographs and Deborah Kelley and Jeff Karson down to the site. In this Atlantic vent field, reactions between seawater and exposed rock supply fluids rich in hydrogen. Mixing with the surrounding seawater sustains chemical differences. A porous wall, mineral chemistry and an existing supply of reactants restrict the reactions available long before there is anything there to choose among them.
 
-5. **How Disequilibrium Builds a New Pathway.** Two sealed counters go on recording strokes after a pump breaks. Follow the first fuel for Newcomen’s engine, the missing carts at Kaiping, a freed family’s wage claim and Watt’s separate condenser. Return to Fowey Consols to see what the witnesses could credit to a bushel of coal. The railway in Devon tests what happens when a different machine can carry the same paying passenger.
+Eric Smith and Harold Morowitz propose that organized metabolism can give planetary chemistry an especially effective way to release free energy. Ask which transformation is slow without living chemistry and which feasible alternative could deliver a greater sustained rate under the same conditions. Modern vent organisms show that this route works. Early evidence of life and a modeled window for persistent RNA chemistry near 4.33 billion years ago make prompt assembly worth asking about. Neither dates the first living system. [Lost City expedition](../research/sources.md#s145) · [Energetic proposal](../research/sources.md#s140) · [Early-Earth chronology](../research/sources.md#s134) · [Vent chapter material](../manuscript/03-life-makes-its-conditions.md#the-chemistry-a-vent-makes-possible)
 
-6. **From Uncertainty to an Assembled Universe.** Foucault’s rotating mirror settles which way light changes speed in water. The Delft Bell test, shaking beads, Wu’s cobalt and Riess’s notebook distinguish an observed difference from an origin for the rules themselves. The chapter asks which measured value could distinguish assembled laws from laws that were always fixed.
+## Part II · Humans
 
-**Part III · Human Society and Collective Intelligence**
+<a id="chapter-06"></a>
 
-7. **The Species That Changed Its Own Conditions.** Richard Lee goes looking for a second ox when his guests insist the first will barely feed them. Follow the right to divide the meat, a child who frees a mother’s hands to dig, and six-year-old mushroom gatherers into the question of how people came to shape one another’s development and evolution.
+### 6. What Makes More of Itself?
 
-8. **The World That Learned to Think.** The duc d’Aumale visits Carquillat’s workshop to see a portrait. A second silk records the visit, and Moulin’s letter explains how the first pattern was made. Films of Katal Pavlu at a loom in Chiapas and of her daughters twenty-one years later show how even the judgment of when to ask for help can change between generations. Carquillat’s second picture records a new use for inherited skill.
+W. Grey Walter built a small wheeled machine that sought light and could find its charging hutch. Following one working circuit gives cybernetics a precise job. A change in the machine feeds back into the action that changes it next. Follow it back to Walter’s bench to see who had to build and replace the circuit. Then turn to the model of a cell boundary built by Francisco Varela, Humberto Maturana and Ricardo Uribe. Reactions produce parts of the boundary that keeps those reactions together. Here an organized process renews some of the means of its own operation.
 
-9. **The System That Produces Its Tomorrow.** Both women agree that Pommet is owed forty francs. Who lends to the workshop while she waits? A schedule of weaving rates, a Massachusetts bill with its denomination altered, a feudal oath and a union train fare reveal what different claims can actually deliver. The Lyon council hears one more case, that of an apprentice who cannot stay awake.
+Explain the hierarchy from component to cell to lineage. A system that maintains itself can persist. One that leaves viable descendants can also become more frequent. Counts depend on production, losses and the period observed. A thousand identical products can also come from one external factory. The stronger energetic argument applies when access to energy actually finances renewal or reproduction. [Walter and the cell model](../manuscript/10-the-system-that-models-itself.md#inside-the-charging-hutch) · [Autopoiesis](../research/sources.md#s33) · [Cybernetics](../research/sources.md#s87)
 
-**Part IV · Cybernetics**
+<a id="chapter-07"></a>
 
-10. **The System That Models Itself.** Walter’s tortoise dances at its mirror. Darwin notices that objections to his ideas slip from his memory and adopts a rule for recording them. From the difference emerges an argument for intelligence as hierarchical and recursive self-modeling. Wiener, McCarthy and the ImageNet researchers pursued different means to give machines new capacities.
+### 7. The System That Models Itself
 
-11. **Why the World Builds Artificial Intelligence.** Lovelace tells Babbage’s engine where to put three identical quantities. Brown’s team teaches by example, Yao’s connects a model to outside evidence, and Muennighoff’s gives it one more chance at *raspberry*. NASA’s lost orbiter reveals the limit of checking an answer against the same evidence again.
+Charles Darwin had noticed how readily his own memory lost facts that ran against a favorite conclusion. He made a rule of writing them down immediately. His estimate of what his mind would do changed how he gathered evidence. Develop the book’s definition of intelligence as **a hierarchical and recursive self-modeling system**. At one level an organism directs attention. At another it can represent where its attention is going and change how it directs it. Repeated action alone supplies no such model.
 
-12. **The Machines That Build the Next Machines.** Mäntsälä sells heat the server rooms discharge. In Lausanne a controller holds two plasmas apart. Goldie follows a learned layout into a manufactured processor for machine learning. Fuenffinger’s cooling observation makes it possible to ask what further work these changes actually buy.
+A trained agent in Andrew Wilterson and Michael Graziano’s study was given information about its own attention and then had that information withdrawn. What changed in its ability to track and catch helps separate self-modeling from ordinary feedback. Return to Darwin’s rule to ask how much more it takes for a person to recognize a habit as their own. The functional result leaves subjective experience open. [Darwin’s manuscript](../research/sources.md#s159) · [Attention study](../research/sources.md#s94) · [Existing prose](../manuscript/10-the-system-that-models-itself.md#what-darwin-wrote-down)
 
-**Epilogue — The World That Builds Its Next Question.** Bonnefond’s receipt records the 500 francs Carquillat paid to commission the second picture. A coal seam, two June papers and a manufactured chip trace the creation of capacities across domains. The 1844 silk shows who got to choose the next picture and whose names were woven below it.
+<a id="chapter-08"></a>
 
-**Afterword — What Would Make This a Theory?** Distinguish the definition of assembly from predictions about renewal, energy access and further creation. Consider rival mechanisms, the conditions under which the proposed connection fails, and physical models that could yield a new observable consequence.
+### 8. How People Changed the Conditions of Growing Up
 
-## Prologue — The Portrait Behind Glass
+Richard Lee bought an ox for a feast. The people he meant to honor told him how poorly he had chosen. Their later explanation of the jokes makes visible a practice that checked the claims a successful provider could make on others. Alongside that account put children learning to apportion meat and adults sharing the care that makes long apprenticeships possible. Show how a group can alter the rewards for aggression, patience and learning within a lifetime.
 
-**Current material:** [prologue](../manuscript/prologue.md). **Ideas:** I07, I31, I43, I50–I55, I75–I76. **Sources:** S30–S31, S36, S147–S148, S157.
+Human self-domestication asks whether some of those conditions also altered inherited dispositions across generations. Compare selection against reactive aggression, including the proposed role of coalitions, with learned restraint and the benefits of shared provisioning. Dispersal beyond Africa, expansions in the range of habitats humans occupied, and the much later appearance of agriculture each require their own dates and causes. The woven portrait can return here through what one weaver could teach another. [Lee and the field studies](../research/sources.md#s153) · [Competing accounts of aggression](../research/sources.md#s69) · [Dispersal evidence](../research/sources.md#s73) · [Earlier human-history draft](../manuscript/07-the-species-that-changed-its-own-conditions.md)
 
-Begin in Babbage’s drawing room. Let the curtain and the cracked pane explain why Wilkie kept trying to identify the engraving technique. Name Carquillat and Moulin, then follow the punched cards into Babbage’s plans for the Analytical Engine. [S147](../research/sources.md#s147)
+## Part III · Technology
 
-Savery promises orders to the carpenters who might lose work to a pump. Lowther’s 1715 lease records what one owner was willing to spend. At Saltom, storms damage the harbour and the coal goes back underground. Fuenffinger’s winter cooling decision takes the story into a working data center. [S36](../research/sources.md#s36) · [S157](../research/sources.md#s157)
+<a id="chapter-09"></a>
 
-State the hypothesis about usable energy and constraints. End on the first decision the author had to make when writing a Sudoku solver.
+### 9. Steam at the Flooded Mine
 
-## Part I — How Possibility Becomes Actual
+At Saltom Pit in England steam pumped out water while horses still wound up the coal. Follow one bushel sacrificed to keep a seam open to many more bushels. Coal available near the pithead could pay the energy cost of the first strokes. More powerful or economical engines faced a different calculation once fuel had to be bought and carried. At Fowey in Cornwall a broken pump bucket exposes the difference between a counted stroke and water actually lifted.
 
-### 1. The Square with One Answer
+In China, Tang Tingshu’s survey at Kaiping identified the cost of carrying coal away. Later observers recorded railway track, hand labor, drills and an engine under construction in the same enterprise. This gives specificity to the proposed persistence of human labor. The constraint that made mechanization valuable could be drainage, transport or something else again. The later Chinese records document a feasible alternative history of adoption and leave the cause of Britain’s earlier priority open. [Saltom records](../research/sources.md#s157) · [China comparison](../research/sources.md#s37) · [Cornish measurements](../research/sources.md#s146) · [Existing steam prose](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md)
 
-**Current material:** [chapter1](../manuscript/01-the-square-with-one-answer.md). **Ideas:** I70, I05, I69. **Sources:** S01, S04, S120, S157.
+<a id="chapter-10"></a>
 
-**Question:** Do bottlenecks help in creation?
+### 10. The Factory That Kept Its Steam Engine
 
-**Argument.** A bottleneck can concentrate work on a genuinely new capacity. The failed harbour and the route through Ravenhill show why a constraint can guide a project without guaranteeing its success.
+In 1897 the Keating Wheel Company was still making bicycles in Holyoke while it equipped a new Connecticut factory. The new works had a steam engine and a generator, motors hanging from the ceiling, and six shops built at right angles to the main building. Follow power through them to show how the same fuel could do useful work in a different arrangement. Grinding and polishing could be kept away from the machine tools that needed a clean surface. Electric group drive removed the need to run one mechanical transmission around all those corners. Buying a motor for every tool was a separate choice.
 
-**Narrative mechanism (S120):** Keep one continuous story: Sudoku → the flooded mine → the changed starting conditions created by a working pump. Use the square to explain directed search, the water to specify a useful function, and the pump to show what a successful assembly leaves available. Develop the broader physical, philosophical, social, and AI arguments in their later chapters.
+An owner fitting out a new building and an owner with usable shafts faced different reasons to change. Beyond the factory, Bartlett farmers had to finance miles of line before selling any power. The chapter argues why electrification spread unevenly, and why its advantages could survive the sale of Keating’s bicycle business. [Read chapter 10](../manuscript/technology/10-the-factory-that-kept-its-steam-engine.md) · [Factory records](../research/sources.md#s164)
 
-1. Open with the question about bottlenecks and creation, then the author's Sudoku programming problem and the minimum-remaining-values heuristic. Explain why the most constrained square can be a useful place to begin.
-2. Show how one determined square changes the possibilities elsewhere. Define a bottleneck as a limiting step or dependency, distinguishing a narrow choice from a limit on physical flow. Separate better organization of search from simply making more attempts.
-3. Trace the partition down Carlisle Spedding’s shaft at Saltom. The horse gin winds coal while the atmospheric engine pumps water. Explain why adding winding capacity could do so little for a flooded seam.
-4. Follow the coal to a storm-damaged harbour, back underground, up the Ravenhill shaft and along the wagonway to Whitehaven Harbour.
-5. Follow Saltom’s later use in draining the wider coalfield. A capability acquired for one shaft enlarges the opportunities open at other workings.
-6. Compare the harbour and the drainage on the same coast. Both attracted investment. The storms made it necessary to find another way to ship the coal.
-7. Return to the Sudoku square. Its value was already implied. The route through Ravenhill had to be built, and building it changed which routes and seams could pay.
+<a id="chapter-11"></a>
 
-**Transition:** A bottleneck may concentrate search or direct effort, but it does not supply that effort. The next chapter examines disequilibrium and the physical work needed to realize a new pathway.
+### 11. LEO Takes the Bakery Orders
 
-### 2. The Gradient and the Barrier
+At a British teashop, staff kept the telephone free so head office could call. Under the old system, managers had sent written orders for hundreds of products to the London works each afternoon. The food had to be made, packed and delivered overnight. Follow a single entry through the baker’s totals and the van’s loading list. David Caminer’s examination of old orders let each manager give just the changes from her normal order for that day. Reuse of the same entry tied several decisions together before the food went stale.
 
-**Current material:** [chapter2](../manuscript/02-the-gradient-and-the-barrier.md). **Ideas:** I70, I71, I69, I07–I09, I41–I42, I53. **Sources:** S02, S04, S07–S08, S33, S68, S126, S128, S130, S157.
+Distinguish the 1951 bakery valuation program from the ordering service that began in 1954. Follow three later outcomes. Wembley staff reported saving time. A reserve-stores program lost its purpose when rationing ended. Ford bought payroll processing that reused part of Lyons’ code. Computerization spreads when reusable instructions can reach recurring decisions in time for someone to act. [Read chapter 11](../manuscript/technology/11-leo-takes-the-bakery-orders.md) · [Participant accounts and program records](../research/sources.md#s165)
 
-**Question.** How can an energy difference do work that was previously beyond a community’s reach?
+<a id="chapter-12"></a>
 
-1. Read Carnot’s comparison of engines and navy, then examine Joule’s measurement of falling weights and warming water.
-2. Follow a stroke from the hot boiler to the water below ground. A better-fitting piston can make the same firing lift more water. Cheap fuel can buy a crew time to learn how to make a better piston.
-3. Read John Spedding’s report of the two men who could manage the early Whitehaven engine. Follow Carlisle to Saltom, where steam and horse power acquired different jobs. Establish the new capacity before asking what allowed it to recur.
-4. Use Joule’s apparatus and Saltom’s wider drainage to distinguish local heat, work and the rate at which an entire coalfield can make fuel accessible.
-5. Compare the high- and low-absorption states in Horowitz and England’s driven chemical model. Identify what a stronger claim about selection for greater energy extraction would have to explain.
+### 12. When Is a Learned Answer Worth Using?
 
-**Transition.** At Lost City, rock and water already supply work. What could a planet do with that difference once a metabolism appeared?
+Caminer had to discover a regularity in yesterday’s orders before anyone could program it. This chapter asks when learning the regularity from examples can itself be given to a machine. Follow the shift from explicitly written rules to learned representations through the work needed to train, power and use them. The ability to search a large space becomes valuable when the task recurs, examples constrain the search and a check can distinguish a useful result from a plausible mistake.
 
-### 3. Life Makes Its Conditions
+Trace one learned chip layout from a suggested arrangement to manufactured silicon, then look at a competing design on a measurable task. A deployed service needs an input, finite inference, verification and a way for an answer to affect work. More inference can buy better results on some tasks at a cost. Success means a dependable gain after training, inference, checking and rework, and enough of that gain returning to sustain further use. The natural emergence of this capability leaves its ownership and particular architecture open. [Dartmouth proposal](../research/sources.md#s90) · [Deep learning](../research/sources.md#s91) · [Chip design and independent comparison](../research/sources.md#s155) · [Existing AI prose](../manuscript/11-why-the-world-builds-artificial-intelligence.md)
 
-**Current material:** [chapter3](../manuscript/03-life-makes-its-conditions.md). **Ideas:** I77, I75, I74, I72, I70, I69, I06, I12–I15, I31, I33, I42, I54. **Sources:** S145, S02–S03, S07, S19, S32–S34, S55, S58, S123–S124, S129, S131–S135, S140–S144, S151–S152.
+## Part IV · Exploration
 
-**Question.** What becomes possible for the chemistry of a planet when life appears?
+<a id="chapter-13"></a>
 
-1. Open on the midnight camera watch over the Atlantis Massif. Follow Rivizzigno’s photographs, the Alvin dive and the animals Kelley and Hanna examined back on deck. Use the chimneys to explain how rock and water supply a living ecosystem. [S145](../research/sources.md#s145) · [S143](../research/sources.md#s143)
-2. Compare a mineral pore at Lost City with the boundary Varela, Maturana and Uribe constructed in their simulation. Use autopoiesis to explain what becomes reproducible after a new chemical organization forms.
-3. Ask when the young Earth could have sustained such chemistry. Give the evidence for liquid water, early life and the modeled window for persistent RNA chemistry their respective roles. Explain the vent-origin hypothesis and the work a chemical gradient might do along a constrained pathway. [S131](../research/sources.md#s131)–[S135](../research/sources.md#s135) · [S140](../research/sources.md#s140)–[S144](../research/sources.md#s144)
-4. Give the Fermi conjecture a brief turn. Put the late-chemistry hypothesis beside ancient small planets, then weigh what a probe can send home against what a settlement must renew, especially as its home star ages. [S151](../research/sources.md#s151) · [S152](../research/sources.md#s152)
-5. Widen the boundary to the changes living systems make in their surroundings. Follow oxygen through the sinks that consume it and the atmosphere that later organisms inherit. What one generation does can change the conditions for the next.
-6. Open with the cloudy flask in Lenski’s laboratory. Use the frozen samples to ask why only one of twelve populations gained access to citrate. A coexisting lineage came to feed on compounds the citrate users released. [S03](../research/sources.md#s03)
+### 13. Were the Laws of Physics Assembled?
 
-**Transition:** One lineage in twelve gained a new capacity. Why, in June 1905, did two investigators approaching a problem from different directions agree on a mathematical relation?
+Start with the supernova observations behind the inference of accelerating expansion. The cosmological constant gives the fine-tuning question a measured target. A probability argument about its value requires a justified set of alternatives and a rule for weighting them. The book asks whether successive physical changes progressively limited the combinations the universe could reach. Return to ontological uncertainty as the premise that those relations could ever have been otherwise.
 
-## Part II — The Physical Argument
+Give the author’s answer in full. The conjecture is that what we call constants express a physically assembled order which renews the conditions for its persistence, and that accessible arrangements sustaining the greatest rate of energy extraction preferentially persist. Symmetry breaking, stationary action and decoherence illustrate different kinds of constraint or stability. None supplies the proposed renewal cycle on its own. A physical theory would have to specify what varies and what does the renewing, supply its energy accounting, and derive a value or new relation that observation can check. [Cosmic acceleration](../research/sources.md#s27) · [Vacuum stability and decoherence](../research/sources.md#s137) · [Fine-tuning draft](../manuscript/06-from-uncertainty-to-an-assembled-universe.md#fine-tuning-and-the-cosmological-constant)
 
-Start with familiar discoveries in relativity and quantum physics, then work backward to the steam engine, where the material mechanism of a new assembly is easier to follow. Finally ask whether the same principles could have built the universe itself and specified its fundamental constants. Distinguish discovering a physical relation, constructing a pathway under physical laws, and explaining the origin of those laws and conditions.
+<a id="chapter-14"></a>
 
-### 4. The Discovery That Became Possible
+### 14. Has Life Had Time to Cross the Galaxy?
 
-**Current material:** [chapter4](../manuscript/04-the-discovery-that-became-possible.md). **Ideas:** I70, I71, I69, I50–I52, I56. **Sources:** S03, S65, S67, S127, S130, S147.
+Begin with the five small planets at Kepler-444, a system estimated to be about eleven billion years old. The book proposes that the sustained chemical gradients appropriate for life, and then the much longer chain of capacities required for technology, may have become common relatively late. Age and chemical enrichment matter differently. An ancient small planet challenges a simple recent-stars-only cutoff. What an inhabited planet needs is a history of accessible gradients, for which radius and age are incomplete evidence.
 
-**Question:** Could convergent discovery and dialectical reconstruction be expressions of the same disequilibrium-driven process?
+A second proposal concerns the return on a trip. Instruments can send home observations without the cost of sustaining a living community between stars. The Voyagers supply an actual example of that distinction. A failing home star could change the calculation for settlement. Long-lived autonomous probes could also leave detectable traces even if their builders stayed home. Keep the probability of life, the age of a technological society, and our ability to detect it separate. Close with a question we can pursue on Earth. When an element that life needs is plentiful on a planet, what does it take for an organism to use it? [Ancient planets and enrichment](../research/sources.md#s151) · [Voyager and settlement models](../research/sources.md#s152) · [Earlier Fermi material](../manuscript/03-life-makes-its-conditions.md#who-would-make-the-crossing)
 
-**Argument:** Ontological uncertainty is proposed as the basis for revisable categorical oppositions. Interpenetration and negation of the negation organize the conceptual question; quantity into quality directs attention to the physical transitions enabling new capabilities. Trace support, formation, correction, retention, and the possible energetic return through the wider research organization. Let the two papers show where the inherited mathematics narrows the field and where the broader energetic account remains a conjecture.
+<a id="chapter-15"></a>
 
-**Narrative mechanism (S127):** Use search theory to ask which inherited observations and representations make inquiry non-arbitrary. Connect conceptual reconstruction to changed search without deriving its physical cause from convergence alone.
+### 15. When Do Two Organisms Become One?
 
-1. Read Einstein’s opening magnet-and-conductor puzzle beside Poincaré’s note. Attribute the train and synchronization procedure to Einstein’s paper and ask why a law about motion has consequences for distant clocks.
-2. Go back to the stone slab Michelson and Morley floated on mercury. Follow the grant, mirrors and slow rotation that made a nearly stationary stripe mean enough to trouble Poincaré years later.
-3. Return to the freezer with Poincaré’s note in hand. A lineage can keep an advantage to itself. A reader can inherit an optical result and a competing explanation by post. Ask which parts of the two papers others could readily have reached and where the authors’ interpretations still differ.
-4. Turn from motion to the distinct problem of radiation. Follow Einstein’s account of waves and quanta into the image built by single electron arrivals. Read the three dialectical principles through what the observations force a successor theory to retain.
-5. Follow the argument back into hardware. A navigation clock can embody a relation developed on paper. What does the instrument reveal about the physical cost and return of discovery, and what can its accuracy alone establish?
+A cell from a bucket of seawater collected at Tomari Port contained a rounded body. Kyoko Hagino’s team could see it. Other researchers traced the exchange of fixed nitrogen for fixed carbon in related organisms. Follow what passes to a daughter cell. Images from different stages of division show the nitrogen fixer dividing with its host. Tyler Coale’s comparison of proteins places some of the instructions for running it in the alga’s nucleus. A daughter inherits both the means to capture sunlight and a way to spend part of that energy to obtain nitrogen. [Read chapter 15](../manuscript/exploration/15-when-do-two-organisms-become-one.md) · [Biological sources](../research/sources.md#s166)
 
-**Transition:** Work backward from familiar discoveries to the steam engine. Use the more tangible relationship among existing resources, a costly first machine, and changed access to energy to examine the mechanism before extending it to the universe.
+Return to the strain that lost its partner in culture and continued to grow. The book predicts a reproductive advantage under particular conditions of light and nutrient scarcity. The observations identify the nitroplast and what an alga can inherit. Measuring the advantage requires following the competing lineages under comparable conditions.
 
-### 5. How Disequilibrium Builds a New Pathway
+<a id="chapter-16"></a>
 
-**Current material:** [chapter5](../manuscript/05-how-disequilibrium-builds-a-new-pathway.md). **Ideas:** I70, I71, I69, I16–I18, I21, I31, I41–I42, I50–I53. **Sources:** S146, S156, S04, S35–S37, S39, S44, S66. Energetic accounting in S07 and S68.
+### 16. Who Owned the Contents of Osaka’s Privies?
 
-**Question:** How can disequilibrium participate in producing a pathway that does not yet exist?
+In 1724 groups of villages from Yamazaki and Takatsuki disputed the right to collect human waste in Osaka. Farmers had traded vegetables for the return cargo. As fertilizer became dearer they paid silver. Follow the separate rights of landlords, tenants and collectors, and the village of Watanabe’s defense of its right to the street-corner containers. A rule about access could change which village received the next load from the same wharf. [Read chapter 16](../manuscript/exploration/16-who-owned-the-contents-of-osakas-privies.md) · [Osaka records and historians](../research/sources.md#s167)
 
-**Argument:** The energetic preference acts through the return from increased extraction to continued operation and construction. Compare the combined mine, pump, and supply network with its precursor. Specify the quantitative threshold at which pumping changes the mine’s operating regime, while keeping formation, maintenance, and reproduction distinct.
+The city’s 1930 sanitation account records a fee-based collection service beginning in 1921. When the old trade could no longer pay for timely removal, municipal storage helped keep nutrients moving. The physical return to the field and the financial return that kept a collector working can change independently.
 
-**Narrative mechanism (S60):** Follow reusable valves, parts, skills, and repairs into later construction. Separate support for an inefficient first machine from the reduced search cost of an inherited repertoire.
+<a id="chapter-17"></a>
 
-1. Open at the public trial of Austen’s engine at Fowey Consols in October 1834. A component of one pump breaks while witnesses are counting the work. Why were they there to count it in the first place? [S146](../research/sources.md#s146)
-2. Examine Newcomen’s engine and Desaguliers’s account of low-value colliery fuel. Follow the fire that powers drainage and the much larger quantity of fuel drainage can put in circulation.
-3. Ask who could afford to run an inefficient machine long enough to improve it. Use Allen’s English and Chinese kilns and Humphries’s account of whose wages enter the comparison. At Kaiping, follow the coal as far as the carts can carry it. Put Rembert and Prescott’s 1850 picker patent beside Woodward’s 1869 appeal for a machine and Jourdon Anderson’s 1865 reckoning of his family’s unpaid labor. Return to the hand picking that coexisted with later machines at Magnolia.
-4. Follow Watt’s separate condenser into Cornish metal mining. Coal costs money to bring in. Joel Lean’s reports let one engine crew see what another can do with a bushel and ask how it was done.
-5. Return to the broken pump and the witnesses’ arithmetic. Separate the work a bushel bought on the trial from the daily work of keeping a mine open. Ask what had to reach the people who could repair the machine or build its successor.
-6. Take the South Devon atmospheric train to Newton. Examine the pipe seal with Brunel and follow the directors’ choice when the same passengers could be carried by locomotive. [S156](../research/sources.md#s156)
+### 17. Why Did Sam Eyde Want to Replace His Own Furnace?
 
-**Transition:** The engine makes the proposed mechanism tangible while inheriting matter, gradients, and physical laws. Could the same principles have built the universe itself and determined its fundamental constants?
+Eyde helped establish a works at Notodden that used hydroelectric power to fix nitrogen from the air. He later urged Hydro to adopt the rival ammonia method. Harald Bjerke resisted, Axel Aubert made the agreement, and the American-derived plant at Notodden and German process at Rjukan gave the conversion different histories at the two sites. Trace one shipment of ammonia by rail and ferry to the coastal fertilizer works. [Read chapter 17](../manuscript/exploration/17-why-did-sam-eyde-want-to-replace-his-own-furnace.md) · [Industrial sources](../research/sources.md#s168)
 
-### 6. From Uncertainty to an Assembled Universe
+Hydro reported that the conversion quadrupled capacity. The ensuing depression and its later sales guarantee show what installed capacity leaves unknown. Cheaper fixation can enlarge output from the same source of power. Whether it increases the total rate of energy use depends on orders, operating time and competing uses of that power.
 
-**Current material:** [chapter6](../manuscript/06-from-uncertainty-to-an-assembled-universe.md). **Ideas:** I73, I72, I70, I71, I02–I04, I31, I40–I42, I54, I56, I66–I69. **Sources:** S05, S07, S20–S29, S33, S75–S78, S121, S130, S136–S139, [S160](../research/sources.md#s160).
+<a id="chapter-18"></a>
 
-**Question:** How could an ontologically uncertain reality acquire definite structure, develop asymmetries and gradients, and assemble the coordinated conditions described as fine-tuning?
+### 18. Do Data Centers Maximize Entropy Production?
 
-**Argument:** Indeterminacy is the proposed foundation beneath repeated creation. Categorical oppositions can be reorganized; quantitative changes can enable qualitative transitions through specified dynamics. Metastable retention supplies a candidate route from formation to enduring physical conditions. Distinguish retained physical conditions from the autopoietic recurrence required by the full cycle. The cosmic extension must explain gradients, relations, and ordering rather than import a completed energetic cycle. Keep returning to a single question. How does an outcome become a rule? Use the assumed vacuum potential to locate the limit of the explanation.
+At Mäntsälä, Finland, Yandex valued the fiber, road links and cold air. The local utility saw a use for the server heat and proposed buying it. Follow the electricity into the computers, the heat leaving them, the power needed by the heat pump, and the heating it can displace. Set that beside a cooling operator who could reduce site electricity by using winter air. A useful answer per joule, electricity drawn in a year and entropy produced per second are different observations.
 
-**Narrative mechanism.** Foucault compared the speed of light in water and air. Return to the optical relation his measurement settled when asking whether a regularity taken as given on one scale might have a history on another.
+Carry Eyde’s distinction between capacity and actual use into the Finnish meter readings. The strongest prediction asks whether a concentrated computing system, including its grid and heat users, sustains a greater entropy-production rate than feasible alternatives over the same period. Compare local computing or another location doing comparable work. Account for temperatures, avoided heating, idle capacity and what a saving actually finances. Return to Heather Graham’s blinded samples and ask what the trace of a building’s operation reveals about why more of its kind are built. [Read chapter 18](../manuscript/exploration/18-do-data-centers-maximize-entropy-production.md) · [Heat and energy accounts](../research/sources.md#s169) · [Methodological afterword](../manuscript/afterword.md)
 
-1. Begin with Foucault’s rotating mirror and Hensen’s Delft experiment. Show what each measurement could settle about rival accounts. Introduce constitutive indeterminacy, absolute nothingness and the distinction between a quantum vacuum and an origin.
-2. Follow 600 shaken beads between identical compartments. Why does an accidental excess sometimes disappear and sometimes grow? Connect the change at the threshold to the dialectical argument and identify what supplies the energy.
-3. Read the December 1956 notebook entry from Wu’s parity experiment. The count falls as the sample warms, then rises on reversing the polarizing field and letting the sample warm again. Distinguish an asymmetric state from an asymmetric law. Ask what must change physically to explain an excess of matter, the number of dimensions or a temporal arrow.
-4. Ask where usable gradients came from. Distinguish the tendency toward equilibrium in a particular process from the stronger conjecture that assemblies favor the largest accessible rate of entropy production.
-5. Follow the fate of competing vacuum states. Decoherence can affect how long a metastable state persists. Identify what the model assumes about the states and the barrier. Contrast a persistent field with a cell that can rebuild its own boundary.
-6. Follow the time a ray takes at an interface back to the material that fixes its speed. Develop the hypothesis that a physical history can constrain the values accessible to the universe. Use the minus sign in Riess’s notebook and the proposed relaxion dynamics to specify what a theory of assembled constants would have to derive.
-7. End with the minus sign in Riess’s notebook and the measurement that a theory of assembled laws would have to explain.
+## Back matter and draft history
 
-**Early-life comparison:** Chapter 3 proposes that inherited material supports and formal constraints can make self-renewing chemistry promptly accessible. Distinguish this readiness hypothesis from a measured origin probability and from evidence about the formation of laws.
-
-**Transition:** Turn from the proposed formation of physical conditions to the human communities whose care, cooperation, restraint, and learning make those conditions intelligible.
-
-## Part III — Human Society and Collective Intelligence
-
-A guest brings meat, a draftsman turns a face into a set of instructions, and a weaver asks for her earnings. In each case, follow what the recipient actually gets. Food can buy the time to learn a skill. A drawing can carry part of that skill into another workshop. A worker can have a recognized claim on the cloth she made and still go home empty-handed.
-
-### 7. The Species That Changed Its Own Conditions
-
-**Current material:** [chapter7](../manuscript/07-the-species-that-changed-its-own-conditions.md). **Ideas:** I70, I69, I13, I19, I31, I34–I39, I44, I46–I49, I53–I54. **Sources:** S13, S15, S33, S35, S51, S69–S74, S153.
-
-**Question.** What new possibilities arose when people acquired the power to shape one another’s opportunities to hunt, learn and grow up?
-
-**Argument:** Cooperation and restraint can open collective resource access; care and teaching use returns to renew capacities; changed people and relationships alter subsequent opportunities and selection. Higher collective organization is defined by those dependencies, with an energetic advantage that must reach regenerative operations. Close on the social capacity to teach another person enough to weave a likeness.
-
-**Narrative mechanism (S123–S124):** Map the dependencies among care, provisioning, practice, and teaching. Distinguish an immediate loss of learned capability from evidence of biological selection.
-
-1. Join Richard Lee in his search for a second animal and let Tomazo explain the joke. Follow the right to divide meat from a borrowed arrow to a borrowed gun. A rise in a hunter’s yield can change who gets fed.
-2. Use this encounter to pose the self-domestication hypothesis. Separate the sanction a community can impose in a lifetime from selection over many generations. Set the proposal about reduced reactive aggression beside organized coercion, learned self-control and shared care.
-3. Among Hadza foragers, follow the older child who holds an infant while the mother digs. Among BaYaka children, follow six-year-old twins selecting mushrooms as a younger girl watches, then an adolescent distributing meat. Ask who feeds the child while she learns what to gather and whom to feed.
-4. Connect care and learning to collective energy access. A meal, the rule for dividing it and time for another attempt together give a community access to food that isolated individuals might miss. Someone still has to receive enough of the return to learn or teach again.
-5. Give each historical question its own clock. Early *Homo sapiens*, movements out of Africa and the transition to farming left different records. Return to the Nyae Nyae cooperative’s debate over hunting and to Lee asking Tomazo for an explanation. Who gets to question what a community has learned?
-
-**Transition:** The social conditions that shape human development also make transmission possible. The next chapter follows individual capacities into a collective competence that can accumulate across lives.
-
-### 8. The World That Learned to Think
-
-**Current material:** [chapter8](../manuscript/08-the-world-that-learned-to-think.md). **Ideas:** I70, I69, I34, I38, I47, I54. **Sources:** S12, S53, S125, S147, S158.
-
-**Question:** How can limited individual minds participate in a system of competence that no one mind contains?
-
-**Argument:** The higher assembly is a community capable of preserving and combining competencies. Greater effective access is proposed to sustain the learners, instruments, and teaching that reproduce that capacity. Test the material return separately from a learning score or a component’s energy saving.
-
-**Narrative mechanism.** Compare the work preserved in Moulin’s squared drawing with the judgments Greenfield’s films catch passing between generations.
-
-1. Stand in front of the two silks. Carquillat shows the duke the 1839 portrait in the 1844 workshop scene. Read the names beneath both. Moulin recalled leaving Petit’s firm after the manufacturer refused him a credit. Reconstruct the ruled drawing that allowed another worker to render a face in silk. [S147](../research/sources.md#s147)
-2. Reconstruct the work of making black silk from brown wash. The partial copy preserves decisions a finished face could never disclose on its own.
-3. Compare the filmed lessons of Katal Pavlu and her daughter Loxa Santis. Trace changes in who initiates help, which designs people want, and what each generation can make. [S158](../research/sources.md#s158)
-4. Return the borrowed drawing before Moulin and four draftsmen can finish copying it. Then read Bonnefond’s receipt for the later picture, which Carquillat commissioned at his own expense. One silk carries a firm’s name, the other credits three trades. The president of the labor council appears in the second inscription.
-
-**Transition.** Carquillat’s commission shows a weaver choosing the next work. The next chapter asks how a claim on the product can become the power to do something new.
-
-### 9. The System That Produces Its Tomorrow
-
-**Current material:** [chapter9](../manuscript/09-the-system-that-produces-its-tomorrow.md). **Ideas:** I70, I71, I69, I20–I27, I31, I48–I49, I53, I65. **Sources:** S09–S11, S33, S45, S60, S79–S86, S154.
-
-**Question.** When do people acquire the means to change the terms on which they work, pay, travel and protect one another?
-
-**Argument:** Changed conditions permit a productive organization; operations renew its people, means, and claims; its activity alters the next conditions. Greater energy access favors continuation only through material provisioning and renewal. Dialectical reconstruction concerns preserving capacities while transforming relationships that obstruct their reproduction.
-
-**Narrative mechanism (S124):** Make closure operational through feasible replenishment, losses, reserves, and substitutes. Apply those questions to the wage interruption and the feudal/union comparison.
-
-1. Read Pommet’s claim for forty francs and the widow Vieux’s explanation. Trace whose cash or cupboard would have to carry the debt during the requested delay. The newspaper records a ruling and leaves the date of payment open. [S154](../research/sources.md#s154)
-2. Put the two interruptions at Burgat’s shawl looms beside Pommet’s missed payment. Connect Marx’s account of material and class reproduction to Luhmann’s account of communication through the cybernetics of who hears a complaint and can act on it.
-3. Return to Lyon in 1831. Count what goes into weaving a piece, watch delegates negotiate minimum rates, then follow what happens to the agreement when the minister of war intervenes. Ask how much human work it takes to produce what looks to a buyer like a property of cloth.
-4. Follow a wartime obligation out of the Massachusetts treasury and a bill back in payment of taxes. The Smithsonian’s altered bill makes the cashier’s problem concrete. Compare the obligation that makes a currency desirable with the operations that issue a bill or create a deposit.
-5. Put Fulbert’s reciprocal oath beside the guarantees of a union. Follow the changing claims on labor through England’s 1349 ordinance, the division of the Walsham demesne into twenty-two holdings and a union fare that takes a member where there is paid work.
-6. Ask what sustains capitalism when the price of cloth falls for a buyer while its maker waits for her pay. Close with Bron, an apprentice who cannot stay awake through his evening work. A person can notice a limit while someone else holds the authority to act on it. Carry that distinction into chapter 10.
-
-**Transition:** Close Part III on the workers and institutions whose continued participation makes correction possible. Part IV takes up what happens during a correction, how one level of control can change another, and when the actor’s own condition becomes part of what is modeled.
-
-## Part IV — Cybernetics
-
-Walter built a creature that reacted to its own reflection. Darwin adopted a rule after discovering that his memory favored his theory. Chapter 10 asks what becomes possible when a system can model and revise its own way of judging. Chapters 11 and 12 follow the creation of machine capacities through training, physical feedback and the manufacture of later equipment.
-
-### 10. The System That Models Itself
-
-**Current material:** [chapter10](../manuscript/10-the-system-that-models-itself.md). **Ideas:** I70, I69, I22, I31, I38–I39, I44, I53–I55, I57–I60, I65. **Sources:** S09–S10, S33, S45, S60, S87–S94, [S158](../research/sources.md#s158), [S159](../research/sources.md#s159).
-
-**Question.** What can a system do for the first time when it can represent its own activity and revise how it acts?
-
-**Argument.** Feedback lets consequences alter an action. Recursive self-modeling brings the method of making the judgment within reach of judgment itself. The Nabenchauk films, Walter’s circuits, Darwin’s memorandum rule and a model of attention locate distinct steps in the argument.
-
-**Narrative mechanism (S45):** Use requisite variety to distinguish better information, more effective responses, and reduced disturbance. Connect a useful self-model to improved action under specified disturbances.
-
-1. Open at Walter’s mirror in Bristol. Compare the mirror circuit with a patient trying to raise a glass. Introduce Darwin’s account of what a person can discover about his own judgment.
-2. Follow the changes in who initiates help in the weaving films. Use the tortoise’s changing response to one light to explain Ashby’s requisite variety and a new means of reaching electricity.
-3. Locate regulation within the creation cycle: it may improve access or prevent losses, while the organization renews its regulator. Compare that whole arrangement with a specified precursor.
-4. Compare the boundary produced in Varela and colleagues’ model with the controller Walter had to build. Use Bron’s release to distinguish a ruling that changes a person’s opportunities from the work of creating a skill.
-5. Connect regulated and regenerated capability to assembly and the chapter 1 bottleneck question. Local control can succeed while a wider productive dependency fails. Constraints can make action reliable or prevent necessary adjustment.
-6. Introduce interacting hierarchies and recurrent pathways with bounded macaque visual-cortex evidence. Distinguish hierarchy, recurrence, recursive procedures, and self-modeling; reject a single all-knowing executive as an explanation.
-7. Read Darwin’s account of writing down contrary observations. Compare the result of changing a habit of inquiry with Wilterson and Graziano’s test of an artificial player’s access to a map of its attention.
-8. Read Wiener’s refusal, the Dartmouth request and the grant officer’s letter offering $7,500. The foundation had also supported Wiener and Rosenblueth. Put McCarthy’s unfinished chess strategy beside AlexNet’s off-center mite and AlphaProof’s use of learned search within formal rules.
-9. Return to the labeled photographs, the two processors and the architecture that made the mite identifiable. The researchers supplied the image. Carry Lovelace’s question about what originates in a machine into chapter 11.
-
-**Transition:** Artificial cognition can be assembled within this history while remaining dependent on initiation, finite computation, and an organization that renews its operating conditions.
-
-### 11. Why the World Builds Artificial Intelligence
-
-**Current material:** [chapter11](../manuscript/11-why-the-world-builds-artificial-intelligence.md). **Ideas:** I70, I69, I31, I38, I41–I44, I49–I55, I60–I62. **Sources:** S148, S07, S33, S68, S93, S95–S102.
-
-**Question:** Why does the proposed process assemble AI, and what limits remain when artificial cognition has been assembled?
-
-**Argument:** Useful artificial cognition may improve resource access and support the wider organization maintaining and reproducing it. The model alone is not that regenerative organization. Compare the physical return with training, execution, and renewal costs; a larger electricity bill does not establish the predicted advantage.
-
-**Narrative mechanism (S122):** Connect formal operations to physical implementations. Separate the cost of acquiring a useful representation from its later savings, and measure both within a stated horizon.
-
-1. Read the first rows in Lovelace’s diagram and compare Babbage’s account of her correction with Turing’s recollection of a mistaken assumption about voltage. [S148](../research/sources.md#s148)
-2. Explain joint material and Platonic organization through architecture, parameters, hardware, and execution. Distinguish specification, training, retention, inference, and deployment. Follow constraints that concentrate search or reward misleading shortcuts.
-3. Trace supported training, learned organization, deployment, regenerative return, and further construction. Evaluate energy-access gains at the productive-system boundary while preserving the model’s operational limits.
-4. Connect costly initial learning to chapter 5's first engine. Distinguish lowering learning costs from committing more resources before a return exists.
-5. Separate fixed model weights from variable total inference computation. Autoregressive generation, candidates, checks, and tools incur additional work; every actual run still has finite resource and execution limits.
-6. Count the r’s in *raspberry* alongside the s1 model. The program supplies “Wait” just as the model tries to stop. Trace the successful correction back through the instruction, the additional computation and the training that made either useful. Place the example beside the broader evidence about prompting, learned reasoning and the limits of extra time.
-7. Follow the wrong unit through the Mars Climate Orbiter software. Read the board’s recommendations on testing actual transfers and independent navigation review.
-8. Compare the orbiter evidence with Yao’s use of Wikipedia during a run. A source of new observations changes what it is possible to establish.
-9. Restate AI as a natural outcome of assembly under the book's hypothesis, with mechanisms, prerequisites, and counterfactual comparisons requiring specification. Distinguish the emergence claim from consciousness, guaranteed benefits, and endless recursive acceleration. Trace cognitive gains into physical outcomes before invoking an energetic maximum.
-10. Close on Fuenffinger’s winter cooling observation. A learning gradient changes a prediction. Cold outdoor air can change the power a plant needs to deliver cooling.
-
-**Transition:** Follow a bounded cognitive capability into the organization supplying it and the physical production it can help change; chapter 12 develops data centers and the possible productive return.
-
-### 12. The Machines That Build the Next Machines
-
-**Current material:** [chapter12](../manuscript/12-the-machines-that-build-the-next-machines.md). **Ideas:** I70, I69, I31, I38, I43, I53–I55, I60. **Sources:** S30–S31, S54, S124, S155–S156.
-
-**Question:** How do AI and data centers emerge through natural processes, and which comparisons could test their proposed material dependencies?
-
-**Argument:** The cycle predicts natural emergence through supported formation, useful deployment, regenerative return, and changed conditions. Greater extraction is proposed to favor continuation and reproduction of the wider assembly. Define that assembly before comparing it with its precursor, and follow actual repair and successor construction rather than assuming an endless growth loop. Compare a cooling benchmark with a month in service, as at Fowey Consols, and trace who receives the saving.
-
-**Narrative mechanism (S60, S45, S124):** Join the production and control loops, then distinguish productive gains from increasing-return lock-in. Compare inherited infrastructure advantages with additional computational benefit.
-
-1. Start with Jani Laine’s 2016 figures at Mäntsälä. Follow server heat through the municipal network before turning to Degrave’s shot in Lausanne.
-2. Follow a learned placement into a manufactured processor that can run learning programs. The updated independent comparison gives different winners for wire length and timing. Ask what cost matters to the person who might order a chip.
-3. Follow a message through a mirror-based optical switch in a 4,096-chip system. Trace the physical reasons for concentrating machines and the advantage an established site can gain as more people use it.
-4. Take Dan Fuenffinger’s account of unusually cold water in winter and the operators’ request to hand over routine adjustments. Compare the cooling figure with what the witnesses could measure at the Cornish pump.
-5. Return to the Finnish meters, including the electricity the heat pump consumes. Ask what the physical connection created and where the evidence for its wider consequences stops.
-6. Follow Goldie’s reported layout to a manufactured processor and distinguish a measured design gain from the claim that an entire industry is reproducing itself.
-7. Recall Pommet’s unpaid wages when asking who can dispose of a gain. Return to the physical travel time set by a design decision, then to the signed receipt behind the second Lyon silk.
-
-**Transition:** Return to the data center as a system that may help change its own productive supports. Reconnect the proposed emergence of AI to chapter 6's conjecture about physical origins, then ask what an assembled intelligence can help build and how its uses are chosen.
-
-## Epilogue — The World That Builds Its Next Question
-
-**Current material:** [epilogue](../manuscript/epilogue.md). **Ideas:** I50–I62.
-
-Begin with Bonnefond acknowledging five hundred francs from Carquillat in 1843. The first picture supplied the occasion for a second, which required a new composition, a new pattern and someone with the authority to commission them. Saltom’s drainage and the 1905 papers show how the creation of one capacity can change the problem that comes next.
-
-Follow vent chemistry to the question of the first physical difference and the conjecture about assembled constants. Goldie’s chip supplies a documented instance of one generation of equipment entering the design of another. Return to the names on the second picture and the weaver who got to decide where the duke would stand.
-
-## Afterword — What Would Make This a Theory?
-
-**Current material:** [afterword](../manuscript/afterword.md). **Ideas:** I45, I49–I62. **Sources:** S07, S10, S33, S59, S65–S68, S69–S74, S81, S84–S86, S88–S89, S92–S102.
-
-Begin with West at Fowey Consols and the South Devon directors dropping atmospheric propulsion. Ask which observations could distinguish the creation of a pathway, its later recurrence and the formation of a successor.
-
-Develop the argument through the following questions.
-
-1. Define the system boundary, disequilibrium, relevant rates, and observation interval before evaluating a case. Identify the operations that regenerate the organization, what enters from outside, and which interruption or substitution could test a claimed dependency.
-2. Map accessible assemblies, construction and operating costs, retention, and changes to subsequent pathways.
-3. Distinguish a reduced barrier from increased resources committed to crossing it. Identify who or what carries an initially unproductive stage.
-4. Model local processes that could generate a maximizing tendency without assuming foresight or selecting only successful outcomes.
-5. Compare with simpler explanations of selection, invention, cooperation, and convergence. State what additional prediction the energetic hypothesis makes.
-6. Use dialectical analysis prospectively: identify what an existing arrangement enables, what its continued reproduction obstructs, and which successor could preserve its capacities while changing those relations.
-7. Forecast candidate transitions and bottlenecks rather than guaranteed dates. Include observations that would defeat the forecast or the wider hypothesis.
-8. Specify interventions on self-models and compare prompting, inference budgets, training, and external feedback separately. Distinguish a demonstrated control advantage, improved task performance, and changed physical flows; success on the first two does not establish the third or subjective experience.
-9. Test the AI and data-center claims separately, defining both outcomes and their prerequisites in advance. Compare concentrated and dispersed infrastructure, and test the mechanisms enabling emergence and the conditions under which they fail. For cosmic assembly, require dynamics and observable consequences for the universe and fundamental values, with the assumed rules and ordering made explicit.
-
-## Integration and development material
-
-The twelve chapter numbers, file names, and reading sequence agree. Chapters 4–6 work backward from familiar discoveries through steam engines to the conjectured assembly of the universe. Chapter 7 combines self-domestication with the transformation of developmental constraints, followed directly by collective intelligence in chapter 8. Economic self-production is chapter 9. Chapter 10 covers cybernetics and self-modeling; chapter 11 explains artificial intelligence through the thesis; chapter 12 develops data centers and productive deployment. All twelve chapters are prose drafts. The [cognition chapter plans](archive/cognition-chapter-plans.md) preserve the previous outlines for then-chapters 10 and 11 (now 10 and 11). The complete pre-merge human drafts remain in [human-development revision material](archive/human-development-revision.md). Longer industrial cases and their source notes remain in [historical development material](archive/historical-drafts/README.md). The epilogue returns to Carquillat’s commission and the names on the second silk. The afterword asks when the creation cycle can predict an outcome that a rival theory would miss.
-
-The institutional development draft and the earlier grid, housing, and Montreal cases remain outside the reading sequence. Historical drafts retain their former chapter numbering and are labeled accordingly. Preserve the original note text and its dated author clarification; append future clarifications when requested. Research commitments remain in [ideas](ideas.md); evidence and unresolved attribution remain in `sources.md`. The afterword returns to the mechanisms and the observations that could distinguish them.
+The [afterword](../manuscript/afterword.md) develops the causal questions. The book’s own natural experiments, estimates and datasets are in the [research companion](../research/evidence.md). The [manuscript guide](manuscript-guide.md) locates existing prose, including the [earlier opening](../manuscript/prologue.md) and [epilogue](../manuscript/epilogue.md). The [previous twelve-chapter outline](archive/twelve-chapter-outline.md) preserves its detailed plans and original numbering.
