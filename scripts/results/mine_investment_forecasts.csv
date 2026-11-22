@@ -1,0 +1,292 @@
+SUPERID,ID,sample,reason,annual_kwh,annual_dollars,outlay_dollars,npv_5y_dollars,simple_payback_years,delta_operating_w_per_k,five_year_offset_kwh,profit_5y,profit_2y,operating_mep,district_mep
+AM041101,AM0411,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+AM041102,AM0411,excluded,other resource or substitution,,,,,,,,,,,undetermined
+AM041103,AM0411,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM041104,AM0411,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM041105,AM0411,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM041106,AM0411,excluded,outside energy category,,,,,,,,,,,undetermined
+AM041107,AM0411,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM041108,AM0411,excluded,other resource or substitution,,,,,,,,,,,undetermined
+AM041109,AM0411,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM041110,AM0411,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM067201,AM0672,excluded,outside energy category,,,,,,,,,,,undetermined
+AM067202,AM0672,excluded,other resource or substitution,,,,,,,,,,,undetermined
+AM067203,AM0672,one_component,,247980.0,17270.0,18105.0,47361.89,1.04835,-96.565646,1239900.0,adopt,adopt,retain,undetermined
+AM067204,AM0672,one_component,,163400.0,12480.0,80350.0,-33040.98,6.4383,-63.629432,817000.0,retain,retain,retain,undetermined
+AM067205,AM0672,excluded,other resource or substitution,,,,,,,,,,,undetermined
+AM067206,AM0672,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AM067207,AM0672,one_component,,122000.0,8500.0,210.0,32011.69,0.02471,-47.507899,610000.0,adopt,adopt,retain,undetermined
+AM067208,AM0672,one_component,,95580.0,6645.0,1200.0,23989.78,0.18059,-37.219713,477900.0,adopt,adopt,retain,undetermined
+AM067209,AM0672,one_component,,58720.0,3925.0,1000.0,13878.84,0.25478,-22.866097,293600.0,adopt,adopt,retain,undetermined
+AM067210,AM0672,one_component,,28700.0,1550.0,4730.0,1145.72,3.05161,-11.176039,143500.0,adopt,retain,retain,undetermined
+AS030701,AS0307,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AS030702,AS0307,excluded,other resource or substitution,,,,,,,,,,,undetermined
+AS030703,AS0307,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AS030704,AS0307,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AS030705,AS0307,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+AS030706,AS0307,excluded,outside energy category,,,,,,,,,,,undetermined
+AS030707,AS0307,excluded,outside energy category,,,,,,,,,,,undetermined
+AS037901,AS0379,one_component,,70444.0,4855.0,60.0,18344.27,0.01236,-27.431528,352220.0,adopt,adopt,retain,undetermined
+AS037902,AS0379,one_component,,11195.0,771.0,18.0,2904.7,0.02335,-4.359434,55975.0,adopt,adopt,retain,undetermined
+AS037903,AS0379,excluded,outside energy category,,,,,,,,,,,undetermined
+AS037904,AS0379,excluded,other resource or substitution,,,,,,,,,,,undetermined
+AS037905,AS0379,one_component,,24106.0,1661.0,1885.0,4411.5,1.13486,-9.387094,120530.0,adopt,adopt,retain,undetermined
+AS037906,AS0379,excluded,other resource or substitution,,,,,,,,,,,undetermined
+BD031201,BD0312,one_component,,1464652.0,61556.0,162010.0,71335.67,2.63191,-570.348685,7323260.0,adopt,retain,retain,undetermined
+BD031202,BD0312,one_component,,477891.0,16661.0,10500.0,52658.3,0.63021,-186.095061,2389455.0,adopt,adopt,retain,undetermined
+BD031203,BD0312,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+CO049201,CO0492,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+CO049202,CO0492,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO049203,CO0492,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO049204,CO0492,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO049205,CO0492,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO049206,CO0492,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO049207,CO0492,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051501,CO0515,one_component,,2604800.0,167740.0,45000.0,590866.57,0.26827,-1014.332588,13024000.0,adopt,adopt,retain,undetermined
+CO051502,CO0515,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051503,CO0515,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051504,CO0515,excluded,outside energy category,,,,,,,,,,,undetermined
+CO051505,CO0515,excluded,outside energy category,,,,,,,,,,,undetermined
+CO051506,CO0515,primary,,3757600.0,241800.0,105900.0,810712.24,0.43797,-1463.243294,18788000.0,adopt,adopt,retain,undetermined
+CO051507,CO0515,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051508,CO0515,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051601,CO0516,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051602,CO0516,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051603,CO0516,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO051604,CO0516,primary,,279700.0,19300.0,38900.0,34262.18,2.01554,-108.9177,1398500.0,adopt,retain,retain,undetermined
+CO051605,CO0516,primary,,135800.0,9370.0,2480.0,33039.67,0.26467,-52.881743,679000.0,adopt,adopt,retain,undetermined
+CO051606,CO0516,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO053201,CO0532,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO053202,CO0532,excluded,other resource or substitution,,,,,,,,,,,undetermined
+CO053203,CO0532,primary,,73400.0,2530.0,6580.0,3010.69,2.60079,-28.582621,367000.0,adopt,retain,retain,undetermined
+CO053204,CO0532,primary,,40800.0,1160.0,4000.0,397.31,3.44828,-15.887888,204000.0,adopt,retain,retain,undetermined
+CO053205,CO0532,primary,,11800.0,330.0,110.0,1140.96,0.33333,-4.595026,59000.0,adopt,adopt,retain,undetermined
+CO053206,CO0532,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT075201,GT0752,excluded,missing resource dollar estimate,,,,,,,,,,,undetermined
+GT075202,GT0752,excluded,missing resource dollar estimate,,,,,,,,,,,undetermined
+GT075203,GT0752,one_component,,266000.0,8459.0,2000.0,30066.27,0.23643,-103.582797,1330000.0,adopt,adopt,retain,undetermined
+GT075204,GT0752,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT075205,GT0752,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT075206,GT0752,excluded,outside energy category,,,,,,,,,,,undetermined
+GT075207,GT0752,excluded,missing resource dollar estimate,,,,,,,,,,,undetermined
+GT075208,GT0752,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT075209,GT0752,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT076201,GT0762,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT076202,GT0762,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT076203,GT0762,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT076204,GT0762,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+GT076205,GT0762,one_component,,617232.0,20544.0,32000.0,45877.92,1.55763,-240.355702,3086160.0,adopt,adopt,retain,undetermined
+GT076206,GT0762,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+GT076207,GT0762,one_component,,32235.0,1070.0,160.0,3896.14,0.14953,-12.552599,161175.0,adopt,adopt,retain,undetermined
+GT076208,GT0762,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT076209,GT0762,excluded,other resource or substitution,,,,,,,,,,,undetermined
+GT076210,GT0762,one_component,,2760000.0,126034.0,1000000.0,-522231.98,7.93437,-1074.768866,13800000.0,retain,retain,retain,undetermined
+GT076211,GT0762,one_component,,4124000.0,210205.0,2700000.0,-1903157.67,12.8446,-1605.922755,20620000.0,retain,retain,retain,undetermined
+IC013301,IC0133,excluded,outside energy category,,,,,,,,,,,undetermined
+IC013302,IC0133,excluded,other resource or substitution,,,,,,,,,,,undetermined
+IC013303,IC0133,one_component,,77232.0,7116.0,22551.0,4424.24,3.16906,-30.074837,386160.0,adopt,retain,retain,undetermined
+IC013304,IC0133,excluded,other resource or substitution,,,,,,,,,,,undetermined
+LE055001,LE0550,one_component,,33884.0,2663.0,100.0,9994.87,0.03755,-13.194735,169420.0,adopt,adopt,retain,undetermined
+LE055002,LE0550,excluded,other resource or substitution,,,,,,,,,,,undetermined
+LE055003,LE0550,one_component,,19552.0,1539.0,3500.0,2334.02,2.2742,-7.613725,97760.0,adopt,retain,retain,undetermined
+LE055004,LE0550,one_component,,3833.0,299.0,1150.0,-16.55,3.84615,-1.492605,19165.0,retain,retain,retain,undetermined
+LE055005,LE0550,excluded,outside energy category,,,,,,,,,,,undetermined
+LE055006,LE0550,one_component,,57241.0,4500.0,22000.0,-4941.46,4.88889,-22.290161,286205.0,retain,retain,retain,undetermined
+LE055007,LE0550,excluded,other resource or substitution,,,,,,,,,,,undetermined
+LL034701,LL0347,one_component,,1088593.0,53145.0,166176.0,35285.36,3.12684,-423.907922,5442965.0,adopt,retain,retain,undetermined
+LL034702,LL0347,excluded,outside energy category,,,,,,,,,,,undetermined
+LL034703,LL0347,one_component,,37580.0,1835.0,30.0,6926.09,0.01635,-14.633991,187900.0,adopt,adopt,retain,undetermined
+LL034704,LL0347,primary,,35942.0,1754.0,180.0,6469.04,0.10262,-13.996139,179710.0,adopt,adopt,retain,undetermined
+LL034705,LL0347,one_component,,7212.0,352.0,30.0,1304.36,0.08523,-2.808418,36060.0,adopt,adopt,retain,undetermined
+LL034706,LL0347,primary,,4570.0,223.0,525.0,320.35,2.35426,-1.779599,22850.0,adopt,retain,retain,undetermined
+LL034707,LL0347,excluded,other resource or substitution,,,,,,,,,,,undetermined
+LL034708,LL0347,primary,,1747.0,85.0,184.0,138.22,2.16471,-0.680298,8735.0,adopt,retain,retain,undetermined
+LL034709,LL0347,primary,,487.0,24.0,66.0,24.98,2.75,-0.189642,2435.0,adopt,retain,retain,undetermined
+LL035001,LL0350,one_component,,1364900.0,87490.0,144239.0,187416.93,1.64863,-531.504357,6824500.0,adopt,adopt,retain,undetermined
+LL035002,LL0350,excluded,outside energy category,,,,,,,,,,,undetermined
+LL035003,LL0350,primary,,15930.0,1021.0,270.0,3600.39,0.26445,-6.203286,79650.0,adopt,adopt,retain,undetermined
+LL035004,LL0350,primary,,6088.0,390.0,1995.0,-516.59,5.11538,-2.370722,30440.0,retain,retain,retain,undetermined
+LL035005,LL0350,primary,,3494.0,268.0,375.0,640.93,1.39925,-1.360595,17470.0,adopt,adopt,retain,undetermined
+LL035006,LL0350,excluded,other resource or substitution,,,,,,,,,,,undetermined
+LL035007,LL0350,primary,,1714.0,110.0,300.0,116.99,2.72727,-0.667447,8570.0,adopt,retain,retain,undetermined
+MA069601,MA0696,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MA069602,MA0696,primary,,187649.0,15781.0,2800.0,57022.41,0.17743,-73.072211,938245.0,adopt,adopt,retain,undetermined
+MA069603,MA0696,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MA069604,MA0696,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MA069605,MA0696,primary,,36242.0,3048.0,6600.0,4954.32,2.16535,-14.112961,181210.0,adopt,retain,retain,undetermined
+MA069606,MA0696,primary,,29283.0,2462.0,6035.0,3297.92,2.45126,-11.403064,146415.0,adopt,retain,retain,undetermined
+MA069607,MA0696,one_component,,21528.0,1810.0,200.0,6661.32,0.1105,-8.383197,107640.0,adopt,adopt,retain,undetermined
+MA069608,MA0696,primary,,20274.0,1705.0,4080.0,2383.29,2.39296,-7.894878,101370.0,adopt,retain,retain,undetermined
+MA069609,MA0696,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MI003001,MI0030,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MI003002,MI0030,excluded,outside energy category,,,,,,,,,,,undetermined
+MI003003,MI0030,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MI003004,MI0030,excluded,outside energy category,,,,,,,,,,,undetermined
+MI003005,MI0030,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+MI004001,MI0040,excluded,outside energy category,,,,,,,,,,,undetermined
+MI004002,MI0040,excluded,outside energy category,,,,,,,,,,,undetermined
+MI004003,MI0040,excluded,outside energy category,,,,,,,,,,,undetermined
+MI004004,MI0040,excluded,outside energy category,,,,,,,,,,,undetermined
+MI004005,MI0040,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+MI004101,MI0041,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MI004102,MI0041,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MI004103,MI0041,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+MI004104,MI0041,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MI004105,MI0041,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MI004601,MI0046,excluded,outside energy category,,,,,,,,,,,undetermined
+MI004602,MI0046,excluded,outside energy category,,,,,,,,,,,undetermined
+MI004603,MI0046,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+MI004604,MI0046,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MI004605,MI0046,excluded,outside energy category,,,,,,,,,,,undetermined
+MU005201,MU0052,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MU005202,MU0052,one_component,,4536.0,336.96,17.0,1260.34,0.05045,-1.766359,22680.0,adopt,adopt,retain,undetermined
+MU005203,MU0052,one_component,,6823.4,508.31,1752.0,174.89,3.44672,-2.657093,34117.0,adopt,retain,retain,undetermined
+MU005204,MU0052,one_component,,2015.0,149.64,400.0,167.25,2.67308,-0.784659,10075.0,adopt,retain,retain,undetermined
+MU005205,MU0052,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+MU005206,MU0052,one_component,,1135.0,84.46,225.0,95.17,2.66398,-0.441979,5675.0,adopt,retain,retain,undetermined
+MU005207,MU0052,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MU005208,MU0052,excluded,other resource or substitution,,,,,,,,,,,undetermined
+MU005209,MU0052,excluded,outside energy category,,,,,,,,,,,undetermined
+NC035501,NC0355,excluded,other resource or substitution,,,,,,,,,,,undetermined
+NC035502,NC0355,excluded,other resource or substitution,,,,,,,,,,,undetermined
+NC035503,NC0355,one_component,,231052.0,10340.0,30000.0,9196.74,2.90135,-89.97373,1155260.0,adopt,retain,retain,undetermined
+NC035504,NC0355,one_component,,343571.0,16252.0,20000.0,41607.87,1.23062,-133.789643,1717855.0,adopt,adopt,retain,undetermined
+NC035505,NC0355,one_component,,21150.0,1131.0,1000.0,3287.38,0.88417,-8.236001,105750.0,adopt,adopt,retain,undetermined
+OK095701,OK0957,one_component,,21474.0,1200.0,2994.0,1554.94,2.495,-8.362169,107370.0,adopt,retain,retain,undetermined
+OK095702,OK0957,one_component,,11825.0,890.0,1320.0,2053.8,1.48315,-4.604762,59125.0,adopt,adopt,retain,undetermined
+OK095703,OK0957,one_component,,123947.0,4710.0,2100.0,15754.61,0.44586,-48.266079,619735.0,adopt,adopt,retain,undetermined
+OK095704,OK0957,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OK095705,OK0957,one_component,,183505.0,6973.0,8747.0,17686.16,1.25441,-71.4585,917525.0,adopt,adopt,retain,undetermined
+OK095706,OK0957,one_component,,475224.0,18059.0,52806.0,15651.82,2.92408,-185.056507,2376120.0,adopt,retain,retain,undetermined
+OK095707,OK0957,one_component,,57149.0,9997.1,29582.0,8314.87,2.95906,-22.254335,285745.0,adopt,retain,retain,undetermined
+OR039201,OR0392,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR039202,OR0392,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR039203,OR0392,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR039204,OR0392,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR039205,OR0392,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR039206,OR0392,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR039207,OR0392,excluded,outside energy category,,,,,,,,,,,undetermined
+OR042101,OR0421,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042102,OR0421,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042103,OR0421,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR042104,OR0421,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042105,OR0421,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR042301,OR0423,primary,,8104000.0,518000.0,300000.0,1663627.55,0.57915,-3155.770613,40520000.0,adopt,adopt,retain,undetermined
+OR042302,OR0423,excluded,outside energy category,,,,,,,,,,,undetermined
+OR042303,OR0423,primary,,2650000.0,183000.0,120680.0,573033.98,0.65945,-1031.933875,13250000.0,adopt,adopt,retain,undetermined
+OR042304,OR0423,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+OR042305,OR0423,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042306,OR0423,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042401,OR0424,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042402,OR0424,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR042403,OR0424,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042404,OR0424,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR042405,OR0424,excluded,outside energy category,,,,,,,,,,,undetermined
+OR042406,OR0424,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR042407,OR0424,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR042408,OR0424,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR042409,OR0424,excluded,outside energy category,,,,,,,,,,,undetermined
+OR044501,OR0445,excluded,outside energy category,,,,,,,,,,,undetermined
+OR044502,OR0445,one_component,,57200.0,4860.0,5450.0,12973.22,1.1214,-22.274195,286000.0,adopt,adopt,retain,undetermined
+OR044503,OR0445,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR044504,OR0445,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR044505,OR0445,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+OR044506,OR0445,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+OR062101,OR0621,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR062102,OR0621,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR062103,OR0621,one_component,,5714.0,423.0,13505.0,-11901.5,31.92671,-2.225083,28570.0,retain,retain,retain,undetermined
+OR073001,OR0730,excluded,outside energy category,,,,,,,,,,,undetermined
+OR073002,OR0730,excluded,outside energy category,,,,,,,,,,,undetermined
+OR073003,OR0730,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+OR073004,OR0730,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+OR073005,OR0730,excluded,other resource or substitution,,,,,,,,,,,undetermined
+OR078101,OR0781,excluded,outside energy category,,,,,,,,,,,undetermined
+OR078102,OR0781,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+OR078103,OR0781,one_component,,11815.0,618.0,2576.0,-233.29,4.16828,-4.600867,59075.0,retain,retain,retain,undetermined
+OR078104,OR0781,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SD028801,SD0288,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SD028802,SD0288,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SD028803,SD0288,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SD028804,SD0288,excluded,outside energy category,,,,,,,,,,,undetermined
+SD038401,SD0384,one_component,,2586423.0,199400.0,80665.0,675217.88,0.40454,-1007.176419,12932115.0,adopt,adopt,retain,undetermined
+SD038402,SD0384,one_component,,2388734.0,184174.0,85865.0,612299.36,0.46622,-930.194541,11943670.0,adopt,adopt,retain,undetermined
+SD038403,SD0384,one_component,,1496149.0,115354.0,45825.0,391457.42,0.39726,-582.6139,7480745.0,adopt,adopt,retain,undetermined
+SD038404,SD0384,one_component,,302443.0,20082.0,13481.0,62645.58,0.6713,-117.774029,1512215.0,adopt,adopt,retain,undetermined
+SD038405,SD0384,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SD038406,SD0384,one_component,,16144.0,1242.0,5792.0,-1083.84,4.66345,-6.286619,80720.0,retain,retain,retain,undetermined
+SF046701,SF0467,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SF046702,SF0467,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SF046703,SF0467,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SF046704,SF0467,one_component,,119145.0,6324.0,4543.0,19429.94,0.71837,-46.396136,595725.0,adopt,adopt,retain,undetermined
+SF046705,SF0467,one_component,,26155.0,1388.0,5977.0,-715.39,4.3062,-10.184993,130775.0,retain,retain,retain,undetermined
+SF046706,SF0467,one_component,,9835.0,522.0,2846.0,-867.21,5.45211,-3.829838,49175.0,retain,retain,retain,undetermined
+SF046707,SF0467,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU017701,SU0177,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+SU017702,SU0177,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+SU017703,SU0177,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU017704,SU0177,one_component,,22183.0,1396.0,1000.0,4291.94,0.71633,-8.63826,110915.0,adopt,adopt,retain,undetermined
+SU017705,SU0177,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU028401,SU0284,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU028402,SU0284,primary,,1641.0,181.0,197.0,489.13,1.0884,-0.63902,8205.0,adopt,adopt,retain,undetermined
+SU028403,SU0284,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU028404,SU0284,primary,,15912.0,2370.0,4766.0,4218.16,2.01097,-6.196276,79560.0,adopt,retain,retain,undetermined
+SU047801,SU0478,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU047802,SU0478,primary,,11147.0,468.0,253.0,1521.09,0.5406,-4.340742,55735.0,adopt,adopt,retain,undetermined
+SU047803,SU0478,primary,,40116.0,1685.0,1302.0,5085.48,0.7727,-15.621532,200580.0,adopt,adopt,retain,undetermined
+SU047804,SU0478,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU047805,SU0478,primary,,26913.0,1130.0,1973.0,2310.59,1.74602,-10.480165,134565.0,adopt,adopt,retain,undetermined
+SU047806,SU0478,excluded,other resource or substitution,,,,,,,,,,,undetermined
+SU047807,SU0478,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+TT004201,TT0042,excluded,other resource or substitution,,,,,,,,,,,undetermined
+TT004202,TT0042,one_component,,318000.0,16800.0,2900.0,60785.22,0.17262,-123.832065,1590000.0,adopt,adopt,retain,undetermined
+TT004203,TT0042,excluded,other resource or substitution,,,,,,,,,,,undetermined
+TT023801,TT0238,excluded,other resource or substitution,,,,,,,,,,,undetermined
+TT023802,TT0238,excluded,other resource or substitution,,,,,,,,,,,undetermined
+TT023803,TT0238,one_component,,260275.0,13222.0,25000.0,25121.78,1.89079,-101.35343,1301375.0,adopt,adopt,retain,undetermined
+TT023804,TT0238,one_component,,215850.4,10965.2,22780.0,18786.74,2.07748,-84.05409,1079252.0,adopt,retain,retain,undetermined
+TT023805,TT0238,excluded,other resource or substitution,,,,,,,,,,,undetermined
+TT023806,TT0238,one_component,,134567.0,6836.0,1500.0,24413.82,0.21943,-52.401602,672835.0,adopt,adopt,retain,undetermined
+TT023807,TT0238,excluded,other resource or substitution,,,,,,,,,,,undetermined
+TT023808,TT0238,one_component,,10065.6,511.33,40.0,1898.34,0.07823,-3.919635,50328.0,adopt,adopt,retain,undetermined
+UU014501,UU0145,excluded,outside energy category,,,,,,,,,,,undetermined
+UU014502,UU0145,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+UU014503,UU0145,one_component,,1328000.0,68566.0,36000.0,223919.09,0.52504,-517.135165,6640000.0,adopt,adopt,retain,undetermined
+UU014504,UU0145,one_component,,910800.0,47010.0,23850.0,154354.89,0.50734,-354.673726,4554000.0,adopt,adopt,retain,undetermined
+UU014505,UU0145,one_component,,485129.0,25041.0,5000.0,89925.09,0.19967,-188.913603,2425645.0,adopt,adopt,retain,undetermined
+UU014506,UU0145,primary,,43651.0,2250.0,4719.0,3810.27,2.09733,-16.998093,218255.0,adopt,retain,retain,undetermined
+UU014507,UU0145,one_component,,27417.0,661.0,440.0,2065.71,0.66566,-10.676427,137085.0,adopt,adopt,retain,undetermined
+UU014801,UU0148,excluded,other resource or substitution,,,,,,,,,,,undetermined
+UU014802,UU0148,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+UU014803,UU0148,excluded,other resource or substitution,,,,,,,,,,,undetermined
+UU014804,UU0148,excluded,outside energy category,,,,,,,,,,,undetermined
+UU014805,UU0148,excluded,other resource or substitution,,,,,,,,,,,undetermined
+UU014806,UU0148,one_component,,120996.0,6667.14,8267.01,17006.7,1.23996,-47.116933,604980.0,adopt,adopt,retain,undetermined
+UU019301,UU0193,one_component,,10036140.0,269225.0,7636800.0,-6616225.43,28.36586,-3908.163337,50180700.0,retain,retain,retain,undetermined
+UU019302,UU0193,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+UU019303,UU0193,primary,,51522.0,2764.0,4720.0,5757.73,1.70767,-20.063131,257610.0,adopt,adopt,retain,undetermined
+UU019304,UU0193,one_component,,51070.0,2736.0,1307.0,9064.59,0.4777,-19.887118,255350.0,adopt,adopt,retain,undetermined
+UU019305,UU0193,one_component,,35000.0,1874.5,5000.0,2105.83,2.66738,-13.629315,175000.0,adopt,retain,retain,undetermined
+UU019306,UU0193,primary,,38410.0,946.0,3500.0,86.08,3.69979,-14.9572,192050.0,adopt,retain,retain,undetermined
+WM007201,WM0072,one_component,,106529.0,9713.0,20000.0,16819.91,2.0591,-41.483352,532645.0,adopt,retain,retain,undetermined
+WM007202,WM0072,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM007203,WM0072,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM007204,WM0072,one_component,,18309.0,1227.0,575.0,4076.3,0.46862,-7.12969,91545.0,adopt,adopt,retain,undetermined
+WM007205,WM0072,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM007206,WM0072,one_component,,3299.0,221.0,476.0,361.76,2.15385,-1.28466,16495.0,adopt,retain,retain,undetermined
+WM010701,WM0107,one_component,,387140.0,29687.0,58519.0,54018.09,1.9712,-150.755804,1935700.0,adopt,adopt,retain,undetermined
+WM010702,WM0107,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM010703,WM0107,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM010704,WM0107,excluded,no positive site kWh saving,,,,,,,,,,,undetermined
+WM010705,WM0107,one_component,,80981.0,6210.0,3000.0,20540.79,0.48309,-31.534731,404905.0,adopt,adopt,retain,undetermined
+WM010706,WM0107,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM010707,WM0107,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM010708,WM0107,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+WM010709,WM0107,one_component,,11290.0,865.0,345.0,2934.03,0.39884,-4.396428,56450.0,adopt,adopt,retain,undetermined
+WM010710,WM0107,excluded,no recommendation cost components,,,,,,,,,,,undetermined
+WM013801,WM0138,excluded,other resource or substitution,,,,,,,,,,,undetermined
+WM013802,WM0138,one_component,,616803.0,31481.0,34315.0,85022.76,1.09002,-240.188645,3084015.0,adopt,adopt,retain,undetermined
+WM013803,WM0138,one_component,,496715.0,25347.0,29120.0,66965.07,1.14885,-193.425296,2483575.0,adopt,adopt,retain,undetermined
+WM013804,WM0138,one_component,,184788.0,9430.0,30453.0,5294.12,3.22937,-71.958112,923940.0,adopt,retain,retain,undetermined
+WM013805,WM0138,one_component,,177698.0,9068.0,14525.0,19849.85,1.60179,-69.197202,888490.0,adopt,adopt,retain,undetermined
+WM013806,WM0138,one_component,,124931.0,6375.0,11900.0,12266.27,1.86667,-48.649257,624655.0,adopt,adopt,retain,undetermined
+WM013807,WM0138,excluded,no recommendation cost components,,,,,,,,,,,undetermined
