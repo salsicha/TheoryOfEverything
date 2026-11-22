@@ -2,19 +2,24 @@
 import argparse
 import csv
 import math
+from collections import Counter, defaultdict
 from io import BytesIO
+from itertools import combinations
 from pathlib import Path
+from statistics import mean
 from zipfile import ZipFile
 
 from openpyxl import load_workbook
 
-from data import sha256
+from data import sha256, write_json
 
 
 BASE = Path(__file__).resolve().parents[1]
 INPUT = BASE / "research" / "mine-investments"
 RESULTS = BASE / "scripts" / "results"
 SNAPSHOT = "f7bf6464c4347f7a603bb0b4dba81845e91d15d440a4a72a78ac5e300d78f54c"
+FROZEN_FORECAST = "8dede1157ab035d64dbe2785ba17bd0b6c9abef4e7f667e420e048ab9fa5f38e"
+RESPONSES = {"I": "adopt", "N": "retain", "P": "unresolved", "K": "unresolved", "": "unresolved"}
 SITE_FIELDS = ["ID", "FY", "STATE", "SIC", "NAICS", "PRODUCTS"]
 RESOURCE_FIELDS = [part + field for part in "PSTQ"
                    for field in ("SOURCCODE", "CONSERVED", "SAVED")]
@@ -156,17 +161,206 @@ def forecast(folder, results):
           f"{sum(r['profit_5y'] == 'adopt' for r in primary)} opposing predictions.")
 
 
+def extract_outcomes(archive, folder):
+    offers = keyed(read_csv(folder / "recommendations.csv"), "SUPERID")
+    book = open_snapshot(archive)
+    try:
+        fields = ["SUPERID", "IMPSTATUS"]
+        responses = keyed((r for r in columns(book["RECC"], fields) if r["SUPERID"] in offers),
+                          "SUPERID")
+    finally:
+        book.close()
+    if responses.keys() != offers.keys():
+        raise ValueError("Outcome extract must include every frozen recommendation, including blanks")
+    write_csv(folder / "responses.csv", fields, [responses[k] for k in sorted(responses)])
+    print(f"Extracted follow-up fields for {len(responses)} frozen recommendations.")
+
+
+def compare(rows, rule):
+    disagreements = [r for r in rows if r[rule] in ("adopt", "retain")
+                     and r[rule] != r["operating_mep"]]
+    scored = [r for r in disagreements if r["response"] != "unresolved"]
+    by_site = defaultdict(list)
+    for r in scored:
+        by_site[r["ID"]].append(r[rule] == r["response"])
+    profit_hits = sum(sum(hits) for hits in by_site.values())
+    n = len(scored)
+    total = len(disagreements)
+    missing = total - n
+    site_means = [mean(values) for values in by_site.values()]
+    # Leave one whole assessment out, retaining recommendation weights in each remaining sample.
+    leave_one_out = [(profit_hits - sum(values)) / (n - len(values))
+                     for values in by_site.values() if len(values) < n]
+    return {
+        "available_investments": len(rows), "disagreements": total,
+        "agreements": sum(r[rule] == r["operating_mep"] for r in rows),
+        "financial_ties": sum(r[rule] == "tie" for r in rows),
+        "scored_disagreements": n, "assessments_scored": len(by_site),
+        "disagreement_statuses": dict(sorted(Counter(r["status"] or "blank" for r in disagreements).items())),
+        "profit_hits": profit_hits, "operating_mep_hits": n - profit_hits,
+        "always_retain_hits": sum(r["response"] == "retain" for r in scored),
+        "always_adopt_hits": sum(r["response"] == "adopt" for r in scored),
+        "profit_share_known": round(profit_hits / n, 6) if n else None,
+        "profit_share_equal_assessments": round(mean(site_means), 6) if site_means else None,
+        "profit_share_leave_one_assessment_out": (
+            [round(min(leave_one_out), 6), round(max(leave_one_out), 6)] if leave_one_out else None),
+        "profit_hits_bounds_including_unresolved": [profit_hits, profit_hits + missing],
+        "operating_mep_hits_bounds_including_unresolved": [n - profit_hits, n - profit_hits + missing],
+    }
+
+
+def mill_comparisons(path):
+    """Reconstruct the design comparisons from Parker tables 2–3 and Wardrop table 5.1."""
+    boddington, morrison = {}, {}
+    for row in read_csv(path):
+        tonnes = float(row["annual_million_tonnes"])
+        name = row["design"]
+        if row["site"] == "Boddington":
+            boddington[name] = {
+                "capital_million_aud": round(tonnes * float(row["capital_per_annual_tonne"]), 4),
+                "motor_output_gwh_year_at_design_tonnage": [
+                    round(tonnes * float(row[field]), 4)
+                    for field in ("specific_kwh_min", "specific_kwh_max")],
+            }
+        elif row["site"] == "Morrison":
+            morrison[name] = {
+                "capital_million_cad": float(row["capital_millions"]),
+                "annual_operating_million_cad": tonnes * float(row["operating_cost_per_tonne"]),
+                "operating_mw": float(row["operating_mw"]),
+            }
+        else:
+            raise ValueError(f"Unexpected site: {row['site']}")
+    sag = morrison["Conventional SAG"]
+    rolls = morrison["Pressure rolls plus ball mill"]
+    premium = rolls["capital_million_cad"] - sag["capital_million_cad"]
+    saving = sag["annual_operating_million_cad"] - rolls["annual_operating_million_cad"]
+    return {
+        "boddington_early_designs": boddington,
+        "morrison_rolls_relative_to_sag": {
+            "extra_capital_million_cad": round(premium, 3),
+            "annual_operating_saving_million_cad": round(saving, 4),
+            "incremental_five_year_npv_million_cad": round(
+                saving * sum(1 / 1.10**year for year in range(1, 6)) - premium, 4),
+            "simple_payback_years": round(premium / saving, 3),
+            "change_in_operating_mw": round(rolls["operating_mw"] - sag["operating_mw"], 2),
+        },
+    }
+
+
+def compare_within_assessments(primary):
+    """Exploratory comparison of the ordering of two offered investments at the same site."""
+    by_site = defaultdict(list)
+    for row in primary:
+        by_site[row["ID"]].append(row)
+    pairs = []
+    for site, proposals in sorted(by_site.items()):
+        for first, second in combinations(proposals, 2):
+            npv_gap = float(first["npv_5y_dollars"]) - float(second["npv_5y_dollars"])
+            kwh_gap = float(first["annual_kwh"]) - float(second["annual_kwh"])
+            # Opposing preferences: the more profitable proposal also avoids more dissipation.
+            if npv_gap * kwh_gap <= 0:
+                continue
+            profit, heat = (first, second) if npv_gap > 0 else (second, first)
+            answers = {profit["response"], heat["response"]}
+            if "unresolved" in answers:
+                verdict = "unresolved"
+            elif len(answers) == 1:
+                verdict = "both adopted or scheduled" if "adopt" in answers else "both declined"
+            elif profit["response"] == "adopt":
+                verdict = "profit"
+            else:
+                verdict = "operating_mep"
+            pairs.append({"assessment": site, "profit_prefers": profit["SUPERID"],
+                          "operating_mep_prefers": heat["SUPERID"], "profit_offer_status": profit["status"],
+                          "operating_mep_offer_status": heat["status"], "verdict": verdict})
+    return pairs
+
+
+def score(folder, results):
+    forecast_file = results / "mine_investment_forecasts.csv"
+    if sha256(forecast_file) != FROZEN_FORECAST:
+        raise ValueError("Forecast file differs from the version committed before scoring")
+    forecasts = keyed(read_csv(forecast_file), "SUPERID")
+    offers = keyed(read_csv(folder / "recommendations.csv"), "SUPERID")
+    responses = keyed(read_csv(folder / "responses.csv"), "SUPERID")
+    sites = keyed(read_csv(folder / "assessments.csv"), "ID")
+    if not forecasts.keys() == offers.keys() == responses.keys():
+        raise ValueError("Forecasts, inputs and follow-up must cover the same offers")
+    decisions = []
+    for key, forecast_row in sorted(forecasts.items()):
+        status = responses[key]["IMPSTATUS"]
+        if status not in RESPONSES:
+            raise ValueError(f"Unknown follow-up status at {key}: {status!r}")
+        if forecast_row["sample"] == "excluded":
+            continue
+        site = sites[forecast_row["ID"]]
+        decisions.append({**forecast_row, "fy": site["FY"], "state": site["STATE"],
+                          "sic": site["SIC"], "naics": site["NAICS"], "product": site["PRODUCTS"],
+                          "arc": offers[key]["ARC2"], "status": status, "response": RESPONSES[status]})
+    fields = [*FORECAST_FIELDS, "fy", "state", "sic", "naics", "product", "arc", "status", "response"]
+    write_csv(results / "mine_investment_decisions.csv", fields, decisions)
+    primary = [r for r in decisions if r["sample"] == "primary"]
+    coal = [r for r in primary if r["sic"].startswith("12") or r["naics"].startswith("2121")]
+    both_codes = [r for r in primary if r["sic"][:2] in {"10", "12", "14"}
+                  and r["naics"].startswith("212")]
+    results_by_rule = {
+        "primary_five_year": compare(primary, "profit_5y"),
+        "two_year_simple_payback": compare(primary, "profit_2y"),
+        "allow_one_cost_component": compare(decisions, "profit_5y"),
+        "coal_only": compare(coal, "profit_5y"),
+        "both_industry_codes": compare(both_codes, "profit_5y"),
+        "lighting": compare([r for r in primary if r["arc"].startswith("2.71")], "profit_5y"),
+        "motors_drives_or_compressed_air": compare(
+            [r for r in primary if r["arc"].startswith(("2.41", "2.42"))], "profit_5y"),
+    }
+    per_assessment = {site: compare([r for r in primary if r["ID"] == site], "profit_5y")
+                      for site in sorted({r["ID"] for r in primary})}
+    pairs = compare_within_assessments(primary)
+    write_csv(results / "mine_investment_pairs.csv",
+              ["assessment", "profit_prefers", "operating_mep_prefers", "profit_offer_status",
+               "operating_mep_offer_status", "verdict"], pairs)
+    site_sizes = Counter(r["ID"] for r in primary)
+    split_pairs = [p for p in pairs if p["verdict"] in {"profit", "operating_mep"}]
+    summary = {
+        "source_url": "https://itac.university/storage/ITAC_Database.zip",
+        "source_sha256": SNAPSHOT, "forecast_sha256": FROZEN_FORECAST,
+        "extract_sha256": {name: sha256(folder / name) for name in
+                           ("assessments.csv", "recommendations.csv", "responses.csv", "mill-designs.csv")},
+        "roster_assessments": len(sites), "roster_recommendations": len(offers),
+        "forecast_samples": dict(sorted(Counter(r["sample"] for r in forecasts.values()).items())),
+        "exclusions_first_reason": dict(sorted(Counter(r["reason"] for r in forecasts.values()
+                                                       if r["sample"] == "excluded").items())),
+        "results": results_by_rule, "primary_by_assessment": per_assessment,
+        "identified_district_conflicts": sum(r["district_mep"] in ("adopt", "retain")
+                                             and r["district_mep"] != r["profit_5y"] for r in decisions),
+        "status_definition": "I includes implemented and definitely scheduled. N means reported no.",
+        "exploratory_within_assessment": {
+            "all_pairs": sum(math.comb(size, 2) for size in site_sizes.values()),
+            "oppositely_ranked_pairs": len(pairs), "split_response_pairs": len(split_pairs),
+            "assessments_with_split_responses": len({p["assessment"] for p in split_pairs}),
+            "verdicts": dict(sorted(Counter(p["verdict"] for p in pairs).items())),
+        },
+        "separate_published_designs": mill_comparisons(folder / "mill-designs.csv"),
+    }
+    write_json(results / "mine_investments.json", summary)
+    print(results_by_rule["primary_five_year"])
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("stage", choices=("extract-inputs", "forecast"))
+    parser.add_argument("stage", choices=("extract-inputs", "forecast", "extract-outcomes", "score"))
     parser.add_argument("--archive", type=Path, default=BASE / "scripts/data/ITAC_Database.zip")
     parser.add_argument("--inputs", type=Path, default=INPUT)
     parser.add_argument("--results", type=Path, default=RESULTS)
     args = parser.parse_args()
     if args.stage == "extract-inputs":
         extract_inputs(args.archive, args.inputs)
-    else:
+    elif args.stage == "forecast":
         forecast(args.inputs, args.results)
+    elif args.stage == "extract-outcomes":
+        extract_outcomes(args.archive, args.inputs)
+    else:
+        score(args.inputs, args.results)
 
 
 if __name__ == "__main__":

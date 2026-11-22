@@ -1,0 +1,575 @@
+{
+  "source_url": "https://itac.university/storage/ITAC_Database.zip",
+  "source_sha256": "f7bf6464c4347f7a603bb0b4dba81845e91d15d440a4a72a78ac5e300d78f54c",
+  "forecast_sha256": "8dede1157ab035d64dbe2785ba17bd0b6c9abef4e7f667e420e048ab9fa5f38e",
+  "extract_sha256": {
+    "assessments.csv": "8a073112c2e98a7d7d78db02f9cb23465ac21993d226729ee4181f2c347908a0",
+    "recommendations.csv": "e8d33caf936ee0a55d42e802ded25828cc47d5f6a51b964a238114a65874ef7d",
+    "responses.csv": "182eb84c788a2fdc4aaede097885953c4464e16dac2acc373d669d077105ccb5",
+    "mill-designs.csv": "cece3e3d69d9d70cb59fabb7696f725bc377f41f867586210c6558f2f5c1e0ea"
+  },
+  "roster_assessments": 45,
+  "roster_recommendations": 291,
+  "forecast_samples": {
+    "excluded": 187,
+    "one_component": 76,
+    "primary": 28
+  },
+  "exclusions_first_reason": {
+    "missing resource dollar estimate": 3,
+    "no positive site kWh saving": 16,
+    "no recommendation cost components": 44,
+    "other resource or substitution": 91,
+    "outside energy category": 33
+  },
+  "results": {
+    "primary_five_year": {
+      "available_investments": 28,
+      "disagreements": 27,
+      "agreements": 1,
+      "financial_ties": 0,
+      "scored_disagreements": 27,
+      "assessments_scored": 11,
+      "disagreement_statuses": {
+        "I": 10,
+        "N": 17
+      },
+      "profit_hits": 10,
+      "operating_mep_hits": 17,
+      "always_retain_hits": 17,
+      "always_adopt_hits": 10,
+      "profit_share_known": 0.37037,
+      "profit_share_equal_assessments": 0.386364,
+      "profit_share_leave_one_assessment_out": [
+        0.304348,
+        0.434783
+      ],
+      "profit_hits_bounds_including_unresolved": [
+        10,
+        10
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        17,
+        17
+      ]
+    },
+    "two_year_simple_payback": {
+      "available_investments": 28,
+      "disagreements": 14,
+      "agreements": 14,
+      "financial_ties": 0,
+      "scored_disagreements": 14,
+      "assessments_scored": 10,
+      "disagreement_statuses": {
+        "I": 6,
+        "N": 8
+      },
+      "profit_hits": 6,
+      "operating_mep_hits": 8,
+      "always_retain_hits": 8,
+      "always_adopt_hits": 6,
+      "profit_share_known": 0.428571,
+      "profit_share_equal_assessments": 0.55,
+      "profit_share_leave_one_assessment_out": [
+        0.384615,
+        0.545455
+      ],
+      "profit_hits_bounds_including_unresolved": [
+        6,
+        6
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        8,
+        8
+      ]
+    },
+    "allow_one_cost_component": {
+      "available_investments": 104,
+      "disagreements": 92,
+      "agreements": 12,
+      "financial_ties": 0,
+      "scored_disagreements": 89,
+      "assessments_scored": 30,
+      "disagreement_statuses": {
+        "I": 36,
+        "K": 3,
+        "N": 53
+      },
+      "profit_hits": 36,
+      "operating_mep_hits": 53,
+      "always_retain_hits": 53,
+      "always_adopt_hits": 36,
+      "profit_share_known": 0.404494,
+      "profit_share_equal_assessments": 0.445,
+      "profit_share_leave_one_assessment_out": [
+        0.380952,
+        0.439024
+      ],
+      "profit_hits_bounds_including_unresolved": [
+        36,
+        39
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        53,
+        56
+      ]
+    },
+    "coal_only": {
+      "available_investments": 3,
+      "disagreements": 3,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 3,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 2,
+        "N": 1
+      },
+      "profit_hits": 2,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 2,
+      "profit_share_known": 0.666667,
+      "profit_share_equal_assessments": 0.666667,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        2,
+        2
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    },
+    "both_industry_codes": {
+      "available_investments": 24,
+      "disagreements": 23,
+      "agreements": 1,
+      "financial_ties": 0,
+      "scored_disagreements": 23,
+      "assessments_scored": 10,
+      "disagreement_statuses": {
+        "I": 7,
+        "N": 16
+      },
+      "profit_hits": 7,
+      "operating_mep_hits": 16,
+      "always_retain_hits": 16,
+      "always_adopt_hits": 7,
+      "profit_share_known": 0.304348,
+      "profit_share_equal_assessments": 0.35,
+      "profit_share_leave_one_assessment_out": [
+        0.25,
+        0.368421
+      ],
+      "profit_hits_bounds_including_unresolved": [
+        7,
+        7
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        16,
+        16
+      ]
+    },
+    "lighting": {
+      "available_investments": 10,
+      "disagreements": 9,
+      "agreements": 1,
+      "financial_ties": 0,
+      "scored_disagreements": 9,
+      "assessments_scored": 7,
+      "disagreement_statuses": {
+        "I": 4,
+        "N": 5
+      },
+      "profit_hits": 4,
+      "operating_mep_hits": 5,
+      "always_retain_hits": 5,
+      "always_adopt_hits": 4,
+      "profit_share_known": 0.444444,
+      "profit_share_equal_assessments": 0.357143,
+      "profit_share_leave_one_assessment_out": [
+        0.285714,
+        0.5
+      ],
+      "profit_hits_bounds_including_unresolved": [
+        4,
+        4
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        5,
+        5
+      ]
+    },
+    "motors_drives_or_compressed_air": {
+      "available_investments": 10,
+      "disagreements": 10,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 10,
+      "assessments_scored": 6,
+      "disagreement_statuses": {
+        "I": 3,
+        "N": 7
+      },
+      "profit_hits": 3,
+      "operating_mep_hits": 7,
+      "always_retain_hits": 7,
+      "always_adopt_hits": 3,
+      "profit_share_known": 0.3,
+      "profit_share_equal_assessments": 0.194444,
+      "profit_share_leave_one_assessment_out": [
+        0.142857,
+        0.375
+      ],
+      "profit_hits_bounds_including_unresolved": [
+        3,
+        3
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        7,
+        7
+      ]
+    }
+  },
+  "primary_by_assessment": {
+    "CO0515": {
+      "available_investments": 1,
+      "disagreements": 1,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 1,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "N": 1
+      },
+      "profit_hits": 0,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 0,
+      "profit_share_known": 0.0,
+      "profit_share_equal_assessments": 0,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        0,
+        0
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    },
+    "CO0516": {
+      "available_investments": 2,
+      "disagreements": 2,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 2,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 1,
+        "N": 1
+      },
+      "profit_hits": 1,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 1,
+      "profit_share_known": 0.5,
+      "profit_share_equal_assessments": 0.5,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        1,
+        1
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    },
+    "CO0532": {
+      "available_investments": 3,
+      "disagreements": 3,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 3,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 2,
+        "N": 1
+      },
+      "profit_hits": 2,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 2,
+      "profit_share_known": 0.666667,
+      "profit_share_equal_assessments": 0.666667,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        2,
+        2
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    },
+    "LL0347": {
+      "available_investments": 4,
+      "disagreements": 4,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 4,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "N": 4
+      },
+      "profit_hits": 0,
+      "operating_mep_hits": 4,
+      "always_retain_hits": 4,
+      "always_adopt_hits": 0,
+      "profit_share_known": 0.0,
+      "profit_share_equal_assessments": 0,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        0,
+        0
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        4,
+        4
+      ]
+    },
+    "LL0350": {
+      "available_investments": 4,
+      "disagreements": 3,
+      "agreements": 1,
+      "financial_ties": 0,
+      "scored_disagreements": 3,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 1,
+        "N": 2
+      },
+      "profit_hits": 1,
+      "operating_mep_hits": 2,
+      "always_retain_hits": 2,
+      "always_adopt_hits": 1,
+      "profit_share_known": 0.333333,
+      "profit_share_equal_assessments": 0.333333,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        1,
+        1
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        2,
+        2
+      ]
+    },
+    "MA0696": {
+      "available_investments": 4,
+      "disagreements": 4,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 4,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 3,
+        "N": 1
+      },
+      "profit_hits": 3,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 3,
+      "profit_share_known": 0.75,
+      "profit_share_equal_assessments": 0.75,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        3,
+        3
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    },
+    "OR0423": {
+      "available_investments": 2,
+      "disagreements": 2,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 2,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "N": 2
+      },
+      "profit_hits": 0,
+      "operating_mep_hits": 2,
+      "always_retain_hits": 2,
+      "always_adopt_hits": 0,
+      "profit_share_known": 0.0,
+      "profit_share_equal_assessments": 0,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        0,
+        0
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        2,
+        2
+      ]
+    },
+    "SU0284": {
+      "available_investments": 2,
+      "disagreements": 2,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 2,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 1,
+        "N": 1
+      },
+      "profit_hits": 1,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 1,
+      "profit_share_known": 0.5,
+      "profit_share_equal_assessments": 0.5,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        1,
+        1
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    },
+    "SU0478": {
+      "available_investments": 3,
+      "disagreements": 3,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 3,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "N": 3
+      },
+      "profit_hits": 0,
+      "operating_mep_hits": 3,
+      "always_retain_hits": 3,
+      "always_adopt_hits": 0,
+      "profit_share_known": 0.0,
+      "profit_share_equal_assessments": 0,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        0,
+        0
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        3,
+        3
+      ]
+    },
+    "UU0145": {
+      "available_investments": 1,
+      "disagreements": 1,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 1,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 1
+      },
+      "profit_hits": 1,
+      "operating_mep_hits": 0,
+      "always_retain_hits": 0,
+      "always_adopt_hits": 1,
+      "profit_share_known": 1.0,
+      "profit_share_equal_assessments": 1,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        1,
+        1
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        0,
+        0
+      ]
+    },
+    "UU0193": {
+      "available_investments": 2,
+      "disagreements": 2,
+      "agreements": 0,
+      "financial_ties": 0,
+      "scored_disagreements": 2,
+      "assessments_scored": 1,
+      "disagreement_statuses": {
+        "I": 1,
+        "N": 1
+      },
+      "profit_hits": 1,
+      "operating_mep_hits": 1,
+      "always_retain_hits": 1,
+      "always_adopt_hits": 1,
+      "profit_share_known": 0.5,
+      "profit_share_equal_assessments": 0.5,
+      "profit_share_leave_one_assessment_out": null,
+      "profit_hits_bounds_including_unresolved": [
+        1,
+        1
+      ],
+      "operating_mep_hits_bounds_including_unresolved": [
+        1,
+        1
+      ]
+    }
+  },
+  "identified_district_conflicts": 0,
+  "status_definition": "I includes implemented and definitely scheduled. N means reported no.",
+  "exploratory_within_assessment": {
+    "all_pairs": 28,
+    "oppositely_ranked_pairs": 25,
+    "split_response_pairs": 10,
+    "assessments_with_split_responses": 6,
+    "verdicts": {
+      "both adopted or scheduled": 4,
+      "both declined": 11,
+      "operating_mep": 3,
+      "profit": 7
+    }
+  },
+  "separate_published_designs": {
+    "boddington_early_designs": {
+      "Conventional SAG": {
+        "capital_million_aud": 138.208,
+        "motor_output_gwh_year_at_design_tonnage": [
+          258.72,
+          258.72
+        ]
+      },
+      "Precrushing plus SAG": {
+        "capital_million_aud": 154.544,
+        "motor_output_gwh_year_at_design_tonnage": [
+          420.16,
+          440.96
+        ]
+      },
+      "Pressure rolls plus ball mill": {
+        "capital_million_aud": 143.75,
+        "motor_output_gwh_year_at_design_tonnage": [
+          450.0,
+          450.0
+        ]
+      }
+    },
+    "morrison_rolls_relative_to_sag": {
+      "extra_capital_million_cad": 9.451,
+      "annual_operating_saving_million_cad": 7.3365,
+      "incremental_five_year_npv_million_cad": 18.3601,
+      "simple_payback_years": 1.288,
+      "change_in_operating_mw": -4.33
+    }
+  }
+}

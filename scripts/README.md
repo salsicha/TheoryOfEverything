@@ -10,6 +10,8 @@ The [two-mine supplement](../research/two-mines.md) asks whether earlier returns
 
 The [Elwha River supplement](../research/elwha.md) compares Chinook observations on the same 19 reaches before and after two dams were removed. Run `python scripts/elwha.py --fetch` to reproduce the [annual results](results/elwha.csv) from the public USGS survey.
 
+The mine investment forecast uses a roster of 45 mining and quarrying assessments and a separate follow-up extract. Run `.venv/bin/python scripts/mine_investments.py forecast` and then `.venv/bin/python scripts/mine_investments.py score` from the repository root. The tracked inputs reproduce the comparison offline. [Protocol](../research/mine-investments/protocol.md) · [Results and sources](../research/mine-investments.md) · [Scores](results/mine_investments.json)
+
 ## Chapter map
 
 | Chapter | Case or evidence boundary | What it tests | Current implementation |

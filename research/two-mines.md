@@ -2,6 +2,8 @@
 
 Chapter 2 imagines two crews that both reach coal. A pump rod breaks. One crew can spend earlier proceeds on a replacement. Does that access to money make it more likely to resume work? The US coal and wind records below let us observe later production and changes in the financial reward for producing. **The effect of retaining proceeds on restart remains unknown.** None of these records follows the same dollar from sale to spare part to a dated restart.
 
+The later investment study compares dated engineering recommendations with operator responses and follows named grinding-plant designs through to operation or refusal. [Mine investment forecasts and outcomes](mine-investments.md)
+
 ## A tax change at operating coal mines
 
 In 2019 the US federal black-lung excise tax on eligible domestic coal sales fell from $1.10 to $0.50 per ton underground and from $0.55 to $0.25 at the surface. The sales-price cap fell from 4.4% to 2%. For eligible domestic sales at the full per-ton rates, underground coal received 30 cents more statutory relief per ton than surface coal. Both rates fell. Coal prices, export sales and contracts affect the benefit to each operator. The data leave actual relief and the cash retained at each mine unknown. [IRS Form 720 for 2019](https://www.irs.gov/pub/irs-prior/f720--2019.pdf) · [GAO testimony on the coal tax](https://www.gao.gov/assets/gao-22-105546.pdf)

@@ -50,7 +50,7 @@ Newcomen’s engine and Carquillat’s silk portrait of Jacquard appear in the c
 
 ## Sources and working material
 
-Each chapter links to its sources. The research companion holds the natural experiments, historical comparisons, data and reproducible analyses, including the two-mines study. [Source ledger](research/sources.md) · [Research companion](research/evidence.md) · [Two mines](research/two-mines.md) · [Methods](research/causal-inference.md) · [Data and scripts](scripts/README.md)
+Each chapter links to its sources. The research companion holds the natural experiments, historical comparisons and reproducible analyses. The mine investment study compares forecasts made from engineering estimates with operators’ later decisions. [Mine investment results](research/mine-investments.md) · [Two mines and restart](research/two-mines.md) · [Research companion](research/evidence.md) · [Source ledger](research/sources.md) · [Methods](research/causal-inference.md) · [Data and scripts](scripts/README.md)
 
 The editorial files trace the development of the argument. The earlier eighteen-chapter plan preserves the factory, bakery, nitroplast, Osaka and Sam Eyde studies. [Expanded ideas](editorial/ideas.md) · [Original notes](editorial/notes.md) · [Manuscript guide](editorial/manuscript-guide.md) · [Earlier eighteen-chapter plan](editorial/archive/eighteen-chapter-outline.md) · [Earlier twelve-chapter book](editorial/manuscript-guide.md#the-twelve-chapter-draft)
 

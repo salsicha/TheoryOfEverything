@@ -1,0 +1,26 @@
+assessment,profit_prefers,operating_mep_prefers,profit_offer_status,operating_mep_offer_status,verdict
+CO0516,CO051604,CO051605,N,I,operating_mep
+CO0532,CO053203,CO053204,I,N,profit
+CO0532,CO053203,CO053205,I,I,both adopted or scheduled
+LL0347,LL034704,LL034706,N,N,both declined
+LL0347,LL034704,LL034708,N,N,both declined
+LL0347,LL034704,LL034709,N,N,both declined
+LL0347,LL034706,LL034708,N,N,both declined
+LL0347,LL034706,LL034709,N,N,both declined
+LL0347,LL034708,LL034709,N,N,both declined
+LL0350,LL035003,LL035004,I,N,profit
+LL0350,LL035003,LL035005,I,N,profit
+LL0350,LL035003,LL035007,I,N,profit
+LL0350,LL035005,LL035007,N,N,both declined
+MA0696,MA069602,MA069605,I,I,both adopted or scheduled
+MA0696,MA069602,MA069606,I,N,profit
+MA0696,MA069602,MA069608,I,I,both adopted or scheduled
+MA0696,MA069605,MA069606,I,N,profit
+MA0696,MA069605,MA069608,I,I,both adopted or scheduled
+MA0696,MA069606,MA069608,N,I,operating_mep
+OR0423,OR042301,OR042303,N,N,both declined
+SU0284,SU028404,SU028402,N,I,operating_mep
+SU0478,SU047803,SU047802,N,N,both declined
+SU0478,SU047805,SU047802,N,N,both declined
+SU0478,SU047803,SU047805,N,N,both declined
+UU0193,UU019303,UU019306,I,N,profit
