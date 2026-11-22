@@ -1,0 +1,57 @@
+# Chapter 9 — Who Owes Whom a Living?
+
+*Part III · Technology*
+
+Bishop Fulbert of Chartres ended his letter to the duke of Aquitaine by explaining its brevity. His church and city had burned. Rebuilding occupied him. He looked for help from God and from the duke. William had asked him what a vassal owed a lord. Fulbert had answered at some length about the duties on both sides before mentioning the fire.[1]
+
+The letter dates from 1020. A faithful man had to guard his lord’s person, interests and secrets and give counsel and aid. A lord owed his man good faith on the same points. The request at the end turned a formula into a question with a material answer. Whose resources would be available when Chartres had to rebuild? The answer was different for a bishop able to write to a duke and a laborer on land held by either of them.[1]
+
+I have called feudalism a labor union because the comparison calls attention to a neglected part of the bargain. A person provides service and acquires a claim to protection. In a union a common fund can pay a worker in trouble. In a relation of fealty protection ran between people of unequal status. A peasant performing compulsory labor might have scant protection against the lord who enforced it. The analogy earns its keep only so long as it makes us ask who could call for help, what was promised, and who had the means to make good on it.
+
+This is a question in *dialectical materialism*. The participants occupy positions defined in relation to one another. The distinction becomes practical when a harvest, a payment or a day of labor is due. A lord depends on people whose work he can command. Their dependence on his protection can give him the means to exact more service. The two sides can reproduce the relation for a long time while having opposing interests within it. The return that sustains an arrangement need not be voluntary or just.[1][2]
+
+## Twenty-two pieces of land
+
+In 1349 the English Crown faced a labor shortage after the plague. It ordered eligible workers to accept service at customary rates and threatened employers who offered more. A landlord facing an uncut crop had reason to bid against the next landlord. As a group they had reason to want bidding stopped. The Crown’s order brought those interests together in a document that exists because the old terms could no longer simply be assumed.[2]
+
+A change in number had altered the kind of claim people could press. With fewer workers an offer to leave might carry weight that it had lacked when replacements stood ready. The law was an attempt to keep the earlier relation in effect under changed material conditions. Its existence tells us what the Crown wanted. A royal order does not prove that every worker accepted the old rate.
+
+At Walsham in Suffolk in October 1453, Alice Chaucer divided 387 acres of arable demesne into twenty-two parcels let at fixed annual rents. On land once farmed for the lord, the tenants would arrange the sowing and harvest. A poor crop left them owing rent. Alice retained a claim on what the land produced while transferring a large part of the job and risk of producing it. Those twenty-two grants tell us which operation had ceased to reproduce itself. The manor no longer needed to organize this labor directly in order for its owner to receive income.[2]
+
+This is the limited historical sense in which feudalism failed when its closure stopped. An obligation that no longer delivers labor or protection may survive for years as language. The new arrangement begins when people can get the work done and secure their claims by other means. At Walsham rent took over part of that work. Elsewhere obligations persisted or grew harsher. European capitalism has no single birth certificate waiting in an English manor roll.[2]
+
+In December 1690 the Massachusetts Bay authorities faced the unpaid bills of a war. They authorized up to seven thousand pounds in paper bills for creditors willing to take them. The colony’s own receivers would accept the paper in payment. A man who had supplied provisions could now pass a bill to a neighbor who owed the colony a tax. The tax gave the neighbor a reason to accept it. A worn bill could even be replaced bearing the same number and value. What survived the exchange was a claim on future payments. War had created a bill the colony could settle by making its power to tax transferable. People there already reckoned debts in pounds. The order documents how particular money came to circulate, one place where war, protection and public revenue gave a slip of paper its value.[3]
+
+## Forty francs in Lyon
+
+A much later dispute came before Lyon’s labor council. Mademoiselle Pommet wanted forty francs for weaving. Her employer, Madame Vieux, acknowledged the debt. Illness had used up her savings, other creditors had claims on the workshop’s earnings, and a relief fund held the remainder. The printed report established both that Pommet had a valid claim and that she had to wait for the money.[4]
+
+Karl Marx described the reproduction of a system in which one person sells labor and another can buy it again after selling the product. To see where this circle might break, follow Pommet home. A weaver must eat while she makes the next length of silk. Every day of waiting advanced the workshop credit out of resources she needed for herself. The existence of a market for silk settled very little about whether those forty francs could reach her on time.[4][5]
+
+Ten years before the case, Lyon’s weavers had negotiated schedules of rates with merchants. The workers counted warp threads and passes of the shuttle to distinguish a fine, laborious cloth from a coarser one. Merchants present at one meeting had lacked authority to bind their colleagues. Representatives did meet and sign a schedule. After an insurrection the minister of war declared it void. A customer who bought a yard of silk could easily mistake its price for something in the cloth. The arithmetic, the authority to sign and the power to revoke the schedule all had a hand in what the price could be.[4]
+
+Marx called this tendency for relations among people to appear as properties of things *commodity fetishism*. Niklas Luhmann supplies another part of the account. A recognized communication changes what someone can claim next. The council could establish Pommet’s claim. It could not put cash into Vieux’s till. Joined through feedback, the two accounts explain why a promise can redirect actual resources and why its authority can survive a failure of payment. What appears in public as the price of silk conceals who is bearing the delay.[4][5]
+
+In 1871 a speaker in the House of Lords cited evidence from union secretary Robert Applegarth about a different fund. Applegarth read monthly branch reports to find towns that lacked carpenters and towns where men had no work. The union could pay a member’s rail or steamboat fare to a vacancy. Money set aside while one man worked could move another to a job. Competition between wage earners had produced a reason for them to combine, while the arrangement preserved the sale of their labor. In the language of dialectics the new form takes up an earlier one and changes what it can do. Workers could act together on the terms of an employment relation that survived their association.[6]
+
+The three old dialectical expressions have identifiable jobs in this history. The dependence of lord and vassal, or employer and weaver, gives substance to the *interpenetration of opposites*. A sufficiently large loss of workers changing what one could demand illustrates *quantity into quality*. Wage labor loosens the personal tie of service, then people selling labor separately assemble a common protection through dues. I use *negation of the negation* for that recovery of a capacity in a changed relation. It makes no timetable for the next political settlement.[2][5][6]
+
+My proposition about capitalism is conditional. While firms can offer paid work and markets can deliver things households need at prices they can meet, people have material reasons to renew the arrangement. An increase in the number of shawls sold can coexist with a weaver waiting for her pay. To understand whose confidence the system can retain, follow the forty francs as well as the cloth. To understand what its new machines can do, follow a shipment all the way to the people who can keep it running.
+
+## Notes
+
+1. Fulbert’s letter and evidence on protection are collected in [the fealty sources](../../research/sources.md#s81). The union analogy is the author’s.
+
+2. The Ordinance of Labourers and the Walsham records establish separate episodes roughly a century apart. [English labor and the transition at Walsham](../09-the-system-that-produces-its-tomorrow.md#chapter-notes) · [Labor obligations](../../research/sources.md#s84)
+
+3. The colony’s order specifies public acceptance, the issue ceiling and how to replace a worn bill. [Massachusetts General Court order, December 10, 1690](https://www.loc.gov/item/rbpe.03302500/) · [Taxes and demand for currency](../../research/sources.md#s80)
+
+4. Contemporary reports document the Lyon cases, tariff negotiations and revocation. [Labor council and weavers](../../research/sources.md#s154)
+
+5. For Marx, Luhmann and the dialectical principles, see [commodity relations](../../research/sources.md#s09), [social systems](../../research/sources.md#s10) and [historical formulations](../../research/sources.md#s130).
+
+6. Applegarth’s evidence describes the reports, vacancies and fares. [Union records and benefits](../../research/sources.md#s86)
+
+---
+
+[← The People Who Divided the Ox](08-the-people-who-divided-the-ox.md) · [Contents](../../README.md#contents) · [A Chariot and a Steam Engine →](10-a-chariot-and-a-steam-engine.md)

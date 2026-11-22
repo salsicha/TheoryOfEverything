@@ -3,9 +3,9 @@
 | File | Purpose |
 | --- | --- |
 | [notes](notes.md) | Original source notes with a dated author clarification appended |
-| [ideas](ideas.md) | Expanded ideas I01–I82 and current coverage map |
-| [outline](outline.md) | Current eighteen-chapter sequence, cases and causal arguments |
-| [sources.md](../research/sources.md) | Source keys S01–S169, evidence limits, and outstanding research |
+| [ideas](ideas.md) | Expanded ideas I01–I87 and current coverage map |
+| [outline](outline.md) | Current prologue, fifteen chapters and epilogue, with cases and causal arguments |
+| [sources.md](../research/sources.md) | Source keys S01–S174, evidence limits, and outstanding research |
 | [Natural-experiment scripts](../scripts/README.md) | Twelve evidence records, with estimators, data contracts, and explicit identification limits |
 | [Experiment results](../scripts/results/summary.md) | Completed comparisons, diagnostic checks, and explicit missing-data statuses |
 | [Dataset search audit](../scripts/dataset-search.md) | Located primary data, access limits, and the observations still needed |
@@ -18,11 +18,36 @@
 
 ## Mathematical support in the prose
 
-The chapters use constraint satisfaction, nonlinear dynamics, autocatalytic and production networks, predictive complexity, control theory, thermodynamics of computation, and technological combination to sharpen their mechanisms. The prose explains these through existing scenes and short examples. Technical assumptions and attribution sit in chapter notes, [sources S120–S127](../research/sources.md#s120), and the afterword. The additions distinguish accessibility, stability, maintenance, prediction, and regulation; they do not turn every form of complexity into the same quantity or change the status of the empirical results.
+A Sudoku grid introduces constraint satisfaction. A shaker gives instability a motor and a measurable threshold. A clock built from two photons makes the distinction between internal change and a stationary whole concrete. The chapter notes give the assumptions behind those comparisons. [Mathematical sources](../research/sources.md#s120) · [Internal time](../research/sources.md#s173) · [Methodological afterword](../manuscript/afterword.md)
 
 ## Current manuscript
 
-The [working outline](outline.md) numbers eighteen chapters across Physics, Humans, Technology and Exploration. Six have full prose in this sequence. Chapter 18 develops the Mäntsälä, cooling and optical-switch material from the earlier data-center chapter. The earlier reading order appears below.
+The prologue, fifteen chapters and epilogue are complete in [the book directory](../manuscript/book). The [reading order](../README.md#contents) and [outline](outline.md) follow the four parts on physics, humans, technology and paradox. The table counts whitespace-separated words in the narrative, excluding headings, the Sudoku grid, the image and its caption, source notes, and navigation.
+
+| Reading order | Narrative words |
+| --- | ---: |
+| [Prologue — The Sample Without a Name](../manuscript/book/prologue.md) | 934 |
+| [Chapter 1 — What Moves at Absolute Zero?](../manuscript/book/01-what-moves-at-absolute-zero.md) | 1,000 |
+| [Chapter 2 — The Square with One Answer](../manuscript/book/02-the-square-with-one-answer.md) | 960 |
+| [Chapter 3 — Why the Beads Choose a Side](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,056 |
+| [Chapter 4 — What Lights a Star?](../manuscript/book/04-what-lights-a-star.md) | 1,074 |
+| [Chapter 5 — The White Towers of Lost City](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,025 |
+| [Chapter 6 — Who Makes the Boundary?](../manuscript/book/06-who-makes-the-boundary.md) | 1,111 |
+| [Chapter 7 — The Observer Who Makes Mistakes](../manuscript/book/07-the-observer-who-makes-mistakes.md) | 1,118 |
+| [Chapter 8 — The People Who Divided the Ox](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,163 |
+| [Chapter 9 — Who Owes Whom a Living?](../manuscript/book/09-who-owes-whom-a-living.md) | 1,410 |
+| [Chapter 10 — A Chariot and a Steam Engine](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,259 |
+| [Chapter 11 — What a Ship Could Say](../manuscript/book/11-what-a-ship-could-say.md) | 1,112 |
+| [Chapter 12 — Could Physics Have Acquired Its Laws?](../manuscript/book/12-could-physics-have-acquired-its-laws.md) | 1,149 |
+| [Chapter 13 — How Soon Could Life Begin?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,130 |
+| [Chapter 14 — Who Has Had Time to Get Here?](../manuscript/book/14-who-has-had-time-to-get-here.md) | 1,127 |
+| [Chapter 15 — Two Papers in June](../manuscript/book/15-two-papers-in-june.md) | 1,200 |
+| [Epilogue — What the Heat Meter Read](../manuscript/book/epilogue.md) | 1,173 |
+| **Total** | **19,001** |
+
+## The eighteen-chapter plan
+
+The [archived outline](archive/eighteen-chapter-outline.md) preserves the previous sequence. Its six full chapter drafts remain available below, including the factory and bakery and the three studies of nitrogen use. Their numbers belong to that edition.
 
 | Part III · Technology | Words before notes |
 | --- | ---: |
@@ -31,9 +56,9 @@ The [working outline](outline.md) numbers eighteen chapters across Physics, Huma
 
 | Part IV · Exploration | Words before notes |
 | --- | ---: |
-| [15. When Do Two Organisms Become One?](../manuscript/exploration/15-when-do-two-organisms-become-one.md) | 1,524 |
-| [16. Who Owned the Contents of Osaka’s Privies?](../manuscript/exploration/16-who-owned-the-contents-of-osakas-privies.md) | 1,505 |
-| [17. Why Did Sam Eyde Want to Replace His Own Furnace?](../manuscript/exploration/17-why-did-sam-eyde-want-to-replace-his-own-furnace.md) | 1,519 |
+| [15. When Do Two Organisms Become One?](../manuscript/exploration/15-when-do-two-organisms-become-one.md) | 1,061 |
+| [16. Who Owned the Contents of Osaka’s Privies?](../manuscript/exploration/16-who-owned-the-contents-of-osakas-privies.md) | 1,057 |
+| [17. Why Did Sam Eyde Want to Replace His Own Furnace?](../manuscript/exploration/17-why-did-sam-eyde-want-to-replace-his-own-furnace.md) | 1,113 |
 | [18. Do Data Centers Maximize Entropy Production?](../manuscript/exploration/18-do-data-centers-maximize-entropy-production.md) | 1,458 |
 
 ## The twelve-chapter draft
@@ -66,11 +91,11 @@ The original 65,000–80,000-word ambition remains a possible longer revision. E
 
 Let the claim determine which scenes belong in a chapter. State what the reader is being asked to believe while the evidence is still in view. Explain why the recorded choice or outcome favors that account, what a plausible alternative would predict, and which part of the argument the record leaves open. A second story earns its place by resolving an uncertainty in the first, exposing a limit or carrying an established result further.
 
-Open at the first decision or observation that changes what someone can do. Give the reader the place, the person and the immediate problem. At Fowey a pump bucket breaks while the stroke counters keep turning. Explain how the pump works when the reader needs to know how much water it raised. Leave the scene once the decision is clear. Give the reader the reasoning needed to see what the decision establishes.
+Open at the first decision or observation that changes what someone can do. Give the reader the place, the person and the immediate problem. At Kaiping, Tang Tingshu goes ashore at Lutai. The road between the coalfield and his steamer will decide how much extra coal he can sell. Leave the scene once the decision is clear. Give the reader the reasoning needed to see what the decision establishes.
 
 Build scenes from records, objects and observations a reader can check. Identify a remembered conversation as a recollection and a habitual practice as such. Quote documented words when the wording matters. Let a request, an evasion or a silence carry its own meaning. Give background in the action or the narration. A dream belongs in an opening only when the record shows that it changed what someone did on waking.
 
-Cut a line, however pleasing, when it repeats what the reader can already see. Remove padding and redundant modifiers. Bring back an episode when its return answers a new question. At Saltom the horse walk, the route through Ravenhill and the saltpans each explain a different decision.
+Cut a line, however pleasing, when it repeats what the reader can already see. Remove padding and redundant modifiers. Bring back an episode when its return answers a new question. At Saltom the horse walk explains why the mine kept horses after installing steam. The storm-damaged harbour explains why coal went back underground after reaching the surface.
 
 Where a case permits more than one explanation, identify what each would lead us to expect, then return to a feature of the record that can help decide between them. Graeber and Wengrow introduce schismogenesis through the institutions of neighboring peoples and the historical possibility of deliberate differentiation. Take that argumentative move as a craft reference. Attribute a historical investigator’s thought experiment to its author. Work the comparisons needed to understand a claim into the chapter. Develop prospective study designs in the afterword and keep the manuscript’s own natural experiments in the research companion. [Wengrow on the comparison](https://discovery.ucl.ac.uk/id/eprint/10192232/2/Wengrow_Historical_Materialism_DoE.pdf) · [Companion methods](../research/causal-inference.md) · [Evidence by chapter](../research/evidence.md)
 

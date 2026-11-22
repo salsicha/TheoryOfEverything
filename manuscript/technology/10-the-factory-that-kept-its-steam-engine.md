@@ -48,4 +48,4 @@ Back in Holyoke, the condition for releasing a machine was the completion of its
 
 ---
 
-[← Steam at the flooded mine](../../editorial/outline.md#chapter-09) · [Contents](../../README.md) · [LEO Takes the Bakery Orders →](11-leo-takes-the-bakery-orders.md)
+[← Steam at the flooded mine](../../editorial/archive/eighteen-chapter-outline.md#chapter-09) · [Contents](../../README.md) · [LEO Takes the Bakery Orders →](11-leo-takes-the-bakery-orders.md)

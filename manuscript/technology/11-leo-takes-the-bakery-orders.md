@@ -62,4 +62,4 @@ There was still something no part of LEO had been instructed to do. It could car
 
 ---
 
-[← The Factory That Kept Its Steam Engine](10-the-factory-that-kept-its-steam-engine.md) · [Contents](../../README.md) · [When is a learned answer worth using? →](../../editorial/outline.md#chapter-12)
+[← The Factory That Kept Its Steam Engine](10-the-factory-that-kept-its-steam-engine.md) · [Contents](../../README.md) · [When is a learned answer worth using? →](../../editorial/archive/eighteen-chapter-outline.md#chapter-12)
