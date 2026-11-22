@@ -18,7 +18,9 @@
 
 ## Mathematical support in the prose
 
-A Sudoku grid introduces constraint satisfaction. The slope of a bead-escape curve predicts whether a small excess will grow. In a roughly steady environment, attempt and loss rates can predict the waiting time for an established change. The source ledger distinguishes these calculations from the hypothesis that the favored path maximizes entropy production. [Next-step predictions](ideas.md#i89--how-does-change-happen) · [Mathematical sources](../research/sources.md#s120) · [Internal time](../research/sources.md#s173) · [Methodological afterword](../manuscript/afterword.md)
+A Sudoku grid introduces constraint satisfaction. The slope of a bead-escape curve predicts whether an excess grows. Two and three compartments give continuous and discontinuous transitions in the same material. Autocatalytic networks and the balance of copying and loss give early life a proposed threshold. Time the preparation, the first successful founding, and subsequent spread independently. [Next-step predictions](ideas.md#i89--how-does-change-happen) · [Mathematical sources](../research/sources.md#s120) · [Internal time](../research/sources.md#s173) · [Methodological afterword](../manuscript/afterword.md)
+
+Chapter 10 uses the thermal cycle of an atmospheric engine to derive a design feature. The research companion works through forecasts using Watt’s patent, Tang’s freight budget and the Lyons board memorandum. Chapter 15 uses successive changes of frame to show which part of relativity the accumulated requirements determined. [Forecasts from contemporary records](../research/causal-inference.md#forecasting-a-technology-from-earlier-records) · [Relativity sources](../research/sources.md#s67)
 
 ## Current manuscript
 
@@ -26,24 +28,24 @@ The prologue, fifteen chapters and epilogue are complete in [the book directory]
 
 | Reading order | Narrative words |
 | --- | ---: |
-| [Prologue — The Sample Without a Name](../manuscript/book/prologue.md) | 1,220 |
+| [Prologue — The Sample Without a Name](../manuscript/book/prologue.md) | 1,200 |
 | [Chapter 1 — What Moves at Absolute Zero?](../manuscript/book/01-what-moves-at-absolute-zero.md) | 1,259 |
 | [Chapter 2 — The Square with One Answer](../manuscript/book/02-the-square-with-one-answer.md) | 954 |
-| [Chapter 3 — Why the Beads Choose a Side](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,504 |
+| [Chapter 3 — Why the Beads Choose a Side](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,770 |
 | [Chapter 4 — What Lights a Star?](../manuscript/book/04-what-lights-a-star.md) | 1,186 |
-| [Chapter 5 — The White Towers of Lost City](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,140 |
+| [Chapter 5 — The White Towers of Lost City](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,155 |
 | [Chapter 6 — Who Makes the Boundary?](../manuscript/book/06-who-makes-the-boundary.md) | 1,239 |
 | [Chapter 7 — The Observer Who Makes Mistakes](../manuscript/book/07-the-observer-who-makes-mistakes.md) | 1,430 |
 | [Chapter 8 — The People Who Divided the Ox](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,430 |
 | [Chapter 9 — Who Owes Whom a Living?](../manuscript/book/09-who-owes-whom-a-living.md) | 1,562 |
-| [Chapter 10 — A Chariot and a Steam Engine](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,408 |
+| [Chapter 10 — A Chariot and a Steam Engine](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,624 |
 | [Chapter 11 — What a Ship Could Say](../manuscript/book/11-what-a-ship-could-say.md) | 1,272 |
 | [Chapter 12 — Could Physics Have Acquired Its Laws?](../manuscript/book/12-could-physics-have-acquired-its-laws.md) | 1,391 |
-| [Chapter 13 — How Soon Could Life Begin?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,489 |
+| [Chapter 13 — How Soon Could Life Begin?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,593 |
 | [Chapter 14 — Who Has Had Time to Get Here?](../manuscript/book/14-who-has-had-time-to-get-here.md) | 1,339 |
-| [Chapter 15 — Two Papers in June](../manuscript/book/15-two-papers-in-june.md) | 1,634 |
-| [Epilogue — What the Heat Meter Read](../manuscript/book/epilogue.md) | 1,971 |
-| **Total** | **23,428** |
+| [Chapter 15 — Two Papers in June](../manuscript/book/15-two-papers-in-june.md) | 1,813 |
+| [Epilogue — What the Heat Meter Read](../manuscript/book/epilogue.md) | 2,001 |
+| **Total** | **24,218** |
 
 ## The eighteen-chapter plan
 

@@ -4,9 +4,9 @@
 
 ## The argument
 
-How does change happen? Existing parts can meet, bind, break or be put to a new use. Their material properties and the relations they must satisfy in Platonic space limit the possible next steps. A driving difference supplies work. What sets the pace is how often a particular change can occur, how readily it is undone, and how its occurrence changes those rates for whatever comes next. The sign of that last effect matters. One extra bead can make its neighbors more likely to stay. One extra pump can leave the next investor poorer if coal has nowhere to go.
+How does change happen? Quantity turns into quality. An energy gradient may persist for ages while the parts accumulate and the constraints in Platonic space narrow the routes they can take. At a critical point the system abruptly acquires a capacity the old arrangement could never sustain. A surplus of beads that used to drain away can now draw beads from two neighboring compartments into one pile. A chemical network that used to die with its founding molecules can now leave descendants able to do the same work. Identify what crosses the threshold, what the new arrangement can do, and how long the change takes beside the preparation. The book argues that life formed on the shorter clock of chemistry in Earth’s first enduring habitable interval.
 
-The book’s stronger claim is that the routes which take hold together attain the greatest sustained entropy production the same system could reach. A route that draws more power can expand when part of the gain pays for more of the means of extraction. A faster route can also be too expensive to start, lose its gains to a rival or feed an already saturated process. Define the rivals, their entry costs, the common boundary and the period *before* looking at the outcome. Predicting which arrangement forms and measuring which one dissipates most are independent ways to put the argument at risk.
+The book proposes that each new level takes the quickest feasible route through assembly space to a capacity that raises the sustainable rate of entropy production as far as the shared resources allow. Time to working capacity and dissipation over the whole sequence are distinct predictions. Include construction time, displaced uses and feasible rivals. A cheap first step can lose to a slower start that removes two bottlenecks. Where the two rankings disagree, their disagreement tests the claim that the selected route optimizes both. [Forecasting a technology](../research/causal-inference.md#forecasting-a-technology-from-earlier-records)
 
 [Read the book in order](../README.md#contents) · [Expanded ideas](ideas.md) · [Earlier eighteen-chapter outline](archive/eighteen-chapter-outline.md)
 
@@ -15,11 +15,11 @@ The book’s stronger claim is that the routes which take hold together attain t
 
 ## Prologue · The Sample Without a Name
 
-Heather Graham’s meteorite and bay sediment ask what a molecule can tell us about its making. A minimum number of joins leaves open which reaction will occur tomorrow. The pump at Saltom introduces the book’s way of answering that question. Compare water coming in with water lifted out, then trace how the first engine could earn the fuel and money for the next. [Read the prologue](../manuscript/book/prologue.md)
+Heather Graham’s blinded samples reveal how much construction a molecule required. They leave open whether the last step took an hour or an age. At Saltom the water could rise gradually and cost the miners access to a seam when it covered the working face. The prologue brings that distinction to early Earth. What took geological time to prepare could undergo a sudden change once chemistry could leave descendants. [Read the prologue](../manuscript/book/prologue.md)
 
 ## Part I · Physics
 
-Follow the sources and limits of the rates themselves. A driven population moves away from symmetry, a contracting star reaches fusion, and rock and water feed a chemical current. In each case the next step takes time, and its appearance can change the pace of everything that follows.
+Find the physical threshold in each case. The geometry of a shaker determines whether a pile grows continuously or appears in a jump. Confinement brings a stellar core to sustained fusion. In a mineral pore a new reaction can complete a network that replaces its own catalysts. The time spent building the conditions and the time needed to change the system have separate clocks.
 
 <a id="chapter-01"></a>
 
@@ -37,7 +37,7 @@ Sudoku shows how a constraint can remove a whole family of possible moves. In Le
 
 ### 3. Why the Beads Choose a Side
 
-The escape rates from two piles of beads predict whether a 301-to-299 split will widen or disappear. In an upright heated cylinder, one tall circulation roll carries more heat than two stacked rolls, yet the water spends time in both. Tilt the cylinder and buoyancy favors the tall roll. The measured heat transport rises because the water spends longer in the faster state. [Read chapter 3](../manuscript/book/03-why-the-beads-choose-a-side.md)
+A cluster of steel beads is still there at forty-two seconds and gone at forty-three. A separate experiment with six hundred glass beads shows why geometry matters. The stable imbalance grows continuously in two compartments and jumps in three as the drive is reduced. A heated cylinder then lets us measure whether the favored circulation carries more heat. [Read chapter 3](../manuscript/book/03-why-the-beads-choose-a-side.md)
 
 <a id="chapter-04"></a>
 
@@ -49,7 +49,7 @@ A proposed Sun powered by contraction has about thirty million years’ worth of
 
 ### 5. The White Towers of Lost City
 
-Lost City’s alkaline fluid can mix with seawater, react on a mineral or meet catalysts that earlier parcels helped produce. The advantage of a retained catalyst depends on how much reactant would otherwise leave unused and how many parcels pass before the catalyst is lost. These conditions give physical content to the book’s claim that a living population could become the fastest sustained route through a chemical gradient. [Read chapter 5](../manuscript/book/05-the-white-towers-of-lost-city.md)
+Lost City supplies rock, chemical energy and pores that retain reaction products. A set of reactions crosses a threshold when its products can replace the catalysts that wash out. A heritable version that leaves viable successors can carry the same chemistry into more of the flow each generation. The book argues that Earth took this route in the first enduring habitat with the necessary conditions. [Read chapter 5](../manuscript/book/05-the-white-towers-of-lost-city.md)
 
 ## Part II · Humans
 
@@ -87,7 +87,7 @@ A higher wage could save a harvest or simply move a reaper from the next field. 
 
 ### 10. A Chariot and a Steam Engine
 
-Water must be lifted before more coal can be raised. At Saltom, pumping with coal and winding with horses could put more fuel on the market for years. At Kaiping, Tang’s freight budget predicted where a pump alone would strand saleable coal. The rate of inflow predicts the pressure to change. Transport, customers and credit help predict whether an engine gets built. [Read chapter 10](../manuscript/book/10-a-chariot-and-a-steam-engine.md)
+A wheel account at Knossos and the flooded workings at Saltom show what keeps a technology in service. The hot and cold demands on a Newcomen cylinder predict a separate condenser. At Kaiping, three hundred carts a day could not be found. Pumping could open a seam, but the new output could reach buyers only with cheap bulk transport. Comparing the routes before reading what Tang built also shows why a forecast can get the required function right and the first vehicle wrong. [Read chapter 10](../manuscript/book/10-a-chariot-and-a-steam-engine.md)
 
 <a id="chapter-11"></a>
 
@@ -109,7 +109,7 @@ Cold dust reradiating starlight lets cosmologists compare modeled universes with
 
 ### 13. How Soon Could Life Begin?
 
-The book argues that life took the first enduring opening on Earth. Estimate how often supplied pores produced a useful combination and how often it survived washout and left descendants. The waiting time then becomes a prediction. RNA catalysts competing for one feed illustrate what can happen after copying begins. The 4.33-billion-year model for persistent RNA chemistry and the roughly 4.2-billion-year estimate for an ancestral population date distinct events. [Read chapter 13](../manuscript/book/13-how-soon-could-life-begin.md)
+Life formed in Earth’s first enduring window for it, on the short clock of chemistry after the long wait for the planet to cool. Catalytic-network models show how increasing molecular diversity can bring a whole set of mutually supporting reactions within reach. Above replacement, heritable chemistry can found a growing lineage. The model of favorable RNA conditions near 4.33 billion years ago and the ancestral estimate near 4.2 billion constrain the chronology. An independently dated, prolonged sterile interval under suitable conditions would challenge the claim. [Read chapter 13](../manuscript/book/13-how-soon-could-life-begin.md)
 
 <a id="chapter-14"></a>
 
@@ -121,10 +121,10 @@ Old planets test the proposal that durable chemical gradients suitable for life 
 
 ### 15. Two Papers in June
 
-The book argues that relativity was discovered as soon as its experimental and mathematical prerequisites came together. A round-trip clock and ruler conversion shows which result a physicist could predict before June 1905. Poincaré and Einstein reached common ground twenty-five days apart while their accounts of the ether still differed. The constraints explain convergence more tightly than they date it. Later satellite clocks give a direct test of what that knowledge can do. [Read chapter 15](../manuscript/book/15-two-papers-in-june.md)
+FitzGerald could explain the 1887 optical result by letting the apparatus change length. By 1904 physicists also had electrical tests, a light-signal procedure for setting clocks and Lorentz’s transformations. Poincaré’s letters and Einstein’s letter to Habicht show two lines of work in progress before June. The demand for a single reversible, direction-independent conversion in every inertial laboratory made an adjustable scale a determined number. That change in what could be deduced explains why the same result emerged twenty-five days apart and why disagreement over the ether survived. [Read chapter 15](../manuscript/book/15-two-papers-in-june.md)
 
 <a id="epilogue"></a>
 
 ## Epilogue · What the Heat Meter Read
 
-One Finnish data center drew 4.58 MW. The table compares its dissipation with lunar rock, a microbe, an animal and England and Wales in 1560 and 1950. An equal-powered resistor ties the computers at a common final temperature. Orders, cooling, a grid connection and the town’s use of the waste heat decide whether a computing center induces greater sustained dissipation across the wider system. A queue of customers and spare grid capacity give a different forecast from vacant racks on a rationed grid. [Read the epilogue](../manuscript/book/epilogue.md)
+One Finnish data center drew 4.58 MW. The table compares its dissipation with lunar rock, a microbe, an animal and England and Wales in 1560 and 1950. An equal-powered resistor ties the computers at a common final temperature. A separate threshold changed what their heat could do. Once the heat pump could deliver water at the temperature the town required, the same servers could supply district heat. The net change in dissipation depends on what power the computation brings into use and what fuel the recovered heat displaces. [Read the epilogue](../manuscript/book/epilogue.md)

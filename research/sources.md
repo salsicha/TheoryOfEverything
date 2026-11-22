@@ -28,6 +28,8 @@ Blount identifies Tim Cooper as the person who noticed the cloudy flask. Lenski 
 
 **Steam and economic constraints.** Robert C. Allen, [“Why the industrial revolution was British: commerce, induced invention, and the scientific revolution”](https://doi.org/10.1111/j.1468-0289.2010.00532.x), *Economic History Review* 64 (2011), 357–384; [author's explanation of the argument](https://cepr.org/voxeu/columns/why-was-industrial-revolution-british).
 
+Henry Beighton’s 1717 engraving records the existing engine at Griff. James Watt’s 1769 patent specifies keeping the working cylinder hot and condensing steam in a separate cold vessel. These records support the comparison of opposing temperature demands and the design that resolved them. Fuel saved per lift and the effect on total coal consumption are distinct historical questions. [Original engraving](https://collection.sciencemuseumgroup.org.uk/objects/co50905/print-of-henry-beightons-engraving-of-a-newcomen-engine) · [Watt’s specification, clauses 1–2](https://www.dpma.de/docs/dpma/veroeffentlichungen/gb000176900913a_watt1769.pdf)
+
 Supports a specific high-wage, cheap-energy interpretation. It is an interpretation to compare with competing accounts, not a settled single-cause explanation. Chapter 5 retains Humphries's critique and engineering sources under S36–S37; the longer Song and imperial comparisons under S37–S38 remain in the archived steam draft. Detailed regional and colonial comparisons remain worthwhile for a longer revision.
 
 ## S05
@@ -442,6 +444,8 @@ Supports Allen's comparison of fuel-conserving and fuel-intensive designs under 
 
 **Convergent work on relativity in 1905.** Henri Poincaré, “Sur la dynamique de l'électron,” *Comptes rendus* 140 (1905), 1504–1508, [Academy scan](https://www.academie-sciences.fr/pdf/dossiers/Poincare/Poincare_pdf/Poincare_CR1905.pdf), with the [readable English translation](https://en.wikisource.org/wiki/Translation:On_the_Dynamics_of_the_Electron_(June)). Albert Einstein, [“On the Electrodynamics of Moving Bodies”](https://www.fourmilab.ch/etexts/einstein/specrel/www/), June 30, 1905, English translation based on the 1923 edition.
 
+Einstein’s letter to Conrad Habicht, dated to May 18 or 25, describes the unfinished fourth paper. Two letters from Poincaré to Lorentz, both dated approximately to May, record his ongoing work on Lorentz’s theory and his change of mind about the scale factor. FitzGerald’s 1889 proposal documents a live alternative after the Cleveland experiment. These records place work before June independently of the final papers. They do not date the authors’ private insights. [Einstein to Habicht](https://einstein-virtuell.mpiwg-berlin.mpg.de/VEA/SC-1098931061_MOD-778631397_SEQ-108277663_SL-267551903_en.html) · [Poincaré’s first letter](https://henripoincarepapers.univ-nantes.fr/chp/text/lorentz3.html) · [Poincaré’s follow-up](https://henripoincarepapers.univ-nantes.fr/chp/text/lorentz4.html) · [FitzGerald to *Science*](https://theory.tifr.res.in/~amol/ed18/lecnotes/The_Ether_and_the_Earth_Atmosphere.html)
+
 The Poincaré translation and Einstein's opening and simultaneity discussion were read for the narrow comparison in chapter 4. Poincaré's note develops Lorentz transformations and their group property; Einstein reorganizes the account around relativity, light speed, and clock synchronization. Their nearby dates and overlapping problems do not establish identical theories, complete independence, or a thermodynamic cause. The scan supplied bibliographic context; its text was not treated as fully machine-readable. No Einstein–Hilbert priority conclusion is asserted.
 
 Lorentz’s 1904 paper gives the transformations and obtains a scale factor of one. In his June note Poincaré credits Lorentz with obtaining that value by a different route and gives a group argument. Poincaré had described synchronization by exchanged light signals in 1900 and returned to it at St. Louis in 1904. These documents narrow the interval independently of the two June dates. The exact earliest attainable discovery date and a thermodynamic cause remain historical inferences. [Poincaré’s 1900 paper on clocks](https://fr.wikisource.org/wiki/La_th%C3%A9orie_de_Lorentz_et_le_principe_de_r%C3%A9action) · [Lorentz’s 1904 paper](https://en.wikisource.org/wiki/Electromagnetic_phenomena) · [Poincaré’s June note](https://www.academie-sciences.fr/pdf/dossiers/Poincare/Poincare_pdf/Poincare_CR1905.pdf)
@@ -507,6 +511,10 @@ The primary paper's setup, dissipation mechanism, simulations, and flux-balance 
 **Experimental transition from balanced to unequal populations.** K. van der Weele, D. van der Meer, M. Versluis, and D. Lohse, [“Hysteretic clustering in granular gas”](https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf), *Europhysics Letters* 53 (2001), 328–334, DOI 10.1209/epl/i2001-00157-x.
 
 The setup and two-compartment analysis were read for the 600-bead experiment and its stable and unstable regimes. Chapter 6 does not claim universal symmetry loss or present the paper's three-compartment hysteresis as a two-compartment result. Experimental counts were taken after shaking stopped; the prose consequently makes no claim of an exact measured in-motion population split.
+
+The current chapter 3 also uses the three-compartment runs with 600 beads. Figures 1 and 2 show why a change of stability can be continuous in two compartments and discontinuous in three. The three-compartment return transition occurred at a different drive. The shape of the stable distributions and the time individual beads take to move are different observations. [Experiments and flux model](https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf)
+
+Van der Meer, van der Weele and Lohse photographed the decay of a prepared cluster of steel beads at fixed drive in a separate experiment. Figure 1 shows the cluster still visible at 42 seconds and dispersed by 43 seconds in five boxes. Their flux model relates its lifetime to shaking strength. They distinguish this abrupt collapse in time from gradual pile formation through intermediate clusters. [Time-resolved collapse study](https://doi.org/10.1103/PhysRevLett.88.174302)
 
 ## S77
 
@@ -804,6 +812,8 @@ Connects computations to physical implementations and their thermodynamic costs.
 
 Formalizes and detects networks collectively supported by available catalysts and environmental food molecules. Chapter 3 uses this structural criterion alongside the separate requirement that reaction and loss rates permit continuation. The social application in chapter 7 is an analogy to specified dependencies, not a deduction about genetic self-domestication or human institutions.
 
+Hordijk, Steel and Stuart Kauffman varied molecular diversity in model reaction systems. Figure 3 of their 2019 paper gives the chance that a set of mutually catalyzed, food-generated reactions exists as allowed chain length increases under a fixed catalysis probability. In the specified model such sets were likely by length thirteen. The authors test the existence of a network. Seeding, washout, heredity and time to establishment are separate conditions in the book’s account of abiogenesis. [Molecular diversity study](https://doi.org/10.3390/life9010023) · [Chapter 13](../manuscript/book/13-how-soon-could-life-begin.md)
+
 ## S124
 
 **Production closure and feasible maintenance.** Peter Dittrich and Pietro Speroni di Fenizio, [“Chemical organization theory: towards a theory of constructive dynamical systems”](https://arxiv.org/abs/q-bio/0501016), *Bulletin of Mathematical Biology* 69 (2007), 1199–1231.
@@ -881,6 +891,8 @@ Abramov and colleagues infer an RNA-world onset from the modeled thermal surviva
 **Inferring rapid origins with observer selection.** David Kipping, [“An objective Bayesian analysis of life’s early start and our late arrival”](https://arxiv.org/abs/2005.09008), *PNAS* 117, 11995–12003 (2020).
 
 The abstract was checked on November 16. The analysis jointly considers abiogenesis and the time required for observers, favoring rapid over slow origin modestly under its model and adopted chronology. Its limiting Bayes factor is 2.8 using the microfossil chronology and 8.7 with disputed zircon evidence. These are model comparisons, not measured universal origin probabilities or evidence identifying an energetic mechanism.
+
+In 2025 Kipping updated the fast-versus-slow comparison using Moody and colleagues’ estimate for LUCA. Given a start of habitability around 4.4 billion years ago, his nominal result favors fast abiogenesis by about 13 to 1, with speed defined relative to a planet’s habitable lifetime. The inference reuses the ancestral dating evidence in S133. It leaves the chemical mechanism and the lag between a particular habitable window and the first lineage open. [2025 analysis and assumptions](https://arxiv.org/abs/2504.05993) · [LUCA chronology](#s133)
 
 ## S136
 
