@@ -570,3 +570,5 @@ Life emerged as soon as Earth could sustain it. Special relativity was discovere
 ## Author clarification — November 22, 2026
 
 Compare the entropy production of one data center with each stage of development in the epilogue. Include lifeless rock, primitive microbial life, animal life, pre-industrial civilization and twentieth-century civilization. The [epilogue](../manuscript/book/epilogue.md) uses a modern anaerobic cell for the microbial comparison and historical energy accounts from the same territory for the two civilizations.
+
+The question behind the book is “How does change happen?” Counting construction steps describes an object. Identifying a dialectical transformation describes a change in relations. For each step, explain what can bring the parts together, how fast it can happen, what would undo the result, and how the result changes the next set of possibilities. Compare the routes available under the same constraints. Predict which becomes established, then ask whether it sustains the highest rate of entropy production among the alternatives. [Mechanism and predictions](ideas.md#i89--how-does-change-happen) · [Current outline](outline.md)

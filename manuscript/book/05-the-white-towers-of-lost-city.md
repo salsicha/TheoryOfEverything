@@ -18,6 +18,8 @@ What can a living inhabitant get from this place? Hydrogen-rich fluid meets wate
 
 Reuben Hudson and his colleagues tested a piece of this proposal. Across a mineral barrier they maintained fluids of different acidity. Under their vent-like laboratory conditions hydrogen and carbon dioxide could react to produce formate, a compound useful in further chemistry. The group compared arrangements in which the difference across the barrier was changed. Supplying the reactants in the right relation mattered to obtaining the product. Formate is a carbon compound. Its production establishes a chemical step for which life itself need not already exist.[3]
 
+A catalyst can speed a reversible reaction in both directions. It leaves the equilibrium ratio of reactants to products where it was. What matters to a passing parcel is how close it gets to that ratio before it leaves. If the bare mineral already uses almost all the available reactant, a faster catalyst has little extra work to do on the same feed. Where much of the reactant ordinarily escapes, a catalyst that acts before the parcel leaves and stays on the wall can alter a succession of outflows. Timing the conversion and the loss of the catalyst separately tells us which kind of pore could accumulate the gains from its early chemistry.[2][3]
+
 Eric Smith and Harold Morowitz asked how much of metabolism might have such a history. Some pathways in modern organisms recur in widely different settings. In the reverse citric acid cycle, a sequence of reactions allows organisms to incorporate inorganic carbon into building material. Smith and Morowitz examined how the chemistry of the available intermediates might have narrowed the routes open before a lineage could inherit a list of instructions. A network in which one step keeps supplying the next has a practical advantage over an equally imaginable network whose ingredients wash away.[4]
 
 A living boundary makes a further difference. It can admit some of what passes, hold on to useful products, and spend part of the return making more of the components that do the admitting. When a cell divides, a second place to carry out the same reactions enters the current. This is where life could become the most effective way for a vent to discharge available chemical energy. The first parcel of fluid can help pay for a catalyst that will still be there for the second. A population can put new catalysts into more of the available pores. An account of reaction rates that holds the amount of catalyst fixed from the beginning misses the advantage Smith and Morowitz had in mind.[2][4]
@@ -38,7 +40,7 @@ Hanna could take a piece of mineral from the ledge and preserve it by getting it
 
 2. Kelley and colleagues document vent chemistry, carbonate structures and the microbial and animal communities. [Field study](../../research/sources.md#s143)
 
-3. Hudson and colleagues give the apparatus, controls and product measurements. [pH-gradient study](https://doi.org/10.1073/pnas.2002659117)
+3. Hudson and colleagues give the apparatus, controls and product measurements. A catalyst changes reaction rates while preserving the equilibrium constant. [pH-gradient study](https://doi.org/10.1073/pnas.2002659117) · [IUPAC on catalysis](https://doi.org/10.1351/goldbook.C00876)
 
 4. The optimal-channel interpretation belongs to Smith and Morowitz and is developed here as a hypothesis. [Energy flow](../../research/sources.md#s140) · [Metabolic pathway constraints](../../research/sources.md#s141) · [Planetary chemistry](../../research/sources.md#s142)
 
