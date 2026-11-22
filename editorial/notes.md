@@ -560,3 +560,13 @@ The creation cycle is clarified as follows:
 5. Further creation is dialectical and follows interpenetration of opposites, negation of the negation, and the transformation of quantity into quality.
 
 The current development is in I70, I71, and I75 of `ideas`. The manuscript distinguishes this author's synthesis from established source claims: construction and copy number in S02, biological autopoiesis in S33, and dialectical vocabulary in S130. Frequency must be measured separately from the proposed self-producing mechanism; repeated observation alone does not identify that cause.
+
+## Author clarification — November 21, 2026
+
+The central hypothesis is that the universe races toward the maximum sustainable rate of entropy production. The author’s expression is that energy always follows the steepest accessible gradient. Physical and Platonic constraints define the routes that can exist and the rates those routes can carry. The creation of life, society, technology and AI is proposed as a succession of faster ways to extract and dissipate energy. Time spent bringing the prerequisites together can be long. Once they are ready the prediction is that the new assembly appears as soon as the process can produce it.
+
+Life emerged as soon as Earth could sustain it. Special relativity was discovered as soon as it could be, with two routes converging in June 1905. The author proposes that AI is increasing entropy production faster than earlier assemblies. Develop this claim using data-center electrical power, waste heat and a comparison with inert rock on a dead planet. Distinguish the measured local increase, a claim about the whole technology’s net effect, and an all-time universal record. The evidence and the comparisons that could challenge this formulation are developed in [I88](ideas.md#i88--maximum-rate-and-earliest-formation) and the [epilogue](../manuscript/book/epilogue.md).
+
+## Author clarification — November 22, 2026
+
+Compare the entropy production of one data center with each stage of development in the epilogue. Include lifeless rock, primitive microbial life, animal life, pre-industrial civilization and twentieth-century civilization. The [epilogue](../manuscript/book/epilogue.md) uses a modern anaerobic cell for the microbial comparison and historical energy accounts from the same territory for the two civilizations.

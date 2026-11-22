@@ -2,10 +2,10 @@
 
 | File | Purpose |
 | --- | --- |
-| [notes](notes.md) | Original source notes with a dated author clarification appended |
-| [ideas](ideas.md) | Expanded ideas I01–I87 and current coverage map |
+| [notes](notes.md) | Original source notes and dated author clarifications |
+| [ideas](ideas.md) | Expanded ideas I01–I88 and current coverage map |
 | [outline](outline.md) | Current prologue, fifteen chapters and epilogue, with cases and causal arguments |
-| [sources.md](../research/sources.md) | Source keys S01–S174, evidence limits, and outstanding research |
+| [sources.md](../research/sources.md) | Source keys S01–S178, evidence limits, and outstanding research |
 | [Natural-experiment scripts](../scripts/README.md) | Twelve evidence records, with estimators, data contracts, and explicit identification limits |
 | [Experiment results](../scripts/results/summary.md) | Completed comparisons, diagnostic checks, and explicit missing-data statuses |
 | [Dataset search audit](../scripts/dataset-search.md) | Located primary data, access limits, and the observations still needed |
@@ -22,28 +22,28 @@ A Sudoku grid introduces constraint satisfaction. A shaker gives instability a m
 
 ## Current manuscript
 
-The prologue, fifteen chapters and epilogue are complete in [the book directory](../manuscript/book). The [reading order](../README.md#contents) and [outline](outline.md) follow the four parts on physics, humans, technology and paradox. The table counts whitespace-separated words in the narrative, excluding headings, the Sudoku grid, the image and its caption, source notes, and navigation.
+The prologue, fifteen chapters and epilogue are complete in [the book directory](../manuscript/book). The [reading order](../README.md#contents) and [outline](outline.md) follow the four parts on physics, humans, technology and paradox. The table counts whitespace-separated words in the narrative, excluding headings, the Sudoku grid, the image and its caption, the epilogue’s comparison table, source notes, and navigation.
 
 | Reading order | Narrative words |
 | --- | ---: |
-| [Prologue — The Sample Without a Name](../manuscript/book/prologue.md) | 934 |
+| [Prologue — The Sample Without a Name](../manuscript/book/prologue.md) | 1,014 |
 | [Chapter 1 — What Moves at Absolute Zero?](../manuscript/book/01-what-moves-at-absolute-zero.md) | 1,000 |
-| [Chapter 2 — The Square with One Answer](../manuscript/book/02-the-square-with-one-answer.md) | 960 |
-| [Chapter 3 — Why the Beads Choose a Side](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,056 |
+| [Chapter 2 — The Square with One Answer](../manuscript/book/02-the-square-with-one-answer.md) | 1,028 |
+| [Chapter 3 — Why the Beads Choose a Side](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,192 |
 | [Chapter 4 — What Lights a Star?](../manuscript/book/04-what-lights-a-star.md) | 1,074 |
-| [Chapter 5 — The White Towers of Lost City](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,025 |
+| [Chapter 5 — The White Towers of Lost City](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,027 |
 | [Chapter 6 — Who Makes the Boundary?](../manuscript/book/06-who-makes-the-boundary.md) | 1,111 |
 | [Chapter 7 — The Observer Who Makes Mistakes](../manuscript/book/07-the-observer-who-makes-mistakes.md) | 1,118 |
-| [Chapter 8 — The People Who Divided the Ox](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,163 |
+| [Chapter 8 — The People Who Divided the Ox](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,231 |
 | [Chapter 9 — Who Owes Whom a Living?](../manuscript/book/09-who-owes-whom-a-living.md) | 1,410 |
 | [Chapter 10 — A Chariot and a Steam Engine](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,259 |
-| [Chapter 11 — What a Ship Could Say](../manuscript/book/11-what-a-ship-could-say.md) | 1,112 |
+| [Chapter 11 — What a Ship Could Say](../manuscript/book/11-what-a-ship-could-say.md) | 1,176 |
 | [Chapter 12 — Could Physics Have Acquired Its Laws?](../manuscript/book/12-could-physics-have-acquired-its-laws.md) | 1,149 |
-| [Chapter 13 — How Soon Could Life Begin?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,130 |
+| [Chapter 13 — How Soon Could Life Begin?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,222 |
 | [Chapter 14 — Who Has Had Time to Get Here?](../manuscript/book/14-who-has-had-time-to-get-here.md) | 1,127 |
-| [Chapter 15 — Two Papers in June](../manuscript/book/15-two-papers-in-june.md) | 1,200 |
-| [Epilogue — What the Heat Meter Read](../manuscript/book/epilogue.md) | 1,173 |
-| **Total** | **19,001** |
+| [Chapter 15 — Two Papers in June](../manuscript/book/15-two-papers-in-june.md) | 1,426 |
+| [Epilogue — What the Heat Meter Read](../manuscript/book/epilogue.md) | 1,885 |
+| **Total** | **20,449** |
 
 ## The eighteen-chapter plan
 

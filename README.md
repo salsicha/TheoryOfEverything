@@ -4,7 +4,7 @@
 
 Heather Graham gave a team of researchers a meteorite sample and a sample of bay sediment and kept their origins to herself. Could the team tell which bore the marks of life? This book starts with the evidence a molecule can carry about its making. It asks what kind of evidence might let us recognize the making of a star, a society, a machine or even a law of physics.
 
-At an English coal mine, a steam pump burned some of the coal it brought within reach. The rest could feed other fires and help pay for the next pump. The book argues that creation often takes this form. A difference in energy makes work possible. Constraints narrow which arrangements can do it. An arrangement that helps produce more of its kind changes what the next generation can build. Whether this favors the greatest *rate* of energy extraction is a harder claim. A Finnish town that buys heat from a data center gives the reader a way to examine it.
+The book argues that the universe takes the fastest physically accessible route toward dissipating energy. A coal fire burns a heap once. Put some of that coal under a pump and miners can feed fires for years from the flooded seam it opens. The same argument about rates runs through the book. Life took the first lasting chemical opening on a cooling Earth. Special relativity emerged by two routes in the same historical moment. Today AI is drawing more electricity into data centers and releasing it as heat. The epilogue sets one Finnish data center beside lifeless lunar ground, a microbe beneath the seafloor, a guinea pig whose heat melted ice, and the energy accounts of England and Wales in 1560 and 1950.
 
 [Start with the prologue](manuscript/book/prologue.md) · [Chapter-by-chapter outline](editorial/outline.md)
 
