@@ -1,4 +1,4 @@
-# Chapter 11 — What a Ship Could Say
+# Chapter 11 — Morality and Confidence as Communication Technologies
 
 *Part III · Technology*
 
@@ -20,7 +20,7 @@ One recipient of the drawing could refuse to back a voyage. Another could let he
 
 There is a dated choice in the record. In 1792 the Commons considered abolition and settled on a gradual end to the trade. The resolution brought no immediate prohibition. A British shipowner could still undertake a voyage, seek another cargo or leave a ship in port. *Brooks* continued to carry enslaved people until 1804. The 1807 Act later changed which ventures could operate legally under British authority. What the campaign assembled in the intervening years was a capacity to change the terms under which other people could organize a voyage. One such change could govern ships whose owners had never seen the print.[1][4]
 
-The two sides of the vote make different predictions. While the trade remained lawful, the register could reduce the cost of finding a ship acceptable to investors. Under an enforced prohibition that same entry could establish a hull’s condition but could no longer make the voyage lawful. For the book’s rate claim, compare the use of the same ships, dock capacity and provisions over the same years under continued, delayed or immediate prohibition. If a port could refit its ships for paying cargo, that route could sustain a flow of goods that idle hulls could never carry. Refitting took time and cargo required buyers. Enslaved people’s labor, the use of ships elsewhere and the fuel used in enforcement also belong in any wider account. The dates establish a real change in what people could do. They leave the ranking of those physical histories open. People had grounds to end the trade whatever that ranking might be.[1][3][4]
+The two sides of the vote make different predictions. While the trade remained lawful, the register could reduce the cost of finding a ship acceptable to investors. Under an enforced prohibition that same entry could establish a hull’s condition but could no longer make the voyage lawful. Continued trade, delayed abolition and immediate prohibition each left different uses open to the same ships, docks and provisions. The physical comparison turns on what those resources could carry over the same years. If a port could refit its ships for paying cargo, that route could sustain a flow of goods that idle hulls could never carry. Refitting took time and cargo required buyers. Enslaved people’s labor, the use of ships elsewhere and the fuel used in enforcement also belong in any wider account. The dates establish a real change in what people could do. They leave the ranking of those physical histories open. People had grounds to end the trade whatever that ranking might be.[1][3][4]
 
 ## What a second opinion is worth
 
@@ -44,4 +44,4 @@ A register built to communicate confidence in ships and a print built to induce 
 
 ---
 
-[← A Chariot and a Steam Engine](10-a-chariot-and-a-steam-engine.md) · [Contents](../../README.md#contents) · [Could Physics Have Acquired Its Laws? →](12-could-physics-have-acquired-its-laws.md)
+[← How Energy and Transport Constrain the Spread of Technology](10-a-chariot-and-a-steam-engine.md) · [Contents](../../README.md#contents) · [Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time? →](12-could-physics-have-acquired-its-laws.md)

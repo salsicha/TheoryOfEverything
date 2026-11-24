@@ -1,10 +1,10 @@
-# Chapter 13 — How Soon Could Life Begin?
+# Chapter 13 — Did Life Begin as Soon as Earth Could Support It?
 
 *Part IV · Paradox*
 
 In Western Australia a crystal survived the destruction of the rock in which it formed. Rivers carried it away. It ended up among other grains in the Jack Hills. Simon Wilde and his colleagues found that part of this zircon was about 4.4 billion years old. The team could extract two pieces of information from the same grain. Uranium and its decay products recorded the time since the crystal formed. Its oxygen isotopes suggested that material in its ancestry had interacted with liquid water at low temperature. A grain that had outlasted a landscape still contained evidence that water had touched it.[1]
 
-I argue that life formed as soon as conditions on Earth allowed it. Earth had to cool enough for liquid water to collect. Even then, a large impact could destroy what the chemistry had made. Once habitats had a continuing source of chemical energy, usable building material and protection from repeated destruction, I think a lineage arose on the timescale of the chemistry itself. There was no second geological age of waiting for a lucky combination. The zircon dates one part of the preparation. The question is how the preparation could end in so sudden a change.[1]
+Liquid water on a young planet sets an early date for one condition life needed. An ocean could still lose its first chemical products to an impact. The stronger possibility is that Earth spent geological ages becoming habitable and became inhabited in the first interval when a lineage could survive. Once water, raw material and a lasting source of chemical energy came together, the wait for life would have been measured by reactions and generations. How could so long a preparation end in so short a change?[1][2]
 
 Oleg Abramov and his colleagues tried to date a particular starting line. For how long after Earth formed would repeated impacts have interrupted the survival of the molecules that might take part in an RNA world? In a study published in 2026 they combined a history of impacts with a thermal model. They identified favorable conditions for persistent prebiotic RNA chemistry around 4.33 billion years ago. Cool conditions at one site between strikes, lasting relief from disruption and the first successful line of descent are three different events. The team calculated a date for the conditions. It did not find a molecule of that age.[2]
 
@@ -24,7 +24,7 @@ At Scripps, Tracey Lincoln and Gerald Joyce put a clock on part of that transiti
 
 Why expect even the first workable combination to turn up promptly? A field of mineral pores gave the same restricted chemistry many starts. Each additional kind of molecule could supply a missing reaction for several sets at once. Each additional pore offered another place where one set might begin operating before a current dispersed it. If attempts are independent and roughly steady, doubling the number of equally well supplied pores halves the expected wait for the first successful start. A common impact can cut all those attempts short. Cooling and the retreat of frequent impacts changed both how many places qualified and how long each one had.[2][4]
 
-It matters how far those quantities crossed the threshold. A family that barely replaces itself can take many generations to grow. A combination that almost never forms can keep a favorable site empty for ages. My claim is that Earth’s first persistent habitats had enough sites, sufficiently frequent starts and fast enough reproduction that a lineage took hold within that first window. Once its descendants occupied fresh surfaces, energy that would have left the vent in unreacted compounds could pass through living chemistry. How soon that route formed and how much faster it dissipated energy than the bare mineral are two measurements we can pursue separately.[2][3][4]
+A family that barely replaces itself can take many generations to grow. A combination that almost never forms can leave one pore empty for ages. Across a field of well-supplied pores, chemistry would have had many chances to start at once. For life to have taken hold in the first habitable interval, the wait for one start that left descendants had to be short compared with the life of the habitat. Once its descendants occupied fresh surfaces, some of the energy that would have left the vent in unreacted compounds could pass through living chemistry. A date for the founding and a measurement of what flowed out of the vent would tell us different things.[2][3][4]
 
 ## One season on Daphne Major
 
@@ -34,7 +34,7 @@ On Daphne Major the investigators could put times to both parts of a change. The
 
 Someone who needs billions of years of evolution to look at a zircon is more likely to find herself on a world where life started early. David Kipping allowed for that bias. In 2025 he asked how the estimate of an already living ancestor about 4.2 billion years ago changed the odds. With habitability beginning about 4.4 billion years ago, his calculation favored fast over slow abiogenesis by roughly thirteen to one. In that comparison “fast” is measured against a planet’s habitable lifetime. The result gives a quantitative reason to take a rapid origin seriously. Whether the first lineage appeared in the very first suitable interval is a finer question than those dates resolve.[1][3][6]
 
-Date the opening from the rocks and the chemistry, before consulting a trace attributed to life. Estimate how often workable sets could form, how long copying and loss would take, and how long the habitat lasted. Then ask whether independent evidence of life falls in that first interval. A well-preserved succession of suitable habitats that stayed sterile for much longer than those estimates allow would count against my account. My claim is that Earth spent ages becoming habitable and became inhabited in its first enduring window for life.[1][2][3][4][6]
+The rocks can put the first-window explanation at risk. Date an enduring supply of water, building material and chemical energy independently of any trace of life. Estimate how long it offered the reactions a chance to leave descendants. A well-preserved record of habitable sites that remained sterile far longer than the chemistry required would put a second long wait after Earth became habitable. A trace of life within the first such interval would put the delay where the Jack Hills grain first led us to look, in the making of a habitable planet.[1][2][3][4][6]
 
 ## Notes
 
@@ -52,4 +52,4 @@ Date the opening from the rocks and the chemistry, before consulting a trace att
 
 ---
 
-[← Could Physics Have Acquired Its Laws?](12-could-physics-have-acquired-its-laws.md) · [Contents](../../README.md#contents) · [Who Has Had Time to Get Here? →](14-who-has-had-time-to-get-here.md)
+[← Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?](12-could-physics-have-acquired-its-laws.md) · [Contents](../../README.md#contents) · [The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel →](14-who-has-had-time-to-get-here.md)

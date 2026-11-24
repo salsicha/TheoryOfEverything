@@ -17,36 +17,36 @@ Newcomen’s engine and Carquillat’s silk portrait of Jacquard appear in the c
 
 ## Contents
 
-[Prologue · The Sample Without a Name](manuscript/book/prologue.md)
+[Prologue · Assembly Theory and the Search for Life Beyond Earth](manuscript/book/prologue.md)
 
 ### Part I · Physics
 
-1. [What Moves at Absolute Zero?](manuscript/book/01-what-moves-at-absolute-zero.md)
-2. [The Square with One Answer](manuscript/book/02-the-square-with-one-answer.md)
-3. [Why the Beads Choose a Side](manuscript/book/03-why-the-beads-choose-a-side.md)
-4. [What Lights a Star?](manuscript/book/04-what-lights-a-star.md)
-5. [The White Towers of Lost City](manuscript/book/05-the-white-towers-of-lost-city.md)
+1. [Ontological Uncertainty and the Assembly of Matter](manuscript/book/01-what-moves-at-absolute-zero.md)
+2. [How Constraints in Platonic Space Shape Evolution](manuscript/book/02-the-square-with-one-answer.md)
+3. [How Disequilibrium Can Amplify Fluctuations and Break Symmetry](manuscript/book/03-why-the-beads-choose-a-side.md)
+4. [Stellar Fusion Releases Energy and Makes the Carbon in Our Food](manuscript/book/04-what-lights-a-star.md)
+5. [Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?](manuscript/book/05-the-white-towers-of-lost-city.md)
 
 ### Part II · Humans
 
-6. [Who Makes the Boundary?](manuscript/book/06-who-makes-the-boundary.md)
-7. [The Observer Who Makes Mistakes](manuscript/book/07-the-observer-who-makes-mistakes.md)
-8. [The People Who Divided the Ox](manuscript/book/08-the-people-who-divided-the-ox.md)
+6. [Autopoiesis and the Cybernetics of Self-Producing Systems](manuscript/book/06-who-makes-the-boundary.md)
+7. [Intelligence as a Hierarchical and Recursive Self-Modeling System](manuscript/book/07-the-observer-who-makes-mistakes.md)
+8. [How Cooperation Could Have Driven Human Self-Domestication](manuscript/book/08-the-people-who-divided-the-ox.md)
 
 ### Part III · Technology
 
-9. [Who Owes Whom a Living?](manuscript/book/09-who-owes-whom-a-living.md)
-10. [A Chariot and a Steam Engine](manuscript/book/10-a-chariot-and-a-steam-engine.md)
-11. [What a Ship Could Say](manuscript/book/11-what-a-ship-could-say.md)
+9. [Dialectical Materialism and the Transition from Feudalism to Capitalism](manuscript/book/09-who-owes-whom-a-living.md)
+10. [How Energy and Transport Constrain the Spread of Technology](manuscript/book/10-a-chariot-and-a-steam-engine.md)
+11. [Morality and Confidence as Communication Technologies](manuscript/book/11-what-a-ship-could-say.md)
 
 ### Part IV · Paradox
 
-12. [Could Physics Have Acquired Its Laws?](manuscript/book/12-could-physics-have-acquired-its-laws.md)
-13. [How Soon Could Life Begin?](manuscript/book/13-how-soon-could-life-begin.md)
-14. [Who Has Had Time to Get Here?](manuscript/book/14-who-has-had-time-to-get-here.md)
-15. [Two Papers in June](manuscript/book/15-two-papers-in-june.md)
+12. [Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?](manuscript/book/12-could-physics-have-acquired-its-laws.md)
+13. [Did Life Begin as Soon as Earth Could Support It?](manuscript/book/13-how-soon-could-life-begin.md)
+14. [The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel](manuscript/book/14-who-has-had-time-to-get-here.md)
+15. [The Constraints Behind Simultaneous Discovery in Special Relativity](manuscript/book/15-two-papers-in-june.md)
 
-[Epilogue · What the Heat Meter Read](manuscript/book/epilogue.md)
+[Epilogue · Do AI Data Centers Maximize the Rate of Entropy Production?](manuscript/book/epilogue.md)
 
 ## Sources and working material
 

@@ -1,10 +1,10 @@
-# Chapter 6 — Who Makes the Boundary?
+# Chapter 6 — Autopoiesis and the Cybernetics of Self-Producing Systems
 
 *Part II · Humans*
 
 A link broke in the little wall on Francisco Varela, Humberto Maturana and Ricardo Uribe’s computer. Inside the wall was a catalyst. Material could reach it there, and in its presence new links could form. If one of them replaced the broken link before the catalyst escaped, the wall could close again. Too large a break, or too long a wait, and the parts dispersed. The investigators had given the program rules for local encounters. They had not assigned a repairman to the hole.[1]
 
-Why include such a model in a history of people? A person alive now consists of material different from much of the material that composed the child. To account for that continuity we need to explain which organization survives the replacement of its pieces. A list of the pieces present on Tuesday can be perfectly accurate and tell us very little about how there could be a living person on Wednesday.
+A person reaching adulthood has replaced much of the material that made up the child. The cells doing the replacing must themselves stay alive long enough to do it. In the model, one missing link made it possible to watch how a boundary could survive the loss of the parts that formed it.
 
 The researchers gave a name to the relation they had modeled. In *autopoiesis*, a network of processes continually produces components of the organization that makes those processes possible. The catalyst helps make links. Joined links keep the catalyst in a region where its work can have a local effect. Precursor materials still come in and spent material can leave. A circle in the dependencies is compatible with a steady traffic of matter and energy across the boundary. A system closed to that traffic would soon use up what it needed.[1]
 
@@ -28,7 +28,7 @@ The alga captures sunlight and fixes carbon. Its partner spends some of that car
 
 Proportions tell us what could work. The order of events tells us how the arrangement lasts. A daughter that inherits enough of both partners can make another pair. A daughter that misses the nitrogen fixer must find nitrogen elsewhere. When division keeps the partners together, their descendants can put additional light to work on each succeeding day that nitrogen would otherwise have limited growth. Supply usable nitrogen from outside and the cost of feeding a partner remains while much of the advantage disappears. One cultured strain did lose its partner and continued to grow.[3]
 
-This is the energetic case for the assembly. The finite supply of light caps what all the cells in a patch can capture. Coordinated division can bring the patch closer to that cap over several generations, provided cells survive, light still goes unused, and the new growth does more than displace another organism. To rank entropy production across the patch, follow the sunlight and the energy retained or exported as biomass for the same interval. The observed proportions test a prediction about a bottleneck. They also tell us which bottleneck to change to make a different arrangement pay.[3]
+The light falling on a patch of sea sets an upper limit on what all its cells can capture. Coordinated division can bring the patch closer to that cap over several generations, provided cells survive, light still goes unused, and the new growth does more than displace another organism. To rank entropy production across the patch, follow the sunlight and the energy retained or exported as biomass for the same interval. The observed proportions test a prediction about a bottleneck. They also tell us which bottleneck to change to make a different arrangement pay.[3]
 
 For a person, the hierarchy extends farther. Organs regulate the supply available to their cells. People secure food, and communities teach children how to get it. These arrangements produce different sorts of continuities. A person can learn a practice without copying a genome, and a workshop can train a replacement worker without producing a replacement workshop. Whenever we ask what reproduces, it pays to identify the next individual that could do the same work on its own terms.
 
@@ -44,4 +44,4 @@ Walter put a mirror in front of the tortoise. The interaction of the lamp and th
 
 ---
 
-[← The White Towers of Lost City](05-the-white-towers-of-lost-city.md) · [Contents](../../README.md#contents) · [The Observer Who Makes Mistakes →](07-the-observer-who-makes-mistakes.md)
+[← Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?](05-the-white-towers-of-lost-city.md) · [Contents](../../README.md#contents) · [Intelligence as a Hierarchical and Recursive Self-Modeling System →](07-the-observer-who-makes-mistakes.md)

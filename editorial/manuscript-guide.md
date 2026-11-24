@@ -28,24 +28,24 @@ The prologue, fifteen chapters and epilogue are complete in [the book directory]
 
 | Reading order | Narrative words |
 | --- | ---: |
-| [Prologue — The Sample Without a Name](../manuscript/book/prologue.md) | 1,200 |
-| [Chapter 1 — What Moves at Absolute Zero?](../manuscript/book/01-what-moves-at-absolute-zero.md) | 1,259 |
-| [Chapter 2 — The Square with One Answer](../manuscript/book/02-the-square-with-one-answer.md) | 954 |
-| [Chapter 3 — Why the Beads Choose a Side](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,770 |
-| [Chapter 4 — What Lights a Star?](../manuscript/book/04-what-lights-a-star.md) | 1,186 |
-| [Chapter 5 — The White Towers of Lost City](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,155 |
-| [Chapter 6 — Who Makes the Boundary?](../manuscript/book/06-who-makes-the-boundary.md) | 1,239 |
-| [Chapter 7 — The Observer Who Makes Mistakes](../manuscript/book/07-the-observer-who-makes-mistakes.md) | 1,430 |
-| [Chapter 8 — The People Who Divided the Ox](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,430 |
-| [Chapter 9 — Who Owes Whom a Living?](../manuscript/book/09-who-owes-whom-a-living.md) | 1,562 |
-| [Chapter 10 — A Chariot and a Steam Engine](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,624 |
-| [Chapter 11 — What a Ship Could Say](../manuscript/book/11-what-a-ship-could-say.md) | 1,272 |
-| [Chapter 12 — Could Physics Have Acquired Its Laws?](../manuscript/book/12-could-physics-have-acquired-its-laws.md) | 1,391 |
-| [Chapter 13 — How Soon Could Life Begin?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,593 |
-| [Chapter 14 — Who Has Had Time to Get Here?](../manuscript/book/14-who-has-had-time-to-get-here.md) | 1,339 |
-| [Chapter 15 — Two Papers in June](../manuscript/book/15-two-papers-in-june.md) | 1,813 |
-| [Epilogue — What the Heat Meter Read](../manuscript/book/epilogue.md) | 2,001 |
-| **Total** | **24,218** |
+| [Prologue — Assembly Theory and the Search for Life Beyond Earth](../manuscript/book/prologue.md) | 1,137 |
+| [Chapter 1 — Ontological Uncertainty and the Assembly of Matter](../manuscript/book/01-what-moves-at-absolute-zero.md) | 1,150 |
+| [Chapter 2 — How Constraints in Platonic Space Shape Evolution](../manuscript/book/02-the-square-with-one-answer.md) | 920 |
+| [Chapter 3 — How Disequilibrium Can Amplify Fluctuations and Break Symmetry](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,878 |
+| [Chapter 4 — Stellar Fusion Releases Energy and Makes the Carbon in Our Food](../manuscript/book/04-what-lights-a-star.md) | 1,237 |
+| [Chapter 5 — Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,144 |
+| [Chapter 6 — Autopoiesis and the Cybernetics of Self-Producing Systems](../manuscript/book/06-who-makes-the-boundary.md) | 1,217 |
+| [Chapter 7 — Intelligence as a Hierarchical and Recursive Self-Modeling System](../manuscript/book/07-the-observer-who-makes-mistakes.md) | 1,393 |
+| [Chapter 8 — How Cooperation Could Have Driven Human Self-Domestication](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,443 |
+| [Chapter 9 — Dialectical Materialism and the Transition from Feudalism to Capitalism](../manuscript/book/09-who-owes-whom-a-living.md) | 1,559 |
+| [Chapter 10 — How Energy and Transport Constrain the Spread of Technology](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,618 |
+| [Chapter 11 — Morality and Confidence as Communication Technologies](../manuscript/book/11-what-a-ship-could-say.md) | 1,279 |
+| [Chapter 12 — Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?](../manuscript/book/12-could-physics-have-acquired-its-laws.md) | 1,357 |
+| [Chapter 13 — Did Life Begin as Soon as Earth Could Support It?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,597 |
+| [Chapter 14 — The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel](../manuscript/book/14-who-has-had-time-to-get-here.md) | 1,340 |
+| [Chapter 15 — The Constraints Behind Simultaneous Discovery in Special Relativity](../manuscript/book/15-two-papers-in-june.md) | 1,796 |
+| [Epilogue — Do AI Data Centers Maximize the Rate of Entropy Production?](../manuscript/book/epilogue.md) | 2,019 |
+| **Total** | **24,084** |
 
 ## The eighteen-chapter plan
 
@@ -91,7 +91,7 @@ The original 65,000–80,000-word ambition remains a possible longer revision. E
 
 ## Writing conventions
 
-Let the claim determine which scenes belong in a chapter. State what the reader is being asked to believe while the evidence is still in view. Explain why the recorded choice or outcome favors that account, what a plausible alternative would predict, and which part of the argument the record leaves open. A second story earns its place by resolving an uncertainty in the first, exposing a limit or carrying an established result further.
+Name the chapter’s central concept and the relationship it explains. A reader looking for autopoiesis or dialectical materialism should be able to find it in the contents. Let the claim determine which scenes belong in the chapter. State what the reader is being asked to believe while the evidence is still in view. Give an inference in terms of what happened or what the explanation predicts. Explain why the recorded choice or outcome favors that account, what a plausible alternative would predict, and which part of the argument the record leaves open. A second story earns its place by resolving an uncertainty in the first, exposing a limit or carrying an established result further.
 
 Open at the first decision or observation that changes what someone can do. Give the reader the place, the person and the immediate problem. At Kaiping, Tang Tingshu goes ashore at Lutai. The road between the coalfield and his steamer will decide how much extra coal he can sell. Leave the scene once the decision is clear. Give the reader the reasoning needed to see what the decision establishes.
 

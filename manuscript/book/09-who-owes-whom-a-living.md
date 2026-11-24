@@ -1,4 +1,4 @@
-# Chapter 9 — Who Owes Whom a Living?
+# Chapter 9 — Dialectical Materialism and the Transition from Feudalism to Capitalism
 
 *Part III · Technology*
 
@@ -6,7 +6,7 @@ Bishop Fulbert of Chartres ended his letter to the duke of Aquitaine by explaini
 
 The letter dates from 1020. A faithful man had to guard his lord’s person, interests and secrets and give counsel and aid. A lord owed his man good faith on the same points. The request at the end turned a formula into a question with a material answer. Whose resources would be available when Chartres had to rebuild? The answer was different for a bishop able to write to a duke and a laborer on land held by either of them.[1]
 
-I have called feudalism a labor union because the comparison calls attention to a neglected part of the bargain. A person provides service and acquires a claim to protection. In a union a common fund can pay a worker in trouble. In a relation of fealty protection ran between people of unequal status. A peasant performing compulsory labor might have scant protection against the lord who enforced it. The analogy earns its keep only so long as it makes us ask who could call for help, what was promised, and who had the means to make good on it.
+Fealty made service the price of a claim on someone else’s help. In that respect it resembles a labor union. A worker who pays dues can call on a fund that no worker could supply alone. Fulbert could call on the duke after a fire. A peasant who owed compulsory labor faced a different prospect. The lord to whom he might appeal for protection also had the power to exact the work. Who could make good on a promise mattered as much as what each person formally owed.[1]
 
 This is a question in *dialectical materialism*. The participants occupy positions defined in relation to one another. The distinction becomes practical when a harvest, a payment or a day of labor is due. A lord depends on people whose work he can command. Their dependence on his protection can give him the means to exact more service. The two sides can reproduce the relation for a long time while having opposing interests within it. The return that sustains an arrangement need not be voluntary or just.[1][2]
 
@@ -34,13 +34,13 @@ Marx called this tendency for relations among people to appear as properties of 
 
 In 1871 a speaker in the House of Lords described a device that could overcome a similar obstruction. Union secretary Robert Applegarth used monthly branch reports to find a town short of carpenters and another with carpenters out of work. A common fund could buy a rail or steamboat fare. Before the report arrived, an unemployed man had to search at his own expense or wait. Once the vacancy was known, one journey could bring an idle pair of hands to timber already waiting for work. If the vacancy would otherwise have gone unfilled for weeks, the largest sustained output of the two routes could come from the one that first spent money on a fare. If another carpenter was already on his way, the fund might chiefly change who earned the wage.[6]
 
-The three old dialectical expressions have identifiable jobs in this history. The dependence of lord and vassal, or employer and weaver, gives substance to the *interpenetration of opposites*. A sufficiently large loss of workers changing what one could demand illustrates *quantity into quality*. Wage labor loosens the personal tie of service, then people selling labor separately assemble a common protection through dues. I use *negation of the negation* for that recovery of a capacity in a changed relation. It makes no timetable for the next political settlement.[2][5][6]
+The three old dialectical expressions have identifiable jobs in this history. The dependence of lord and vassal, or employer and weaver, gives substance to the *interpenetration of opposites*. A sufficiently large loss of workers changing what one could demand illustrates *quantity into quality*. Wage labor loosens the personal tie of service, then people selling labor separately assemble a common protection through dues. The old claim to protection returns, this time as a collective claim workers can make on one another. In dialectical terms that recovery in a changed form is a *negation of the negation*.[2][5][6]
 
 What could be predicted before looking at a lease or a union report? Harvest dates, the time to fill a vacancy and the cost of getting a worker there tell us when a different bargain could sustain more work. A harvest can feed a town whose workshops draw on further fuel. Grain left in the field can also feed organisms and release heat. The highest-rate claim concerns both histories, including what becomes of the grain. The wage bargain has a more immediate test. Workers have a material reason to renew it while wages arrive and buy what their households need. However much silk a workshop can sell, a weaver who has to wait for her forty francs has reason to look elsewhere.[2][4][6]
 
 ## Notes
 
-1. Fulbert’s letter and evidence on protection are collected in [the fealty sources](../../research/sources.md#s81). The union analogy is the author’s.
+1. Fulbert described reciprocal obligations between lord and vassal. The comparison with a workers’ mutual fund draws on later records of dues and benefits. [Fulbert’s letter](../../research/sources.md#s81) · [Worker protection funds](../../research/sources.md#s86)
 
 2. The Ordinance of Labourers and the Walsham records establish separate episodes roughly a century apart. [English labor and the transition at Walsham](../09-the-system-that-produces-its-tomorrow.md#chapter-notes) · [Labor obligations](../../research/sources.md#s84)
 
@@ -54,4 +54,4 @@ What could be predicted before looking at a lease or a union report? Harvest dat
 
 ---
 
-[← The People Who Divided the Ox](08-the-people-who-divided-the-ox.md) · [Contents](../../README.md#contents) · [A Chariot and a Steam Engine →](10-a-chariot-and-a-steam-engine.md)
+[← How Cooperation Could Have Driven Human Self-Domestication](08-the-people-who-divided-the-ox.md) · [Contents](../../README.md#contents) · [How Energy and Transport Constrain the Spread of Technology →](10-a-chariot-and-a-steam-engine.md)

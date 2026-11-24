@@ -1,4 +1,4 @@
-# Chapter 5 — The White Towers of Lost City
+# Chapter 5 — Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?
 
 *Part I · Physics*
 
@@ -24,7 +24,7 @@ Eric Smith and Harold Morowitz asked how much of metabolism might have such a hi
 
 The distinction matters most when the next reaction makes something the earlier reactions needed. A mineral pore can collect the products of a hundred reactions and lose them all in the next flush of water. If those products together can make fresh copies of the catalysts on which the reactions depend, the next parcel meets a different surface. More of its chemical energy can go into making the means to process the parcel after it. For that to work, the catalysts have to form before their predecessors wash out. The same slow rise in the supply of ingredients can bring the pore to a point where the flow that once emptied it now feeds a growing population of catalysts.[2][3][4]
 
-For life to begin, some organization also had to pass to descendants. Once descendants could inherit a way of drawing energy from the water and leave more descendants before they were lost, the number of places doing that work could grow with each generation. This is the qualitative change I argue took place in Earth’s first enduring habitat with the requisite chemistry. The long wait was for rock, water and a lasting chemical gradient to come together. A lineage took hold as soon as they could support it. Whether living chemistry also drew down that gradient faster than a mineral could is a second, measurable claim. Give both the same inlet, compare what leaves the outlet over time, and count the cost of new membranes and catalysts. Kelley’s animals lived where that work can be studied today.[2][3][4]
+For life to begin, some organization also had to pass to descendants. In a pore where each generation drew on the chemical gradient and left viable successors before it washed away, the number of sites doing that work could grow. That puts the first lineage within reach in the first enduring habitat that supplied the reactants and time it needed. On that account the geological wait was for the habitat. The faster event was the founding of a lineage. To find out how much faster living chemistry drew down the gradient, give it and the bare mineral the same inlet, compare what leaves each outlet over time, and count the cost of new membranes and catalysts. Kelley’s animals lived where that work can be studied today.[2][3][4]
 
 ## What the rock can remember
 
@@ -46,4 +46,4 @@ Hanna could take a piece of mineral from the ledge and preserve it by getting it
 
 ---
 
-[← What Lights a Star?](04-what-lights-a-star.md) · [Contents](../../README.md#contents) · [Who Makes the Boundary? →](06-who-makes-the-boundary.md)
+[← Stellar Fusion Releases Energy and Makes the Carbon in Our Food](04-what-lights-a-star.md) · [Contents](../../README.md#contents) · [Autopoiesis and the Cybernetics of Self-Producing Systems →](06-who-makes-the-boundary.md)

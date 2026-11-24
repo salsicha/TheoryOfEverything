@@ -1,4 +1,4 @@
-# Epilogue — What the Heat Meter Read
+# Epilogue — Do AI Data Centers Maximize the Rate of Entropy Production?
 
 In January 2016 the computers and equipment in a building in Mäntsälä, Finland, used 3,411 megawatt-hours of electricity. In steady operation that much electrical work ultimately gives off about 4.58 megawatts of heat, day and night. The meter on the heat-recovery connection registered 663 megawatt-hours of waste heat supplied by the site, or 0.89 megawatts recovered on average. Farther along the pipe, the town’s heat pump delivered 1,042 megawatt-hours of heat to the network. The pump had its own electricity bill. In July the building used more electricity and the town took less heat. Three meters followed the same machines from a paying job to a warm house.[1]
 
@@ -43,7 +43,7 @@ The table puts each stage beside the Finnish meter. The first rate counts the en
 
 One Finnish building drew as much power as about 7,200 people with their share of the farms, workshops and households of 1560. It would take about 440 such buildings to match the whole territory’s energy use that year, and about 42,000 to match it in 1950. Look at the coal alone. Hold the temperatures fixed and the entropy produced by the flow of coal heat rises more than eight hundredfold. What changed was the amount of fuel people could bring to the fire. The world’s data centers in 2025 already drew about 27 times the entire 1560 supply of England and Wales, and just over a quarter of its 1950 supply.[1][8]
 
-I argue that AI is now one of the means by which the universe maximizes its rate of entropy production. Give a rack of computers and a bank of resistors equal electrical power and let the work end as heat at the same temperature. They tie. What can break the tie is an order for another computation. An answer that someone will buy can pay for more chips. It can bring a new generator into use if a utility can finance and connect one in time. Those are events with dates, costs and alternatives. A future generator supplies no electricity to the first rack.[1][2][4][5]
+How could AI drive the rate of entropy production higher than another use for the same electricity? Give a rack of computers and a bank of resistors equal power and let their energy end as heat at the same temperature. They tie. What can break the tie is an order for another computation. An answer someone will buy can pay for more chips and help finance a generator. If that generator runs, there is another flow of electricity to dissipate. Whether AI sustains the highest rate available to that grid depends on how much power its rivals could have brought into use over the same years. A signed order, a new connection and a meter reading can give each step a date.[1][2][4][5]
 
 Take two sites where better cooling frees electrical capacity. What should happen to their meters next year? At a site turning customers away, the freed watts can go straight to their jobs. The computers can do more work while total power holds steady. Where orders are scarce, the same improvement can cut the meter reading. A rise beyond the old connection limit takes another decision by the utility. On a rationed grid it may displace another user. Compare these histories over the same span, including the competing uses of the electricity, the cost of the equipment and the fuel displaced at the town boiler. Bookings and the time it takes to connect new power give us a way to risk a forecast before the meter is read.[1][2][4][5]
 
@@ -71,4 +71,4 @@ At Mäntsälä, air from servers could warm water to 35–40 degrees Celsius. Th
 
 ---
 
-[← Two Papers in June](15-two-papers-in-june.md) · [Contents](../../README.md#contents)
+[← The Constraints Behind Simultaneous Discovery in Special Relativity](15-two-papers-in-june.md) · [Contents](../../README.md#contents)

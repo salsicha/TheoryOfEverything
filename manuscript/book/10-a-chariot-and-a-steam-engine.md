@@ -1,4 +1,4 @@
-# Chapter 10 — A Chariot and a Steam Engine
+# Chapter 10 — How Energy and Transport Constrain the Spread of Technology
 
 *Part III · Technology*
 
@@ -16,7 +16,7 @@ At Saltom, on the English coast, the horse that outlasted the arrival of the ste
 
 The trouble started when water entered faster than a mine owner could afford to lift it. Another man or horse could have been hired. Each needed food or wages whatever the price the coal fetched. Small coal of little value to a distant buyer lay close to the boilers. Once an owner could afford the engine and its first firing, a portion of each load could pay, in fuel, for bringing up the next. An engine that wasted most of the heat in its coal still left the mine owner more coal to sell than he had been able to reach before.[3][4]
 
-This gives a precise meaning to the claim that the quickest way for coal to burn could be through a steam engine. Count the fuel burned in the district over the working life of the mine. One heap beside the shaft could burn where it lay. Put part of it under the boiler and there could be fires in hundreds of homes for years to come. If they merely replaced fires fed from a neighboring pit, the ledger at Saltom would overstate the gain for the district. New customers and a way to reach them mattered. The owners built a little harbour beside the shaft. Storms damaged it. The men started sending the coal they had just raised back underground. They took it through the cliff to Ravenhill, wound it up a second shaft and sent it along a wagonway to Whitehaven. The detour in the prologue bought the extra coal a market.[3]
+How could a steam engine get coal burned faster? A heap beside the shaft could burn where it lay. Put part of it under the boiler, drain a seam, and there could be fires in hundreds of homes for years to come. The difference would show up in the fuel burned across the district over the life of the mine. If they merely replaced fires fed from a neighboring pit, the ledger at Saltom would overstate the gain for the district. New customers and a way to reach them mattered. The owners built a little harbour beside the shaft. Storms damaged it. The men started sending the coal they had just raised back underground. They took it through the cliff to Ravenhill, wound it up a second shaft and sent it along a wagonway to Whitehaven. The detour in the prologue bought the extra coal a market.[3]
 
 The engine itself contained a second contradiction. A drawing Henry Beighton published in 1717 shows the engine at Griff in Warwickshire. On each cycle the Newcomen engine admitted steam beneath the piston. A jet of cold water condensed it there, lowering the pressure so the atmosphere could push the piston down. The next admission of steam met metal the last stroke had just cooled. An engineer could make a prediction from that sequence. Insulating the cylinder would keep heat from escaping through its walls. It would still leave cold water striking the inside. Could the steam be condensed somewhere else? A pipe to a second, cold vessel would let the cylinder stay hot and still give the piston the pressure drop it needed.[4]
 
@@ -52,4 +52,4 @@ At Knossos a clerk made sure the odd wheel would still be in the count after the
 
 ---
 
-[← Who Owes Whom a Living?](09-who-owes-whom-a-living.md) · [Contents](../../README.md#contents) · [What a Ship Could Say →](11-what-a-ship-could-say.md)
+[← Dialectical Materialism and the Transition from Feudalism to Capitalism](09-who-owes-whom-a-living.md) · [Contents](../../README.md#contents) · [Morality and Confidence as Communication Technologies →](11-what-a-ship-could-say.md)

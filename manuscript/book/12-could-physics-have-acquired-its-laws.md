@@ -1,4 +1,4 @@
-# Chapter 12 — Could Physics Have Acquired Its Laws?
+# Chapter 12 — Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?
 
 *Part IV · Paradox*
 
@@ -14,11 +14,11 @@ Where did the difference between the model universes come from? Around the obser
 
 ## A field that holds its history
 
-We have a modest precedent. In the Standard Model the state of the Higgs field helps set the masses of the W and Z particles. Physicists detected a short-lived excitation of the field in 2012. The excitation decayed. The relation that gives those particles their masses endured. A property that might have been entered once and for all beside the name of each particle instead depends on the state of something they share. The model still takes parameters as given. The precedent concerns the kind of explanation available when a research program succeeds.[3]
+In the Standard Model the state of the Higgs field helps set the masses of the W and Z particles. Physicists detected a short-lived excitation of the field in 2012. The excitation decayed. The relation that gives those particles their masses endured. A property that might have been entered once and for all beside the name of each particle instead depends on the state of something they share. The model still takes the field’s own parameters as given.[3]
 
-The proposal in this book goes further. If there is genuine ontological uncertainty, an apparent choice among numbers written at the beginning could be a history in which some relations became definite together. Constraints would narrow the physically accessible combinations. Symmetry breaking could give a region one definite state out of several the equations permit. Material shaped by the new state could interact with its surroundings in ways that renewed the conditions for the same relation to operate elsewhere. A self-renewing organization of that kind would be the cosmic counterpart to autopoiesis. In its strongest form the proposal says that the effective constants we inherit belong to arrangements that sustain the highest accessible rate of energy extraction. A number inked into a table has no metabolism. The work would have to be done by fields or other physical degrees of freedom whose relations the number expresses.
+Could the value of a constant have a history like that? If some alternatives were genuinely open in the early universe, a field may once have been able to settle in several states. As matter cooled, constraints could have narrowed the choices until a region settled in one. Particles in that region would then share relations set by the field. For a cosmic form of autopoiesis, those particles would in turn have to help maintain the field state or establish it in a neighboring region. That last step matters to an explanation by maximum entropy production. If one state allowed matter to release energy faster than its rivals, what part of that flow helped the state take hold? A physical answer would connect the energy released in an early region with a value that a laboratory measures today.[2][3][4]
 
-How much of this chain do we know how to build? Robson Christie and colleagues considered a field that could occupy either of two states during expansion. As a barrier grew, some regions in their calculation could remain in the higher-energy state. Interactions with the environment could suppress subsequent escape. Information about which state the region occupied had spread beyond the region, a process called *decoherence*. This gives an intelligible way for a physical history to persist. The calculation supplied the possible states and the rules of interaction at the outset. The observations available today leave open even whether our own electroweak vacuum is metastable.[4]
+How much of this chain do we know how to build? Robson Christie and colleagues considered a field that could occupy either of two states during expansion. As a barrier grew, some regions in their calculation could remain in the higher-energy state. Interactions with the environment could suppress subsequent escape. Information about which state the region occupied had spread beyond the region, a process called *decoherence*. The calculation supplied the possible states and the rules of interaction at the outset. The observations available today leave open even whether our own electroweak vacuum is metastable.[4]
 
 Take two regions of the same model with the same starting matter, coupling to the environment and available field states. From the barrier and the fluctuations one could estimate how often a region enters each state and how long it stays there. Now follow equal initial portions of matter for equal intervals on an internal clock. Which state lets them dissipate more free energy? Does that flow in turn help keep the field there or establish the same state nearby? A high barrier could preserve the slower state for the entire interval. Finding that result would favor an explanation by trapping. To explain a fine-tuned constant by maximum entropy production, the faster route must have a physical way to prevail.[2][4]
 
@@ -38,7 +38,7 @@ Riess could cross out a premise in his notebook because the numbers on the sky h
 
 1. Riess reproduces his notebook and explains the negative density estimate in figure 4. [Nobel lecture](https://www.nobelprize.org/uploads/2018/06/riess_lecture.pdf) · [High-Z team results](https://arxiv.org/abs/astro-ph/9805201) · [Supernova Cosmology Project](https://arxiv.org/abs/astro-ph/9812133)
 
-2. Weinberg bounded positive vacuum energy by galaxy formation. Bousso, Harnik, Kribs and Perez weight universes by entropy integrated inside a causal diamond. Figures 4 and 6–7 show how accessible volume and production per comoving volume vary. The proposed dynamical test is the author’s. [Weinberg’s bound](https://doi.org/10.1103/PhysRevLett.59.2607) · [Bousso and colleagues](https://arxiv.org/abs/hep-th/0702115) · [Cosmological-constant problem](../../research/sources.md#s26)
+2. Weinberg bounded positive vacuum energy by galaxy formation. Bousso, Harnik, Kribs and Perez weight universes by entropy integrated inside a causal diamond. Figures 4 and 6–7 show how accessible volume and production per comoving volume vary. Whether a field could favor one of those values through its own dynamics is a further question. [Weinberg’s bound](https://doi.org/10.1103/PhysRevLett.59.2607) · [Bousso and colleagues](https://arxiv.org/abs/hep-th/0702115) · [Cosmological-constant problem](../../research/sources.md#s26)
 
 3. The Higgs field and the discovery of its excitation are covered in [the symmetry-breaking sources](../../research/sources.md#s22).
 
@@ -50,4 +50,4 @@ Riess could cross out a premise in his notebook because the numbers on the sky h
 
 ---
 
-[← What a Ship Could Say](11-what-a-ship-could-say.md) · [Contents](../../README.md#contents) · [How Soon Could Life Begin? →](13-how-soon-could-life-begin.md)
+[← Morality and Confidence as Communication Technologies](11-what-a-ship-could-say.md) · [Contents](../../README.md#contents) · [Did Life Begin as Soon as Earth Could Support It? →](13-how-soon-could-life-begin.md)

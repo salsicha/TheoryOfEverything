@@ -1,4 +1,4 @@
-# Chapter 8 — The People Who Divided the Ox
+# Chapter 8 — How Cooperation Could Have Driven Human Self-Domestication
 
 *Part II · Humans*
 
@@ -24,9 +24,9 @@ The distinction matters. Dividing Lee’s ox moved calories among people. Someon
 
 At Ilomo in 1988 women could dig tubers near camp or walk to a patch of *tafabe* berries. Kristen Hawkes and colleagues timed the work. Once in a patch, women could gather about 1,383 food calories an hour in berries against 1,043 in tubers. With the walk included, a woman would have had to stay out more than twelve hours to collect more food herself by going to the berries. Yet women routinely went. Children could pick berries too. They had much more trouble earning a comparable return by digging.[3]
 
-Keep the camp, the paths and the available daylight fixed. The field team’s estimates put the crossover at about 9.3 hours for a woman with one child and 8.1 hours with two. For a nine-hour outing, the figures predict tubers for the first party and berries for the second. That change of destination requires no new food, tool or belief. Another pair of hands changes which part of the day’s labor yields the most food. The comparison ranks two observed strategies by gross calories gathered. Walking costs energy, the family has other work to do, and berries left in the bush have other consumers. The stronger claim about entropy concerns where that energy goes over repeated days.[3]
+Keep the camp, the paths and the available daylight fixed. The field team’s estimates put the crossover at about 9.3 hours for a woman with one child and 8.1 hours with two. For a nine-hour outing, the figures predict tubers for the first party and berries for the second. That change of destination requires no new food, tool or belief. Another pair of hands changes which part of the day’s labor yields the most food. The comparison ranks two observed strategies by gross calories gathered. Walking costs energy, the family has other work to do, and berries left in the bush have other consumers. To compare entropy production over a week, the account would have to follow the food the families consumed, the work of gathering it and what became of the crop they left in the bush.[3]
 
-This supplies a material reason cooperation could spread. A family that can share care and trust others to share food can repeatedly use a route closed to a lone adult minding an infant. If aggression breaks up those arrangements, restraint can affect who raises children to maturity. Learning can transmit that restraint at the next meal. Biological self-domestication requires the additional link to inherited differences across generations. The time sheets at Ilomo identify an advantage a group could transmit and a nine-hour day on which it could reverse.[2][3]
+A family that can share care and trust others to share food can repeatedly use a route closed to a lone adult minding an infant. If aggression breaks up those arrangements, restraint can affect who raises children to maturity. Learning can transmit that restraint at the next meal. Biological self-domestication requires the additional link to inherited differences across generations. The time sheets at Ilomo identify an advantage a group could transmit and a nine-hour day on which it could reverse.[2][3]
 
 ## Three dates, three changes
 
@@ -54,4 +54,4 @@ By the end of Lee’s feast the ox was gone. What could still operate at the nex
 
 ---
 
-[← The Observer Who Makes Mistakes](07-the-observer-who-makes-mistakes.md) · [Contents](../../README.md#contents) · [Who Owes Whom a Living? →](09-who-owes-whom-a-living.md)
+[← Intelligence as a Hierarchical and Recursive Self-Modeling System](07-the-observer-who-makes-mistakes.md) · [Contents](../../README.md#contents) · [Dialectical Materialism and the Transition from Feudalism to Capitalism →](09-who-owes-whom-a-living.md)

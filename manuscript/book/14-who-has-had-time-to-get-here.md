@@ -1,4 +1,4 @@
-# Chapter 14 — Who Has Had Time to Get Here?
+# Chapter 14 — The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel
 
 *Part IV · Paradox*
 
@@ -8,7 +8,7 @@ For the people who built it there was a substantial reward. An instrument smalle
 
 How much time was there, though, and for what journey? A star can light up once gravity brings enough hydrogen to suitable conditions for fusion. A planet with an ocean, exposed rock and chemicals capable of feeding a metabolism needs a different inventory. Generations of stars made and dispersed heavier elements. Planet formation had to incorporate them into bodies on which water could persist, rock could react and the products could remain separated long enough to do work. At Lost City a vent supplied one side of a chemical exchange and seawater supplied the other. Detecting oxygen, carbon or iron in a star establishes none of these arrangements on its planets.[3]
 
-Here is the book’s proposed answer. A world with sustained, biologically usable chemical gradients may have come within reach only comparatively late in galactic history. Metal-rich stars of the broad group astronomers call Population I could have had an advantage. Even on such a world the small machines of the first cells and the large assemblies required for astronomy occupy different positions in the history. A short wait for life could coexist with a long wait for a species that builds radios. If few communities have had that long, the empty sky is less surprising. If long-distance migration rarely pays, it becomes less surprising still.
+Fermi’s lunch companions could give the Galaxy billions of years. How many of those years included planets with the lasting chemical gradients cells could use? Such worlds may have appeared comparatively late. Metal-rich stars of the broad group astronomers call Population I could have had an advantage. Even on such a world the small machines of the first cells and the large assemblies required for astronomy occupy different positions in the history. A short wait for life could coexist with a long wait for a species that builds radios. Even a civilization old enough to send a craft would need a reason to send a passenger.
 
 ## Five old planets
 
@@ -46,4 +46,4 @@ The first traveler we know crossed into interstellar space because people wanted
 
 ---
 
-[← How Soon Could Life Begin?](13-how-soon-could-life-begin.md) · [Contents](../../README.md#contents) · [Two Papers in June →](15-two-papers-in-june.md)
+[← Did Life Begin as Soon as Earth Could Support It?](13-how-soon-could-life-begin.md) · [Contents](../../README.md#contents) · [The Constraints Behind Simultaneous Discovery in Special Relativity →](15-two-papers-in-june.md)
