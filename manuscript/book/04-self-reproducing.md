@@ -1,4 +1,4 @@
-# Chapter 6 — Autopoiesis and the Cybernetics of Self-Producing Systems
+# Chapter 4 — Self-Reproducing (Autopoiesis)
 
 *Part II · Humans*
 
@@ -44,4 +44,4 @@ Walter put a mirror in front of the tortoise. The interaction of the lamp and th
 
 ---
 
-[← Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?](05-the-white-towers-of-lost-city.md) · [Contents](../../README.md#contents) · [Intelligence as a Hierarchical and Recursive Self-Modeling System →](07-the-observer-who-makes-mistakes.md)
+[← From Matter to Life](03-from-matter-to-life.md) · [Contents](../../README.md#contents) · [Self-Modeling →](05-self-modeling.md)

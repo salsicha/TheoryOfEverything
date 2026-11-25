@@ -1,4 +1,4 @@
-# Chapter 8 — How Cooperation Could Have Driven Human Self-Domestication
+# Chapter 6 — Self-Domesticating
 
 *Part II · Humans*
 
@@ -54,4 +54,4 @@ By the end of Lee’s feast the ox was gone. What could still operate at the nex
 
 ---
 
-[← Intelligence as a Hierarchical and Recursive Self-Modeling System](07-the-observer-who-makes-mistakes.md) · [Contents](../../README.md#contents) · [Dialectical Materialism and the Transition from Feudalism to Capitalism →](09-who-owes-whom-a-living.md)
+[← Self-Modeling](05-self-modeling.md) · [Contents](../../README.md#contents) · [Feudalism and Capitalism →](07-feudalism-and-capitalism.md)

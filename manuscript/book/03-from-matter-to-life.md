@@ -1,4 +1,4 @@
-# Chapter 5 — Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?
+# Chapter 3 — From Matter to Life
 
 *Part I · Physics*
 
@@ -24,7 +24,7 @@ Eric Smith and Harold Morowitz asked how much of metabolism might have such a hi
 
 The distinction matters most when the next reaction makes something the earlier reactions needed. A mineral pore can collect the products of a hundred reactions and lose them all in the next flush of water. If those products together can make fresh copies of the catalysts on which the reactions depend, the next parcel meets a different surface. More of its chemical energy can go into making the means to process the parcel after it. For that to work, the catalysts have to form before their predecessors wash out. The same slow rise in the supply of ingredients can bring the pore to a point where the flow that once emptied it now feeds a growing population of catalysts.[2][3][4]
 
-For life to begin, some organization also had to pass to descendants. In a pore where each generation drew on the chemical gradient and left viable successors before it washed away, the number of sites doing that work could grow. That puts the first lineage within reach in the first enduring habitat that supplied the reactants and time it needed. On that account the geological wait was for the habitat. The faster event was the founding of a lineage. To find out how much faster living chemistry drew down the gradient, give it and the bare mineral the same inlet, compare what leaves each outlet over time, and count the cost of new membranes and catalysts. Kelley’s animals lived where that work can be studied today.[2][3][4]
+For life to begin, some organization also had to pass to descendants. In a pore where each generation drew on the chemical gradient and left viable successors before it washed away, the number of sites doing that work could grow. That puts the first lineage within reach in the first enduring habitat that supplied the reactants and time it needed. Life, on this account, emerged as soon as Earth could sustain a lineage. The geological wait was for the habitat. The faster event was the founding of a lineage. To find out how much faster living chemistry drew down the gradient, give it and the bare mineral the same inlet, compare what leaves each outlet over time, and count the cost of new membranes and catalysts. Kelley’s animals lived where that work can be studied today.[2][3][4]
 
 ## What the rock can remember
 
@@ -42,8 +42,8 @@ Hanna could take a piece of mineral from the ledge and preserve it by getting it
 
 3. Hudson and colleagues give the apparatus, controls and product measurements. A catalyst changes reaction rates while preserving the equilibrium constant. [pH-gradient study](https://doi.org/10.1073/pnas.2002659117) · [IUPAC on catalysis](https://doi.org/10.1351/goldbook.C00876)
 
-4. Smith and Morowitz examine the energetic role and chemical architecture of metabolism. Formal work on autocatalytic sets distinguishes a network that can supply its own catalysts from the rates needed to sustain it. The claim about the first habitable interval is developed in chapter 13. [Energy flow](../../research/sources.md#s140) · [Metabolic constraints](../../research/sources.md#s141) · [Autocatalytic networks](../../research/sources.md#s123) · [Origin timing](13-how-soon-could-life-begin.md)
+4. Smith and Morowitz examine the energetic role and chemical architecture of metabolism. Formal work on autocatalytic sets distinguishes a network that can supply its own catalysts from the rates needed to sustain it. The claim about the first habitable interval is developed in [chapter 11](11-the-immediate-evolution-paradox.md). [Energy flow](../../research/sources.md#s140) · [Metabolic constraints](../../research/sources.md#s141) · [Autocatalytic networks](../../research/sources.md#s123)
 
 ---
 
-[← Stellar Fusion Releases Energy and Makes the Carbon in Our Food](04-what-lights-a-star.md) · [Contents](../../README.md#contents) · [Autopoiesis and the Cybernetics of Self-Producing Systems →](06-who-makes-the-boundary.md)
+[← From Hydrogen to Gold](02-from-hydrogen-to-gold.md) · [Contents](../../README.md#contents) · [Self-Reproducing (Autopoiesis) →](04-self-reproducing.md)

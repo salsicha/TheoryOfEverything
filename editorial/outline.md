@@ -4,127 +4,119 @@
 
 ## The argument
 
-How does change happen? Quantity turns into quality. An energy gradient may persist for ages while the parts accumulate and the constraints in Platonic space narrow the routes they can take. At a critical point the system abruptly acquires a capacity the old arrangement could never sustain. A surplus of beads that used to drain away can now draw beads from two neighboring compartments into one pile. A chemical network that used to die with its founding molecules can now leave descendants able to do the same work. Identify what crosses the threshold, what the new arrangement can do, and how long the change takes beside the preparation. The book argues that life formed on the shorter clock of chemistry in Earth’s first enduring habitable interval.
+Suppose life appears wherever a world can sustain it. What law would make that so? An assembly index counts the joins a structure requires under specified rules. The book asks what makes the next join happen, how long it takes, and what new flow it can support. Its *hierarchical entropy rejection funnel* has three ingredients. A gradient supplies work. Physical and Platonic constraints restrict the routes open to the parts already present. A product that survives or reproduces changes which routes the next step can take. Local organization can persist as the system exports entropy to its surroundings.
 
-The book proposes that each new level takes the quickest feasible route through assembly space to a capacity that raises the sustainable rate of entropy production as far as the shared resources allow. Time to working capacity and dissipation over the whole sequence are distinct predictions. Include construction time, displaced uses and feasible rivals. A cheap first step can lose to a slower start that removes two bottlenecks. Where the two rankings disagree, their disagreement tests the claim that the selected route optimizes both. [Forecasting a technology](../research/causal-inference.md#forecasting-a-technology-from-earlier-records)
-
-[Read the book in order](../README.md#contents) · [Expanded ideas](ideas.md) · [Earlier eighteen-chapter outline](archive/eighteen-chapter-outline.md)
+The stronger prediction is that assembly takes the quickest feasible route to the greatest sustainable rate of entropy production. Specify beforehand the parts, rival routes, boundary and time interval. Count the cost of construction and what the new capacity displaces. A slow preparation can end in a sudden change from quantity to quality. The first crossing, the rate of reproduction and the subsequent rate of dissipation are three quantities that evidence can rank differently. [Expanded ideas](ideas.md) · [Methods and comparisons](../research/causal-inference.md) · [Read the book](../README.md#contents)
 
 <a id="introduction"></a>
 <a id="prologue"></a>
 
-## Prologue · Assembly Theory and the Search for Life Beyond Earth
+## Prologue · What If Life Is Everywhere?
 
-Assembly theory gives the search for alien life a way to ask how much construction a molecule required, even when its chemistry is unfamiliar. Heather Graham’s blinded samples test that idea. They leave open whether the last step took an hour or an age. At Saltom the water could rise gradually and cost the miners access to a seam when it covered the working face. Could Earth likewise have taken ages to become habitable and then acquired life in the first interval when chemistry could leave descendants? [Read the prologue](../manuscript/book/prologue.md)
+Heather Graham asks a team to identify unlabeled samples. An assembly index can tell us how much reusable construction a molecule requires. It gives no clock. Assume life arises wherever conditions permit it. What law would make that outcome inevitable? Four forced Sudoku moves show how a constraint can shrink the search before anything tries a move. In a vent pore, energy and matter flow, heat leaves and a retained product changes which reaction happens next. That is the proposed hierarchical entropy rejection funnel. Where did the first usable difference come from? [Read the prologue](../manuscript/book/prologue.md)
 
 ## Part I · Physics
 
-Find the physical threshold in each case. The geometry of a shaker determines whether a pile grows continuously or appears in a jump. Confinement brings a stellar core to sustained fusion. In a mineral pore a new reaction can complete a network that replaces its own catalysts. The time spent building the conditions and the time needed to change the system have separate clocks.
+Which kinds of differences can persist, and what work can they do? Follow matter from a fluctuation through atoms, stars and minerals into living chemistry.
 
 <a id="chapter-01"></a>
 
-### 1. Ontological Uncertainty and the Assembly of Matter
+### 1. From Zero Energy to Asymmetry
 
-Seventy carbon atoms travel through a slit together even as their landing places spread out. Cooling one vibration nearly to its ground state isolates the uncertainty that persists when thermal motion subsides. In hydrogen, that same uncertainty and the attraction between an electron and a proton set the size of the atom. A photon carries energy away when the pair binds. As the early universe cools, neutral atoms accumulate and later take part in making molecules. This history raises the question of ontological uncertainty. Which properties are already definite, and which become definite through an interaction? [Read chapter 1](../manuscript/book/01-what-moves-at-absolute-zero.md)
+A slit in Vienna and a cold silicon beam isolate a spread that survives the removal of heat. A field change in cold rubidium produces magnetized regions without prescribing the orientation of each patch. An extra bead in a driven box can either escape or help hold the next bead on its side. The escape rate predicts which initial imbalance will grow. Heated water offers two circulation patterns whose heat currents can be compared directly. Wu’s cobalt experiment then changes the question from symmetry in an outcome to symmetry in a law. Neither a quantum ground state nor an equal-looking distribution supplies free work on its own. [Read chapter 1](../manuscript/book/01-from-zero-energy-to-asymmetry.md)
 
 <a id="chapter-02"></a>
 
-### 2. How Constraints in Platonic Space Shape Evolution
+### 2. From Hydrogen to Gold
 
-A single Sudoku entry can rule out a whole family of solutions. This is a constraint in Platonic space. In Lenski’s flasks the same two carbon sources could feed glucose specialists, citrate users or a community that exchanged by-products. Which routes a lineage could take depended on the machinery it had inherited. The fate of the carbon would distinguish population growth from greater dissipation. [Read chapter 2](../manuscript/book/02-the-square-with-one-answer.md)
+A line of gold appears in the light of HD 222925. To account for it, follow hydrogen from a bound atom into a contracting cloud, then follow the nuclear fuel. Fusion powers a star and builds carbon and oxygen. Beyond the iron group the energetic bargain changes. Strontium identified in the debris of a neutron-star merger gives neutron capture an observed site. Gold in the old star and carbon in a grain of wheat show two ways an earlier generation’s products enter the next. [Read chapter 2](../manuscript/book/02-from-hydrogen-to-gold.md)
 
 <a id="chapter-03"></a>
 
-### 3. How Disequilibrium Can Amplify Fluctuations and Break Symmetry
+### 3. From Matter to Life
 
-A cluster of steel beads is still there at forty-two seconds and gone at forty-three. A separate experiment with six hundred glass beads shows why geometry matters. The stable imbalance grows continuously in two compartments and jumps in three as the drive is reduced. Experimenters open a channel for electrons to carry heat to a colder reservoir. In a heated cylinder the water finds its own route, and the two observed patterns carry heat at different rates. [Read chapter 3](../manuscript/book/03-why-the-beads-choose-a-side.md)
-
-<a id="chapter-04"></a>
-
-### 4. Stellar Fusion Releases Energy and Makes the Carbon in Our Food
-
-Contraction alone would spend the Sun’s available gravitational energy in about thirty million years at its present luminosity. Neutrinos reveal the fusion reactions that supply power over billions of years. Helium burning in earlier stars made carbon and oxygen. Some of that material reached Earth, where a wheat plant uses energy from today’s Sun to turn carbon dioxide into food. At deep-sea vents the same inherited elements support chemistry powered by reactions between water and rock. [Read chapter 4](../manuscript/book/04-what-lights-a-star.md)
-
-<a id="chapter-05"></a>
-
-### 5. Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?
-
-Lost City supplies rock, chemical energy and pores that retain reaction products. A set of reactions crosses a threshold when its products can replace the catalysts that wash out. A heritable version that leaves viable successors can carry the same chemistry into more of the flow each generation. The book argues that Earth took this route in the first enduring habitat with the necessary conditions. [Read chapter 5](../manuscript/book/05-the-white-towers-of-lost-city.md)
+At Lost City, a submersible finds organisms in water warmed by reactions in rock. Hydrogen-rich fluid meeting seawater supplies chemical work. A pore can retain a product and a network can replace catalysts that would otherwise wash away. Descendants can put more of the next current to work. Eric Smith and Harold Morowitz give that argument a chemical basis. The living and mineral routes make different predictions about what would leave the same inlet unconsumed. [Read chapter 3](../manuscript/book/03-from-matter-to-life.md)
 
 ## Part II · Humans
 
-A living system uses energy to make the parts that keep it organized. An intelligent system can also model its own activity and act on what it learns. When people use those capacities to raise children and share food, their way of living can change which human traits prosper across generations.
+A cell can make its boundary again. An observer can model herself observing. A community can change the conditions under which its children grow up. Each act has a different consequence for what the next generation inherits.
+
+<a id="chapter-04"></a>
+
+### 4. Self-Reproducing (Autopoiesis)
+
+A link breaks in Varela, Maturana and Uribe’s model membrane. Whether the catalyst escapes or a replacement seals the gap determines whether the system keeps making its boundary. Walter’s mechanical tortoise shows what feedback can do. Dividing algal cells show the extra achievement required for daughter cells to inherit a working partnership. Self-production explains how one organization continues. Division and inheritance explain how its frequency can rise. [Read chapter 4](../manuscript/book/04-self-reproducing.md)
+
+<a id="chapter-05"></a>
+
+### 5. Self-Modeling
+
+Darwin wrote down observations he knew he was liable to forget. A model of the observer changed the observer’s next act. A weaver learning at a loom and operators steering a wind farm give the idea physical consequences. A system becomes self-modeling when an account of its own attention or action returns to guide it. The definition of intelligence developed here requires both hierarchy and recursion. [Read chapter 5](../manuscript/book/05-self-modeling.md)
 
 <a id="chapter-06"></a>
 
-### 6. Autopoiesis and the Cybernetics of Self-Producing Systems
+### 6. Self-Domesticating
 
-In autopoiesis, a system produces the parts that keep its own processes going. Varela, Maturana and Uribe made that feedback visible in a model. A catalyst makes links for a wall, and the wall keeps the catalyst where it can make the next link. Reproduction requires a further step. When a marine alga divides, each daughter inherits the nitrogen-fixing partner its parent fed with the products of photosynthesis. The organization that drew on sunlight in one cell can now do the same work in two. [Read chapter 6](../manuscript/book/06-who-makes-the-boundary.md)
-
-<a id="chapter-07"></a>
-
-### 7. Intelligence as a Hierarchical and Recursive Self-Modeling System
-
-The book defines an intelligence as a hierarchical and recursive self-modeling system. One level represents the world. Another represents how the system itself perceives or acts in that world. What it learns about its own activity guides its next action, whose consequences can revise the model again. The draftsman designing a woven portrait chose brown on paper to stand for black silk because he knew which marks he could still see as he worked. The chapter asks how a lasting sense of self could form as a mind learns to recognize its own part in successive experiences. [Read chapter 7](../manuscript/book/07-the-observer-who-makes-mistakes.md)
-
-<a id="chapter-08"></a>
-
-### 8. How Cooperation Could Have Driven Human Self-Domestication
-
-An ox shared at a feast changes who eats. A child who can pick berries can change how much food a family brings home. At a Hadza camp the measured returns predict opposite choices for two families with the same nine hours and different numbers of children. Cooperation can pass on a productive arrangement. Genetic self-domestication would also require that heritable differences affected who raised descendants. [Read chapter 8](../manuscript/book/08-the-people-who-divided-the-ox.md)
+At Richard Lee’s ox feast, an insult checked a hunter’s claim to importance. Sharing meat, care and authority changed what people could gain from aggression or restraint. That creates a route for people to shape the selection pressures on their descendants. An evolutionary explanation must connect those practices with heritable differences in reproductive success. Human anatomy, dispersal and agriculture each acquired their present form on a different clock. [Read chapter 6](../manuscript/book/06-self-domesticating.md)
 
 ## Part III · Technology
 
-A harvest can wait only so long. A flooded mine can lose a seam overnight. An institution, a machine or a message can alter how fast energy and goods pass through a society. The people who bear the costs may have good reason to resist a route that pays someone else.
+People can inherit a working relationship, a machine or a judgment. What each can do depends on who will supply the labor, fuel and trust to use it again.
+
+<a id="chapter-07"></a>
+
+### 7. Feudalism and Capitalism
+
+A fire in Chartres put a reciprocal promise to the test. Labor services after the Black Death and a Lyon weaver’s unpaid wages raise the same question. Who supplied the labor, protection and credit that let people live and work again next season? When an obligation ceased to procure those things, a new bargain could reproduce production under different terms. This is the mechanism of historical materialism at the scale of a lease, a harvest and a wage. [Read chapter 7](../manuscript/book/07-feudalism-and-capitalism.md)
+
+<a id="chapter-08"></a>
+
+### 8. Chariots and Steam Engines
+
+At Knossos a clerk counts wheels a chariot team will need for its next journey. At Saltom burning some coal under a pump can open a seam whose fuel will burn across a district. The comparison with Kaiping turns on the cost of moving coal after it reaches the surface. Transport, repair and a paying customer decide whether the new engine raises sustained energy use and whether an operator can finance the first stroke. [Read chapter 8](../manuscript/book/08-chariots-and-steam-engines.md)
 
 <a id="chapter-09"></a>
 
-### 9. Dialectical Materialism and the Transition from Feudalism to Capitalism
+### 9. Morality and Language
 
-Dialectical materialism asks how people with opposing interests come to depend on the same arrangement and what can break that dependence. A lord needed labor to bring in grain. After the plague, a worker who could bargain with the next landlord could change the terms of the harvest. Under wage labor, workers who sold their labor individually could pool their dues and send an idle carpenter to a town that needed one. In each case the work gets done on terms that someone has both the means and the incentive to renew. [Read chapter 9](../manuscript/book/09-who-owes-whom-a-living.md)
-
-<a id="chapter-10"></a>
-
-### 10. How Energy and Transport Constrain the Spread of Technology
-
-A wheel account at Knossos and the flooded workings at Saltom show what keeps a technology in service. The hot and cold demands on a Newcomen cylinder predict a separate condenser. At Kaiping, three hundred carts a day could not be found. Pumping could open a seam, but the new output could reach buyers only with cheap bulk transport. Comparing the routes before reading what Tang built also shows why a forecast can get the required function right and the first vehicle wrong. [Read chapter 10](../manuscript/book/10-a-chariot-and-a-steam-engine.md)
-
-<a id="chapter-11"></a>
-
-### 11. Morality and Confidence as Communication Technologies
-
-The chapter develops a media theory of how strangers act together. Confidence tells a recipient how much weight to give someone else’s judgment. A moral appeal can give people a reason to act on what they learn. A register carried an inspector’s judgment of a hull to a merchant deciding whether to finance a voyage. An abolitionist print carried the dimensions of a slave ship to people who could organize a petition. Both changed who could act together. Whether their judgment changed a voyage depended on who received the message and what power they had to act on it. [Read chapter 11](../manuscript/book/11-what-a-ship-could-say.md)
+A merchant and an abolitionist can use the dimensions of the same ship to organize opposite actions. Equiano’s words and a petition carry a judgment beyond the people who saw a particular crossing. Kirby’s chains of learners expose a condition of inheritance. When a signal must be both learnable and unambiguous, recurring pieces of words can preserve distinctions across generations. A word such as *gradual* could also preserve the chance of another sailing. [Read chapter 9](../manuscript/book/09-morality-and-language.md)
 
 ## Part IV · Paradox
 
-Fine-tuned laws, an early origin of life, an apparently empty galaxy and nearly simultaneous discoveries pose four questions about timing. Each asks what fixed the earliest possible opening, what happened when it arrived and what evidence could expose a longer wait.
+Five paradoxes put five distinct demands on the funnel. It has to account for measured constants, an early start, rapid folding, a quiet sky and a shared discovery. Evidence that resolves one need not resolve the others.
+
+<a id="chapter-10"></a>
+
+### 10. The Fine-Tuning Paradox
+
+A negative result in Adam Riess’s notebook helps put a positive vacuum-energy density on the agenda. Could the value itself have formed? The proposed answer needs a physical state that sets a value and helps renew the conditions that preserve it. A laboratory clock encoded in an entangled pair shows how internal change can appear in a stationary whole. It leaves open the origin of the cosmic arrow and of the particular constants we measure. [Read chapter 10](../manuscript/book/10-the-fine-tuning-paradox.md)
+
+<a id="chapter-11"></a>
+
+### 11. The Immediate Evolution Paradox
+
+A Jack Hills zircon records early water. A thermal model dates one favorable chemical window and a reconstructed ancestral population supplies a later biological constraint. Together they motivate the claim that Earth’s long wait was spent preparing the habitat and that the first lineage took hold on a chemical clock once it was ready. Lenski’s frozen ancestors show why the prerequisites must be identified independently of the winner. [Read chapter 11](../manuscript/book/11-the-immediate-evolution-paradox.md)
 
 <a id="chapter-12"></a>
 
-### 12. Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?
+### 12. Levinthal’s Paradox
 
-Cold dust reradiating starlight lets cosmologists compare modeled universes with different vacuum energies. A larger region can produce a greater lifetime total while an equal parcel produces entropy at much the same rate. For physics itself to have been assembled, rival field states must be reachable under common starting laws, and the flow through the faster state must help it prevail over trapping in a slower one. If time itself emerged, the sequence would need a clock within it. A pair of entangled photons shows how one part can mark change in another while a property of the whole remains fixed. Explaining the direction of time also requires an account of the early universe’s low entropy. [Read chapter 12](../manuscript/book/12-could-physics-have-acquired-its-laws.md)
+Anfinsen’s group unfolds an enzyme and counts 105 ways to reconnect just four bonds. The order in which the chain can settle and the bonds can close changes the amount of working enzyme recovered. Chung’s group times the brief successful crossings separately from the waits before them. A biased landscape resolves the blind-search paradox. A population of folded catalysts could disperse energy faster than bare minerals. Only a comparison under the same chemical conditions can establish that optimum. [Read chapter 12](../manuscript/book/12-levinthals-paradox.md)
 
 <a id="chapter-13"></a>
 
-### 13. Did Life Begin as Soon as Earth Could Support It?
+### 13. The Fermi Paradox
 
-Life formed in Earth’s first enduring window for it, on the short clock of chemistry after the long wait for the planet to cool. Catalytic-network models show how increasing molecular diversity can bring a whole set of mutually supporting reactions within reach. Above replacement, heritable chemistry can found a growing lineage. The model of favorable RNA conditions near 4.33 billion years ago and the ancestral estimate near 4.2 billion constrain the chronology. An independently dated, prolonged sterile interval under suitable conditions would challenge the claim. [Read chapter 13](../manuscript/book/13-how-soon-could-life-begin.md)
+Voyager crossed into interstellar space without carrying passengers. Even if life forms promptly wherever it can, heavy-element enrichment, the lifetime of planetary gradients and the appearance of technical societies set different clocks. Old small planets challenge a simple cutoff. Sending information home, moving a population and replacing a dying home star have different costs and rewards. Those distinctions change what evidence we should look for. [Read chapter 13](../manuscript/book/13-the-fermi-paradox.md)
 
 <a id="chapter-14"></a>
 
-### 14. The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel
+### 14. The Simultaneous Discovery Paradox
 
-Old planets test the proposal that durable chemical gradients suitable for life arose comparatively late. Voyager 2’s power shortage shows why one scientific route can repay a fixed energy supply better than another while both release much the same heat. A probe can beat a passenger for a specified observation. For probes to spread through the Galaxy, builders at a destination would also have to outlast the time required to make successors. [Read chapter 14](../manuscript/book/14-who-has-had-time-to-get-here.md)
-
-<a id="chapter-15"></a>
-
-### 15. The Constraints Behind Simultaneous Discovery in Special Relativity
-
-FitzGerald could explain the 1887 optical result by letting the apparatus change length. By 1904 physicists also had electrical tests, a light-signal procedure for setting clocks and Lorentz’s transformations. Poincaré’s letters and Einstein’s letter to Habicht show two lines of work in progress before June. The demand for a single reversible, direction-independent conversion in every inertial laboratory made an adjustable scale a determined number. That change in what could be deduced explains why the same result emerged twenty-five days apart and why disagreement over the ether survived. [Read chapter 15](../manuscript/book/15-two-papers-in-june.md)
+The 1887 interferometer result still admitted rival explanations. By 1905 clock procedures and Lorentz’s transformations were in hand. Reversibility and equivalent directions fixed the remaining scale. In June, Poincaré and Einstein reached a common conversion twenty-five days apart, while their accounts of the ether still differed. That selective agreement is evidence that cognition inherited a sharply constrained problem. It also specifies exactly how far the argument about prompt discovery goes. [Read chapter 14](../manuscript/book/14-the-simultaneous-discovery-paradox.md)
 
 <a id="epilogue"></a>
 
-## Epilogue · Do AI Data Centers Maximize the Rate of Entropy Production?
+## Epilogue · From Cybernetics to AI and Data Centers
 
-One Finnish data center drew 4.58 MW. The table compares its dissipation with lunar rock, a microbe, an animal and England and Wales in 1560 and 1950. An equal-powered resistor ties the computers at a common final temperature. A separate threshold changed what their heat could do. Once the heat pump could deliver water at the temperature the town required, the same servers could supply district heat. The net change in dissipation depends on what power the computation brings into use and what fuel the recovered heat displaces. [Read the epilogue](../manuscript/book/epilogue.md)
+A feedback problem leads from a reaching hand to cybernetics. Labeled images, a scoring rule and two graphics processors explain why a particular learning system could be built. A forecast of three minutes of voice search per person per day then gives Google a reason to build a different processor. At Mäntsälä, power, recovered heat and heat delivered to homes have separate meters. A comparison with rock, microbes, animals and two stages of industrial development puts the site’s dissipation in perspective. To count AI’s net effect one must follow the other uses it replaces and the new uses it brings into reach. [Read the epilogue](../manuscript/book/epilogue.md)

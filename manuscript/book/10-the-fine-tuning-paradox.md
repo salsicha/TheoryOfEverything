@@ -1,4 +1,4 @@
-# Chapter 12 — Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?
+# Chapter 10 — The Fine-Tuning Paradox
 
 *Part IV · Paradox*
 
@@ -50,4 +50,4 @@ Riess could cross out a premise in his notebook because the numbers on the sky h
 
 ---
 
-[← Morality and Confidence as Communication Technologies](11-what-a-ship-could-say.md) · [Contents](../../README.md#contents) · [Did Life Begin as Soon as Earth Could Support It? →](13-how-soon-could-life-begin.md)
+[← Morality and Language](09-morality-and-language.md) · [Contents](../../README.md#contents) · [The Immediate Evolution Paradox →](11-the-immediate-evolution-paradox.md)

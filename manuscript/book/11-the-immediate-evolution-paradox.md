@@ -1,4 +1,4 @@
-# Chapter 13 — Did Life Begin as Soon as Earth Could Support It?
+# Chapter 11 — The Immediate Evolution Paradox
 
 *Part IV · Paradox*
 
@@ -10,7 +10,7 @@ Oleg Abramov and his colleagues tried to date a particular starting line. For ho
 
 A team led by Edmund Moody ran the argument backward from things alive now. Genes inherited in common by very distant branches of life can be compared. By anchoring portions of their history to independently dated events and making assumptions about rates of change, the team estimated that the last universal common ancestor lived roughly 4.2 billion years ago. One of its reported intervals ran from 4.33 to 4.09 billion years. This was already a population with a history. Lineages that died out without leaving living descendants disappear from this particular reckoning. In Western Australia again, Tara Djokic and colleagues have described evidence for microbial communities at hot springs about 3.48 billion years ago. Those rocks attest to occupation of a particular environment. Its first settlers could already have had an immensely long ancestry.[3]
 
-The zircon, the thermal model and the family tree put water, favorable conditions and an already evolved population on the young Earth. It is tempting to subtract the two central estimates and give life 130 million years to get started. At the older end of that interval is a temperature calculation. At the younger end is a population that already had ancestors. Neither clock dates the first generation. The dates leave room for life to have taken the first opening. The argument that it did turns on what happened inside that opening.[1][2][3]
+The zircon, the thermal model and the family tree put water, favorable conditions and an already evolved population on the young Earth. It is tempting to subtract the two central estimates and give life 130 million years to get started. At the older end of that interval is a temperature calculation. At the younger end is a population that already had ancestors. Neither clock dates the first generation. The argument here is that life took the first opening. Accounting for the time it took means asking how one of those early habitats could produce a lineage before the habitat itself disappeared.[1][2][3]
 
 ## When reactions begin to leave descendants
 
@@ -36,6 +36,10 @@ Someone who needs billions of years of evolution to look at a zircon is more lik
 
 The rocks can put the first-window explanation at risk. Date an enduring supply of water, building material and chemical energy independently of any trace of life. Estimate how long it offered the reactions a chance to leave descendants. A well-preserved record of habitable sites that remained sterile far longer than the chemistry required would put a second long wait after Earth became habitable. A trace of life within the first such interval would put the delay where the Jack Hills grain first led us to look, in the making of a habitable planet.[1][2][3][4][6]
 
+A flask that turned cloudy in 2003 shows what can hide inside a waiting time. Richard Lenski’s group had been giving twelve populations both glucose and citrate for years. Only one population acquired the ability to grow on the citrate in the presence of oxygen. The team could thaw earlier samples and give their descendants a second chance. Later ancestors from the successful population were more likely to leave citrate users. The food was already there. Reaching it depended on what the lineage had accumulated over tens of thousands of generations. Readiness has to be dated from the inheritance as well as the surroundings.[7]
+
+There is a case where we can start the clock with the entire inheritance in hand. Put one protein chain in a tube, give it a chance to fold and measure how long it takes to acquire a working shape.
+
 ## Notes
 
 1. Wilde, Valley, Peck and Graham measured the age and oxygen isotopes of the Jack Hills zircon. [Liquid water and the 4.4-billion-year-old crystal](../../research/sources.md#s131)
@@ -50,6 +54,8 @@ The rocks can put the first-window explanation at risk. Date an enduring supply 
 
 6. Kipping conditions on the time required for observers. His 2025 update uses the proposed LUCA date and reports a nominal odds ratio of 13 to 1 between rapid and slow abiogenesis on Earth analogues. This reuses the dating evidence in note 3. [2025 analysis](https://arxiv.org/abs/2504.05993) · [Earlier model and assumptions](../../research/sources.md#s135)
 
+7. Blount, Borland and Lenski report the timing, daily transfers and replay comparisons. Later work documents resource exchange between lineages. Those studies measured growth, inheritance and resource use. A daily free-energy balance would also require measurements of what left the flask. [Primary replay paper](https://doi.org/10.1073/pnas.0803151105) · [Resource use and cross-feeding](../03-life-makes-its-conditions.md#chapter-notes) · [Working sources](../../research/sources.md#s03)
+
 ---
 
-[← Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?](12-could-physics-have-acquired-its-laws.md) · [Contents](../../README.md#contents) · [The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel →](14-who-has-had-time-to-get-here.md)
+[← The Fine-Tuning Paradox](10-the-fine-tuning-paradox.md) · [Contents](../../README.md#contents) · [Levinthal’s Paradox →](12-levinthals-paradox.md)

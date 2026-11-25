@@ -1,4 +1,4 @@
-# Chapter 14 — The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel
+# Chapter 13 — The Fermi Paradox
 
 *Part IV · Paradox*
 
@@ -46,4 +46,4 @@ The first traveler we know crossed into interstellar space because people wanted
 
 ---
 
-[← Did Life Begin as Soon as Earth Could Support It?](13-how-soon-could-life-begin.md) · [Contents](../../README.md#contents) · [The Constraints Behind Simultaneous Discovery in Special Relativity →](15-two-papers-in-june.md)
+[← Levinthal’s Paradox](12-levinthals-paradox.md) · [Contents](../../README.md#contents) · [The Simultaneous Discovery Paradox →](14-the-simultaneous-discovery-paradox.md)

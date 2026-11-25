@@ -3,9 +3,9 @@
 | File | Purpose |
 | --- | --- |
 | [notes](notes.md) | Original source notes and dated author clarifications |
-| [ideas](ideas.md) | Expanded ideas I01–I89 and current coverage map |
-| [outline](outline.md) | Current prologue, fifteen chapters and epilogue, with cases and causal arguments |
-| [sources.md](../research/sources.md) | Source keys S01–S179, evidence limits, and outstanding research |
+| [ideas](ideas.md) | Expanded ideas I01–I90 and current coverage map |
+| [outline](outline.md) | Current prologue, fourteen chapters and epilogue, with cases and causal arguments |
+| [sources.md](../research/sources.md) | Source keys S01–S183, evidence limits, and outstanding research |
 | [Natural-experiment scripts](../scripts/README.md) | Twelve evidence records, with estimators, data contracts, and explicit identification limits |
 | [Experiment results](../scripts/results/summary.md) | Completed comparisons, diagnostic checks, and explicit missing-data statuses |
 | [Dataset search audit](../scripts/dataset-search.md) | Located primary data, access limits, and the observations still needed |
@@ -18,34 +18,37 @@
 
 ## Mathematical support in the prose
 
-A Sudoku grid introduces constraint satisfaction. The slope of a bead-escape curve predicts whether an excess grows. Two and three compartments give continuous and discontinuous transitions in the same material. Autocatalytic networks and the balance of copying and loss give early life a proposed threshold. Time the preparation, the first successful founding, and subsequent spread independently. [Next-step predictions](ideas.md#i89--how-does-change-happen) · [Mathematical sources](../research/sources.md#s120) · [Internal time](../research/sources.md#s173) · [Methodological afterword](../manuscript/afterword.md)
+A Sudoku grid introduces constraint satisfaction. The slope of a bead-escape curve predicts whether an excess grows. Two and three compartments give continuous and discontinuous transitions in the same material. Autocatalytic networks and the balance of copying and loss give early life a proposed threshold. Levinthal’s paradox adds a count of possible shapes, a bias among paths and an experimental distinction between the time spent waiting and the transition itself. Time the preparation, the first successful founding and subsequent spread independently. [Next-step predictions](ideas.md#i89--how-does-change-happen) · [Mathematical sources](../research/sources.md#s120) · [Internal time](../research/sources.md#s173) · [Methodological afterword](../manuscript/afterword.md)
 
-Chapter 10 uses the thermal cycle of an atmospheric engine to derive a design feature. The research companion works through forecasts using Watt’s patent, Tang’s freight budget and the Lyons board memorandum. Chapter 15 uses successive changes of frame to show which part of relativity the accumulated requirements determined. [Forecasts from contemporary records](../research/causal-inference.md#forecasting-a-technology-from-earlier-records) · [Relativity sources](../research/sources.md#s67)
+Chapter 8 uses the thermal cycle of an atmospheric engine to derive a design feature. The research companion works through forecasts using Watt’s patent, Tang’s freight budget and the Lyons board memorandum. Chapter 14 uses successive changes of frame to show which part of relativity the accumulated requirements determined. [Forecasts from contemporary records](../research/causal-inference.md#forecasting-a-technology-from-earlier-records) · [Relativity sources](../research/sources.md#s67)
 
 ## Current manuscript
 
-The prologue, fifteen chapters and epilogue are complete in [the book directory](../manuscript/book). The [reading order](../README.md#contents) and [outline](outline.md) follow the four parts on physics, humans, technology and paradox. The table counts whitespace-separated words in the narrative, excluding headings, the Sudoku grid, the image and its caption, the epilogue’s comparison table, source notes, and navigation.
+The prologue, fourteen chapters and epilogue are complete in [the book directory](../manuscript/book). The [reading order](../README.md#contents) and [outline](outline.md) follow the four parts on physics, humans, technology and paradox. The table counts whitespace-separated words in the narrative, excluding headings, the Sudoku grid, the image and its caption, the epilogue’s comparison table, source notes, and navigation.
 
 | Reading order | Narrative words |
 | --- | ---: |
-| [Prologue — Assembly Theory and the Search for Life Beyond Earth](../manuscript/book/prologue.md) | 1,137 |
-| [Chapter 1 — Ontological Uncertainty and the Assembly of Matter](../manuscript/book/01-what-moves-at-absolute-zero.md) | 1,150 |
-| [Chapter 2 — How Constraints in Platonic Space Shape Evolution](../manuscript/book/02-the-square-with-one-answer.md) | 920 |
-| [Chapter 3 — How Disequilibrium Can Amplify Fluctuations and Break Symmetry](../manuscript/book/03-why-the-beads-choose-a-side.md) | 1,878 |
-| [Chapter 4 — Stellar Fusion Releases Energy and Makes the Carbon in Our Food](../manuscript/book/04-what-lights-a-star.md) | 1,237 |
-| [Chapter 5 — Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?](../manuscript/book/05-the-white-towers-of-lost-city.md) | 1,144 |
-| [Chapter 6 — Autopoiesis and the Cybernetics of Self-Producing Systems](../manuscript/book/06-who-makes-the-boundary.md) | 1,217 |
-| [Chapter 7 — Intelligence as a Hierarchical and Recursive Self-Modeling System](../manuscript/book/07-the-observer-who-makes-mistakes.md) | 1,393 |
-| [Chapter 8 — How Cooperation Could Have Driven Human Self-Domestication](../manuscript/book/08-the-people-who-divided-the-ox.md) | 1,443 |
-| [Chapter 9 — Dialectical Materialism and the Transition from Feudalism to Capitalism](../manuscript/book/09-who-owes-whom-a-living.md) | 1,559 |
-| [Chapter 10 — How Energy and Transport Constrain the Spread of Technology](../manuscript/book/10-a-chariot-and-a-steam-engine.md) | 1,618 |
-| [Chapter 11 — Morality and Confidence as Communication Technologies](../manuscript/book/11-what-a-ship-could-say.md) | 1,279 |
-| [Chapter 12 — Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?](../manuscript/book/12-could-physics-have-acquired-its-laws.md) | 1,357 |
-| [Chapter 13 — Did Life Begin as Soon as Earth Could Support It?](../manuscript/book/13-how-soon-could-life-begin.md) | 1,597 |
-| [Chapter 14 — The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel](../manuscript/book/14-who-has-had-time-to-get-here.md) | 1,340 |
-| [Chapter 15 — The Constraints Behind Simultaneous Discovery in Special Relativity](../manuscript/book/15-two-papers-in-june.md) | 1,796 |
-| [Epilogue — Do AI Data Centers Maximize the Rate of Entropy Production?](../manuscript/book/epilogue.md) | 2,019 |
-| **Total** | **24,084** |
+| [Prologue — What If Life Is Everywhere?](../manuscript/book/prologue.md) | 1,009 |
+| [Chapter 1 — From Zero Energy to Asymmetry](../manuscript/book/01-from-zero-energy-to-asymmetry.md) | 1,816 |
+| [Chapter 2 — From Hydrogen to Gold](../manuscript/book/02-from-hydrogen-to-gold.md) | 1,850 |
+| [Chapter 3 — From Matter to Life](../manuscript/book/03-from-matter-to-life.md) | 1,154 |
+| [Chapter 4 — Self-Reproducing (Autopoiesis)](../manuscript/book/04-self-reproducing.md) | 1,217 |
+| [Chapter 5 — Self-Modeling](../manuscript/book/05-self-modeling.md) | 1,393 |
+| [Chapter 6 — Self-Domesticating](../manuscript/book/06-self-domesticating.md) | 1,443 |
+| [Chapter 7 — Feudalism and Capitalism](../manuscript/book/07-feudalism-and-capitalism.md) | 1,583 |
+| [Chapter 8 — Chariots and Steam Engines](../manuscript/book/08-chariots-and-steam-engines.md) | 1,618 |
+| [Chapter 9 — Morality and Language](../manuscript/book/09-morality-and-language.md) | 1,621 |
+| [Chapter 10 — The Fine-Tuning Paradox](../manuscript/book/10-the-fine-tuning-paradox.md) | 1,357 |
+| [Chapter 11 — The Immediate Evolution Paradox](../manuscript/book/11-the-immediate-evolution-paradox.md) | 1,750 |
+| [Chapter 12 — Levinthal’s Paradox](../manuscript/book/12-levinthals-paradox.md) | 1,087 |
+| [Chapter 13 — The Fermi Paradox](../manuscript/book/13-the-fermi-paradox.md) | 1,340 |
+| [Chapter 14 — The Simultaneous Discovery Paradox](../manuscript/book/14-the-simultaneous-discovery-paradox.md) | 1,796 |
+| [Epilogue — From Cybernetics to AI and Data Centers](../manuscript/book/epilogue.md) | 2,543 |
+| **Total** | **24,577** |
+
+## The preceding fifteen-chapter edition
+
+The Sudoku example now opens the book, and the bead experiments follow quantum uncertainty in chapter 1. The complete previous texts, including the separate chapters on those subjects, remain available in the [fifteen-chapter manuscript](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book) and its [outline](https://github.com/salsicha/TheoryOfEverything/blob/af474f4c75e1939e36a58f7ab47aa05602b92cb4/editorial/outline.md).
 
 ## The eighteen-chapter plan
 

@@ -1,4 +1,4 @@
-# Chapter 10 — How Energy and Transport Constrain the Spread of Technology
+# Chapter 8 — Chariots and Steam Engines
 
 *Part III · Technology*
 
@@ -52,4 +52,4 @@ At Knossos a clerk made sure the odd wheel would still be in the count after the
 
 ---
 
-[← Dialectical Materialism and the Transition from Feudalism to Capitalism](09-who-owes-whom-a-living.md) · [Contents](../../README.md#contents) · [Morality and Confidence as Communication Technologies →](11-what-a-ship-could-say.md)
+[← Feudalism and Capitalism](07-feudalism-and-capitalism.md) · [Contents](../../README.md#contents) · [Morality and Language →](09-morality-and-language.md)

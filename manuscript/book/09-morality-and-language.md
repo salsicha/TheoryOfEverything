@@ -1,4 +1,4 @@
-# Chapter 11 — Morality and Confidence as Communication Technologies
+# Chapter 9 — Morality and Language
 
 *Part III · Technology*
 
@@ -28,7 +28,17 @@ Confidence also travels. The register economized on inspection only so long as u
 
 With similar visual sensitivity and a means to communicate, pairs could do better than either member alone. With a large difference in sensitivity, a pair could do worse than its better observer. Having a second opinion helped to the extent that each person could convey the strength of the evidence behind a choice, and the strength conveyed meant something comparable to the partner. Both people could be sincere. Confidence is information which changes the weight someone else gives an observation. Someone who speaks with assurance on every trial eventually ceases to transmit that information.[5]
 
-A register built to communicate confidence in ships and a print built to induce moral judgment imposed different constraints on the same material. What each omitted helped it travel. Each offered different strangers a way to act together. Each could mislead in ways characteristic of its form. Return to the name partway through the paragraph. For a reader looking up an insured ship, leaving that name out would spoil the entry. Copies of the abolitionist drawing could lose it and still make their point. A reader could recognize what was being done to people on a ship whose name she never learned.
+## What a listener can pass on
+
+Simon Kirby, Hannah Cornish and Kenny Smith sat people in front of a screen and taught them names for objects moving across it. The shapes, colors and movements varied. A learner saw names for only some combinations, then had to name the whole set. The next learner saw a sample of the names the previous one had produced. A word that stopped with its inventor was gone from the language the group was making.[6]
+
+One way to make the task easy was to use a single label for several objects. Across generations distinctions disappeared. A successor could remember the words and still have no way to tell a listener which object was meant. The researchers changed what got passed down. In a second experiment they kept ambiguous labels out of the examples the next person learned. Now a word had to be learnable and distinguish its object. Participants began passing on pieces of words that marked recurring features. Someone who had never seen a particular combination could put a name together for it.[6]
+
+The experiment gives a reason why a form of speech can outlive its speakers. A child can hear only a fraction of the things other people will one day ask her to say. If a distinction recurs in words she already knows, she can use it on the occasion she missed. The same restriction also explains a failure. When nothing required the learners to preserve differences, an easy-to-repeat vocabulary could lose the capacity to tell one moving object from another.[6]
+
+A petition has to survive a different passage. A person who heard Equiano could remember an individual voyage. A demand to end the trade could apply to the next voyage and to a ship whose name neither person knew. It also named an act that a member of Parliament could vote on. In 1792 even the word *gradual* mattered. Agreement on the evil could leave another sailing within the law. Words gave people a way to carry a moral judgment from one encounter into another. What people undertook to do together depended on which words they carried.[1][3][4]
+
+A register built to communicate confidence in ships and a print built to induce moral judgment imposed different constraints on the same material. What each omitted helped it travel. Each offered different strangers a way to act together. Each could mislead in ways characteristic of its form. For a reader looking up an insured ship, leaving that name out would spoil the entry. Copies of the abolitionist drawing could lose it and still make their point. A reader could recognize what was being done to people on a ship whose name she never learned.
 
 ## Notes
 
@@ -42,6 +52,8 @@ A register built to communicate confidence in ships and a print built to induce 
 
 5. Bahrami and colleagues describe the visual task, communication conditions and effects of differences in partners’ sensitivity. [“Optimally Interacting Minds”](https://pubmed.ncbi.nlm.nih.gov/20798320/)
 
+6. Kirby, Cornish and Smith compare chains of learners with and without a filter on ambiguous training examples. The application to moral language in the abolition campaign draws on the historical accounts above. [Original language study](https://doi.org/10.1073/pnas.0707835105) · [Source ledger](../../research/sources.md#s182)
+
 ---
 
-[← How Energy and Transport Constrain the Spread of Technology](10-a-chariot-and-a-steam-engine.md) · [Contents](../../README.md#contents) · [Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time? →](12-could-physics-have-acquired-its-laws.md)
+[← Chariots and Steam Engines](08-chariots-and-steam-engines.md) · [Contents](../../README.md#contents) · [The Fine-Tuning Paradox →](10-the-fine-tuning-paradox.md)

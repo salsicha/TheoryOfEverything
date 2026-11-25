@@ -2,51 +2,50 @@
 
 *A Material History of Everything*
 
-Heather Graham gave a team of researchers a meteorite sample and a sample of bay sediment and kept their origins to herself. Could the team tell which bore the marks of life? This book starts with the evidence a molecule can carry about its making. It asks what kind of evidence might let us recognize the making of a star, a society, a machine or even a law of physics.
+Heather Graham sent a meteorite sample and a sample of bay sediment to a team that had to identify them without their labels. Suppose life forms wherever the conditions are right. What natural law would make that happen? Four moves on a Sudoku grid introduce the book’s *hierarchical entropy rejection funnel*. Constraints narrow the available routes. A gradient supplies work, heat escapes, and what one round leaves behind changes what can form in the next.
 
-How does change happen? At Saltom the water in a shaft could rise inch by inch. Once it covered the working face, a whole seam was out of reach. On the early Earth the accumulation ran the other way. Cooling and a continuing supply of chemical energy prepared a habitat for reactions whose products could leave descendants. The book argues that life formed during the first such interval, on a chemical timescale after a geological wait. It proposes that at each threshold, assembly takes the quickest feasible route to a structure that sustains the greatest accessible rate of entropy production. Watt’s steam engine gives the reader a chance to predict a design from the machine it replaced. The epilogue compares a Finnish data center with lunar ground, a microbe, an animal and the energy accounts of England and Wales in 1560 and 1950.
+The book argues that the next assembly takes the quickest feasible route to the greatest rate of entropy production the whole system can sustain. A star and a vent show how the material for one stage is made in another. A protein that must fold and two physicists who reach the same rule in June 1905 put the speed claim to the test. The epilogue follows cybernetics and AI to a Finnish data center where electricity consumed and waste heat delivered to houses can both be measured.
 
 [Start with the prologue](manuscript/book/prologue.md) · [Chapter-by-chapter outline](editorial/outline.md)
 
 <p>
-  <a href="manuscript/book/10-a-chariot-and-a-steam-engine.md"><img src="assets/images/newcomen-engine.png" alt="Cross-section of an atmospheric steam engine, showing the beam and pump rod" width="235"></a>
-  <a href="manuscript/book/07-the-observer-who-makes-mistakes.md"><img src="assets/images/jacquard-portrait.jpg" alt="Carquillat’s woven silk portrait of Jacquard seated in his workshop" width="202"></a>
+  <a href="manuscript/book/08-chariots-and-steam-engines.md"><img src="assets/images/newcomen-engine.png" alt="Cross-section of an atmospheric steam engine, showing the beam and pump rod" width="235"></a>
+  <a href="manuscript/book/05-self-modeling.md"><img src="assets/images/jacquard-portrait.jpg" alt="Carquillat’s woven silk portrait of Jacquard seated in his workshop" width="202"></a>
 </p>
 
 Newcomen’s engine and Carquillat’s silk portrait of Jacquard appear in the chapters on the spread of machinery and on self-modeling. [Illustration credits](assets/images/README.md)
 
 ## Contents
 
-[Prologue · Assembly Theory and the Search for Life Beyond Earth](manuscript/book/prologue.md)
+[Prologue · What If Life Is Everywhere?](manuscript/book/prologue.md)
 
 ### Part I · Physics
 
-1. [Ontological Uncertainty and the Assembly of Matter](manuscript/book/01-what-moves-at-absolute-zero.md)
-2. [How Constraints in Platonic Space Shape Evolution](manuscript/book/02-the-square-with-one-answer.md)
-3. [How Disequilibrium Can Amplify Fluctuations and Break Symmetry](manuscript/book/03-why-the-beads-choose-a-side.md)
-4. [Stellar Fusion Releases Energy and Makes the Carbon in Our Food](manuscript/book/04-what-lights-a-star.md)
-5. [Could Chemical Gradients at Hydrothermal Vents Have Powered Abiogenesis?](manuscript/book/05-the-white-towers-of-lost-city.md)
+1. [From Zero Energy to Asymmetry](manuscript/book/01-from-zero-energy-to-asymmetry.md) — Quantum uncertainty and the growth of an imbalance
+2. [From Hydrogen to Gold](manuscript/book/02-from-hydrogen-to-gold.md) — Fusion, neutron capture and the elements a planet inherits
+3. [From Matter to Life](manuscript/book/03-from-matter-to-life.md) — The chemical gradient at Lost City
 
 ### Part II · Humans
 
-6. [Autopoiesis and the Cybernetics of Self-Producing Systems](manuscript/book/06-who-makes-the-boundary.md)
-7. [Intelligence as a Hierarchical and Recursive Self-Modeling System](manuscript/book/07-the-observer-who-makes-mistakes.md)
-8. [How Cooperation Could Have Driven Human Self-Domestication](manuscript/book/08-the-people-who-divided-the-ox.md)
+4. [Self-Reproducing (Autopoiesis)](manuscript/book/04-self-reproducing.md) — How a system makes itself and passes its organization to offspring
+5. [Self-Modeling](manuscript/book/05-self-modeling.md) — Intelligence as hierarchical and recursive self-modeling
+6. [Self-Domesticating](manuscript/book/06-self-domesticating.md) — How human cooperation could change human inheritance
 
 ### Part III · Technology
 
-9. [Dialectical Materialism and the Transition from Feudalism to Capitalism](manuscript/book/09-who-owes-whom-a-living.md)
-10. [How Energy and Transport Constrain the Spread of Technology](manuscript/book/10-a-chariot-and-a-steam-engine.md)
-11. [Morality and Confidence as Communication Technologies](manuscript/book/11-what-a-ship-could-say.md)
+7. [Feudalism and Capitalism](manuscript/book/07-feudalism-and-capitalism.md) — Historical materialism and the reproduction of everyday life
+8. [Chariots and Steam Engines](manuscript/book/08-chariots-and-steam-engines.md) — Which energy gradients a machine can exploit
+9. [Morality and Language](manuscript/book/09-morality-and-language.md) — How moral judgments travel and language reproduces culture
 
 ### Part IV · Paradox
 
-12. [Could Assembly Explain Cosmic Fine-Tuning and the Emergence of Time?](manuscript/book/12-could-physics-have-acquired-its-laws.md)
-13. [Did Life Begin as Soon as Earth Could Support It?](manuscript/book/13-how-soon-could-life-begin.md)
-14. [The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel](manuscript/book/14-who-has-had-time-to-get-here.md)
-15. [The Constraints Behind Simultaneous Discovery in Special Relativity](manuscript/book/15-two-papers-in-june.md)
+10. [The Fine-Tuning Paradox](manuscript/book/10-the-fine-tuning-paradox.md) — Was physics assembled, and did time emerge from symmetry?
+11. [The Immediate Evolution Paradox](manuscript/book/11-the-immediate-evolution-paradox.md) — Did life arise in Earth’s first enduring habitable interval?
+12. [Levinthal’s Paradox](manuscript/book/12-levinthals-paradox.md) — Why a protein can find a working shape
+13. [The Fermi Paradox](manuscript/book/13-the-fermi-paradox.md) — Has life had time to become visible across the stars?
+14. [The Simultaneous Discovery Paradox](manuscript/book/14-the-simultaneous-discovery-paradox.md) — Why Einstein and Poincaré converged in June 1905
 
-[Epilogue · Do AI Data Centers Maximize the Rate of Entropy Production?](manuscript/book/epilogue.md)
+[Epilogue · From Cybernetics to AI and Data Centers](manuscript/book/epilogue.md)
 
 ## Sources and working material
 

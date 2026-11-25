@@ -1,4 +1,4 @@
-# Chapter 15 — The Constraints Behind Simultaneous Discovery in Special Relativity
+# Chapter 14 — The Simultaneous Discovery Paradox
 
 *Part IV · Paradox*
 
@@ -52,4 +52,4 @@ Engineers could calculate the direction and size of that drift before they turne
 
 ---
 
-[← The Fermi Paradox, the Age of Life and the Cost of Interstellar Travel](14-who-has-had-time-to-get-here.md) · [Contents](../../README.md#contents) · [Do AI Data Centers Maximize the Rate of Entropy Production? →](epilogue.md)
+[← The Fermi Paradox](13-the-fermi-paradox.md) · [Contents](../../README.md#contents) · [From Cybernetics to AI and Data Centers →](epilogue.md)

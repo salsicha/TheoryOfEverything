@@ -1,4 +1,4 @@
-# Chapter 9 — Dialectical Materialism and the Transition from Feudalism to Capitalism
+# Chapter 7 — Feudalism and Capitalism
 
 *Part III · Technology*
 
@@ -8,7 +8,7 @@ The letter dates from 1020. A faithful man had to guard his lord’s person, int
 
 Fealty made service the price of a claim on someone else’s help. In that respect it resembles a labor union. A worker who pays dues can call on a fund that no worker could supply alone. Fulbert could call on the duke after a fire. A peasant who owed compulsory labor faced a different prospect. The lord to whom he might appeal for protection also had the power to exact the work. Who could make good on a promise mattered as much as what each person formally owed.[1]
 
-This is a question in *dialectical materialism*. The participants occupy positions defined in relation to one another. The distinction becomes practical when a harvest, a payment or a day of labor is due. A lord depends on people whose work he can command. Their dependence on his protection can give him the means to exact more service. The two sides can reproduce the relation for a long time while having opposing interests within it. The return that sustains an arrangement need not be voluntary or just.[1][2]
+This is the question of *historical materialism* at the scale of a burned city. How did the people who fed, housed and protected one another reproduce the conditions of their existence? The participants occupy positions defined in relation to one another. The distinction becomes practical when a harvest, a payment or a day of labor is due. A lord depends on people whose work he can command. Their dependence on his protection can give him the means to exact more service. The two sides can reproduce the relation for a long time while having opposing interests within it. The return that sustains an arrangement need not be voluntary or just.[1][2]
 
 ## Twenty-two pieces of land
 
@@ -54,4 +54,4 @@ What could be predicted before looking at a lease or a union report? Harvest dat
 
 ---
 
-[← How Cooperation Could Have Driven Human Self-Domestication](08-the-people-who-divided-the-ox.md) · [Contents](../../README.md#contents) · [How Energy and Transport Constrain the Spread of Technology →](10-a-chariot-and-a-steam-engine.md)
+[← Self-Domesticating](06-self-domesticating.md) · [Contents](../../README.md#contents) · [Chariots and Steam Engines →](08-chariots-and-steam-engines.md)

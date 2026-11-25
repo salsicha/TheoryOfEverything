@@ -1,4 +1,4 @@
-# Chapter 7 — Intelligence as a Hierarchical and Recursive Self-Modeling System
+# Chapter 5 — Self-Modeling
 
 *Part II · Humans*
 
@@ -52,4 +52,4 @@ A child learning when to speak of a successful hunt encounters an especially sev
 
 ---
 
-[← Autopoiesis and the Cybernetics of Self-Producing Systems](06-who-makes-the-boundary.md) · [Contents](../../README.md#contents) · [How Cooperation Could Have Driven Human Self-Domestication →](08-the-people-who-divided-the-ox.md)
+[← Self-Reproducing (Autopoiesis)](04-self-reproducing.md) · [Contents](../../README.md#contents) · [Self-Domesticating →](06-self-domesticating.md)
