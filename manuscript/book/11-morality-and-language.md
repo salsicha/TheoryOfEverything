@@ -34,6 +34,14 @@ By the eighth generation in one chain, *tuge* covered everything moving horizont
 
 What had to survive in a petition was a demand that another person could put into words and Parliament could vote on. A reader could forget the name *Brooks* and still ask that the trade should end. In 1792 the Commons agreed that the trade should end. The word *gradual* left the shipowner free to fit out the next voyage.[1][4]
 
+## What a reply reproduces
+
+A petition reaches Parliament. A member moves to add the word *gradual*. Supporters of abolition now have another decision to challenge. Someone who never saw the original drawing can enter the dispute over the timetable. Niklas Luhmann used *autopoiesis* to describe this property of communication. One communication supplies the occasion and the subject for another. Even an objection can keep the issue alive. The people involved must eat, meet and pay the printer. The thing reproduced across their exchanges is the demand about which a stranger can now take a position.[1][4][7]
+
+On a social network the next reader encounters a choice made in part by a machine. During the 2020 US election campaign, Andrew Guess and colleagues assigned consenting Facebook and Instagram users to feeds that put the newest posts first. Other participants kept the platforms’ ranked feeds. People shown posts in time order spent less time on the platforms and were less active. The switch produced no detectable change in the political polarization the researchers measured over the study period. Choosing which message comes next can change how much people communicate without changing what they believe about the people on the other side.[8]
+
+A petition needed a printer, a carrier and a member willing to present it. A post needs a place in another person’s feed. A reply can raise its visibility and bring it before a third reader. Once a business can sell an advertiser that third reader’s attention, the return on keeping the exchange going can help pay for the machinery that carries it.[7][8]
+
 ## Notes
 
 1. Royal Museums Greenwich identifies Elford, Parrey, the London committee, James Phillips, the April distribution, later copies, the vessel’s register names and its years in the trade. [Plan and sections of the *Brooks*](https://www.rmg.co.uk/collections/objects/rmgc-object-254967) · [Media sources](../../research/sources.md#s172)
@@ -47,6 +55,10 @@ What had to survive in a petition was a demand that another person could put int
 5. Bahrami and colleagues describe the visual task, communication conditions and effects of differences in partners’ sensitivity. [“Optimally Interacting Minds”](https://pubmed.ncbi.nlm.nih.gov/20798320/)
 
 6. Kirby, Cornish and Smith compare chains of learners with and without a filter on ambiguous training examples. Figures 3 and 5 give examples of the names the learners passed on. The application to moral language in the abolition campaign draws on the historical accounts above. [Original language study](https://doi.org/10.1073/pnas.0707835105) · [Source ledger](../../research/sources.md#s182)
+
+7. Luhmann treats communication as the operation through which social systems reproduce. The application to abolition petitions and online replies is the book’s. [Luhmann on communication](../../research/sources.md#s10)
+
+8. Guess and colleagues studied consenting users during the 2020 election. They measured activity, exposure, knowledge and attitudes during the intervention. [Feed ordering and its effects](https://doi.org/10.1126/science.abp9364)
 
 ---
 

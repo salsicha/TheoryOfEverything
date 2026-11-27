@@ -20,6 +20,10 @@ A request for a page used bandwidth and server time. The click had value because
 
 Human attention is scarce. A search reveals something about what a person wants at the moment an advertiser can reach them. The gap between the expected value of that contact and the cost of delivering it is what the book calls *free energy in attention space*. Electricity supplies the physical free energy in the server. Revenue pays for more machines and more electricity. Clicks, dollars and kilowatt-hours belong in separate columns if we want to follow how one changed the others.[1][4]
 
+The audience also helps determine what the network will carry. A reply gives another reader a reason to open the page. Repeated across millions of exchanges, decisions about what to say become signals used to rank the next reader’s feed. The resulting order changes which posts a writer can expect anyone to see. That is downward causation at the level of a medium. Each round of communication helps make the conditions for the next, and advertising puts a price on keeping the rounds coming.[4][5]
+
+By 2025 the two ends of that circuit appeared in the same company’s accounts. Meta earned most of its revenue from advertising. During the year it spent $69.69 billion on property and equipment, including servers, data centers and network infrastructure. The accounts cover several uses, AI among them. A sale of access to someone’s attention can now help finance a building where models learn from the language people have put online. The light in the fiber, the money for the building and the sentences available for training came from different sources. They had to arrive together for that use to pay.[6]
+
 Cogent’s accounts document cheaper ways to assemble some routes. Google’s accounts document a way to earn money from delivering an advertisement. The records do not identify a particular search as having traveled over a particular strand of former bubble infrastructure. What connects the histories is a change in what an enterprise had to build for itself and what it could earn once it had built the rest. A cable laid for customers who never came could serve a customer its first owner had never considered. Whether a building full of computers can leave the same kind of inheritance will depend on which parts survive its first business.
 
 ## Notes
@@ -31,6 +35,10 @@ Cogent’s accounts document cheaper ways to assemble some routes. Google’s ac
 3. The use of conformation and free energy to describe business options and attention is an analogy specific to the book. [Physical folding landscapes](../../research/sources.md#s181)
 
 4. Google’s 2004 offering materials describe the dates, billing arrangements, auctions, network-member revenue sharing and sources of revenue. [Google’s filing, revenue recognition and advertising programs](https://www.sec.gov/Archives/edgar/data/1288776/000119312504114518/dex9901.htm)
+
+5. The relation between posting and ranked exposure applies Luhmann’s account to digital platforms. The feed study measured audience activity under two ordering rules. [Communication](../../research/sources.md#s10) · [Feed ordering experiment](https://doi.org/10.1126/science.abp9364)
+
+6. Meta reports the sources of its revenue and purchases of property and equipment in its 2025 Form 10-K. The total covers multiple purposes. Brown and colleagues document the use of web text in training. [Meta’s 2025 filing](https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm) · [Training corpora, section 2.2](https://arxiv.org/abs/2005.14165)
 
 ---
 

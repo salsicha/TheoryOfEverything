@@ -34,7 +34,9 @@ Steam had also reached China aboard vessels backed by British state and commerci
 
 The clerk at Knossos kept an odd wheel in his count. At Kaiping the company could build a winding engine to replace the one it had worn out. Both records let us see what was ready for a second journey.[1][5]
 
-At either mine, the coal seam contained chemical free energy before the pump arrived. Water, fuel for the boiler, workers who could repair the engine and a route for selling the coal determined whether a new arrangement could reach it. A chariot needed horses fed and wheels replaced just as a steam engine needed its coal brought up. A machine could spread only as fast as people could assemble the conditions for using it.[1][3][5]
+At Knossos a pair of wheels in reserve could put the same horses back to work after a wheel failed. More chariots with no replacements could make a splendid inventory and a smaller working fleet. At Saltom each extra day of drainage could keep a seam open for the customers at Whitehaven. At Kaiping an extra day’s pumping could leave the coal waiting for a cart. It took a railway to change what that day of work was worth.[1][3][5][6]
+
+In what sense could a chariot or steam engine be an *optimal dissipative structure*? Count the feed the animals could turn into repeated journeys, or the fuel the whole coalfield could deliver and its customers burn, over the working life of the equipment. Put a spare where failures keep teams idle, a pump where water bars access to fuel, a railway where transport holds back sales. The prediction changes with the constraint. The accounts record those bottlenecks and several of the choices people made. Establishing a maximum would take rates for the alternatives open to them as well. A machine’s greatest effect on the rate of burning coal can occur miles from its own fire.[1][3][5][6]
 
 ## Notes
 

@@ -26,13 +26,21 @@ Here *quantity turned into quality*. One more failed attempt to detect motion th
 
 The work that had taken a generation could now pass between desks. A physicist could use the Cleveland readings without floating another slab on mercury. Lorentz’s equations were in print. Once the remaining choice came down to a short calculation with a ruler, two people working from those results had reason to reach the same number promptly. The May letters put both men at work before either June appearance.[1][2][4]
 
+The surprise depends on what we mean by two independent discoveries. Give two people a free choice among an astronomical number of equally plausible rules and agreement on one particular rule would be extraordinary. But two people can work at separate desks and face the same shortage of answers. Light, rods, moving clocks and the requirement that successive conversions agree had taken away the spare factor. The attraction of this result lay in what happened to every rival when someone tried the return journey. The June interval measures how close the public results were. It supplies neither a probability for blind guesswork nor a date before which nobody could have worked it out.[1][2][3]
+
 Their disagreement survived where the constraints ran out. Poincaré could retain an ether with a true time the moving clocks did not show. Einstein took the readings as time in the clocks’ own frame. An earlier group with the same measurements, clocks and equations and years of fruitless work would count against discovery at the first opportunity. The June records give us a date by which each man had reached the result. Comparing its entropy production with rival research would require both the energy those routes consumed and the work their results made possible.[1][2][3][4]
 
 In 1909 Einstein calculated fluctuations in radiation and obtained a wave-like term and a term associated with discrete exchanges of energy. Both survived in the same calculation. In dialectical language, recovering features of two accounts that had seemed to exclude each other is a *negation of the negation*. This was a different problem from the moving clocks of 1905, with a similar obligation to preserve measurements both accounts had explained.[5]
 
 In 1977 a navigation-satellite team switched its on-board clock from quartz to full-power cesium operation after fifteen days. Tracking measurements from Panama showed a net gain against ground time of about thirty-eight microseconds a day, close to the prediction from motion and gravity together. A ground crew could keep correcting an accumulating error. Building the rule for drift into the service spared some of those corrections. Other clock errors still required calibration.[6]
 
-The engineers could predict the sign and size of the drift before switching on the cesium clock. To find the energy consequences we would have to follow what customers did with the service. The narrower prediction of June 1905 can be checked on paper. Send a ruler’s length through the conversion and back. Whatever each man thought about the ether, the length had to come back unchanged.[1][6]
+## When a missing mass meant energy
+
+In September 1905 Einstein sent a second paper. If a body sends energy away as light, its mass must fall by an amount fixed by the energy it has lost. More than thirty years later Otto Hahn and Fritz Strassmann found barium among the products of experiments with uranium. Lise Meitner and Otto Frisch faced a question chemistry alone had left open. Could a heavy nucleus split into two pieces and drive them apart? The mass difference could account for roughly 200 million electron volts in a single division. The relation between mass and energy had become an account someone could balance against the products of an experiment.[7]
+
+Special relativity supplied that accounting rule. Identifying the products took chemistry, and understanding their origin took a model of the nucleus. When light nuclei fuse, the same rule connects a smaller final mass with energy released. In 2022 a laboratory fusion target at Lawrence Livermore released more energy than the laser light delivered to that target. A power station faces a longer accounting interval. It must supply electricity to the whole plant and return power to customers over many cycles. A large energy release in one event and a large sustained rate are different achievements.[7][8]
+
+There is a material sense in which the universe pressed the two theorists toward one answer. Any apparatus they built from the same matter had to return consistent readings. Once the constraints could be stated together the choice of rule narrowed, and a paper could carry the result much faster than another generation could build the apparatus. Later investigators used the relation to recognize how much energy a nucleus had released. To establish that inquiry itself follows the route of greatest sustained dissipation would require comparing the research paths that were open and the energy flows each eventually changed. The surprise of 1905 is already exact. What Poincaré obtained by composing motions, Einstein could recover by sending a ruler out and bringing its length home.[1][6][7]
 
 ## Notes
 
@@ -47,6 +55,10 @@ The engineers could predict the sign and size of the drift before switching on t
 5. Einstein’s radiation paper and the historical formulation of dialectics support separate parts of the comparison. [Radiation and conceptual reconstruction](../../research/sources.md#s65) · [Dialectical principles](../../research/sources.md#s130)
 
 6. The flight team identifies the clock modes, ground measurements and predicted net effect. [Navigation satellite team’s report](https://ntrs.nasa.gov/api/citations/19780016585/downloads/19780016585.pdf)
+
+7. Einstein derived the relation for a change in energy and mass. Meitner and Frisch interpreted Hahn and Strassmann’s chemical finding and estimated the energy available from nuclear division. [Einstein’s September paper](https://sites.pitt.edu/~jdnorton/teaching/1632_Einstein_Almost_Everyone/texts/Einstein_1905_Emc2.pdf) · [Meitner and Frisch, 1939](https://doi.org/10.1038/143239a0)
+
+8. The laboratory distinguishes energy from the target and laser energy on the target. Commercial electricity generation requires accounting for the whole facility. [Livermore’s ignition record](https://lmf.llnl.gov/science/achieving-fusion-ignition)
 
 ---
 

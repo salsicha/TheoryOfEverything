@@ -1,19 +1,19 @@
 # Modern Historical Materialism
 
-Why does anything exist, and how does what exists acquire a history? The book follows the question from the first asymmetries and the freezing of water through the origins of life, the organization of labor and the fiber and power networks on which AI runs. It asks whether physical and mathematical constraints steer assembly toward the greatest rate of entropy production an arrangement can sustain.
+Why does anything exist, and how does it change? A cloud of cold atoms, a vent on the Atlantic floor and a mine beneath the Irish Sea give that question three different histories. The book argues that energy follows the quickest available route to the greatest rate of entropy production a system can sustain. It follows that argument through the material conditions that shaped human economies and into the data centers that run AI.
 
-[Start with Chapter 1](manuscript/book/01-from-nothing-to-asymmetry.md) · [Chapter outline](editorial/outline.md)
+[Start with Chapter 1](manuscript/book/01-from-nothing-to-energy.md) · [Chapter outline](editorial/outline.md)
 
 ## Contents
 
-1. [From Nothing to Asymmetry](manuscript/book/01-from-nothing-to-asymmetry.md)
-2. [From energy to structure](manuscript/book/02-from-energy-to-structure.md)
-3. [From hydrogen to gold](manuscript/book/03-from-hydrogen-to-gold.md)
-4. [From matter to life](manuscript/book/04-from-matter-to-life.md)
-5. [Self Reproduction](manuscript/book/05-self-reproduction.md)
+1. [From Nothing to Energy](manuscript/book/01-from-nothing-to-energy.md)
+2. [From Energy to Structure](manuscript/book/02-from-energy-to-structure.md)
+3. [From Structure to Asymmetry](manuscript/book/03-from-structure-to-asymmetry.md)
+4. [From hydrogen to gold](manuscript/book/04-from-hydrogen-to-gold.md)
+5. [From matter to life](manuscript/book/05-from-matter-to-life.md)
 6. [Self Assembly](manuscript/book/06-self-assembly.md)
-7. [Self Domestication](manuscript/book/07-self-domestication.md)
-8. [Self Modeling](manuscript/book/08-self-modeling.md)
+7. [Self Reproduction](manuscript/book/07-self-reproduction.md)
+8. [Self Domestication](manuscript/book/08-self-domestication.md)
 9. [Feudalism and Capitalism](manuscript/book/09-feudalism-and-capitalism.md)
 10. [Chariots and Steam Engines](manuscript/book/10-chariots-and-steam-engines.md)
 11. [Morality and language](manuscript/book/11-morality-and-language.md)
@@ -36,7 +36,7 @@ The steam engine appears in Chapter 10, and the woven portrait in the earlier se
 
 Each chapter links to its sources. The research companion holds the natural experiments, historical comparisons and reproducible analyses. The mine investment study compares forecasts made from engineering estimates with operators’ later decisions. [Mine investment results](research/mine-investments.md) · [Two mines and restart](research/two-mines.md) · [Research companion](research/evidence.md) · [Source ledger](research/sources.md) · [Methods](research/causal-inference.md) · [Data and scripts](scripts/README.md)
 
-The editorial files trace the development of the argument. The [previous outline](https://github.com/salsicha/TheoryOfEverything/blob/94289664f241cc13c695105e0affecc7625b9136/editorial/outline.md) preserves the two original opening chapters. The [fourteen-chapter outline](editorial/archive/fourteen-chapter-outline.md) records an earlier arrangement. The earlier eighteen-chapter plan preserves the factory, bakery, nitroplast, Osaka and Sam Eyde studies. [Expanded ideas](editorial/ideas.md) · [Original notes](editorial/notes.md) · [Manuscript guide](editorial/manuscript-guide.md) · [Earlier eighteen-chapter plan](editorial/archive/eighteen-chapter-outline.md) · [Earlier twelve-chapter book](editorial/manuscript-guide.md#the-twelve-chapter-draft)
+The editorial files trace the development of the argument. The full November 26 self-modeling chapter is available alongside its shorter treatment in the epilogue. Earlier editions preserve the woven portrait, the factory, the bakery and the three studies of nitrogen use. [Expanded ideas](editorial/ideas.md) · [Original notes](editorial/notes.md) · [Manuscript guide and earlier editions](editorial/manuscript-guide.md#earlier-reading-orders) · [November 26 chapter](editorial/archive/november-26/self-modeling.md) · [Previous outline](https://github.com/salsicha/TheoryOfEverything/blob/8fdfb3b1362a00a43c650f6f548a54f685d7e266/editorial/outline.md)
 
 ## Quoting the book
 

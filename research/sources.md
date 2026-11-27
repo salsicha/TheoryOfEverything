@@ -2,15 +2,15 @@
 
 This ledger accompanies the [sixteen-chapter manuscript](../README.md#contents). Each chapter’s notes point to the observations, documents and models on which its argument rests. The [outline](../editorial/outline.md) and [expanded ideas](../editorial/ideas.md) trace the argument. The [methods guide](causal-inference.md) and [methodological afterword](../manuscript/afterword.md) accompany the research. Earlier dated entries retain the numbering of the [twelve-chapter draft](../editorial/archive/twelve-chapter-outline.md) or the [eighteen-chapter plan](../editorial/archive/eighteen-chapter-outline.md). Dated entries also refer to the [earlier fifteen-chapter edition](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book). S180–S183 document the additions on stellar gold, protein folding, language and AI.
 
-Chapter 1 moves from Leibniz’s question and a laboratory vacuum to a model for a region’s shared physical constants. A cobalt nucleus distinguishes left from right, the cosmos retains a net excess of matter, heat has a direction in time, and small density differences grow under gravity. [Leibniz and the vacuum measurement](#s191) · [Field transitions](#s189) · [Parity and baryogenesis](#s23) · [The baryon-decay measurement](#s77) · [The thermal arrow](#s24) · [Cosmic density and gradients](#s184)
+Chapters 1–3 follow Leibniz’s question through laboratory tests of internal time, external drives and the instability of symmetric arrangements. The cosmic cases concern the handed weak interaction, the baryon surplus, the thermal arrow and the growth of density differences. [Leibniz and the vacuum](#s191) · [Relational time and driven fields](#s195) · [Granular instability](#s76) · [Parity and baryogenesis](#s23) · [Baryon decays](#s77) · [The thermal arrow](#s24) · [Cosmic density](#s184)
 
-Chapter 3 follows the material from stars to a chemical energy gradient on Earth. [Presolar grains, condensation and vent chemistry](#s185)
+Chapter 4 follows the material from stars to a chemical energy gradient on Earth. [Presolar grains, condensation and vent chemistry](#s185)
 
-Chapter 4 follows the proposed route from that gradient to a lineage. [Carbon fixation, the balance of a cycle, and inheritance across division](#s186)
+Chapter 5 follows the proposed route from that gradient to a lineage. [Carbon fixation, the balance of a cycle, and inheritance across division](#s186)
 
-Chapter 7 connects an oral history of collective killing to the proposed selection for docility and to evidence about how the human face grows. [Human self-domestication](#s187)
+Chapter 8 connects an oral history of collective killing to the proposed selection for docility and to evidence about how the human face grows. [Human self-domestication](#s187)
 
-Chapter 8 connects the human studies of self-generated touch and confidence to the proposed physical account of learning. [Self-modeling and dissipative adaptation](#s194)
+The epilogue connects the human studies of self-generated touch and confidence to the proposed physical account of learning. [Self-modeling and dissipative adaptation](#s194)
 
 Chapter 9 traces changes in who controlled land, earned a wage and could finance machinery, from the Walsham court rolls to the Leeds cloth dressers’ account to Parliament. [Historical materialism at Walsham and Leeds](#s188)
 
@@ -18,7 +18,7 @@ Chapter 13 develops the proposed hierarchical entropy rejection funnel for the p
 
 Chapter 15 asks whether life first arose around Population I stars and whether the decline of such a star would first make migration worthwhile for the people it sustained. [Stellar populations, the brightening Sun and interstellar passages](#s190)
 
-Chapters 2, 6 and 12 add sources on self-assembly and the dot-com boom. [Existence and ordered matter](#s191) · [Theories of assembly](#s192) · [Telecommunications and advertising](#s193)
+Chapters 2, 6, 7 and 12 draw on experimental assembly, autopoiesis, cell division and the dot-com boom. [Autopoiesis](#s33) · [Nitroplast inheritance](#s166) · [Existence and ordered matter](#s191) · [Theories of assembly](#s192) · [Telecommunications and advertising](#s193)
 
 ## S01
 
@@ -1186,7 +1186,7 @@ Chung, McHale, Louis and Eaton inferred a transition-path time of about 2 micros
 
 ## S184
 
-**From assembled constants to cosmic symmetry and gradients (Chapter 1).** Giudice, Kehagias and Riotto derive paired changes of the vacuum energy and the Higgs mass parameter. In sections 3.2–3.3 they consider how the last transition could trigger inflation inside one bubble. Sufficient expansion could give the observable region common values and a smooth background. Uniform constants alone leave many possible distributions of matter. The wider history of the constants and the eventual emergence of asymmetry at every cosmic stage are the book’s proposals. [Field model, sections 2–3](https://arxiv.org/abs/1907.05370) · [Further work on the constants](#s189) · [Inflation and the horizon](https://doi.org/10.1103/PhysRevD.23.347)
+**From assembled constants to cosmic symmetry and gradients (Chapters 2–3).** Giudice, Kehagias and Riotto derive paired changes of the vacuum energy and the Higgs mass parameter. In sections 3.2–3.3 they consider how the last transition could trigger inflation inside one bubble. Sufficient expansion could give the observable region common values and a smooth background. Uniform constants alone leave many possible distributions of matter. The wider history of the constants and the eventual emergence of asymmetry at every cosmic stage are the book’s proposals. [Field model, sections 2–3](https://arxiv.org/abs/1907.05370) · [Further work on the constants](#s189) · [Inflation and the horizon](https://doi.org/10.1103/PhysRevD.23.347)
 
 Guth and Pi calculate spatial variations in the time of energy release, with a fluctuation amplitude about 10⁵ times too large in their 1982 model. Kofman, Linde and Starobinsky calculate particle production during reheating. D’Onofrio and Rummukainen calculate the electroweak crossover as the plasma cools. That change in particle interactions can occur in spatially uniform matter. The growth of local density contrasts requires a seed and dynamics that amplify it. [Inflationary fluctuations](https://doi.org/10.1103/PhysRevLett.49.1110) · [Reheating](https://arxiv.org/abs/hep-th/9405187) · [Electroweak crossover](https://arxiv.org/abs/1508.07161)
 
@@ -1260,9 +1260,25 @@ Gurnett and colleagues report a plasma oscillation near 2.6 kilohertz in April 2
 
 **Self-modeling, plasticity and dissipative adaptation.** Kilteni, Houborg and Ehrsson changed the added interval between a voluntary movement and a tap it triggered. A two-tap judgment measured a shift in expected timing. Separate comparisons used active and passive movement and measured cerebellar–somatosensory coupling. [Delay and learning](https://doi.org/10.7554/eLife.42888) · [Voluntary and passive movement](https://doi.org/10.1016/j.isci.2020.100843) · [Cerebellar and cortical signals](https://pmc.ncbi.nlm.nih.gov/articles/PMC6975290/)
 
-Bi and Poo measured changes in the strength of synapses in cultured hippocampal neurons. Rangaraju, Calloway and Ryan measured local energy use in working nerve terminals. The energy supply and the order of activity have distinct roles. Chapter 8 uses the driven-transition theory to ask which neural changes form and last under a repeated sequence. Predicting their energetic ranking in humans requires further measurements. [Timing-dependent plasticity](https://doi.org/10.1523/JNEUROSCI.18-24-10464.1998) · [ATP and vesicle cycling](https://doi.org/10.1016/j.cell.2013.12.042) · [Perunov, Marsland and England](https://doi.org/10.1103/PhysRevX.6.021036)
+Bi and Poo measured changes in the strength of synapses in cultured hippocampal neurons. Rangaraju, Calloway and Ryan measured local energy use in working nerve terminals. The energy supply and the order of activity have distinct roles. The archived November 26 self-modeling chapter uses the driven-transition theory to ask which neural changes form and last under a repeated sequence. Predicting their energetic ranking in humans requires further measurements. [Timing-dependent plasticity](https://doi.org/10.1523/JNEUROSCI.18-24-10464.1998) · [ATP and vesicle cycling](https://doi.org/10.1016/j.cell.2013.12.042) · [Perunov, Marsland and England](https://doi.org/10.1103/PhysRevX.6.021036)
 
 Desender, Boldt and Yeung studied choices to seek more evidence at matched visual accuracy. Fleming and colleagues measured how accurately people judged their own perceptual and memory performance after prefrontal injury. The book’s definition of intelligence connects monitoring a judgment with using that estimate to change the next action. [Confidence and information seeking](https://doi.org/10.1177/0956797617744771) · [Perceptual and memory judgments](https://doi.org/10.1093/brain/awu221)
+
+## S195
+
+**Clocks made from internal relations and work supplied to a quantum field.** Page and Wootters model correlations in a stationary whole. Kuypers and Rijavec describe measurement by an internal observer. Barontini’s 2026 cold-atom experiment orders expansion and recollapse using an internal measure, with the laboratory time available for comparison. These are ways to describe change without a fundamental external clock. The philosophical argument that nothingness cannot exist has a separate premise. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Kuypers and Rijavec](https://doi.org/10.1103/qfns-48vq) · [Barontini’s experiment](https://doi.org/10.1103/1h9j-df4k)
+
+Wilson and colleagues pumped a circuit to vary an effective electromagnetic boundary and observed microwave radiation. Pusz and Woronowicz analyze passivity under cyclic operations. An early-universe extension has to identify what drives the change and where the released energy goes. The field models in S189 start from specified couplings and stored energy. [Driven electromagnetic boundary](https://doi.org/10.1038/nature10561) · [Passivity of ground states](https://doi.org/10.1007/BF01614224) · [Cosmic field models](#s189)
+
+## S196
+
+**The audience, the computing plant and the storyteller.** Guess and colleagues varied feed order on Facebook and Instagram. Time and activity changed while the study detected no effect on measured issue or affective polarization. Meta’s 2025 accounts report advertising revenue and purchases of property and equipment. The purchase total covers multiple purposes. [Randomized feed study](https://doi.org/10.1126/science.abp9364) · [Meta’s 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)
+
+Brown and colleagues document the web-text component of GPT-3’s training data. Doshi and Hauser tested how access to model-generated starting ideas affected short stories, including the similarity between submissions. The proposed succession from dark fiber to computing capacity to new demand for electricity requires separate evidence on physical use and reuse. [Training corpus](https://arxiv.org/abs/2005.14165) · [Story experiment](https://doi.org/10.1126/sciadv.adn5290) · [Fiber and interconnection](#s193) · [Electricity and heat](#s175)
+
+## S197
+
+**Where relativity enters nuclear energy accounting.** Einstein’s September 1905 paper derived a mass change for a body emitting energy. Meitner and Frisch used the relation in interpreting the barium found by Hahn and Strassmann and estimated the energy available in a division of uranium. The 2022 Livermore result compares fusion output with energy delivered to the target. A prediction about usable power requires output and costs for the entire installation over time. [Einstein on mass and energy](https://sites.pitt.edu/~jdnorton/teaching/1632_Einstein_Almost_Everyone/texts/Einstein_1905_Emc2.pdf) · [Meitner and Frisch](https://doi.org/10.1038/143239a0) · [Livermore’s ignition record](https://lmf.llnl.gov/science/achieving-fusion-ignition)
 
 ## Outstanding research and attribution
 

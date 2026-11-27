@@ -1,4 +1,4 @@
-# Chapter 3 — From hydrogen to gold
+# Chapter 4 — From hydrogen to gold
 
 Ann Nguyen and Ernst Zinner aimed an electron beam at a speck of meteorite dust half a micrometer wide. Gold showed up in the spectrum. It came from the mount on which they had spread the dust in their St. Louis laboratory. What had drawn them to this grain from the meteorite Acfer 094 was its oxygen. For every atom of ordinary oxygen-16, they had found nearly three times as much oxygen-17 as they expected from material formed with the Sun.[1]
 
@@ -18,7 +18,7 @@ The gold beneath Nguyen and Zinner’s sample took a different route. Successive
 
 ## What a planet inherits
 
-A star can make an oxygen nucleus deep in its interior. To make a grain of rock, the oxygen must reach a place cool enough for chemical bonds to last. Stellar winds and explosions scattered material enriched in oxygen, magnesium, silicon and iron. In cooler gas atoms could keep their outer electrons. The nuclei determined which elements were present. The electrons determined how those elements could bind to one another.[1][4][6]
+Deep in a star, six protons make a nucleus carbon and eight make it oxygen. For an oxygen nucleus to take its place in rock, it has to leave that heat behind. Stellar winds and explosions scattered oxygen, magnesium, silicon and iron. In the cooling gas, electrons could stay bound to nuclei and atoms could join to make a crystal. The isotopes in the grain on Nguyen and Zinner’s mount recorded its stellar history. The mineral they identified recorded what the atoms could do once they cooled.[1][4][6]
 
 Some grains reached the young solar system intact. Others condensed there as the gas cooled. Katharina Lodders calculated which solids could persist in a gas of solar composition at one ten-thousandth of a bar. A magnesium-rich form of olivine began to condense at about 1,350 kelvin. Water ice first became stable near 180 kelvin. Across that gap some oxygen could travel in solid grains while water remained in the gas. A disk gathering material into planets could sort those two supplies of oxygen long before an ocean lay against a rock.[1][6]
 
@@ -58,4 +58,4 @@ The two olivine grains on the gold mount tell us how early this family of minera
 
 ---
 
-[← From energy to structure](02-from-energy-to-structure.md) · [Contents](../../README.md#contents) · [From matter to life →](04-from-matter-to-life.md)
+[← From Structure to Asymmetry](03-from-structure-to-asymmetry.md) · [Contents](../../README.md#contents) · [From matter to life →](05-from-matter-to-life.md)

@@ -1,4 +1,4 @@
-# Chapter 5 — Self Reproduction
+# Chapter 7 — Self Reproduction
 
 A link broke in the wall on Francisco Varela, Humberto Maturana and Ricardo Uribe’s computer. Inside the wall a catalyst helped make new links from material passing through. If a replacement reached the gap in time, the wall closed. If the catalyst escaped first, the parts dispersed. The program gave each piece rules for what it could do when it met another.[1]
 
@@ -26,7 +26,9 @@ A daughter that inherits the nitrogen fixer can put its share of sunlight to wor
 
 The light falling on a patch of sea sets a limit for all its cells. Coordinated division can bring them closer to that limit if sunlight still goes unused and the daughters survive. If one alga shades another, its gain can come at its neighbor’s expense. An entropy budget for the patch must also count energy stored in biomass or carried out by the current.[3]
 
-A daughter that keeps the partnership can do work in water where neither partner alone could support the same exchange. How did the two acquire a working arrangement in the first place? Passing it on and assembling it are two events with different histories.[3]
+In what sense does life reproduce *to consume free energy*? Every daughter that inherits this partnership can draw on sunlight where the shortage of available nitrogen would otherwise stop its growth. A cell that lives for one season spends the gradient for one season. A lineage can keep drawing on it after every original cell has died, and can spread to sunlit water beyond the reach of the parent. Selection needs no foresight to produce that effect. A lineage whose daughters can feed in the next patch leaves descendants there.[1][3]
+
+The word *to* makes a claim we can check. Start with the same supply of light and nutrients and follow what happens to it over several generations. New cells lock up some energy as biomass. Some light passes through the water unused. Once the surface fills with cells, a daughter may shade a neighbor. The proposed energetic advantage of reproduction is the extra flow a multiplying lineage can maintain across that whole history. A count of daughters gives us the number to follow. The energy left in the water and the material they export would tell us how much of the gradient they used.[3][4]
 
 ## Notes
 
@@ -36,6 +38,8 @@ A daughter that keeps the partnership can do work in water where neither partner
 
 3. Hagino, Coale, Cornejo-Castillo and Suzuki provide separate evidence about origin, division, size and loss. [Primary nitroplast studies](../../research/sources.md#s166)
 
+4. The functional reading of reproduction and the prediction about the rate across generations are the book’s. The bounds include energy retained as biomass and taken up by competitors. [Power, selection and entropy production](../../research/sources.md#s179) · [The partnership and its measured sizes](../../research/sources.md#s166)
+
 ---
 
-[← From matter to life](04-from-matter-to-life.md) · [Contents](../../README.md#contents) · [Self Assembly →](06-self-assembly.md)
+[← Self Assembly](06-self-assembly.md) · [Contents](../../README.md#contents) · [Self Domestication →](08-self-domestication.md)

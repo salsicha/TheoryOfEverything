@@ -1,4 +1,4 @@
-# Chapter 7 — Self Domestication
+# Chapter 8 — Self Domestication
 
 /Twi had killed three people. Then his own community killed him. Richard Lee recorded the account among the Ju/’hoansi of the Kalahari. After /Twi died, the women as well as the men publicly took responsibility for his death. Lee described their agreement as rare. In a feud, a bereaved family had another family to hold responsible. Here a whole community claimed the deed.[1]
 
@@ -17,6 +17,8 @@ A death could end a danger that day. Its effect on the next generation depended 
 Lee found out how fast that learning could happen. For a Christmas feast at /Xai/xai he bought a black ox big enough to feed about a hundred and fifty people. For days his hosts told him the animal was too thin. When the hide came off, Lee could see two inches of fat. Later Tomazo explained why people belittled even a good kill. A man who supplied meat might begin to think the people eating it ought to do as he said. They ate Lee’s ox for two days. By the end of the feast he had a better idea of his standing.[1][3]
 
 Wrangham’s account makes a further claim about obedience. If defying a collective judgment also carried a cost, the more pliant members of a group might have left more children. Descendants could then be both milder in a quarrel and more subservient to the group. Those traits can come apart. A calm person can refuse an order. An angry person can obey through fear. What became advantageous would depend on whose anger drew a sanction and whose orders the others enforced.[2][3]
+
+Chimpanzees already know something about the value of an ally. In Alicia Melis and her colleagues’ experiments, a chimpanzee could open a door to let another animal help with a task it could not complete alone. The animals became selective about which partner they let in. The change at issue in human self-domestication is more particular. People who cooperate can decide together what conduct they will tolerate in a third person. A child then grows up among adults whose chances of being there depended in part on other people’s judgments. Cooperation has begun to change the population that will do the cooperating.[2][8]
 
 ## Why selection on temperament could change the face
 
@@ -54,6 +56,8 @@ At the Christmas feast, Lee’s hosts made sure that buying the ox gave him no a
 
 7. Lee describes the arrow owner’s role in dividing meat and the dried share kept for an absent partner. The rule concerns access to food across households and across hunts. Comparing the energy returned by cooperative work requires further measurements. [Lee on the distribution of meat](https://voidnetwork.gr/wp-content/uploads/2016/08/The-Dobe-Ju-hoansi-by-Richard-B.-Lee.pdf) · [Sharing and provisioning](../../research/sources.md#s153) · [Comparison of foraging returns](../../research/sources.md#s179) · [Chapter sources](../../research/sources.md#s187)
 
+8. Melis, Hare and Tomasello report partner recruitment and choice by chimpanzees. Extending coalitionary selection across human prehistory is a separate historical hypothesis. [Cooperative partner choice](https://doi.org/10.1126/science.1123007) · [Comparative evidence](../../research/sources.md#s14)
+
 ---
 
-[← Self Assembly](06-self-assembly.md) · [Contents](../../README.md#contents) · [Self Modeling →](08-self-modeling.md)
+[← Self Reproduction](07-self-reproduction.md) · [Contents](../../README.md#contents) · [Feudalism and Capitalism →](09-feudalism-and-capitalism.md)

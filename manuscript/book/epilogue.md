@@ -10,7 +10,15 @@ In 2025 the world’s data centers used an estimated **485 terawatt-hours** of e
 
 In 1943 Arturo Rosenblueth, Norbert Wiener and Julian Bigelow followed a feedback signal through a simpler movement, a hand bringing a glass to the mouth. A correction that arrived late or went too far could spill the water. In 1948 Wiener called the wider study of control and communication *cybernetics*. The same questions apply to a cooling plant. Which temperature does it measure, and can it act before that reading goes out of date?[2]
 
-Darwin noticed that observations against his theory were the ones he tended to forget. He made a practice of writing them down while he still remembered them. A mind observing how its own memory works, then using that observation to change how it works next time, illustrates the book’s definition of intelligence as a hierarchical and recursive self-modeling system. A thermostat can respond to a change in temperature long before anything in it can represent why its own reading went wrong.[12]
+## What a system knows about itself
+
+Konstantina Kilteni and her colleagues asked people to tap a sensor with the right index finger. Each tap triggered a motor that touched the left fingertip. An expected touch felt fainter. Then the team put an extra tenth of a second between the action and its consequence. After five hundred repetitions the late tap felt fainter than before. A prediction about the body’s own action had changed, and a person could report the difference without explaining how the brain learned it.[13]
+
+In Oxford a prediction could cost the observer something. Volunteers judged the average color of eight shapes. One point bought a second look. The researchers adjusted the arrays so people could give two sets of trials equally accurate answers, yet people paid more often when the colors in an array disagreed. A judgment about the quality of their first look determined whether they took another. The second look could then revise the judgment that had sent them back. Here are the hierarchy and the recursion in the book’s definition of intelligence.[13]
+
+Darwin noticed that observations against his theory were the ones he tended to forget. He made a practice of writing them down while he still remembered them. A mind observing how its own memory works, then using that observation to change how it works next time, illustrates the book’s definition of intelligence as a hierarchical and recursive self-modeling system. A thermostat can respond to a change in temperature long before anything in it can represent why its own reading went wrong.[11]
+
+## The cost of learning
 
 In 1955 John McCarthy, Marvin Minsky, Nathaniel Rochester and Claude Shannon proposed a summer project on *artificial intelligence*. Their questions included language, abstraction and neural networks. A programmer writing rules for recognizing an object and a programmer training a network could apply under the same name. To train a network took examples, a way of scoring errors and machines able to adjust many connections.[2][3]
 
@@ -61,13 +69,23 @@ On an oversubscribed grid a new connection may simply displace another user. Hea
 
 In Chapter 2, one five in a Sudoku column settled both gaps in a row. In Toronto a memory limit ruled out a single-card machine before anyone ran the network. Google’s voice-search forecast made a chip worth building, and a town with a use for warm water made a heat pump worth running. These are choices along the funnel that produced AI. Each has a constraint one could have named before learning the outcome.[1][3][4]
 
+## Who can put the machines to work?
+
+The dot-com boom laid fiber, and ordinary use of the web left a record of what people had written. For GPT-3, Tom Brown and his colleagues filtered a web crawl, combined it with other collections and trained a network on the resulting text. The traffic that helped pay for the network had left material for a use few of its early subscribers had bought a connection to provide. A sentence travels through a fiber connection as a signal. Stored with many others, it can help train a machine that takes instructions in sentences.[12][14]
+
+That inheritance changes who can put a machine to work. Anil Doshi and Oliver Hauser asked people to write an eight-sentence story. Some had to start unaided. Others could ask a model for one or as many as five starting ideas. Readers rated the assisted stories more highly on average, with the greatest gains among writers who scored lower on the initial creativity task. The assisted stories also grew more alike. The cost of getting a serviceable opening had fallen. Choosing which opening to reject and where to take the one that remained was still the writer’s work.[15]
+
+Call the dot-com era the revenge of the math nerd and this one the *revenge of the storyteller*. The writer who requested five beginnings could try them all without writing a line of code. The people who can specify a result and recognize when it is wrong have acquired a new use for their judgment. Behind each attempt stand the engineers who built the service, the writers whose work entered its training and the operator buying electricity for the next request.[4][14][15]
+
+In that sense AI is the next energy gradient in the book’s account. There was a stock of language and an audience with work it wanted done. Bringing them together created a demand for computation that could finance another round of servers. In physical terms the gradient runs from the supply of electrical work to the surroundings that receive the heat. To say that AI exists to produce entropy is to predict which services will spread, which power supplies they will draw into use and what those supplies would otherwise have powered. The heat meters give that prediction a unit.[1][4][14]
+
 ## What a dark data center could leave behind
 
-The meter in Finland gives a measure of the difference between a connected site and a useful load. In July the site drew 4,034 megawatt-hours of electricity and sent 476 megawatt-hours of heat through the recovery connection. In January it drew less electricity and sent the town 663 megawatt-hours of heat. A nearby customer, a pipe and the season changed how much of the output another system could use.[1][11]
+The meter in Finland gives a measure of the difference between a connected site and a useful load. In July the site drew 4,034 megawatt-hours of electricity and sent 476 megawatt-hours of heat through the recovery connection. In January it drew less electricity and sent the town 663 megawatt-hours of heat. A nearby customer, a pipe and the season changed how much of the output another system could use.[1]
 
 AI is a dissipative system at the scale of the running service. A request can set many processors to work, and keeping them within their temperature limits means carrying away heat. The demand paying for another rack can increase the rate at which electricity passes through the site. When the demand stops, an idle rack cannot stand in for the production of entropy measured while it was busy. A whole-system claim must count competing loads and displaced fuels as well.[1][4][6]
 
-The dot-com crash left a distinction worth making in the next investment boom. A strand of dark fiber could wait for new equipment. A chip bought for a particular model may have little use by the time a second buyer appears. An energized substation, a fiber route, a building and a cooling connection could still save a later operator years of work. The question is which of those assets its next use requires, and what a tenant must spend to make them work together. That is a prediction about reuse, open to a later reading of the lease, the equipment list and the power meter.[1][13]
+The dot-com crash left a distinction worth making in the next investment boom. A strand of dark fiber could wait for new equipment. A chip bought for a particular model may have little use by the time a second buyer appears. An energized substation, a fiber route, a building and a cooling connection could still save a later operator years of work. The question is which of those assets its next use requires, and what a tenant must spend to make them work together. That is a prediction about reuse, open to a later reading of the lease, the equipment list and the power meter.[1][12]
 
 In Mäntsälä the town had a use for warm water as well as the company having a use for computation. If a hall goes dark and a new enterprise lights it again, the first operator will have helped determine what the second can build there. The power drawn on the first day of its new use will tell us when that inheritance became an operating system again.
 
@@ -93,11 +111,15 @@ In Mäntsälä the town had a use for warm water as well as the company having a
 
 10. Warde’s appendix I, tables 1 and 3, gives total primary energy, coal and energy per person for both years. Only the coal component enters the entropy table. Treating its heat as flowing from a 1,000 K source to a 300 K sink gives a common furnace example. Actual furnaces, engines and users delivered heat and work at different temperatures. The national totals in the text include the other fuels, food and mechanical sources that Warde counted. [Warde’s tables](https://histecon.fas.harvard.edu/energyhistory/data/Warde_Energy%20Consumption%20England.pdf#page=116) · [Conversions and boundaries](../../research/sources.md#s178)
 
-11. The molecular study describes the blinded samples that opened the book. [Graham’s specimens](../../research/sources.md#s161)
+11. Darwin describes recording evidence that challenged his theory. [Darwin’s example and its source](../../editorial/archive/fourteen-chapter/self-modeling.md)
 
-12. Darwin describes the practice of recording contrary evidence in his autobiography. The definition of intelligence and the distinction from feedback are the book’s. [Self Modeling](08-self-modeling.md#knowing-when-to-look-again) · [Darwin’s own example in the earlier draft](../../editorial/archive/fourteen-chapter/self-modeling.md)
+12. Cogent describes its use of unlit fiber and purchased network assets. Reuse of future AI sites is a conditional comparison. [Dot-com infrastructure and billing](12-bubbles-and-bursts.md)
 
-13. Cogent describes its use of unlit fiber and purchased network assets. Reuse of future AI sites is a conditional comparison. [Dot-com infrastructure and billing](12-bubbles-and-bursts.md)
+13. Kilteni and colleagues altered the timing of self-touch. Desender and colleagues measured when observers would pay for more visual information. [Fingertip experiment](https://doi.org/10.7554/eLife.42888) · [Confidence and information seeking](https://doi.org/10.1177/0956797617744771) · [Evidence on neural work and self-modeling](../../research/sources.md#s194)
+
+14. Brown and colleagues describe filtering and weighting the training corpora. Financial records document the role of advertising and capital investment in building the computing infrastructure. [Language-model training, section 2.2](https://arxiv.org/abs/2005.14165) · [Meta’s 2025 filing](https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)
+
+15. Doshi and Hauser randomized access to model-generated starting ideas and obtained independent evaluations of the resulting stories. Their results concern short fiction under these conditions. [Creativity and diversity in the stories](https://doi.org/10.1126/sciadv.adn5290)
 
 ---
 

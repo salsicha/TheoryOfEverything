@@ -46,7 +46,7 @@ In Oxford a second look cost one point. The volunteer could judge whether it was
 
 4. Rangaraju, Calloway and Ryan measured ATP at presynaptic terminals and examined the cost of the synaptic vesicle cycle. [Local ATP supply during signaling](https://doi.org/10.1016/j.cell.2013.12.042)
 
-5. Perunov, Marsland and England relate transition probabilities in driven systems to accessibility, work histories and fluctuations. Applying that framework to the formation of a self-model is the book’s proposed explanation. [Statistical physics of adaptation](https://doi.org/10.1103/PhysRevX.6.021036) · [Self Assembly](06-self-assembly.md#which-arrangements-does-a-drive-favor)
+5. Perunov, Marsland and England relate transition probabilities in driven systems to accessibility, work histories and fluctuations. Applying that framework to the formation of a self-model is the book’s proposed explanation. [Statistical physics of adaptation](https://doi.org/10.1103/PhysRevX.6.021036) · [Self Assembly](../../../manuscript/book/06-self-assembly.md#which-arrangements-does-a-drive-favor)
 
 6. Desender, Boldt and Yeung varied the mean color and the spread of colors independently. In their first experiment a participant could spend one point for a clearer display. Confidence and requests for more evidence differed between two conditions matched for performance. [Color judgments and the price of a second look](https://doi.org/10.1177/0956797617744771)
 
@@ -54,4 +54,4 @@ In Oxford a second look cost one point. The volunteer could judge whether it was
 
 ---
 
-[← Self Domestication](07-self-domestication.md) · [Contents](../../README.md#contents) · [Feudalism and Capitalism →](09-feudalism-and-capitalism.md)
+[November 26 reading order](https://github.com/salsicha/TheoryOfEverything/blob/8fdfb3b1362a00a43c650f6f548a54f685d7e266/editorial/outline.md) · [Self-modeling in the current epilogue](../../../manuscript/book/epilogue.md#what-a-system-knows-about-itself)

@@ -16,7 +16,7 @@ A watt at a useful load and a watt lost to friction both appear on an energy acc
 
 Denis Noble found a concrete meaning for *downward causation* in models of the heartbeat. The behavior of channels in a cell membrane depends on the voltage across it. The flow of ions through the channels helps produce that very voltage. Hold the voltage fixed from outside and one can study what the channels do at a chosen value. Let it vary again and the state of the cell as a whole changes what each channel does next. The influence runs both ways through physical interactions one can measure.[4]
 
-The wall of a model cell in the previous chapter supplies a simple *work-constraint cycle*. An intact wall holds a catalyst near its supply. The reactions it makes possible can produce more wall material. The existing constraint directs a flow, and some of the resulting work renews the constraint. In the rotating dish the experimenter pays for the motion of the magnet. The disks arrange themselves, but spinning them has yet to build a motor that will keep them spinning.[1][4]
+The wall of a model cell supplies a simple *work-constraint cycle*. An intact wall holds a catalyst near its supply. The reactions it makes possible can produce more wall material. The existing constraint directs a flow, and some of the resulting work renews the constraint. In the rotating dish the experimenter pays for the motion of the magnet. The disks arrange themselves, but spinning them has yet to build a motor that will keep them spinning.[1][4]
 
 Adrian Bejan’s *constructal law* asks how the shape of a system carrying a current can change to improve access to that current. A broad channel carries a long-distance flow with little resistance. Smaller branches reach sites the broad channel would never visit. With a fixed amount of material, spending it on the trunk leaves less for the branches. The resulting prediction concerns geometry under a stated limit. One can compare the flow through two arrangements using the same material and the same driving difference.[5]
 
@@ -42,4 +42,4 @@ Together these accounts suggest a way to predict change before seeing its result
 
 ---
 
-[← Self Reproduction](05-self-reproduction.md) · [Contents](../../README.md#contents) · [Self Domestication →](07-self-domestication.md)
+[← From matter to life](05-from-matter-to-life.md) · [Contents](../../README.md#contents) · [Self Reproduction →](07-self-reproduction.md)

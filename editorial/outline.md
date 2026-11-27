@@ -1,106 +1,106 @@
 # Modern Historical Materialism
 
-Physical and Platonic constraints narrow what can form. An energy gradient supplies work, and a structure that survives changes the conditions for the next structure. The book argues that this succession takes the quickest feasible route to the highest rate of entropy production the whole system can sustain. Its physical, biological and historical examples test different steps in that claim. [Expanded ideas](ideas.md) · [Reading order](../README.md#contents)
+A gradient supplies energy, a constraint rules out routes, and the structure that forms changes what can happen next. The book argues that this process takes the quickest available route to the greatest rate of entropy production that can be sustained. The question runs from the work that gravity can do on a cloud to the power a new computing service can draw from a grid. [Expanded ideas](ideas.md) · [Reading order](../README.md#contents)
 
 <a id="introduction"></a>
 <a id="chapter-01"></a>
 
-### 1. From Nothing to Asymmetry
+### 1. From Nothing to Energy
 
-Starting from the argument that indeterminacy rules out absolute nothingness, the chapter asks what could give the universe its shared constants, weak decay its handedness, matter its surplus over antimatter, and heat flow its arrow of time. [Read chapter 1](../manuscript/book/01-from-nothing-to-asymmetry.md)
+Absolute nothingness would rule out even the possibility of change, and a clock built from the relations inside a cloud of atoms shows what it could mean for the universe to have a history with no time before it. [Read chapter 1](../manuscript/book/01-from-nothing-to-energy.md)
 
 <a id="chapter-02"></a>
 
-### 2. From energy to structure
+### 2. From Energy to Structure
 
-A tilt can make water carry more heat in a single circulating roll, while cooling can lock the same molecules into ice, showing how geometry and temperature select which structures form. [Read chapter 2](../manuscript/book/02-from-energy-to-structure.md)
+A circulating roll of water, a grain of ice and a circuit that emits photons when its boundary changes show how an arrangement constrains its parts and suggest how an evolving field could establish a physical constant. [Read chapter 2](../manuscript/book/02-from-energy-to-structure.md)
 
 <a id="chapter-03"></a>
 
-### 3. From hydrogen to gold
+### 3. From Structure to Asymmetry
 
-Light released by hydrogen molecules let gas clouds cool and form stars, whose lives and deaths produced both gold and the iron in seafloor rock that reacts with water to release hydrogen. [Read chapter 3](../manuscript/book/03-from-hydrogen-to-gold.md)
+Glass beads cluster when a small surplus slows their escape, giving us a way to ask which cosmic differences grew from an instability, which belong to the laws, and which supplied the gradients that formed stars. [Read chapter 3](../manuscript/book/03-from-structure-to-asymmetry.md)
 
 <a id="chapter-04"></a>
 
-### 4. From matter to life
+### 4. From hydrogen to gold
 
-At vents like Lost City, life could have taken hold as soon as hydrogen-fed reactions in a mineral pore produced a compartment whose daughters inherited the catalysts to build their own walls. [Read chapter 4](../manuscript/book/04-from-matter-to-life.md)
+The light shed by hydrogen molecules helped gravity assemble the first stars, whose nuclear reactions and violent remnants supplied the elements from which planets, gold grains and hydrogen-producing seafloors could form. [Read chapter 4](../manuscript/book/04-from-hydrogen-to-gold.md)
 
 <a id="chapter-05"></a>
 
-### 5. Self Reproduction
+### 5. From matter to life
 
-A model cell that rebuilds its own wall illustrates autopoiesis, and a dividing alga that passes a nitrogen-fixing partner to each daughter shows how the next generation inherits the ability to grow in nitrogen-poor water. [Read chapter 5](../manuscript/book/05-self-reproduction.md)
+At vents like Lost City, mineral pores could keep hydrogen-fed reactions going until a daughter inherited the means to build its own wall, allowing life to begin in the first interval that could sustain it. [Read chapter 5](../manuscript/book/05-from-matter-to-life.md)
 
 <a id="chapter-06"></a>
 
 ### 6. Self Assembly
 
-Theories of self-assembly must explain how a drive can organize spinning disks into a pattern and how a structure such as a cell wall can direct the work that builds its successor. [Read chapter 6](../manuscript/book/06-self-assembly.md)
+Spinning disks and beating heart cells show what a theory of self-assembly must predict, from the work that makes a particular arrangement likely to the new constraints that arrangement places on its parts. [Read chapter 6](../manuscript/book/06-self-assembly.md)
 
 <a id="chapter-07"></a>
 
-### 7. Self Domestication
+### 7. Self Reproduction
 
-A community’s account of killing a habitual aggressor frames the hypothesis that repeated killings over the past 200,000 years could have favored less reactive temperaments and, through changes in neural crest development, narrower faces. [Read chapter 7](../manuscript/book/07-self-domestication.md)
+A dividing alga passes its nitrogen fixer to each daughter, illustrating how autopoiesis and reproduction can keep a lineage consuming free energy in places and generations a single cell could never reach. [Read chapter 7](../manuscript/book/07-self-reproduction.md)
 
 <a id="chapter-08"></a>
 
-### 8. Self Modeling
+### 8. Self Domestication
 
-A delayed fingertip tap and a decision to pay for a second look show how people predict the effects of their own movements and act on their own uncertainty, a recursive hierarchy that dissipative adaptation could help build. [Read chapter 8](../manuscript/book/08-self-modeling.md)
+An oral history of the killing of a habitual aggressor raises the possibility that collective sanctions over 200,000 years changed which temperaments left descendants and what forms of cooperation people could sustain. [Read chapter 8](../manuscript/book/08-self-domestication.md)
 
 <a id="chapter-09"></a>
 
 ### 9. Feudalism and Capitalism
 
-Labor shortages on a Suffolk manor and the mechanization of the Leeds cloth trade changed who could demand a day’s work, set a wage, or claim the savings on a yard of cloth. [Read chapter 9](../manuscript/book/09-feudalism-and-capitalism.md)
+On a Suffolk manor, in the Leeds cloth trade and at a carpenters’ union, people pooled or withheld land, labor and money until the social arrangements they had built determined who could eat or work next. [Read chapter 9](../manuscript/book/09-feudalism-and-capitalism.md)
 
 <a id="chapter-10"></a>
 
 ### 10. Chariots and Steam Engines
 
-Spare wheels kept chariots running at Knossos, and the mines at Saltom in England and Kaiping in China show why burning coal to pump water paid only where the newly accessible coal could reach buyers. [Read chapter 10](../manuscript/book/10-chariots-and-steam-engines.md)
+Spare wheels at Knossos, a pump at Saltom and a railway at Kaiping show why the assembly that sustained the greatest flow of work or fuel depended on what kept the next team or mine from producing. [Read chapter 10](../manuscript/book/10-chariots-and-steam-engines.md)
 
 <a id="chapter-11"></a>
 
 ### 11. Morality and language
 
-Abolitionists turned the deck measurements of the slave ship *Brooks* into a drawing that let strangers see the crowding for themselves and carry a shared demand to Parliament. [Read chapter 11](../manuscript/book/11-morality-and-language.md)
+From the deck plan of the slave ship *Brooks* to a ranked online feed, a medium lets one person’s judgment call forth another response, reproducing a public dispute and changing who gets heard. [Read chapter 11](../manuscript/book/11-morality-and-language.md)
 
 <a id="chapter-12"></a>
 
 ### 12. Bubbles and Bursts
 
-The dot-com crash left unlit fiber that new owners could put to work, while advertising auctions turned a reader’s attention into revenue that could pay for the next search. [Read chapter 12](../manuscript/book/12-bubbles-and-bursts.md)
+The dot-com crash left fiber cheap enough for new owners to use, and the sale of attention financed computing infrastructure that could turn the language of the web into training material. [Read chapter 12](../manuscript/book/12-bubbles-and-bursts.md)
 
 <a id="chapter-13"></a>
 
 ### 13. Fine tuning paradox
 
-Could a series of energy-releasing transitions set and stabilize both the energy scale of the weak force and the energy of empty space, and could an internal clock register time in a universe whose overall state stays fixed? [Read chapter 13](../manuscript/book/13-fine-tuning-paradox.md)
+If early fields could set coupled constants and their products could stabilize them, their measured values might have a history, just as an internal clock could give that history an order without an external beginning. [Read chapter 13](../manuscript/book/13-fine-tuning-paradox.md)
 
 <a id="chapter-14"></a>
 
 ### 14. Levinthal’s paradox
 
-Anfinsen’s unfolded enzyme regained its ability to cut RNA because its sequence and the surrounding water favored particular folds, allowing the chain to reach a working shape without trying every possibility. [Read chapter 14](../manuscript/book/14-levinthals-paradox.md)
+A chain that regains its folding pattern in water and goes on cutting RNA shows how physical rules can shorten the search for a catalyst that a cell can use again and again to spend a chemical gradient. [Read chapter 14](../manuscript/book/14-levinthals-paradox.md)
 
 <a id="chapter-15"></a>
 
 ### 15. Fermi paradox
 
-Life could arise promptly on a suitable planet and interstellar settlers still arrive late if habitable worlds had to wait for element-rich Population I stars and migration offers little reward until a home star declines. [Read chapter 15](../manuscript/book/15-fermi-paradox.md)
+Life could arise as soon as a planet is ready and visitors still arrive late if life requires the chemistry of Population I stars and sending a probe pays long before losing a home star makes living migration worthwhile. [Read chapter 15](../manuscript/book/15-fermi-paradox.md)
 
 <a id="chapter-16"></a>
 
 ### 16. Attractor Paradox
 
-By 1905, measurements of light and the need for consistent rules for comparing moving clocks had narrowed the possibilities so far that Poincaré presented a transformation and Einstein submitted his own derivation twenty-five days later. [Read chapter 16](../manuscript/book/16-attractor-paradox.md)
+Once light measurements and moving clocks left one consistent conversion, Poincaré and Einstein reached it within weeks, and the mass–energy relation soon derived from relativity later explained the energy released in nuclear fission. [Read chapter 16](../manuscript/book/16-attractor-paradox.md)
 
 <a id="epilogue"></a>
 
 ## Epilogue
 
-From cybernetics to a Finnish town warmed by servers, the epilogue asks whether AI maximizes the rate of entropy production and what useful infrastructure a computing boom could leave behind. [Read the epilogue](../manuscript/book/epilogue.md)
+The internet gave AI its training material and its customers, putting computing power in the hands of storytellers and leaving an energetic claim that can be checked at a power meter even if today’s data centers eventually go dark. [Read the epilogue](../manuscript/book/epilogue.md)

@@ -40,6 +40,8 @@ Cheaper goods and a wage that will buy them give a household reason to welcome t
 
 Robert Applegarth, a carpenters’ union secretary, described what he did around the sixth of each month. Reports arrived from the branches. He looked for a town where carpenters were out of work and another where employers needed them. Then he wrote to the secretary in the first town to say where the jobs were. The union paid the railway or steamboat fare. Parliament heard his account in 1871.[10]
 
+No single carpenter commanded this system at the outset. Branches collected subscriptions and sent their returns. Together those acts created a fund. Once there was a fund, a man short of his fare could take a job he would otherwise have had to refuse. That is downward causation in an economy. The pooled result of many people’s work changes what any one of them can do tomorrow. An employer’s capital worked through a different set of rights. It bought the machinery and gave its owner the power to offer or withhold the next shift. A coin, a machine and a ticket each carried a claim that people had made and could make again.[3][9][10]
+
 Matthew’s daughter had a customary claim to the land that fed her. A carpenter who owned every tool he needed could still be a train fare away from earning his dinner. Over the intervening centuries more families had come to depend on selling their labor, and firms had grown by investing the proceeds of that labor in the next round of production. The dependence that let an employer set terms also gave workers a reason to organize. The bishop of Chartres had counted on help from his duke. The carpenters could draw on a fund they had paid for themselves.[1][2][3][10]
 
 ## Notes
@@ -66,4 +68,4 @@ Matthew’s daughter had a customary claim to the land that fed her. A carpenter
 
 ---
 
-[← Self Modeling](08-self-modeling.md) · [Contents](../../README.md#contents) · [Chariots and Steam Engines →](10-chariots-and-steam-engines.md)
+[← Self Domestication](08-self-domestication.md) · [Contents](../../README.md#contents) · [Chariots and Steam Engines →](10-chariots-and-steam-engines.md)
