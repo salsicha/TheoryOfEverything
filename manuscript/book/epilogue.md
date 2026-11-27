@@ -101,4 +101,4 @@ In Mäntsälä the town had a use for warm water as well as the company having a
 
 ---
 
-[← Simultaneous discovery paradox](16-simultaneous-discovery-paradox.md) · [Contents](../../README.md#contents)
+[← Attractor Paradox](16-attractor-paradox.md) · [Contents](../../README.md#contents)

@@ -37,7 +37,7 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 | [Chapter 13 — Fine tuning paradox](../manuscript/book/13-fine-tuning-paradox.md) | 1,666 |
 | [Chapter 14 — Levinthal’s paradox](../manuscript/book/14-levinthals-paradox.md) | 743 |
 | [Chapter 15 — Fermi paradox](../manuscript/book/15-fermi-paradox.md) | 2,678 |
-| [Chapter 16 — Simultaneous discovery paradox](../manuscript/book/16-simultaneous-discovery-paradox.md) | 1,282 |
+| [Chapter 16 — Attractor Paradox](../manuscript/book/16-attractor-paradox.md) | 1,282 |
 | [Epilogue — From Cybernetics to AI and Data Centers](../manuscript/book/epilogue.md) | 2,096 |
 | **Total** | **22,242** |
 

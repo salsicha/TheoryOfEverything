@@ -110,4 +110,4 @@ The stars that died before the Sun supplied Earth with the elements for a living
 
 ---
 
-[← Levinthal’s paradox](14-levinthals-paradox.md) · [Contents](../../README.md#contents) · [Simultaneous discovery paradox →](16-simultaneous-discovery-paradox.md)
+[← Levinthal’s paradox](14-levinthals-paradox.md) · [Contents](../../README.md#contents) · [Attractor Paradox →](16-attractor-paradox.md)

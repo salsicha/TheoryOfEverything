@@ -1,4 +1,4 @@
-# Chapter 16 — Simultaneous discovery paradox
+# Chapter 16 — Attractor Paradox
 
 One Thursday in May 1905, Albert Einstein offered Conrad Habicht four papers in exchange for his friend’s dissertation. The fourth was still rough. It concerned moving bodies and what physicists meant by space and time. Around the same month Henri Poincaré wrote to Hendrik Lorentz after missing him in Paris. He had been working through Lorentz’s equations. In a second letter he corrected his argument. He could now show why a number Lorentz’s calculation had left adjustable must equal one.[1]
 

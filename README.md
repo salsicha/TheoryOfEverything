@@ -21,7 +21,7 @@ Why does anything exist, and how does what exists acquire a history? The book fo
 13. [Fine tuning paradox](manuscript/book/13-fine-tuning-paradox.md)
 14. [Levinthal’s paradox](manuscript/book/14-levinthals-paradox.md)
 15. [Fermi paradox](manuscript/book/15-fermi-paradox.md)
-16. [Simultaneous discovery paradox](manuscript/book/16-simultaneous-discovery-paradox.md)
+16. [Attractor Paradox](manuscript/book/16-attractor-paradox.md)
 
 [Epilogue — From Cybernetics to AI and Data Centers](manuscript/book/epilogue.md)
 

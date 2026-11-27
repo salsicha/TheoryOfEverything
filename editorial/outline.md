@@ -95,9 +95,9 @@ Life could arise in a planet’s first habitable interval and still have sent no
 
 <a id="chapter-16"></a>
 
-### 16. Simultaneous discovery paradox
+### 16. Attractor Paradox
 
-The chapter argues that relativity arrived at its first opportunity, with Poincaré presenting a rule for moving observers and Einstein submitting his own derivation twenty-five days later. [Read chapter 16](../manuscript/book/16-simultaneous-discovery-paradox.md)
+The chapter argues that relativity arrived at its first opportunity, with Poincaré presenting a rule for moving observers and Einstein submitting his own derivation twenty-five days later. [Read chapter 16](../manuscript/book/16-attractor-paradox.md)
 
 <a id="epilogue"></a>
 

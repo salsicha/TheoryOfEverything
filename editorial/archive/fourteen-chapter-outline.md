@@ -105,7 +105,7 @@ If life first arose on worlds around the younger, element-rich Population I star
 
 ### 14. The Simultaneous Discovery Paradox
 
-Once the clocks and equations left a single rule for converting measurements between moving observers, Poincaré presented it in Paris and Einstein submitted his derivation twenty-five days later. [Read chapter 14](../../manuscript/book/16-simultaneous-discovery-paradox.md)
+Once the clocks and equations left a single rule for converting measurements between moving observers, Poincaré presented it in Paris and Einstein submitted his derivation twenty-five days later. [Read chapter 14](../../manuscript/book/16-attractor-paradox.md)
 
 <a id="epilogue"></a>
 
