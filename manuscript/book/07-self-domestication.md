@@ -1,4 +1,4 @@
-# Chapter 8 — Self Domestication
+# Chapter 7 — Self Domestication
 
 /Twi had killed three people. Then his own community killed him. Richard Lee recorded the account among the Ju/’hoansi of the Kalahari. After /Twi died, the women as well as the men publicly took responsibility for his death. Lee described their agreement as rare. In a feud, a bereaved family had another family to hold responsible. Here a whole community claimed the deed.[1]
 
@@ -56,4 +56,4 @@ At the Christmas feast, Lee’s hosts made sure that buying the ox gave him no a
 
 ---
 
-[← Self Assembly](07-self-assembly.md) · [Contents](../../README.md#contents) · [Feudalism and Capitalism →](09-feudalism-and-capitalism.md)
+[← Self Assembly](06-self-assembly.md) · [Contents](../../README.md#contents) · [Self Modeling →](08-self-modeling.md)

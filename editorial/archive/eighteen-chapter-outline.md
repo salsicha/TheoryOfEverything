@@ -2,7 +2,7 @@
 
 *A Material History of Everything*
 
-Earlier eighteen-chapter working outline. The [current edition](../outline.md) has a prologue, fifteen chapters and an epilogue.
+Earlier eighteen-chapter working outline. The [current edition](../outline.md) opens with *From Nothing to Asymmetry* and has sixteen chapters and an epilogue.
 
 ## The argument
 

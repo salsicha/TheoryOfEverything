@@ -46,6 +46,8 @@ At Fowey the witnesses deducted three hours of work from the lift whose bucket b
 
 ## Afterword notes
 
+Chapter numbers in these notes refer to the [twelve-chapter draft](../editorial/archive/twelve-chapter-outline.md).
+
 The distinction between a restricted entropy-production principle and the broader assembly hypothesis is developed in chapter 2. Biological and social self-production are examined in chapters 3 and 9. Earlier accounts of technological combination and lock-in provide rivals for a model of cumulative assembly. [Entropy production](../research/sources.md#s07) · [Biological self-production](../research/sources.md#s33) · [Social systems](../research/sources.md#s10) · [Technological combination](../research/sources.md#s60)
 
 The cognitive interventions extend chapters 10 and 11. The attention-model experiment is bounded by [S94](../research/sources.md#s94); prompting, reasoning-oriented training, test-time computation, agent loops, and intrinsic self-correction are distinguished in [S95](../research/sources.md#s95)–[S102](../research/sources.md#s102).

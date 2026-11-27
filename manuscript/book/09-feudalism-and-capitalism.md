@@ -66,4 +66,4 @@ Matthew’s daughter had a customary claim to the land that fed her. A carpenter
 
 ---
 
-[← Self Domestication](08-self-domestication.md) · [Contents](../../README.md#contents) · [Chariots and Steam Engines →](10-chariots-and-steam-engines.md)
+[← Self Modeling](08-self-modeling.md) · [Contents](../../README.md#contents) · [Chariots and Steam Engines →](10-chariots-and-steam-engines.md)

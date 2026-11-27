@@ -3,9 +3,9 @@
 | File | Purpose |
 | --- | --- |
 | [notes](notes.md) | Original source notes and dated author clarifications |
-| [ideas](ideas.md) | Expanded ideas I01–I93 and current coverage map |
+| [ideas](ideas.md) | Expanded ideas I01–I94 and current coverage map |
 | [outline](outline.md) | Current sixteen chapters and epilogue, with one sentence on the argument of each |
-| [sources.md](../research/sources.md) | Source keys S01–S193, evidence limits, and outstanding research |
+| [sources.md](../research/sources.md) | Source keys S01–S194, evidence limits, and outstanding research |
 | [Natural-experiment scripts](../scripts/README.md) | Twelve evidence records, with estimators, data contracts, and explicit identification limits |
 | [Experiment results](../scripts/results/summary.md) | Completed comparisons, diagnostic checks, and explicit missing-data statuses |
 | [Dataset search audit](../scripts/dataset-search.md) | Located primary data, access limits, and the observations still needed |
@@ -22,14 +22,14 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 
 | Reading order | Narrative words |
 | --- | ---: |
-| [Chapter 1 — From nothing to something](../manuscript/book/01-from-nothing-to-something.md) | 583 |
-| [Chapter 2 — From zero energy to asymmetry](../manuscript/book/02-from-zero-energy-to-asymmetry.md) | 1,666 |
-| [Chapter 3 — From energy to structure](../manuscript/book/03-from-energy-to-structure.md) | 695 |
-| [Chapter 4 — From hydrogen to gold](../manuscript/book/04-from-hydrogen-to-gold.md) | 1,515 |
-| [Chapter 5 — From matter to life](../manuscript/book/05-from-matter-to-life.md) | 1,583 |
-| [Chapter 6 — Self Reproduction](../manuscript/book/06-self-reproduction.md) | 761 |
-| [Chapter 7 — Self Assembly](../manuscript/book/07-self-assembly.md) | 846 |
-| [Chapter 8 — Self Domestication](../manuscript/book/08-self-domestication.md) | 1,439 |
+| [Chapter 1 — From Nothing to Asymmetry](../manuscript/book/01-from-nothing-to-asymmetry.md) | 2,134 |
+| [Chapter 2 — From energy to structure](../manuscript/book/02-from-energy-to-structure.md) | 695 |
+| [Chapter 3 — From hydrogen to gold](../manuscript/book/03-from-hydrogen-to-gold.md) | 1,515 |
+| [Chapter 4 — From matter to life](../manuscript/book/04-from-matter-to-life.md) | 1,583 |
+| [Chapter 5 — Self Reproduction](../manuscript/book/05-self-reproduction.md) | 761 |
+| [Chapter 6 — Self Assembly](../manuscript/book/06-self-assembly.md) | 846 |
+| [Chapter 7 — Self Domestication](../manuscript/book/07-self-domestication.md) | 1,439 |
+| [Chapter 8 — Self Modeling](../manuscript/book/08-self-modeling.md) | 1,298 |
 | [Chapter 9 — Feudalism and Capitalism](../manuscript/book/09-feudalism-and-capitalism.md) | 1,876 |
 | [Chapter 10 — Chariots and Steam Engines](../manuscript/book/10-chariots-and-steam-engines.md) | 1,177 |
 | [Chapter 11 — Morality and language](../manuscript/book/11-morality-and-language.md) | 843 |
@@ -39,19 +39,21 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 | [Chapter 15 — Fermi paradox](../manuscript/book/15-fermi-paradox.md) | 2,678 |
 | [Chapter 16 — Attractor Paradox](../manuscript/book/16-attractor-paradox.md) | 1,282 |
 | [Epilogue — From Cybernetics to AI and Data Centers](../manuscript/book/epilogue.md) | 2,096 |
-| **Total** | **22,242** |
+| **Total** | **23,425** |
 
 ## Mathematical support in the prose
 
-Chapter 1 distinguishes a philosophical premise about existence from a vacuum measurement. Chapter 2 separates an asymmetry in the weak force, the net amount of ordinary matter and the thermodynamic direction of time. Chapter 3 measures the heat two different flows can carry through the same vessel. Chapter 5 follows the carbon balance of a cycle at a vent. Chapter 7 compares seven frameworks for predicting which structures persist and which new assembly can follow. The folding chapter and the joint chapter on Earth and Fermi separate the number of imaginable states from the time required for a viable transition. [Cosmic fluctuations](../research/sources.md#s184) · [Heat flows](../research/sources.md#s179) · [Theories of assembly](../research/sources.md#s192) · [Research methods](../research/causal-inference.md)
+Chapter 1 follows the argument about absolute nothingness through a vacuum measurement and a model of shared constants to the handedness of the weak force, the matter surplus and the thermodynamic arrow of time. Chapter 2 measures the heat two different flows can carry through the same vessel. Chapter 4 follows the carbon balance of a cycle at a vent. Chapter 6 compares seven frameworks for predicting which structures persist and which new assembly can follow. Chapter 8 asks whether the physics of a driven system can explain the circuit changes behind a learned self-prediction. The folding chapter and the joint chapter on Earth and Fermi separate the number of imaginable states from the time required for a viable transition. [Cosmic fluctuations](../research/sources.md#s184) · [Heat flows](../research/sources.md#s179) · [Theories of assembly](../research/sources.md#s192) · [Research methods](../research/causal-inference.md)
 
-## The preceding fourteen-chapter edition
+## Earlier reading orders
 
-The [previous outline](archive/fourteen-chapter-outline.md) records the November 25 order. The [former prologue](archive/fourteen-chapter/prologue.md), [self-modeling chapter](archive/fourteen-chapter/self-modeling.md) and [standalone immediate-evolution chapter](archive/fourteen-chapter/immediate-evolution.md) preserve their former prose. Self-modeling now appears in the epilogue and the early-Earth chronology in Chapter 15.
+The [sixteen-chapter outline](https://github.com/salsicha/TheoryOfEverything/blob/94289664f241cc13c695105e0affecc7625b9136/editorial/outline.md) records the separate openings on nothingness and cosmic asymmetry.
 
-## The preceding fifteen-chapter edition
+The [fourteen-chapter outline](archive/fourteen-chapter-outline.md) records the November 25 order. The [former prologue](archive/fourteen-chapter/prologue.md), [self-modeling chapter](archive/fourteen-chapter/self-modeling.md) and [standalone immediate-evolution chapter](archive/fourteen-chapter/immediate-evolution.md) preserve their former prose. The new Chapter 8 follows self-modeling through touch, learning and confidence. The epilogue returns to it through Darwin and AI, and Chapter 15 contains the early-Earth chronology.
 
-The earlier edition had separate chapters on quantum uncertainty, Sudoku and the instability of a balanced state. Chapter 3 keeps the puzzle, Chapter 2 follows the cosmic history, and the [expanded ideas](ideas.md#i89--how-does-change-happen) retain the bead experiments. The previous chapters appear in the [fifteen-chapter manuscript](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book) and its [outline](https://github.com/salsicha/TheoryOfEverything/blob/af474f4c75e1939e36a58f7ab47aa05602b92cb4/editorial/outline.md).
+## The earlier fifteen-chapter edition
+
+The earlier edition had separate chapters on quantum uncertainty, Sudoku and the instability of a balanced state. Chapter 2 keeps the puzzle, Chapter 1 follows the cosmic history, and the [expanded ideas](ideas.md#i89--how-does-change-happen) retain the bead experiments. The previous chapters appear in the [fifteen-chapter manuscript](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book) and its [outline](https://github.com/salsicha/TheoryOfEverything/blob/af474f4c75e1939e36a58f7ab47aa05602b92cb4/editorial/outline.md).
 
 ## The eighteen-chapter plan
 

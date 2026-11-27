@@ -1,4 +1,4 @@
-# Chapter 6 — Self Reproduction
+# Chapter 5 — Self Reproduction
 
 A link broke in the wall on Francisco Varela, Humberto Maturana and Ricardo Uribe’s computer. Inside the wall a catalyst helped make new links from material passing through. If a replacement reached the gap in time, the wall closed. If the catalyst escaped first, the parts dispersed. The program gave each piece rules for what it could do when it met another.[1]
 
@@ -38,4 +38,4 @@ A daughter that keeps the partnership can do work in water where neither partner
 
 ---
 
-[← From matter to life](05-from-matter-to-life.md) · [Contents](../../README.md#contents) · [Self Assembly →](07-self-assembly.md)
+[← From matter to life](04-from-matter-to-life.md) · [Contents](../../README.md#contents) · [Self Assembly →](06-self-assembly.md)

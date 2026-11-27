@@ -1,4 +1,4 @@
-# Chapter 7 — Self Assembly
+# Chapter 6 — Self Assembly
 
 Bartosz Grzybowski, Howard Stone and George Whitesides floated little magnetized disks on liquid and set a magnet turning beneath them. The disks spun. They also moved across the surface and settled into patterns, holding their distance from one another while the liquid around them kept moving. The researchers could change the pattern by changing the speed of the magnet. They had supplied one drive to the whole dish. No one had to steer the individual disks into position.[1]
 
@@ -42,4 +42,4 @@ Together these accounts suggest a way to predict change before seeing its result
 
 ---
 
-[← Self Reproduction](06-self-reproduction.md) · [Contents](../../README.md#contents) · [Self Domestication →](08-self-domestication.md)
+[← Self Reproduction](05-self-reproduction.md) · [Contents](../../README.md#contents) · [Self Domestication →](07-self-domestication.md)

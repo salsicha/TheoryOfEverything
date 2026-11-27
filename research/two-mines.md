@@ -1,6 +1,6 @@
 # Could a mine pay for its next shift?
 
-Chapter 2 imagines two crews that both reach coal. A pump rod breaks. One crew can spend earlier proceeds on a replacement. Does that access to money make it more likely to resume work? The US coal and wind records below let us observe later production and changes in the financial reward for producing. **The effect of retaining proceeds on restart remains unknown.** None of these records follows the same dollar from sale to spare part to a dated restart.
+[Chapter 2 of the twelve-chapter draft](../manuscript/02-the-gradient-and-the-barrier.md#what-the-engine-put-within-reach) imagines two crews that both reach coal. A pump rod breaks. One crew can spend earlier proceeds on a replacement. Does that access to money make it more likely to resume work? The US coal and wind records below let us observe later production and changes in the financial reward for producing. **The effect of retaining proceeds on restart remains unknown.** None of these records follows the same dollar from sale to spare part to a dated restart.
 
 The later investment study compares dated engineering recommendations with operator responses and follows named grinding-plant designs through to operation or refusal. [Mine investment forecasts and outcomes](mine-investments.md)
 

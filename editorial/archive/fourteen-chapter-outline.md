@@ -21,19 +21,19 @@ Heather Graham’s blind test asks how to recognize life elsewhere, and four Sud
 
 ### 1. From zero energy to asymmetry
 
-The chapter argues that early fields assembled the constants of a symmetric, expanding universe and that every symmetric stage eventually gives rise to an asymmetry, as gravity turned tiny density differences into the energy gradients that fed the first stars. [Read chapter 1](../../manuscript/book/02-from-zero-energy-to-asymmetry.md)
+The chapter argues that early fields assembled the constants of a symmetric, expanding universe and that every symmetric stage eventually gives rise to an asymmetry, as gravity turned tiny density differences into the energy gradients that fed the first stars. [Read chapter 1](../../manuscript/book/01-from-nothing-to-asymmetry.md)
 
 <a id="chapter-02"></a>
 
 ### 2. From Hydrogen to Gold
 
-In the entropy funnel, escaping light lets a gas cloud contract until fusion begins, and some of the elements stars shed later form minerals whose iron reacts with seawater to sustain a chemical energy gradient at Lost City. [Read chapter 2](../../manuscript/book/04-from-hydrogen-to-gold.md)
+In the entropy funnel, escaping light lets a gas cloud contract until fusion begins, and some of the elements stars shed later form minerals whose iron reacts with seawater to sustain a chemical energy gradient at Lost City. [Read chapter 2](../../manuscript/book/03-from-hydrogen-to-gold.md)
 
 <a id="chapter-03"></a>
 
 ### 3. From Matter to Life
 
-Where hydrogen-rich vent fluid meets seawater, the proposed entropy funnel runs from a pore that retains carbon compounds to a cycle that grows faster than the current washes it away, then to a daughter that inherits the chemistry to build its own wall. [Read chapter 3](../../manuscript/book/05-from-matter-to-life.md)
+Where hydrogen-rich vent fluid meets seawater, the proposed entropy funnel runs from a pore that retains carbon compounds to a cycle that grows faster than the current washes it away, then to a daughter that inherits the chemistry to build its own wall. [Read chapter 3](../../manuscript/book/04-from-matter-to-life.md)
 
 ## Part II · Humans
 
@@ -41,7 +41,7 @@ Where hydrogen-rich vent fluid meets seawater, the proposed entropy funnel runs 
 
 ### 4. Self-Reproducing (Autopoiesis)
 
-A model cell makes the wall that keeps its catalyst inside, and a dividing alga passes on the nitrogen-fixing partner each daughter needs to grow in nitrogen-poor water. [Read chapter 4](../../manuscript/book/06-self-reproduction.md)
+A model cell makes the wall that keeps its catalyst inside, and a dividing alga passes on the nitrogen-fixing partner each daughter needs to grow in nitrogen-poor water. [Read chapter 4](../../manuscript/book/05-self-reproduction.md)
 
 <a id="chapter-05"></a>
 
@@ -53,7 +53,7 @@ Darwin noticed which facts slipped his memory and made himself write them down, 
 
 ### 6. Self-Domesticating
 
-Lee’s account of the killing of /Twi opens a proposed history in which communities that killed habitual aggressors favored a milder, more pliant temperament, and inherited changes in neural crest development could also have produced narrower faces. [Read chapter 6](../../manuscript/book/08-self-domestication.md)
+Lee’s account of the killing of /Twi opens a proposed history in which communities that killed habitual aggressors favored a milder, more pliant temperament, and inherited changes in neural crest development could also have produced narrower faces. [Read chapter 6](../../manuscript/book/07-self-domestication.md)
 
 ## Part III · Technology
 

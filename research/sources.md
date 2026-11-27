@@ -1,14 +1,16 @@
 # Working source ledger
 
-This ledger accompanies the [sixteen-chapter manuscript](../README.md#contents). Each chapter’s notes point to the observations, documents and models on which its argument rests. The [outline](../editorial/outline.md) and [expanded ideas](../editorial/ideas.md) trace the argument. The [methods guide](causal-inference.md) and [methodological afterword](../manuscript/afterword.md) accompany the research. Earlier dated entries retain the numbering of the [twelve-chapter draft](../editorial/archive/twelve-chapter-outline.md) or the [eighteen-chapter plan](../editorial/archive/eighteen-chapter-outline.md). Dated entries also refer to the [preceding fifteen-chapter edition](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book). S180–S183 document the additions on stellar gold, protein folding, language and AI.
+This ledger accompanies the [sixteen-chapter manuscript](../README.md#contents). Each chapter’s notes point to the observations, documents and models on which its argument rests. The [outline](../editorial/outline.md) and [expanded ideas](../editorial/ideas.md) trace the argument. The [methods guide](causal-inference.md) and [methodological afterword](../manuscript/afterword.md) accompany the research. Earlier dated entries retain the numbering of the [twelve-chapter draft](../editorial/archive/twelve-chapter-outline.md) or the [eighteen-chapter plan](../editorial/archive/eighteen-chapter-outline.md). Dated entries also refer to the [earlier fifteen-chapter edition](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book). S180–S183 document the additions on stellar gold, protein folding, language and AI.
 
-Chapter 2 follows a model for a region’s shared physical constants into four distinct questions. A cobalt nucleus distinguishes left from right, the cosmos retains a net excess of matter, heat has a direction in time, and small density differences grow under gravity. [Field transitions](#s189) · [Parity and baryogenesis](#s23) · [The baryon-decay measurement](#s77) · [The thermal arrow](#s24) · [Cosmic density and gradients](#s184)
+Chapter 1 moves from Leibniz’s question and a laboratory vacuum to a model for a region’s shared physical constants. A cobalt nucleus distinguishes left from right, the cosmos retains a net excess of matter, heat has a direction in time, and small density differences grow under gravity. [Leibniz and the vacuum measurement](#s191) · [Field transitions](#s189) · [Parity and baryogenesis](#s23) · [The baryon-decay measurement](#s77) · [The thermal arrow](#s24) · [Cosmic density and gradients](#s184)
 
-Chapter 4 follows the material from stars to a chemical energy gradient on Earth. [Presolar grains, condensation and vent chemistry](#s185)
+Chapter 3 follows the material from stars to a chemical energy gradient on Earth. [Presolar grains, condensation and vent chemistry](#s185)
 
-Chapter 5 follows the proposed route from that gradient to a lineage. [Carbon fixation, the balance of a cycle, and inheritance across division](#s186)
+Chapter 4 follows the proposed route from that gradient to a lineage. [Carbon fixation, the balance of a cycle, and inheritance across division](#s186)
 
-Chapter 8 connects an oral history of collective killing to the proposed selection for docility and to evidence about how the human face grows. [Human self-domestication](#s187)
+Chapter 7 connects an oral history of collective killing to the proposed selection for docility and to evidence about how the human face grows. [Human self-domestication](#s187)
+
+Chapter 8 connects the human studies of self-generated touch and confidence to the proposed physical account of learning. [Self-modeling and dissipative adaptation](#s194)
 
 Chapter 9 traces changes in who controlled land, earned a wage and could finance machinery, from the Walsham court rolls to the Leeds cloth dressers’ account to Parliament. [Historical materialism at Walsham and Leeds](#s188)
 
@@ -16,13 +18,13 @@ Chapter 13 develops the proposed hierarchical entropy rejection funnel for the p
 
 Chapter 15 asks whether life first arose around Population I stars and whether the decline of such a star would first make migration worthwhile for the people it sustained. [Stellar populations, the brightening Sun and interstellar passages](#s190)
 
-Chapter 1 examines the difference between an empty apparatus and absolute nothingness. Chapters 3, 7 and 12 add sources on self-assembly and the dot-com boom. [Existence and ordered matter](#s191) · [Theories of assembly](#s192) · [Telecommunications and advertising](#s193)
+Chapters 2, 6 and 12 add sources on self-assembly and the dot-com boom. [Existence and ordered matter](#s191) · [Theories of assembly](#s192) · [Telecommunications and advertising](#s193)
 
 ## S01
 
 **Constraint satisfaction.** Stuart Russell and Peter Norvig, *Artificial Intelligence: A Modern Approach*, [constraint-satisfaction chapter](https://aima.cs.berkeley.edu/4th-ed/pdfs/newchap05.pdf); UC Berkeley CS188, [variable ordering](https://inst.eecs.berkeley.edu/~cs188/textbook/csp/ordering.html).
 
-Supports the minimum-remaining-values heuristic and early detection of impossible branches. Chapter 3 extends the example to the creative role of bottlenecks. The opening Sudoku experience comes from the author’s notes.
+Supports the minimum-remaining-values heuristic and early detection of impossible branches. Chapter 2 extends the example to the creative role of bottlenecks. The opening Sudoku experience comes from the author’s notes.
 
 ## S02
 
@@ -168,7 +170,7 @@ Tong's equilibrium-magnetization discussion was rechecked for I67. It supports s
 
 **Parity, CP, and baryogenesis.** C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413) (1957); J. H. Christenson et al., [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138) (1964); Antonio Riotto and Mark Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999).
 
-Weinberg’s electroweak model couples the left-chiral electron field to the charged weak current. Its parity asymmetry is already present before the thermal electroweak crossover. Sakharov identifies conditions under which an initially balanced universe could acquire net baryon number. Chapter 2 distinguishes the collider measurement of unequal partial decay rates from the astronomical evidence for a cosmic surplus. [Weinberg’s model](https://doi.org/10.1103/PhysRevLett.19.1264) · [Sakharov’s paper](https://ufn.ru/ufn91/ufn91_5/ufn915h.pdf) · [Baryon decays](#s77) · [Cosmic domains](#s78)
+Weinberg’s electroweak model couples the left-chiral electron field to the charged weak current. Its parity asymmetry is already present before the thermal electroweak crossover. Sakharov identifies conditions under which an initially balanced universe could acquire net baryon number. Chapter 1 distinguishes the collider measurement of unequal partial decay rates from the astronomical evidence for a cosmic surplus. [Weinberg’s model](https://doi.org/10.1103/PhysRevLett.19.1264) · [Sakharov’s paper](https://ufn.ru/ufn91/ufn91_5/ufn915h.pdf) · [Baryon decays](#s77) · [Cosmic domains](#s78)
 
 The December 27, 1956 page from Ernest Ambler’s notebook records two runs as the cobalt warmed. Reversing the polarizing field reversed the direction of change in the electron count. Ralph Hudson added his verdict to the top of the page later. [Notebook and account at NIST](https://www.nist.gov/pml/fall-parity/reversal-parity-law-nuclear-physics)
 
@@ -176,7 +178,7 @@ The December 27, 1956 page from Ernest Ambler’s notebook records two runs as t
 
 **Statistical entropy and initial conditions.** Feynman, Leighton, and Sands, [I.46, “Ratchet and Pawl”](https://www.feynmanlectures.caltech.edu/I_46.html); Joel L. Lebowitz, [“Macroscopic laws, microscopic dynamics, time's arrow and Boltzmann's entropy”](https://sites.math.rutgers.edu/~lebowitz/PUBLIST/lebowitz_360.pdf), *Physica A* 194 (1993), 1–27.
 
-Chapter 2 follows the warming of Wu’s sample back to its preparation. Penrose identifies the low gravitational entropy associated with the near uniformity of the early matter distribution as a special boundary condition. BaBar compares rates for neutral B-meson transitions related by time reversal. Those rates and the thermodynamic arrow are distinct observations. [Penrose on gravitational initial conditions](https://personal.lse.ac.uk/robert49/PPB/pdf/Penrose1979a.pdf) · [BaBar’s measurement](https://arxiv.org/abs/1207.5832)
+Chapter 1 follows the warming of Wu’s sample back to its preparation. Penrose identifies the low gravitational entropy associated with the near uniformity of the early matter distribution as a special boundary condition. BaBar compares rates for neutral B-meson transitions related by time reversal. Those rates and the thermodynamic arrow are distinct observations. [Penrose on gravitational initial conditions](https://personal.lse.ac.uk/robert49/PPB/pdf/Penrose1979a.pdf) · [BaBar’s measurement](https://arxiv.org/abs/1207.5832)
 
 ## S25
 
@@ -528,7 +530,7 @@ The primary paper's setup, dissipation mechanism, simulations, and flux-balance 
 
 The setup and two-compartment analysis were read for the 600-bead experiment and its stable and unstable regimes. Chapter 6 does not claim universal symmetry loss or present the paper's three-compartment hysteresis as a two-compartment result. Experimental counts were taken after shaking stopped; the prose consequently makes no claim of an exact measured in-motion population split.
 
-The current chapter 3 also uses the three-compartment runs with 600 beads. Figures 1 and 2 show why a change of stability can be continuous in two compartments and discontinuous in three. The three-compartment return transition occurred at a different drive. The shape of the stable distributions and the time individual beads take to move are different observations. [Experiments and flux model](https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf)
+The earlier chapter on symmetry breaking also uses the three-compartment runs with 600 beads. Figures 1 and 2 show why a change of stability can be continuous in two compartments and discontinuous in three. The three-compartment return transition occurred at a different drive. The shape of the stable distributions and the time individual beads take to move are different observations. [Experiments and flux model](https://ris.utwente.nl/ws/portalfiles/portal/6629982/hysteric_clustering.pdf)
 
 Van der Meer, van der Weele and Lohse photographed the decay of a prepared cluster of steel beads at fixed drive in a separate experiment. Figure 1 shows the cluster still visible at 42 seconds and dispersed by 43 seconds in five boxes. Their flux model relates its lifetime to shaking strength. They distinguish this abrupt collapse in time from gradual pile formation through intermediate clusters. [Time-resolved collapse study](https://doi.org/10.1103/PhysRevLett.88.174302)
 
@@ -542,7 +544,7 @@ The author text's abstract, asymmetry derivation, and measurement passages were 
 
 **Spatial matter–antimatter domains.** A. G. Cohen, A. De Rújula, and S. L. Glashow, [“A Matter-Antimatter Universe?”](https://arxiv.org/abs/astro-ph/9707087), *The Astrophysical Journal* 495 (1998), 539–549; [paper PDF](https://arxiv.org/pdf/astro-ph/9707087).
 
-Chapter 2 uses the annihilation radiation expected at domain boundaries to explain how astronomers can constrain a patchwork of matter and antimatter. The predicted brightness depends on the model’s domain sizes, contact between domains and transport assumptions.
+Chapter 1 uses the annihilation radiation expected at domain boundaries to explain how astronomers can constrain a patchwork of matter and antimatter. The predicted brightness depends on the model’s domain sizes, contact between domains and transport assumptions.
 
 ## S79
 
@@ -808,7 +810,7 @@ The incident record and public historical prefix timelines provide the chapter 1
 
 **Constraint structure and tractable search.** Phokion G. Kolaitis, [“Constraint Satisfaction, Databases, and Logic”](https://ijcai.org/proceedings/2003/277), IJCAI (2003), 1587–1594.
 
-Used for the distinction between the number of conceivable assignments and the structural properties that make classes of constraint problems tractable. Bounded-treewidth results have explicit assumptions; they do not establish that adding arbitrary restrictions always helps. Chapter 3 applies the distinction to its Sudoku example and proposes a separate historical comparison for invention.
+Used for the distinction between the number of conceivable assignments and the structural properties that make classes of constraint problems tractable. Bounded-treewidth results have explicit assumptions; they do not establish that adding arbitrary restrictions always helps. Chapter 2 applies the distinction to its Sudoku example and proposes a separate historical comparison for invention.
 
 ## S121
 
@@ -828,7 +830,7 @@ Connects computations to physical implementations and their thermodynamic costs.
 
 Formalizes and detects networks collectively supported by available catalysts and environmental food molecules. Chapter 3 uses this structural criterion alongside the separate requirement that reaction and loss rates permit continuation. The social application in chapter 7 is an analogy to specified dependencies, not a deduction about genetic self-domestication or human institutions.
 
-Hordijk, Steel and Stuart Kauffman varied molecular diversity in model reaction systems. Figure 3 of their 2019 paper gives the chance that a set of mutually catalyzed, food-generated reactions exists as allowed chain length increases under a fixed catalysis probability. In the specified model such sets were likely by length thirteen. The authors test the existence of a network. Seeding, washout, heredity and time to establishment are separate conditions in the book’s account of abiogenesis. [Molecular diversity study](https://doi.org/10.3390/life9010023) · [Chapter 11](../manuscript/book/15-fermi-paradox.md#immediate-evolution-on-a-ready-planet)
+Hordijk, Steel and Stuart Kauffman varied molecular diversity in model reaction systems. Figure 3 of their 2019 paper gives the chance that a set of mutually catalyzed, food-generated reactions exists as allowed chain length increases under a fixed catalysis probability. In the specified model such sets were likely by length thirteen. The authors test the existence of a network. Seeding, washout, heredity and time to establishment are separate conditions in the book’s account of abiogenesis. [Molecular diversity study](https://doi.org/10.3390/life9010023) · [Early life in Chapter 15](../manuscript/book/15-fermi-paradox.md#immediate-evolution-on-a-ready-planet)
 
 ## S124
 
@@ -1184,7 +1186,7 @@ Chung, McHale, Louis and Eaton inferred a transition-path time of about 2 micros
 
 ## S184
 
-**From assembled constants to cosmic symmetry and gradients (Chapter 2).** Giudice, Kehagias and Riotto derive paired changes of the vacuum energy and the Higgs mass parameter. In sections 3.2–3.3 they consider how the last transition could trigger inflation inside one bubble. Sufficient expansion could give the observable region common values and a smooth background. Uniform constants alone leave many possible distributions of matter. The wider history of the constants and the eventual emergence of asymmetry at every cosmic stage are the book’s proposals. [Field model, sections 2–3](https://arxiv.org/abs/1907.05370) · [Further work on the constants](#s189) · [Inflation and the horizon](https://doi.org/10.1103/PhysRevD.23.347)
+**From assembled constants to cosmic symmetry and gradients (Chapter 1).** Giudice, Kehagias and Riotto derive paired changes of the vacuum energy and the Higgs mass parameter. In sections 3.2–3.3 they consider how the last transition could trigger inflation inside one bubble. Sufficient expansion could give the observable region common values and a smooth background. Uniform constants alone leave many possible distributions of matter. The wider history of the constants and the eventual emergence of asymmetry at every cosmic stage are the book’s proposals. [Field model, sections 2–3](https://arxiv.org/abs/1907.05370) · [Further work on the constants](#s189) · [Inflation and the horizon](https://doi.org/10.1103/PhysRevD.23.347)
 
 Guth and Pi calculate spatial variations in the time of energy release, with a fluctuation amplitude about 10⁵ times too large in their 1982 model. Kofman, Linde and Starobinsky calculate particle production during reheating. D’Onofrio and Rummukainen calculate the electroweak crossover as the plasma cools. That change in particle interactions can occur in spatially uniform matter. The growth of local density contrasts requires a seed and dynamics that amplify it. [Inflationary fluctuations](https://doi.org/10.1103/PhysRevLett.49.1110) · [Reheating](https://arxiv.org/abs/hep-th/9405187) · [Electroweak crossover](https://arxiv.org/abs/1508.07161)
 
@@ -1253,6 +1255,14 @@ Gurnett and colleagues report a plasma oscillation near 2.6 kilohertz in April 2
 ## S193
 
 **Fiber after the boom and attention as a revenue source.** In its 2002 annual report Cogent distinguishes rights to dark fiber from the assets and off-network customers bought from the PSINet estate. Google’s 2004 filing dates the changes in how advertisers paid for text ads. The records concern separate companies. The parallel between dark fiber and future idle data centers is a conditional prediction. [Cogent, business and acquisitions](https://www.sec.gov/Archives/edgar/data/1158324/000104746903011242/a2106111z10-k.htm) · [FCC on dark fiber](https://docs.fcc.gov/public/attachments/FCC-03-36A1.pdf) · [Google’s offering materials](https://www.sec.gov/Archives/edgar/data/1288776/000119312504114518/dex9901.htm)
+
+## S194
+
+**Self-modeling, plasticity and dissipative adaptation.** Kilteni, Houborg and Ehrsson changed the added interval between a voluntary movement and a tap it triggered. A two-tap judgment measured a shift in expected timing. Separate comparisons used active and passive movement and measured cerebellar–somatosensory coupling. [Delay and learning](https://doi.org/10.7554/eLife.42888) · [Voluntary and passive movement](https://doi.org/10.1016/j.isci.2020.100843) · [Cerebellar and cortical signals](https://pmc.ncbi.nlm.nih.gov/articles/PMC6975290/)
+
+Bi and Poo measured changes in the strength of synapses in cultured hippocampal neurons. Rangaraju, Calloway and Ryan measured local energy use in working nerve terminals. The energy supply and the order of activity have distinct roles. Chapter 8 uses the driven-transition theory to ask which neural changes form and last under a repeated sequence. Predicting their energetic ranking in humans requires further measurements. [Timing-dependent plasticity](https://doi.org/10.1523/JNEUROSCI.18-24-10464.1998) · [ATP and vesicle cycling](https://doi.org/10.1016/j.cell.2013.12.042) · [Perunov, Marsland and England](https://doi.org/10.1103/PhysRevX.6.021036)
+
+Desender, Boldt and Yeung studied choices to seek more evidence at matched visual accuracy. Fleming and colleagues measured how accurately people judged their own perceptual and memory performance after prefrontal injury. The book’s definition of intelligence connects monitoring a judgment with using that estimate to change the next action. [Confidence and information seeking](https://doi.org/10.1177/0956797617744771) · [Perceptual and memory judgments](https://doi.org/10.1093/brain/awu221)
 
 ## Outstanding research and attribution
 

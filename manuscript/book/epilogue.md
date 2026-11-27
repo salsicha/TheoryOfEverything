@@ -59,7 +59,7 @@ Give a rack of computers and a bank of resistors equal power and let both dissip
 
 On an oversubscribed grid a new connection may simply displace another user. Heat sold to homes may also displace fuel in a boiler. Count the alternative uses, the equipment and the displaced fuel over the same years. A growing order book and a utility’s connection schedule then offer a forecast someone could make before reading the meter.[1][4][6][7]
 
-In Chapter 3, one five in a Sudoku column settled both gaps in a row. In Toronto a memory limit ruled out a single-card machine before anyone ran the network. Google’s voice-search forecast made a chip worth building, and a town with a use for warm water made a heat pump worth running. These are choices along the funnel that produced AI. Each has a constraint one could have named before learning the outcome.[1][3][4]
+In Chapter 2, one five in a Sudoku column settled both gaps in a row. In Toronto a memory limit ruled out a single-card machine before anyone ran the network. Google’s voice-search forecast made a chip worth building, and a town with a use for warm water made a heat pump worth running. These are choices along the funnel that produced AI. Each has a constraint one could have named before learning the outcome.[1][3][4]
 
 ## What a dark data center could leave behind
 
@@ -95,7 +95,7 @@ In Mäntsälä the town had a use for warm water as well as the company having a
 
 11. The molecular study describes the blinded samples that opened the book. [Graham’s specimens](../../research/sources.md#s161)
 
-12. Darwin describes the practice of recording contrary evidence in his autobiography. The definition of intelligence and the distinction from feedback are the book’s. [Darwin and self-modeling in the earlier chapter](../../editorial/archive/fourteen-chapter/self-modeling.md)
+12. Darwin describes the practice of recording contrary evidence in his autobiography. The definition of intelligence and the distinction from feedback are the book’s. [Self Modeling](08-self-modeling.md#knowing-when-to-look-again) · [Darwin’s own example in the earlier draft](../../editorial/archive/fourteen-chapter/self-modeling.md)
 
 13. Cogent describes its use of unlit fiber and purchased network assets. Reuse of future AI sites is a conditional comparison. [Dot-com infrastructure and billing](12-bubbles-and-bursts.md)
 

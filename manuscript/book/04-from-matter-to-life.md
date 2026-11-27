@@ -1,4 +1,4 @@
-# Chapter 5 — From matter to life
+# Chapter 4 — From matter to life
 
 Gretchen Früh-Green took the white branches for coral. She was watching a camera feed aboard *Atlantis* in December 2000. As the camera drew closer she recognized mineral deposits and went to fetch Deborah Kelley. Later, from the submersible *Alvin*, Kelley and Jeff Karson could see what moved beneath one of the ledges. A mat of microbes waved in a rising current of warm water.[1]
 
@@ -50,7 +50,7 @@ The current beneath Kelley’s ledge fed a whole mat. The first daughter in this
 
 1. The expedition’s December dispatch records Früh-Green at the monitor. The shipboard account describes Kelley and Karson’s dive and the microbial mats moving under the ledges. [Expedition dispatch](https://earthguide.ucsd.edu/mar/dec12.html) · [Account of the dive](https://today.duke.edu/2000/12/alvind15.html)
 
-2. Kelley and colleagues report carbonate growth and the chemistry of Lost City’s fluids. Russell and Hall proposed a sulfide boundary in a chemically different early ocean in 1997. The modern field supplies a geological analogue. [Lost City measurements](https://wbrazelton.github.io/papers/Kelley-Science/) · [Russell and Hall’s vent hypothesis](https://pubmed.ncbi.nlm.nih.gov/11541234/) · [The supply of hydrogen](04-from-hydrogen-to-gold.md#where-rock-makes-hydrogen)
+2. Kelley and colleagues report carbonate growth and the chemistry of Lost City’s fluids. Russell and Hall proposed a sulfide boundary in a chemically different early ocean in 1997. The modern field supplies a geological analogue. [Lost City measurements](https://wbrazelton.github.io/papers/Kelley-Science/) · [Russell and Hall’s vent hypothesis](https://pubmed.ncbi.nlm.nih.gov/11541234/) · [The supply of hydrogen](03-from-hydrogen-to-gold.md#where-rock-makes-hydrogen)
 
 3. Hudson and colleagues used carbon-13 and heavy hydrogen in separate runs. The carbon in formate traced to supplied carbon dioxide, and its attached hydrogen matched the water on the ocean side. The authors infer electron transfer across the deposit. Preiner and colleagues measured several carbon compounds in separate mineral experiments under different conditions. [Hudson’s isotope tracing and controls](https://doi.org/10.1073/pnas.2002659117) · [Preiner’s mineral reactions](https://pubmed.ncbi.nlm.nih.gov/32123322/)
 
@@ -60,10 +60,10 @@ The current beneath Kelley’s ledge fed a whole mat. The first daughter in this
 
 6. Zhu and Szostak traced the redistribution of short, supplied RNA strands during division in figure 3. Their model compartments did not copy those strands. In a separate model Lincoln and Joyce studied RNA catalysts that made one another from supplied fragments. Connecting heritable chemistry to repeated compartment reproduction at an early vent is a further step. [Growth and division](https://doi.org/10.1021/ja900919c) · [Mutually replicating RNA catalysts](https://doi.org/10.1126/science.1167856) · [Chapter sources](../../research/sources.md#s186)
 
-7. The first-interval and maximum-rate claims are the book’s hypotheses. The comparison across routes includes heat and material flows under the same supply over the same interval. [Evidence for early water and life](15-fermi-paradox.md#immediate-evolution-on-a-ready-planet) · [Physical rates and comparisons](../../research/sources.md#s179) · [Production of a living boundary](06-self-reproduction.md)
+7. The first-interval and maximum-rate claims are the book’s hypotheses. The comparison across routes includes heat and material flows under the same supply over the same interval. [Evidence for early water and life](15-fermi-paradox.md#immediate-evolution-on-a-ready-planet) · [Physical rates and comparisons](../../research/sources.md#s179) · [Production of a living boundary](05-self-reproduction.md)
 
 8. Marshall, Mathis and colleagues report the blinded sample test and its limitations. [Blinded sample study](../../research/sources.md#s161) · [Assembly theory and the index](../../research/sources.md#s02)
 
 ---
 
-[← From hydrogen to gold](04-from-hydrogen-to-gold.md) · [Contents](../../README.md#contents) · [Self Reproduction →](06-self-reproduction.md)
+[← From hydrogen to gold](03-from-hydrogen-to-gold.md) · [Contents](../../README.md#contents) · [Self Reproduction →](05-self-reproduction.md)

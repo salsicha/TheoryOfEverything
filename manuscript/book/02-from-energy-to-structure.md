@@ -1,4 +1,4 @@
-# Chapter 3 — From energy to structure
+# Chapter 2 — From energy to structure
 
 Stephan Weiss and Guenter Ahlers tilted a cylinder of water. Its bottom plate was warmer than its lid. Thermometers at different heights around the wall told them which side the warm water was climbing and where the cold water came down. Sometimes a single circulation roll filled the cylinder. Sometimes one roll sat above another. A small tilt favored the single roll. The water carried a little more heat that way.[1]
 
@@ -32,4 +32,4 @@ In a gas cloud the constraint will be gravity. A parcel can fall toward a center
 
 ---
 
-[← From zero energy to asymmetry](02-from-zero-energy-to-asymmetry.md) · [Contents](../../README.md#contents) · [From hydrogen to gold →](04-from-hydrogen-to-gold.md)
+[← From Nothing to Asymmetry](01-from-nothing-to-asymmetry.md) · [Contents](../../README.md#contents) · [From hydrogen to gold →](03-from-hydrogen-to-gold.md)

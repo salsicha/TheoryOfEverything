@@ -5,51 +5,51 @@ Physical and Platonic constraints narrow what can form. An energy gradient suppl
 <a id="introduction"></a>
 <a id="chapter-01"></a>
 
-### 1. From nothing to something
+### 1. From Nothing to Asymmetry
 
-The book argues that absolute nothingness cannot exist because it would require even the possibility of change to be settled once and for all. [Read chapter 1](../manuscript/book/01-from-nothing-to-something.md)
+The chapter argues that indeterminacy rules out absolute nothingness and traces what a physical history must still explain, from the common constants a region could inherit to the handedness of weak decay, the excess of matter over antimatter and the arrow of time. [Read chapter 1](../manuscript/book/01-from-nothing-to-asymmetry.md)
 
 <a id="chapter-02"></a>
 
-### 2. From zero energy to asymmetry
+### 2. From energy to structure
 
-A universe that inherited the same constants everywhere still distinguishes left from right in weak decays, contains more matter than antimatter, and has an arrow of time along which gas falls together and radiates heat into colder space. [Read chapter 2](../manuscript/book/02-from-zero-energy-to-asymmetry.md)
+Heat flowing through water sustains convection rolls, while cooling water can leave a stable ice crystal, showing how constraints in Platonic space shape both dissipative and conservative self-assembly. [Read chapter 2](../manuscript/book/02-from-energy-to-structure.md)
 
 <a id="chapter-03"></a>
 
-### 3. From energy to structure
+### 3. From hydrogen to gold
 
-Heat flowing through water sustains convection rolls, while cooling water can leave a stable ice crystal, showing how constraints in Platonic space shape both dissipative and conservative self-assembly. [Read chapter 3](../manuscript/book/03-from-energy-to-structure.md)
+Gravity gathers cooling gas into stars, and fusion and neutron capture supply later generations of stars and planets with elements ranging from carbon to gold. [Read chapter 3](../manuscript/book/03-from-hydrogen-to-gold.md)
 
 <a id="chapter-04"></a>
 
-### 4. From hydrogen to gold
+### 4. From matter to life
 
-Gravity gathers cooling gas into stars, and fusion and neutron capture supply later generations of stars and planets with elements ranging from carbon to gold. [Read chapter 4](../manuscript/book/04-from-hydrogen-to-gold.md)
+At deep-sea vents, the proposed hierarchical entropy rejection funnel retains the products of successive reactions until a compartment can build its own wall and pass that capacity to a daughter. [Read chapter 4](../manuscript/book/04-from-matter-to-life.md)
 
 <a id="chapter-05"></a>
 
-### 5. From matter to life
+### 5. Self Reproduction
 
-At deep-sea vents, the proposed hierarchical entropy rejection funnel retains the products of successive reactions until a compartment can build its own wall and pass that capacity to a daughter. [Read chapter 5](../manuscript/book/05-from-matter-to-life.md)
+Autopoiesis begins when a cell makes the boundary that sustains its own chemistry, and division lets a daughter inherit the means to do the same. [Read chapter 5](../manuscript/book/05-self-reproduction.md)
 
 <a id="chapter-06"></a>
 
-### 6. Self Reproduction
+### 6. Self Assembly
 
-Autopoiesis begins when a cell makes the boundary that sustains its own chemistry, and division lets a daughter inherit the means to do the same. [Read chapter 6](../manuscript/book/06-self-reproduction.md)
+Dissipative adaptation, maximum power and constructal law ask which flows favor a structure, while downward causation, work-constraint cycles, assembly theory and the adjacent possible explain how it shapes what can form next. [Read chapter 6](../manuscript/book/06-self-assembly.md)
 
 <a id="chapter-07"></a>
 
-### 7. Self Assembly
+### 7. Self Domestication
 
-Dissipative adaptation, maximum power and constructal law ask which flows favor a structure, while downward causation, work-constraint cycles, assembly theory and the adjacent possible explain how it shapes what can form next. [Read chapter 7](../manuscript/book/07-self-assembly.md)
+The chapter examines whether communities that killed habitual aggressors over the past 200,000 years favored more pliant temperaments and whether changes in neural crest development helped narrow the human face. [Read chapter 7](../manuscript/book/07-self-domestication.md)
 
 <a id="chapter-08"></a>
 
-### 8. Self Domestication
+### 8. Self Modeling
 
-The chapter examines whether communities that killed habitual aggressors over the past 200,000 years favored more pliant temperaments and whether changes in neural crest development helped narrow the human face. [Read chapter 8](../manuscript/book/08-self-domestication.md)
+A delayed touch and a decision to pay for a second look show how the brain models its own actions and uncertainty, while dissipative adaptation offers a physical explanation to test for how repeated activity alters the circuits that make those judgments. [Read chapter 8](../manuscript/book/08-self-modeling.md)
 
 <a id="chapter-09"></a>
 

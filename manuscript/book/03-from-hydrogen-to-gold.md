@@ -1,4 +1,4 @@
-# Chapter 4 — From hydrogen to gold
+# Chapter 3 — From hydrogen to gold
 
 Ann Nguyen and Ernst Zinner aimed an electron beam at a speck of meteorite dust half a micrometer wide. Gold showed up in the spectrum. It came from the mount on which they had spread the dust in their St. Louis laboratory. What had drawn them to this grain from the meteorite Acfer 094 was its oxygen. For every atom of ordinary oxygen-16, they had found nearly three times as much oxygen-17 as they expected from material formed with the Sun.[1]
 
@@ -58,4 +58,4 @@ The two olivine grains on the gold mount tell us how early this family of minera
 
 ---
 
-[← From energy to structure](03-from-energy-to-structure.md) · [Contents](../../README.md#contents) · [From matter to life →](05-from-matter-to-life.md)
+[← From energy to structure](02-from-energy-to-structure.md) · [Contents](../../README.md#contents) · [From matter to life →](04-from-matter-to-life.md)
