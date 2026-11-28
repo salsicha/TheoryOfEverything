@@ -25,7 +25,7 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 | [Chapter 1 — From Nothing to Energy](../manuscript/book/01-from-nothing-to-energy.md) | 817 |
 | [Chapter 2 — From Energy to Structure](../manuscript/book/02-from-energy-to-structure.md) | 1,242 |
 | [Chapter 3 — From Structure to Asymmetry](../manuscript/book/03-from-structure-to-asymmetry.md) | 1,975 |
-| [Chapter 4 — From hydrogen to gold](../manuscript/book/04-from-hydrogen-to-gold.md) | 1,532 |
+| [Chapter 4 — From hydrogen to gold](../manuscript/book/04-from-hydrogen-to-gold.md) | 1,665 |
 | [Chapter 5 — From matter to life](../manuscript/book/05-from-matter-to-life.md) | 1,688 |
 | [Chapter 6 — Self Assembly](../manuscript/book/06-self-assembly.md) | 842 |
 | [Chapter 7 — Self Reproduction](../manuscript/book/07-self-reproduction.md) | 911 |
@@ -39,7 +39,7 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 | [Chapter 15 — Fermi paradox](../manuscript/book/15-fermi-paradox.md) | 2,787 |
 | [Chapter 16 — Attractor Paradox](../manuscript/book/16-attractor-paradox.md) | 1,656 |
 | [Epilogue — From Cybernetics to AI and Data Centers](../manuscript/book/epilogue.md) | 2,640 |
-| **Total** | **25,454** |
+| **Total** | **25,587** |
 
 ## Mathematical support in the prose
 

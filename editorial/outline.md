@@ -25,7 +25,7 @@ Joule’s expanding gas shows how a low-entropy condition gives a history an arr
 
 ### 4. From hydrogen to gold
 
-The light shed by hydrogen molecules helped gravity assemble the first stars, whose nuclear reactions and violent remnants supplied the elements from which planets, gold grains and hydrogen-producing seafloors could form. [Read chapter 4](../manuscript/book/04-from-hydrogen-to-gold.md)
+A planet can inherit gold only after an earlier generation of stars supplies its birth cloud, and an ancient star’s spectrum shows that some clouds held gold long before our Population I Sun formed. [Read chapter 4](../manuscript/book/04-from-hydrogen-to-gold.md)
 
 <a id="chapter-05"></a>
 
