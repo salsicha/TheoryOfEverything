@@ -2,7 +2,7 @@
 
 This ledger accompanies the [sixteen-chapter manuscript](../README.md#contents). Each chapter’s notes point to the observations, documents and models on which its argument rests. The [outline](../editorial/outline.md) and [expanded ideas](../editorial/ideas.md) trace the argument. The [methods guide](causal-inference.md) and [methodological afterword](../manuscript/afterword.md) accompany the research. Earlier dated entries retain the numbering of the [twelve-chapter draft](../editorial/archive/twelve-chapter-outline.md) or the [eighteen-chapter plan](../editorial/archive/eighteen-chapter-outline.md). Dated entries also refer to the [earlier fifteen-chapter edition](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book). S180–S183 document the additions on stellar gold, protein folding, language and AI.
 
-Chapters 1–3 follow Leibniz’s question through laboratory tests of internal time, external drives and the instability of symmetric arrangements. The cosmic cases concern the handed weak interaction, the baryon surplus, the thermal arrow and the growth of density differences. [Leibniz and the vacuum](#s191) · [Relational time and driven fields](#s195) · [Granular instability](#s76) · [Parity and baryogenesis](#s23) · [Baryon decays](#s77) · [The thermal arrow](#s24) · [Cosmic density](#s184)
+Chapters 1–3 follow Leibniz’s question through Joule’s gas expansion, the effect of an external drive on a field, and the instability of symmetric arrangements. The cosmic cases concern the handed weak interaction, the baryon surplus, the thermal arrow and the growth of density differences. [Leibniz and the vacuum](#s191) · [Driven fields](#s195) · [Granular instability](#s76) · [Parity and baryogenesis](#s23) · [Baryon decays](#s77) · [The thermal arrow](#s24) · [Cosmic density](#s184)
 
 Chapter 4 follows the material from stars to a chemical energy gradient on Earth. [Presolar grains, condensation and vent chemistry](#s185)
 
@@ -170,7 +170,7 @@ Tong's equilibrium-magnetization discussion was rechecked for I67. It supports s
 
 **Parity, CP, and baryogenesis.** C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413) (1957); J. H. Christenson et al., [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138) (1964); Antonio Riotto and Mark Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999).
 
-Weinberg’s electroweak model couples the left-chiral electron field to the charged weak current. Its parity asymmetry is already present before the thermal electroweak crossover. Sakharov identifies conditions under which an initially balanced universe could acquire net baryon number. Chapter 1 distinguishes the collider measurement of unequal partial decay rates from the astronomical evidence for a cosmic surplus. [Weinberg’s model](https://doi.org/10.1103/PhysRevLett.19.1264) · [Sakharov’s paper](https://ufn.ru/ufn91/ufn91_5/ufn915h.pdf) · [Baryon decays](#s77) · [Cosmic domains](#s78)
+Weinberg’s electroweak model couples the left-chiral electron field to the charged weak current. Its parity asymmetry is already present before the thermal electroweak crossover. Sakharov identifies conditions under which an initially balanced universe could acquire net baryon number. Chapter 3 distinguishes the collider measurement of unequal partial decay rates from the astronomical evidence for a cosmic surplus. [Weinberg’s model](https://doi.org/10.1103/PhysRevLett.19.1264) · [Sakharov’s paper](https://ufn.ru/ufn91/ufn91_5/ufn915h.pdf) · [Baryon decays](#s77) · [Cosmic domains](#s78)
 
 The December 27, 1956 page from Ernest Ambler’s notebook records two runs as the cobalt warmed. Reversing the polarizing field reversed the direction of change in the electron count. Ralph Hudson added his verdict to the top of the page later. [Notebook and account at NIST](https://www.nist.gov/pml/fall-parity/reversal-parity-law-nuclear-physics)
 
@@ -178,7 +178,9 @@ The December 27, 1956 page from Ernest Ambler’s notebook records two runs as t
 
 **Statistical entropy and initial conditions.** Feynman, Leighton, and Sands, [I.46, “Ratchet and Pawl”](https://www.feynmanlectures.caltech.edu/I_46.html); Joel L. Lebowitz, [“Macroscopic laws, microscopic dynamics, time's arrow and Boltzmann's entropy”](https://sites.math.rutgers.edu/~lebowitz/PUBLIST/lebowitz_360.pdf), *Physica A* 194 (1993), 1–27.
 
-Chapter 1 follows the warming of Wu’s sample back to its preparation. Penrose identifies the low gravitational entropy associated with the near uniformity of the early matter distribution as a special boundary condition. BaBar compares rates for neutral B-meson transitions related by time reversal. Those rates and the thermodynamic arrow are distinct observations. [Penrose on gravitational initial conditions](https://personal.lse.ac.uk/robert49/PPB/pdf/Penrose1979a.pdf) · [BaBar’s measurement](https://arxiv.org/abs/1207.5832)
+Joule released compressed air into an evacuated vessel and measured the temperature of the water surrounding the pair. His prepared pressure difference picks out a low-entropy end of the process. Barbour, Koslowski and Mercati show how a measure of clustering can grow in both directions away from a point of minimum size in a time-symmetric Newtonian model. The correspondence with our universe’s thermodynamic arrow remains an open physical question. [Joule’s 1844 manuscript record](https://makingscience.royalsociety.org/items/AP_27_5) · [Joule’s paper](https://doi.org/10.1080/14786444508645153) · [Gravitational model](https://doi.org/10.1103/PhysRevLett.113.181101)
+
+Chapter 3 follows the warming of Wu’s sample back to its preparation. Penrose identifies the low gravitational entropy associated with the near uniformity of the early matter distribution as a special boundary condition. BaBar compares rates for neutral B-meson transitions related by time reversal. Those rates and the thermodynamic arrow are distinct observations. [Penrose on gravitational initial conditions](https://personal.lse.ac.uk/robert49/PPB/pdf/Penrose1979a.pdf) · [BaBar’s measurement](https://arxiv.org/abs/1207.5832)
 
 ## S25
 
@@ -544,7 +546,7 @@ The author text's abstract, asymmetry derivation, and measurement passages were 
 
 **Spatial matter–antimatter domains.** A. G. Cohen, A. De Rújula, and S. L. Glashow, [“A Matter-Antimatter Universe?”](https://arxiv.org/abs/astro-ph/9707087), *The Astrophysical Journal* 495 (1998), 539–549; [paper PDF](https://arxiv.org/pdf/astro-ph/9707087).
 
-Chapter 1 uses the annihilation radiation expected at domain boundaries to explain how astronomers can constrain a patchwork of matter and antimatter. The predicted brightness depends on the model’s domain sizes, contact between domains and transport assumptions.
+Chapter 3 uses the annihilation radiation expected at domain boundaries to explain how astronomers can constrain a patchwork of matter and antimatter. The predicted brightness depends on the model’s domain sizes, contact between domains and transport assumptions.
 
 ## S79
 
@@ -1124,7 +1126,7 @@ Sadler and colleagues imaged the growth of magnetic domains after they lowered t
 
 ## S173
 
-**Time defined with an internal clock.** Don Page and William Wootters derived a conditional description of change within a system with a stationary global state. Ekaterina Moreva and colleagues used an entangled pair of photons, designating one polarization as the clock. A global measurement and an internal comparison gave different descriptions of the same pair. The laboratory demonstration illustrates relational time. The origin and direction of cosmic time remain further questions. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Moreva and colleagues](https://arxiv.org/abs/1310.4691)
+**Time defined with an internal clock.** Don Page and William Wootters derived a conditional description of change within a system with a stationary global state. Ekaterina Moreva and colleagues used an entangled pair of photons, designating one polarization as the clock. A global measurement and an internal comparison gave different descriptions of the same pair. The experiment illustrates how one part can serve as a clock for another. Chapter 1 treats the distinct question of what gives a history a thermodynamic arrow. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Moreva and colleagues](https://arxiv.org/abs/1310.4691)
 
 ## S174
 
@@ -1266,7 +1268,7 @@ Desender, Boldt and Yeung studied choices to seek more evidence at matched visua
 
 ## S195
 
-**Clocks made from internal relations and work supplied to a quantum field.** Page and Wootters model correlations in a stationary whole. Kuypers and Rijavec describe measurement by an internal observer. Barontini’s 2026 cold-atom experiment orders expansion and recollapse using an internal measure, with the laboratory time available for comparison. These are ways to describe change without a fundamental external clock. The philosophical argument that nothingness cannot exist has a separate premise. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Kuypers and Rijavec](https://doi.org/10.1103/qfns-48vq) · [Barontini’s experiment](https://doi.org/10.1103/1h9j-df4k)
+**Clocks made from internal relations and work supplied to a quantum field.** Page and Wootters model correlations in a stationary whole. Kuypers and Rijavec describe measurement by an internal observer. Barontini’s 2026 cold-atom experiment orders expansion and recollapse using an internal measure, with the laboratory time available for comparison. These studies test descriptions relative to an internal clock. The book’s account of how an initially unoriented time can have histories with a preferred direction is developed in S24. The philosophical argument that nothingness cannot exist has a separate premise. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Kuypers and Rijavec](https://doi.org/10.1103/qfns-48vq) · [Barontini’s experiment](https://doi.org/10.1103/1h9j-df4k)
 
 Wilson and colleagues pumped a circuit to vary an effective electromagnetic boundary and observed microwave radiation. Pusz and Woronowicz analyze passivity under cyclic operations. An early-universe extension has to identify what drives the change and where the released energy goes. The field models in S189 start from specified couplings and stored energy. [Driven electromagnetic boundary](https://doi.org/10.1038/nature10561) · [Passivity of ground states](https://doi.org/10.1007/BF01614224) · [Cosmic field models](#s189)
 

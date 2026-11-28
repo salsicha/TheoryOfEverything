@@ -7,7 +7,7 @@ A gradient supplies energy, a constraint rules out routes, and the structure tha
 
 ### 1. From Nothing to Energy
 
-Absolute nothingness would rule out even the possibility of change, and a clock built from the relations inside a cloud of atoms shows what it could mean for the universe to have a history with no time before it. [Read chapter 1](../manuscript/book/01-from-nothing-to-energy.md)
+The chapter argues that absolute nothingness cannot exist and uses Joule’s expanding gas to show how a low-entropy condition gives a history an arrow even though time itself has no preferred direction. [Read chapter 1](../manuscript/book/01-from-nothing-to-energy.md)
 
 <a id="chapter-02"></a>
 
@@ -79,7 +79,7 @@ The dot-com crash left fiber cheap enough for new owners to use, and the sale of
 
 ### 13. Fine tuning paradox
 
-If early fields could set coupled constants and their products could stabilize them, their measured values might have a history, just as an internal clock could give that history an order without an external beginning. [Read chapter 13](../manuscript/book/13-fine-tuning-paradox.md)
+If a change in an early field set two constants together and dispersed energy into particles that helped stabilize the field, their values and the arrow of that transition could have a common physical history. [Read chapter 13](../manuscript/book/13-fine-tuning-paradox.md)
 
 <a id="chapter-14"></a>
 

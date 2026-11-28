@@ -1,6 +1,6 @@
 # Modern Historical Materialism
 
-Why does anything exist, and how does it change? A cloud of cold atoms, a vent on the Atlantic floor and a mine beneath the Irish Sea give that question three different histories. The book argues that energy follows the quickest available route to the greatest rate of entropy production a system can sustain. It follows that argument through the material conditions that shaped human economies and into the data centers that run AI.
+Why does anything exist, and how does it change? Air expanding into Joule’s empty vessel, water flowing through a vent on the Atlantic floor and coal coming out of a mine beneath the Irish Sea give that question three different histories. The book argues that energy follows the quickest available route to the greatest rate of entropy production a system can sustain. It follows that argument through the material conditions that shaped human economies and into the data centers that run AI.
 
 [Start with Chapter 1](manuscript/book/01-from-nothing-to-energy.md) · [Chapter outline](editorial/outline.md)
 
