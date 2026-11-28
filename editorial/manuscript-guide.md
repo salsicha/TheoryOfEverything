@@ -22,9 +22,9 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 
 | Reading order | Narrative words |
 | --- | ---: |
-| [Chapter 1 — From Nothing to Energy](../manuscript/book/01-from-nothing-to-energy.md) | 923 |
+| [Chapter 1 — From Nothing to Energy](../manuscript/book/01-from-nothing-to-energy.md) | 817 |
 | [Chapter 2 — From Energy to Structure](../manuscript/book/02-from-energy-to-structure.md) | 1,242 |
-| [Chapter 3 — From Structure to Asymmetry](../manuscript/book/03-from-structure-to-asymmetry.md) | 1,716 |
+| [Chapter 3 — From Structure to Asymmetry](../manuscript/book/03-from-structure-to-asymmetry.md) | 1,975 |
 | [Chapter 4 — From hydrogen to gold](../manuscript/book/04-from-hydrogen-to-gold.md) | 1,532 |
 | [Chapter 5 — From matter to life](../manuscript/book/05-from-matter-to-life.md) | 1,688 |
 | [Chapter 6 — Self Assembly](../manuscript/book/06-self-assembly.md) | 842 |
@@ -34,16 +34,16 @@ The sixteen numbered chapters and epilogue are in [reading order](../README.md#c
 | [Chapter 10 — Chariots and Steam Engines](../manuscript/book/10-chariots-and-steam-engines.md) | 1,297 |
 | [Chapter 11 — Morality and language](../manuscript/book/11-morality-and-language.md) | 1,100 |
 | [Chapter 12 — Bubbles and Bursts](../manuscript/book/12-bubbles-and-bursts.md) | 978 |
-| [Chapter 13 — Fine tuning paradox](../manuscript/book/13-fine-tuning-paradox.md) | 1,753 |
+| [Chapter 13 — Fine tuning paradox](../manuscript/book/13-fine-tuning-paradox.md) | 1,683 |
 | [Chapter 14 — Levinthal’s paradox](../manuscript/book/14-levinthals-paradox.md) | 776 |
 | [Chapter 15 — Fermi paradox](../manuscript/book/15-fermi-paradox.md) | 2,787 |
 | [Chapter 16 — Attractor Paradox](../manuscript/book/16-attractor-paradox.md) | 1,656 |
 | [Epilogue — From Cybernetics to AI and Data Centers](../manuscript/book/epilogue.md) | 2,640 |
-| **Total** | **25,371** |
+| **Total** | **25,454** |
 
 ## Mathematical support in the prose
 
-Chapter 1 follows gas through Joule’s stopcock and asks how a physical history can acquire a direction under time-symmetric dynamics. Chapter 2 compares the heat currents through the same vessel and introduces coupled field values. Chapter 3 follows measured and proposed sources of asymmetry into the growth of a gas cloud. Chapters 5–7 trace the carbon balance at a vent, the predictions of seven theories of assembly and the energy consumed by a dividing lineage. The folding, Fermi and discovery chapters distinguish the number of conceivable outcomes from the rates at which reachable ones arise. [Gas expansion and the gravitational arrow](../research/sources.md#s24) · [Driven boundaries](../research/sources.md#s195) · [Cosmic fluctuations](../research/sources.md#s184) · [Theories of assembly](../research/sources.md#s192) · [Research methods](../research/causal-inference.md)
+Chapter 1 follows a beam of carbon molecules through a narrowing slit and develops the philosophical argument from quantum uncertainty to the impossibility of absolute nothingness. Chapter 2 compares the heat currents through the same vessel and introduces coupled field values. Chapter 3 follows the thermal arrow from Joule’s stopcock into a gravitational model, alongside weak-force handedness, matter predominance and the growth of a gas cloud. Chapters 5–7 trace the carbon balance at a vent, the predictions of seven theories of assembly and the energy consumed by a dividing lineage. The folding, Fermi and discovery chapters distinguish the number of conceivable outcomes from the rates at which reachable ones arise. [Molecular diffraction and uncertainty](../research/sources.md#s162) · [Gas expansion and the gravitational arrow](../research/sources.md#s24) · [Driven boundaries](../research/sources.md#s195) · [Cosmic fluctuations](../research/sources.md#s184) · [Theories of assembly](../research/sources.md#s192) · [Research methods](../research/causal-inference.md)
 
 ## Earlier reading orders
 

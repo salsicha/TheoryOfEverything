@@ -2,7 +2,7 @@
 
 This ledger accompanies the [sixteen-chapter manuscript](../README.md#contents). Each chapter’s notes point to the observations, documents and models on which its argument rests. The [outline](../editorial/outline.md) and [expanded ideas](../editorial/ideas.md) trace the argument. The [methods guide](causal-inference.md) and [methodological afterword](../manuscript/afterword.md) accompany the research. Earlier dated entries retain the numbering of the [twelve-chapter draft](../editorial/archive/twelve-chapter-outline.md) or the [eighteen-chapter plan](../editorial/archive/eighteen-chapter-outline.md). Dated entries also refer to the [earlier fifteen-chapter edition](https://github.com/salsicha/TheoryOfEverything/tree/af474f4c75e1939e36a58f7ab47aa05602b92cb4/manuscript/book). S180–S183 document the additions on stellar gold, protein folding, language and AI.
 
-Chapters 1–3 follow Leibniz’s question through Joule’s gas expansion, the effect of an external drive on a field, and the instability of symmetric arrangements. The cosmic cases concern the handed weak interaction, the baryon surplus, the thermal arrow and the growth of density differences. [Leibniz and the vacuum](#s191) · [Driven fields](#s195) · [Granular instability](#s76) · [Parity and baryogenesis](#s23) · [Baryon decays](#s77) · [The thermal arrow](#s24) · [Cosmic density](#s184)
+Chapter 1 brings the Vienna molecular diffraction experiment and the uncertainty principle to Leibniz’s question about existence. Chapter 2 follows the effect of a boundary on a field, and Chapter 3 puts Joule’s gas expansion and the arrow of time alongside other physical asymmetries. The cosmic cases concern the handed weak interaction, the baryon surplus, the thermal arrow and the growth of density differences. [Molecular diffraction](#s162) · [The uncertainty relation](#s20) · [Leibniz and the vacuum](#s191) · [Driven fields](#s195) · [Granular instability](#s76) · [Parity and baryogenesis](#s23) · [Baryon decays](#s77) · [The thermal arrow](#s24) · [Cosmic density](#s184)
 
 Chapter 4 follows the material from stars to a chemical energy gradient on Earth. [Presolar grains, condensation and vent chemistry](#s185)
 
@@ -148,7 +148,7 @@ Orientation to stellar life cycles. Chapter 3 adds primary nucleosynthesis evide
 
 **Quantum uncertainty and interpretation.** H. P. Robertson, [“The Uncertainty Principle”](https://doi.org/10.1103/PhysRev.34.163) (1929); David Bohm, [“A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I”](https://doi.org/10.1103/PhysRev.85.166) (1952).
 
-Chapter 6 distinguishes a constraint on measurement-outcome distributions from an assertion that irreducible chance is the uniquely established quantum ontology. This is not a complete treatment of interpretations or Bell-type constraints.
+Chapter 1 distinguishes the preparation uncertainty of a quantum state from an observer’s ignorance of an instrument reading. It adopts an ontological reading and gives the additional premise required to draw a conclusion about absolute nothingness.
 
 Bohm's original abstract was rechecked for I68's stronger ontological commitment. Its deterministic account supports the distinction between quantum predictions and a unique ontology. The manuscript's claims that nothingness is impossible and constitutive indeterminacy entails natural emergence and continual becoming are philosophical proposals, not results attributed to Robertson or Bohm.
 
@@ -156,7 +156,7 @@ Bohm's original abstract was rechecked for I68's stronger ontological commitment
 
 **The quantum vacuum.** David Tong, [Quantum Field Theory, section 2, “Free Fields”](https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S2.html), especially section 2.3.
 
-Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 6 explicitly limits the setting; the argument distinguishing that state from philosophical nothingness is the book's own.
+Supports the elementary field-theory description of a vacuum as a structured lowest-energy state. Chapter 1 uses the oscillator ground state and Lamoreaux’s measurement to explain what a physical vacuum already contains. The argument about absolute nothingness is the book’s own.
 
 ## S22
 
@@ -1058,7 +1058,7 @@ Saltom’s partitioned shaft, horse walk, pumping houses and wider drainage are 
 
 ## S162
 
-**Uncertainty with molecules.** Olaf Nairz, Markus Arndt and Anton Zeilinger varied the width of a slit in a beam of C₇₀ molecules and measured transverse momentum spread. The experiment opened an earlier version of Chapter 1. Extending the result to ontological indeterminacy and the origin of categorical distinctions is the book’s philosophical proposal. [Physical Review A 65, 032109 (2002)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.65.032109) · [Historical formulations of dialectics](#s130)
+**Uncertainty with molecules.** Olaf Nairz, Markus Arndt and Anton Zeilinger varied the width of a slit in a beam of C₇₀ molecules and measured transverse momentum spread. Chapter 1 opens with the 1.4-micrometer and approximately 70-nanometer slit settings in figure 2. The paper uses the slit width and a width of the diffraction pattern to characterize the trade between position and transverse momentum. Extending the result to ontological indeterminacy and the origin of categorical distinctions is the book’s philosophical proposal. [Physical Review A 65, 032109 (2002)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.65.032109) · [Historical formulations of dialectics](#s130)
 
 ## S163
 
@@ -1126,7 +1126,7 @@ Sadler and colleagues imaged the growth of magnetic domains after they lowered t
 
 ## S173
 
-**Time defined with an internal clock.** Don Page and William Wootters derived a conditional description of change within a system with a stationary global state. Ekaterina Moreva and colleagues used an entangled pair of photons, designating one polarization as the clock. A global measurement and an internal comparison gave different descriptions of the same pair. The experiment illustrates how one part can serve as a clock for another. Chapter 1 treats the distinct question of what gives a history a thermodynamic arrow. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Moreva and colleagues](https://arxiv.org/abs/1310.4691)
+**Time defined with an internal clock.** Don Page and William Wootters derived a conditional description of change within a system with a stationary global state. Ekaterina Moreva and colleagues used an entangled pair of photons, designating one polarization as the clock. A global measurement and an internal comparison gave different descriptions of the same pair. The experiment illustrates how one part can serve as a clock for another. Chapter 3 treats the distinct question of what gives a history a thermodynamic arrow. [Page and Wootters](https://doi.org/10.1103/PhysRevD.27.2885) · [Moreva and colleagues](https://arxiv.org/abs/1310.4691)
 
 ## S174
 

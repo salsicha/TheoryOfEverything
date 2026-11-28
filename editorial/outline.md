@@ -7,7 +7,7 @@ A gradient supplies energy, a constraint rules out routes, and the structure tha
 
 ### 1. From Nothing to Energy
 
-The chapter argues that absolute nothingness cannot exist and uses Joule’s expanding gas to show how a low-entropy condition gives a history an arrow even though time itself has no preferred direction. [Read chapter 1](../manuscript/book/01-from-nothing-to-energy.md)
+Reading Heisenberg’s uncertainty principle as indeterminacy in reality itself, the chapter argues that absolute nothingness is impossible because it would exclude even the physical possibility of anything taking form. [Read chapter 1](../manuscript/book/01-from-nothing-to-energy.md)
 
 <a id="chapter-02"></a>
 
@@ -19,7 +19,7 @@ A circulating roll of water, a grain of ice and a circuit that emits photons whe
 
 ### 3. From Structure to Asymmetry
 
-Glass beads cluster when a small surplus slows their escape, giving us a way to ask which cosmic differences grew from an instability, which belong to the laws, and which supplied the gradients that formed stars. [Read chapter 3](../manuscript/book/03-from-structure-to-asymmetry.md)
+Joule’s expanding gas shows how a low-entropy condition gives a history an arrow although time itself has no preferred direction, while weak-force handedness, the surplus of matter over antimatter and the clumping of gas reveal other sources of asymmetry. [Read chapter 3](../manuscript/book/03-from-structure-to-asymmetry.md)
 
 <a id="chapter-04"></a>
 
